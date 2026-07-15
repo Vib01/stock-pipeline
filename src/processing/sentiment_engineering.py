@@ -14,6 +14,10 @@ PROJECT_ROOT  = Path(__file__).resolve().parents[2]
 NEWS_DIR      = PROJECT_ROOT / "data" / "raw" / "news"
 SENTIMENT_DIR = PROJECT_ROOT / "data" / "processed" / "sentiment"
 
+# Replace with:
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+from src.utils.config import TICKERS, FEATURES
 
 def load_latest_news() -> dict:
     news_files = sorted(NEWS_DIR.glob("news_*.json"))
