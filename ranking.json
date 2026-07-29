@@ -1,42 +1,15 @@
 {
-  "last_updated": "2026-07-29T18:15:44Z",
+  "last_updated": "2026-07-29T18:36:26Z",
   "market_status": "open",
   "rankings": [
     {
-      "ticker": "TSLA",
-      "rank": 1,
-      "prob_up": 0.7215,
-      "sentiment_norm": 0.5742,
-      "final_score": 0.6773,
-      "price": 304.45,
-      "change_pct": -0.79,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Ford Just Delivered Bad News for Tesla Investors",
-          "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Famous Investor Michael Burry Is Short Nvidia, Palantir, and Tesla. Why I'd Buy 1 of the Stocks, Hold Another, and Sell the Third.",
-          "url": "https://www.fool.com/investing/2026/07/29/famous-investor-michael-burry-is-short-nvidia-pala/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status",
-          "url": "https://finance.yahoo.com/m/20b7db84-ba0b-39b3-8dec-9f60052331ab/how-far-tesla-stock-needs-to.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "HD",
-      "rank": 2,
-      "prob_up": 0.5577,
+      "rank": 1,
+      "prob_up": 0.5736,
       "sentiment_norm": 0.7218,
-      "final_score": 0.6069,
-      "price": 340.73,
-      "change_pct": -1.13,
+      "final_score": 0.618,
+      "price": 339.8,
+      "change_pct": -1.4,
       "sparkline": [],
       "headlines": [
         {
@@ -57,40 +30,13 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 3,
-      "prob_up": 0.5256,
-      "sentiment_norm": 0.7575,
-      "final_score": 0.5952,
-      "price": 231.58,
-      "change_pct": -0.2,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Amazon's AI Spending Is About to Face a Bigger Test",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amazons-ai-spending-face-bigger-175639355.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Amazon heads into Q2 earnings with UBS bullish on cloud growth and e-commerce margins",
-          "url": "https://www.proactiveinvestors.com/companies/news/1096228/amazon-heads-into-q2-earnings-with-ubs-bullish-on-cloud-growth-and-e-commerce-margins-1096228.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Amazon just made a major move to reshape its entire AI strategy",
-          "url": "https://www.thestreet.com/technology/amazon-reshapes-ai-strategy-deprecating-aws-nova-premier-gemini-models?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "UNH",
-      "rank": 4,
-      "prob_up": 0.5291,
+      "rank": 2,
+      "prob_up": 0.5436,
       "sentiment_norm": 0.7456,
-      "final_score": 0.5941,
-      "price": 422.19,
-      "change_pct": -0.77,
+      "final_score": 0.6042,
+      "price": 421.63,
+      "change_pct": -0.9,
       "sparkline": [],
       "headlines": [
         {
@@ -111,40 +57,40 @@
       ]
     },
     {
-      "ticker": "COST",
-      "rank": 5,
-      "prob_up": 0.5411,
-      "sentiment_norm": 0.7151,
-      "final_score": 0.5933,
-      "price": 970.91,
-      "change_pct": 0.22,
+      "ticker": "META",
+      "rank": 3,
+      "prob_up": 0.6397,
+      "sentiment_norm": 0.4965,
+      "final_score": 0.5967,
+      "price": 594.15,
+      "change_pct": -0.54,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Walmart vs. Costco: Which Retail Stock Has the Stronger Edge?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-vs-costco-retail-stock-144500601.html?.tsrc=rss",
+          "title": "Meta Stock Slips as Options Price 7.8% Earnings Move",
+          "url": "https://finance.yahoo.com/markets/options/articles/meta-stock-slips-options-price-181806276.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Costco\u2019s $14 million email settlement: Who qualifies for an up-to $500 payment and how to claim before the Aug. 24 deadline",
-          "url": "https://finance.yahoo.com/media-advertising/articles/costco-14-million-email-settlement-143030136.html?.tsrc=rss",
+          "title": "Meta (META) Launches $14 Billion Texas AI Data Center Campus With BlackRock",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-launches-14-billion-180840088.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Why Costco, Verizon, Kroger, and Other Safe Dividend Stocks Are Rising",
-          "url": "https://www.fool.com/investing/2026/07/28/why-costco-verizon-kroger-dividend-stocks-up/?.tsrc=rss",
+          "title": "Equities Lower Intraday Ahead of Fed Decision, Major Tech Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/equities-lower-intraday-ahead-fed-180032148.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "BRK-B",
-      "rank": 6,
-      "prob_up": 0.5339,
+      "rank": 4,
+      "prob_up": 0.5556,
       "sentiment_norm": 0.6691,
-      "final_score": 0.5745,
-      "price": 508.42,
-      "change_pct": -0.87,
+      "final_score": 0.5896,
+      "price": 510.18,
+      "change_pct": -0.53,
       "sparkline": [],
       "headlines": [
         {
@@ -165,13 +111,40 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "rank": 5,
+      "prob_up": 0.5256,
+      "sentiment_norm": 0.7371,
+      "final_score": 0.5891,
+      "price": 231.21,
+      "change_pct": -0.36,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Amazon's AI Spending Is About to Face a Bigger Test",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amazons-ai-spending-face-bigger-175639355.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "ORCL Is Back At A Level It Has Defended Before",
+          "url": "https://www.trefis.com/articles/609280/orcl-is-back-at-a-level-it-has-defended-before/2026-07-29?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Amazon heads into Q2 earnings with UBS bullish on cloud growth and e-commerce margins",
+          "url": "https://www.proactiveinvestors.com/companies/news/1096228/amazon-heads-into-q2-earnings-with-ubs-bullish-on-cloud-growth-and-e-commerce-margins-1096228.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
       "ticker": "WMT",
-      "rank": 7,
-      "prob_up": 0.5132,
+      "rank": 6,
+      "prob_up": 0.5209,
       "sentiment_norm": 0.7167,
-      "final_score": 0.5742,
-      "price": 113.95,
-      "change_pct": -0.35,
+      "final_score": 0.5796,
+      "price": 114.09,
+      "change_pct": -0.23,
       "sparkline": [],
       "headlines": [
         {
@@ -192,28 +165,55 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 8,
-      "prob_up": 0.5298,
-      "sentiment_norm": 0.6432,
-      "final_score": 0.5638,
-      "price": 193.26,
-      "change_pct": -2.21,
+      "ticker": "COST",
+      "rank": 7,
+      "prob_up": 0.5014,
+      "sentiment_norm": 0.745,
+      "final_score": 0.5745,
+      "price": 973.0,
+      "change_pct": 0.43,
       "sparkline": [],
       "headlines": [
         {
-          "title": "SK Hynix Stock Falls 9.6% as Record Profit Disappoints",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-falls-9-181244867.html?.tsrc=rss",
+          "title": "Coco5 Signs Retail Partnership with Costco, Bringing Athlete-Approved Hydration to Millions",
+          "url": "https://finance.yahoo.com/media-advertising/articles/coco5-signs-retail-partnership-costco-181800674.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "I\u2019m Loading Up on AMD Because It Proves That Coming in Second Place Creates Asymmetric Upside",
-          "url": "https://247wallst.com/investing/2026/07/29/im-loading-up-on-amd-because-it-proves-that-coming-in-second-place-creates-asymmetric-upside/?.tsrc=rss",
+          "title": "Walmart vs. Costco: Which Retail Stock Has the Stronger Edge?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-vs-costco-retail-stock-144500601.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Why Shares in This AI Infrastructure Stock Crashed Today",
-          "url": "https://www.fool.com/investing/2026/07/29/why-shares-in-this-ai-infrastructure-stock-crashed/?.tsrc=rss",
+          "title": "Costco\u2019s $14 million email settlement: Who qualifies for an up-to $500 payment and how to claim before the Aug. 24 deadline",
+          "url": "https://finance.yahoo.com/media-advertising/articles/costco-14-million-email-settlement-143030136.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "rank": 8,
+      "prob_up": 0.5973,
+      "sentiment_norm": 0.4914,
+      "final_score": 0.5655,
+      "price": 301.82,
+      "change_pct": -1.64,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-falls-again-1-183437913.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
+          "url": "https://www.fool.com/investing/2026/07/29/tesla-stock-suffered-its-worst-week-since-2022-fal/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Ford Just Delivered Bad News for Tesla Investors",
+          "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -224,8 +224,8 @@
       "prob_up": 0.5722,
       "sentiment_norm": 0.5282,
       "final_score": 0.559,
-      "price": 565.45,
-      "change_pct": 0.79,
+      "price": 565.47,
+      "change_pct": 0.8,
       "sparkline": [],
       "headlines": [
         {
@@ -249,64 +249,37 @@
       "ticker": "V",
       "rank": 10,
       "prob_up": 0.5237,
-      "sentiment_norm": 0.6009,
-      "final_score": 0.5469,
-      "price": 368.54,
-      "change_pct": 1.7,
+      "sentiment_norm": 0.6363,
+      "final_score": 0.5575,
+      "price": 368.82,
+      "change_pct": 1.78,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Visa CEO discloses dynamic investment plan during earnings call",
+          "url": "https://www.thestreet.com/crypto/markets/visa-ceo-discloses-dynamic-investment-plan-during-earnings-call?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "V, SNOW Stocks Hit Fresh 52-Week Highs Today \u2013 What\u2019s Got Investors Buzzing?",
+          "url": "https://stocktwits.com/news-articles/markets/equity/v-snow-stocks-hit-fresh-52-week-highs-today-what-s-got-investors-buzzing/cZNTTPFRJTK?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Sector Update: Financial Stocks Decline Wednesday Afternoon",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-wednesday-174420942.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Stock Market Today: Dow Sinks As Fed Rate Decision, Warsh Comments Loom; KLA Tumbles (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "3 Dividend Stocks to Buy for a Lifetime of Passive Income",
-          "url": "https://www.fool.com/investing/2026/07/29/3-dividend-stocks-to-buy-for-a-lifetime-of-passive/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "rank": 11,
-      "prob_up": 0.5125,
-      "sentiment_norm": 0.6029,
-      "final_score": 0.5396,
-      "price": 1218.67,
-      "change_pct": -0.2,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "How Will Ozempic and Wegovy Sales Aid NVO's Upcoming Q2 Results?",
-          "url": "https://finance.yahoo.com/healthcare/articles/ozempic-wegovy-sales-aid-nvos-153900197.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Eli Lilly (LLY) Earnings Expected to Grow: Should You Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-earnings-expected-140026778.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Forget Weight Loss Drugs: Here's Another Reason to Buy Eli Lilly Stock",
-          "url": "https://www.fool.com/investing/2026/07/29/forget-weight-loss-drugs-heres-another-reason-to-b/?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 12,
-      "prob_up": 0.4814,
+      "rank": 11,
+      "prob_up": 0.4993,
       "sentiment_norm": 0.6708,
-      "final_score": 0.5382,
-      "price": 348.23,
-      "change_pct": -2.65,
+      "final_score": 0.5507,
+      "price": 347.39,
+      "change_pct": -2.88,
       "sparkline": [],
       "headlines": [
         {
@@ -327,13 +300,40 @@
       ]
     },
     {
+      "ticker": "LLY",
+      "rank": 12,
+      "prob_up": 0.5208,
+      "sentiment_norm": 0.6029,
+      "final_score": 0.5454,
+      "price": 1217.42,
+      "change_pct": -0.3,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "How Will Ozempic and Wegovy Sales Aid NVO's Upcoming Q2 Results?",
+          "url": "https://finance.yahoo.com/healthcare/articles/ozempic-wegovy-sales-aid-nvos-153900197.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Eli Lilly (LLY) Earnings Expected to Grow: Should You Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-earnings-expected-140026778.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Forget Weight Loss Drugs: Here's Another Reason to Buy Eli Lilly Stock",
+          "url": "https://www.fool.com/investing/2026/07/29/forget-weight-loss-drugs-heres-another-reason-to-b/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
       "ticker": "JNJ",
       "rank": 13,
       "prob_up": 0.5048,
       "sentiment_norm": 0.6021,
       "final_score": 0.534,
-      "price": 265.51,
-      "change_pct": -1.09,
+      "price": 266.25,
+      "change_pct": -0.82,
       "sparkline": [],
       "headlines": [
         {
@@ -354,13 +354,40 @@
       ]
     },
     {
-      "ticker": "GOOGL",
+      "ticker": "AAPL",
       "rank": 14,
+      "prob_up": 0.4568,
+      "sentiment_norm": 0.6945,
+      "final_score": 0.5281,
+      "price": 343.2,
+      "change_pct": 0.57,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Apple Stock Rises Near $5 Trillion Ahead of Five-Year Growth Test",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-near-5-183524504.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Better Buy Amid the Tech Crown Shift : Apple vs. Nvidia",
+          "url": "https://www.fool.com/investing/2026/07/29/better-buy-amid-tech-crown-shift-apple-vs-nvidia/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Is a Caterpillar Stock Split Inevitable?",
+          "url": "https://www.fool.com/investing/2026/07/29/is-a-caterpillar-stock-split-inevitable/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "rank": 15,
       "prob_up": 0.4486,
-      "sentiment_norm": 0.717,
-      "final_score": 0.5292,
-      "price": 339.81,
-      "change_pct": 1.17,
+      "sentiment_norm": 0.7042,
+      "final_score": 0.5253,
+      "price": 339.55,
+      "change_pct": 1.09,
       "sparkline": [],
       "headlines": [
         {
@@ -374,103 +401,27 @@
           "score": 0.0
         },
         {
-          "title": "Fiverr International Ltd. Q2 2026 Earnings Call Summary",
-          "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-fiverr-international-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 15,
-      "prob_up": 0.4396,
-      "sentiment_norm": 0.6975,
-      "final_score": 0.5169,
-      "price": 343.65,
-      "change_pct": 0.7,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Better Buy Amid the Tech Crown Shift : Apple vs. Nvidia",
-          "url": "https://www.fool.com/investing/2026/07/29/better-buy-amid-tech-crown-shift-apple-vs-nvidia/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Is a Caterpillar Stock Split Inevitable?",
-          "url": "https://www.fool.com/investing/2026/07/29/is-a-caterpillar-stock-split-inevitable/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Can Qualcomm secure a 'tiny slice' of the data center pie?",
-          "url": "https://finance.yahoo.com/video/can-qualcomm-secure-a-tiny-slice-of-the-data-center-pie-163320789.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 16,
-      "prob_up": 0.5685,
-      "sentiment_norm": 0.3918,
-      "final_score": 0.5155,
-      "price": 595.85,
-      "change_pct": -0.25,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Equities Lower Intraday Ahead of Fed Decision, Major Tech Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/equities-lower-intraday-ahead-fed-180032148.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "I\u2019m Loading Up on AMD Because It Proves That Coming in Second Place Creates Asymmetric Upside",
-          "url": "https://247wallst.com/investing/2026/07/29/im-loading-up-on-amd-because-it-proves-that-coming-in-second-place-creates-asymmetric-upside/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Update: US Equity Indexes Slump Ahead of Fed Policy Moves, Big-Tech Results; Crude Oil Soars as Trump Vows to Hit Iran Hard",
-          "url": "https://finance.yahoo.com/markets/articles/us-equity-indexes-slump-ahead-175807087.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "rank": 17,
-      "prob_up": 0.4668,
-      "sentiment_norm": 0.6211,
-      "final_score": 0.5131,
-      "price": 156.22,
-      "change_pct": 0.73,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Exxon Mobil (XOM): President Trump\u2019s Top Energy Stock Pick?",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-president-trump-142914070.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Oil Prices Spike After Iran Launches Surprise Attack on U.S. Forces",
-          "url": "https://finance.yahoo.com/m/4493abf9-8b61-3741-b657-b5892c5bb112/oil-prices-spike-after-iran.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Update: US Equity Futures Lower Pre-Bell as Middle East Hostilities Resume, Oil Prices Rise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-125355415.html?.tsrc=rss",
+          "title": "ORCL Is Back At A Level It Has Defended Before",
+          "url": "https://www.trefis.com/articles/609280/orcl-is-back-at-a-level-it-has-defended-before/2026-07-29?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 18,
-      "prob_up": 0.4712,
-      "sentiment_norm": 0.5664,
-      "final_score": 0.4998,
-      "price": 144.66,
-      "change_pct": -2.84,
+      "rank": 16,
+      "prob_up": 0.4871,
+      "sentiment_norm": 0.5968,
+      "final_score": 0.52,
+      "price": 145.18,
+      "change_pct": -2.49,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "P&G Stock Falls Nearly 3% on Slower Sales Outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-g-stock-falls-nearly-181937214.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Equities Lower Intraday Ahead of Fed Decision, Major Tech Earnings",
           "url": "https://finance.yahoo.com/markets/stocks/articles/equities-lower-intraday-ahead-fed-180032148.html?.tsrc=rss",
@@ -480,37 +431,86 @@
           "title": "Stock Market Today: Dow Sinks As Fed Rate Decision, Warsh Comments Loom; KLA Tumbles (Live Coverage)",
           "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "Q2 Earnings Season in Full Swing",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-full-swing-152900116.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "rank": 19,
-      "prob_up": 0.5119,
-      "sentiment_norm": 0.4434,
-      "final_score": 0.4914,
-      "price": 397.8,
-      "change_pct": 0.58,
+      "rank": 17,
+      "prob_up": 0.5342,
+      "sentiment_norm": 0.4559,
+      "final_score": 0.5107,
+      "price": 398.34,
+      "change_pct": 0.72,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Top Bank Resets Microsoft Stock Target Before Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-bank-resets-microsoft-stock-182621595.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Microsoft Stock Rises as Options Price $190 Billion Earnings Swing",
+          "url": "https://finance.yahoo.com/markets/options/articles/microsoft-stock-rises-options-price-181843728.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Equities Lower Intraday Ahead of Fed Decision, Major Tech Earnings",
           "url": "https://finance.yahoo.com/markets/stocks/articles/equities-lower-intraday-ahead-fed-180032148.html?.tsrc=rss",
           "score": 0.0
-        },
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "rank": 18,
+      "prob_up": 0.4668,
+      "sentiment_norm": 0.5829,
+      "final_score": 0.5017,
+      "price": 156.53,
+      "change_pct": 0.93,
+      "sparkline": [],
+      "headlines": [
         {
-          "title": "Update: US Equity Indexes Slump Ahead of Fed Policy Moves, Big-Tech Results; Crude Oil Soars as Trump Vows to Hit Iran Hard",
-          "url": "https://finance.yahoo.com/markets/articles/us-equity-indexes-slump-ahead-175807087.html?.tsrc=rss",
+          "title": "Exxon Stock Rises 3.3% as Oil Jumps Nearly 7%",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-stock-rises-3-3-182021602.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Sector Update: Tech Stocks Fall Wednesday Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-wednesday-173820046.html?.tsrc=rss",
+          "title": "Exxon Mobil (XOM): President Trump\u2019s Top Energy Stock Pick?",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-president-trump-142914070.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Oil Prices Spike After Iran Launches Surprise Attack on U.S. Forces",
+          "url": "https://finance.yahoo.com/m/4493abf9-8b61-3741-b657-b5892c5bb112/oil-prices-spike-after-iran.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 19,
+      "prob_up": 0.5298,
+      "sentiment_norm": 0.3846,
+      "final_score": 0.4862,
+      "price": 193.0,
+      "change_pct": -2.34,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "NVIDIA Stock Falls 2.3% as AI-Chip Selloff Deepens",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-falls-2-3-182952011.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Wedbush Spots Hidden Risk in Nvidia's AI Expansion",
+          "url": "https://finance.yahoo.com/technology/ai/articles/wedbush-spots-hidden-risk-nvidias-182543958.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Cathie Wood Just Bought Nvidia Stock Again",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bought-nvidia-182502870.html?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -518,11 +518,11 @@
     {
       "ticker": "AVGO",
       "rank": 20,
-      "prob_up": 0.4934,
+      "prob_up": 0.4802,
       "sentiment_norm": 0.4026,
-      "final_score": 0.4662,
-      "price": 379.84,
-      "change_pct": -1.17,
+      "final_score": 0.4569,
+      "price": 377.05,
+      "change_pct": -1.9,
       "sparkline": [],
       "headlines": [
         {
