@@ -63,6 +63,6 @@ if __name__ == "__main__":
     run_step("src/ingestion/fetch_news.py",           "Block 3: Fetch news")
     run_step("src/processing/sentiment_engineering.py","Block 4: Score sentiment")
     run_step("src/processing/merge_features.py",      "Block 5: Blend & rank")
-
+    run_step("src/deploy/push_output.py",            "Block 6: Push final ranking to S3")
     print(f"\n>>> Pipeline complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f">>> Final ranking saved to data/processed/final_ranking.csv")
