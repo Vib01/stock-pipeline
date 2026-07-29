@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-07-29T16:41:19Z",
+  "last_updated": "2026-07-29T17:07:57Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "AMZN",
       "rank": 1,
-      "prob_up": 0.5292,
-      "sentiment_norm": 0.7662,
-      "final_score": 0.6003,
-      "price": 229.19,
-      "change_pct": -1.23,
+      "prob_up": 0.5331,
+      "sentiment_norm": 0.7683,
+      "final_score": 0.6037,
+      "price": 230.13,
+      "change_pct": -0.82,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Amazon heads into Q2 earnings with UBS bullish on cloud growth and e-commerce margins",
+          "url": "https://www.proactiveinvestors.com/companies/news/1096228/amazon-heads-into-q2-earnings-with-ubs-bullish-on-cloud-growth-and-e-commerce-margins-1096228.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Amazon just made a major move to reshape its entire AI strategy",
           "url": "https://www.thestreet.com/technology/amazon-reshapes-ai-strategy-deprecating-aws-nova-premier-gemini-models?.tsrc=rss",
@@ -21,80 +26,26 @@
           "title": "Alphabet Captures 2026 AI Capex Alpha But Amazon Begins Surging in 2027",
           "url": "https://247wallst.com/investing/2026/07/29/alphabet-captures-2026-ai-capex-alpha-but-amazon-begins-surging-in-2027/?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "NanoClaw and Echo Partner to Protect AI Agents From Software Vulnerabilities",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nanoclaw-echo-partner-protect-ai-160000341.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "rank": 2,
-      "prob_up": 0.6037,
-      "sentiment_norm": 0.5742,
-      "final_score": 0.5948,
-      "price": 301.7,
-      "change_pct": -1.68,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Ford Just Delivered Bad News for Tesla Investors",
-          "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Famous Investor Michael Burry Is Short Nvidia, Palantir, and Tesla. Why I'd Buy 1 of the Stocks, Hold Another, and Sell the Third.",
-          "url": "https://www.fool.com/investing/2026/07/29/famous-investor-michael-burry-is-short-nvidia-pala/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status",
-          "url": "https://finance.yahoo.com/m/20b7db84-ba0b-39b3-8dec-9f60052331ab/how-far-tesla-stock-needs-to.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "HD",
-      "rank": 3,
-      "prob_up": 0.5291,
-      "sentiment_norm": 0.7218,
-      "final_score": 0.5869,
-      "price": 342.43,
-      "change_pct": -0.64,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "C.H. Robinson Faces $604 Million Verdict: What Vicarious Liability and Negligent Hiring Mean for Brokers After Montgomery and Home Depot",
-          "url": "https://finance.yahoo.com/small-business/articles/c-h-robinson-faces-604-124003238.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Here's How Many Shares of Home Depot You'd Need to Generate $10,000 in Yearly Dividends",
-          "url": "https://www.fool.com/investing/2026/07/29/how-many-shares-home-depot-10000-yearly-dividends/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "3 Top Retail Stocks: Buy, Sell or Hold?",
-          "url": "https://247wallst.com/investing/2026/07/27/3-top-retail-stocks-buy-sell-or-hold/?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "META",
-      "rank": 4,
-      "prob_up": 0.6344,
-      "sentiment_norm": 0.4697,
-      "final_score": 0.585,
-      "price": 592.23,
-      "change_pct": -0.86,
+      "rank": 2,
+      "prob_up": 0.6357,
+      "sentiment_norm": 0.5016,
+      "final_score": 0.5955,
+      "price": 593.24,
+      "change_pct": -0.69,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings (Live Coverage)",
+          "title": "Exclusive-US FTC suing Hims & Hers for sending user health info to Meta, Snap",
+          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-us-ftc-suing-hims-163411261.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
           "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
           "score": 0.0
         },
@@ -102,157 +53,17 @@
           "title": "Why Meta\u2019s Risk Profile Screams Buy Right Now",
           "url": "https://247wallst.com/investing/2026/07/29/why-metas-risk-profile-screams-buy-right-now/?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "NanoClaw and Echo Partner to Protect AI Agents From Software Vulnerabilities",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nanoclaw-echo-partner-protect-ai-160000341.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 5,
-      "prob_up": 0.5109,
-      "sentiment_norm": 0.7528,
-      "final_score": 0.5835,
-      "price": 976.72,
-      "change_pct": 0.82,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Walmart vs. Costco: Which Retail Stock Has the Stronger Edge?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-vs-costco-retail-stock-144500601.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Why Costco, Verizon, Kroger, and Other Safe Dividend Stocks Are Rising",
-          "url": "https://www.fool.com/investing/2026/07/28/why-costco-verizon-kroger-dividend-stocks-up/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "87-year-old grocery giant closing more stores",
-          "url": "https://www.thestreet.com/retail/albertsons-shares-latest-store-closure-plans?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 6,
-      "prob_up": 0.5599,
-      "sentiment_norm": 0.6124,
-      "final_score": 0.5757,
-      "price": 191.83,
-      "change_pct": -2.93,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Is the Private Credit Boom a Gift or a Risk for BDC Income Investors?",
-          "url": "https://www.fool.com/investing/2026/07/29/is-the-private-credit-boom-a-gift-or-a-risk-for-bd/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "All Eyes Are on Kevin Warsh: 1 Reason the Federal Reserve's Actions Don't Matter to Long-Term Investors.",
-          "url": "https://www.fool.com/investing/2026/07/29/kevin-warsh-1-reason-federal-reserve-investors/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Vertiv Stock Recently Hit an All-Time High. Does Wall Street See More Upside?",
-          "url": "https://www.fool.com/investing/2026/07/29/vertiv-stock-all-time-high-wall-street-upside/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 7,
-      "prob_up": 0.5132,
-      "sentiment_norm": 0.7052,
-      "final_score": 0.5708,
-      "price": 113.8,
-      "change_pct": -0.48,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Can Amazon Continue Its Rally? Analysts Weigh In",
-          "url": "https://247wallst.com/investing/2026/07/29/can-amazon-continue-its-rally-analysts-weigh-in/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Walmart vs. Costco: Which Retail Stock Has the Stronger Edge?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-vs-costco-retail-stock-144500601.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Walmart has a problem its own shoppers are creating",
-          "url": "https://www.thestreet.com/retail/walmart-faces-surprising-shoplifting-problem?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "JNJ",
-      "rank": 8,
-      "prob_up": 0.5413,
-      "sentiment_norm": 0.6385,
-      "final_score": 0.5705,
-      "price": 267.31,
-      "change_pct": -0.42,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Boston Scientific Cuts Outlook Amid Weak Demand for Watchman Heart Device",
-          "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-cuts-outlook-amid-152702729.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "The new AI trade: Visa, Shopify, and more",
-          "url": "https://finance.yahoo.com/video/ai-trade-visa-shopify-more-151500705.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "The Best House On The Block Costs The Most: ISRG",
-          "url": "https://www.trefis.com/articles/609286/the-best-house-on-the-block-costs-the-most-isrg/2026-07-29?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "BRK-B",
-      "rank": 9,
-      "prob_up": 0.5443,
-      "sentiment_norm": 0.6314,
-      "final_score": 0.5705,
-      "price": 509.55,
-      "change_pct": -0.65,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Israel Englander's Top Disclosed Holding Is an iShares Russell 2000 ETF, a Bet on Small-Cap Stocks Broadening Out the Rally",
-          "url": "https://www.fool.com/investing/2026/07/29/israel-englanders-top-disclosed-holding-is-russell/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Berkshire Hathaway (BRK.B) Faces A Buffett Succession Test, Is The Stock Still Undervalued?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-faces-131013641.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Buffett's Berkshire Hathaway holds a record $397 billion in cash. Is a market crash coming \u2014 should you follow his lead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buffetts-berkshire-hathaway-holds-record-114500562.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 10,
-      "prob_up": 0.4873,
+      "rank": 3,
+      "prob_up": 0.5291,
       "sentiment_norm": 0.7382,
-      "final_score": 0.5626,
-      "price": 425.41,
-      "change_pct": -0.01,
+      "final_score": 0.5918,
+      "price": 423.36,
+      "change_pct": -0.49,
       "sparkline": [],
       "headlines": [
         {
@@ -273,40 +84,202 @@
       ]
     },
     {
-      "ticker": "PG",
-      "rank": 11,
-      "prob_up": 0.5154,
-      "sentiment_norm": 0.6127,
-      "final_score": 0.5446,
-      "price": 145.88,
-      "change_pct": -2.02,
+      "ticker": "TSLA",
+      "rank": 4,
+      "prob_up": 0.5973,
+      "sentiment_norm": 0.5742,
+      "final_score": 0.5904,
+      "price": 302.67,
+      "change_pct": -1.37,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
+          "title": "Ford Just Delivered Bad News for Tesla Investors",
+          "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Procter & Gamble\u2019s Stock Drops After Sales Miss Wall Street\u2019s Projections",
-          "url": "https://www.investopedia.com/procter-and-gamble-stock-drops-after-sales-miss-wall-street-projections-12029122?.tsrc=rss",
+          "title": "Famous Investor Michael Burry Is Short Nvidia, Palantir, and Tesla. Why I'd Buy 1 of the Stocks, Hold Another, and Sell the Third.",
+          "url": "https://www.fool.com/investing/2026/07/29/famous-investor-michael-burry-is-short-nvidia-pala/?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Investors Await Fed Decision Today",
-          "url": "https://finance.yahoo.com/economy/policy/articles/investors-await-fed-decision-today-144500078.html?.tsrc=rss",
+          "title": "How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status",
+          "url": "https://finance.yahoo.com/m/20b7db84-ba0b-39b3-8dec-9f60052331ab/how-far-tesla-stock-needs-to.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "rank": 5,
+      "prob_up": 0.5103,
+      "sentiment_norm": 0.7528,
+      "final_score": 0.583,
+      "price": 974.19,
+      "change_pct": 0.56,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Walmart vs. Costco: Which Retail Stock Has the Stronger Edge?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-vs-costco-retail-stock-144500601.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Why Costco, Verizon, Kroger, and Other Safe Dividend Stocks Are Rising",
+          "url": "https://www.fool.com/investing/2026/07/28/why-costco-verizon-kroger-dividend-stocks-up/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "87-year-old grocery giant closing more stores",
+          "url": "https://www.thestreet.com/retail/albertsons-shares-latest-store-closure-plans?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "rank": 6,
+      "prob_up": 0.5209,
+      "sentiment_norm": 0.7144,
+      "final_score": 0.5789,
+      "price": 114.03,
+      "change_pct": -0.28,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "JSAIY or WMT: Which Is the Better Value Stock Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jsaiy-wmt-better-value-stock-154002002.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Can Amazon Continue Its Rally? Analysts Weigh In",
+          "url": "https://247wallst.com/investing/2026/07/29/can-amazon-continue-its-rally-analysts-weigh-in/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Walmart vs. Costco: Which Retail Stock Has the Stronger Edge?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-vs-costco-retail-stock-144500601.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "rank": 7,
+      "prob_up": 0.5556,
+      "sentiment_norm": 0.6314,
+      "final_score": 0.5783,
+      "price": 509.82,
+      "change_pct": -0.6,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Israel Englander's Top Disclosed Holding Is an iShares Russell 2000 ETF, a Bet on Small-Cap Stocks Broadening Out the Rally",
+          "url": "https://www.fool.com/investing/2026/07/29/israel-englanders-top-disclosed-holding-is-russell/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Berkshire Hathaway (BRK.B) Faces A Buffett Succession Test, Is The Stock Still Undervalued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-faces-131013641.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Buffett's Berkshire Hathaway holds a record $397 billion in cash. Is a market crash coming \u2014 should you follow his lead?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buffetts-berkshire-hathaway-holds-record-114500562.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "rank": 8,
+      "prob_up": 0.508,
+      "sentiment_norm": 0.7218,
+      "final_score": 0.5721,
+      "price": 342.52,
+      "change_pct": -0.62,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "C.H. Robinson Faces $604 Million Verdict: What Vicarious Liability and Negligent Hiring Mean for Brokers After Montgomery and Home Depot",
+          "url": "https://finance.yahoo.com/small-business/articles/c-h-robinson-faces-604-124003238.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Here's How Many Shares of Home Depot You'd Need to Generate $10,000 in Yearly Dividends",
+          "url": "https://www.fool.com/investing/2026/07/29/how-many-shares-home-depot-10000-yearly-dividends/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "3 Top Retail Stocks: Buy, Sell or Hold?",
+          "url": "https://247wallst.com/investing/2026/07/27/3-top-retail-stocks-buy-sell-or-hold/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "rank": 9,
+      "prob_up": 0.5413,
+      "sentiment_norm": 0.6385,
+      "final_score": 0.5705,
+      "price": 267.19,
+      "change_pct": -0.47,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Boston Scientific Cuts Outlook Amid Weak Demand for Watchman Heart Device",
+          "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-cuts-outlook-amid-152702729.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "The new AI trade: Visa, Shopify, and more",
+          "url": "https://finance.yahoo.com/video/ai-trade-visa-shopify-more-151500705.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "The Best House On The Block Costs The Most: ISRG",
+          "url": "https://www.trefis.com/articles/609286/the-best-house-on-the-block-costs-the-most-isrg/2026-07-29?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 10,
+      "prob_up": 0.5208,
+      "sentiment_norm": 0.6029,
+      "final_score": 0.5454,
+      "price": 1218.53,
+      "change_pct": -0.21,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "How Will Ozempic and Wegovy Sales Aid NVO's Upcoming Q2 Results?",
+          "url": "https://finance.yahoo.com/healthcare/articles/ozempic-wegovy-sales-aid-nvos-153900197.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Eli Lilly (LLY) Earnings Expected to Grow: Should You Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-earnings-expected-140026778.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Forget Weight Loss Drugs: Here's Another Reason to Buy Eli Lilly Stock",
+          "url": "https://www.fool.com/investing/2026/07/29/forget-weight-loss-drugs-heres-another-reason-to-b/?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 12,
+      "rank": 11,
       "prob_up": 0.472,
       "sentiment_norm": 0.688,
       "final_score": 0.5368,
-      "price": 348.65,
-      "change_pct": -2.53,
+      "price": 349.58,
+      "change_pct": -2.27,
       "sparkline": [],
       "headlines": [
         {
@@ -327,42 +300,101 @@
       ]
     },
     {
-      "ticker": "LLY",
-      "rank": 13,
-      "prob_up": 0.5125,
-      "sentiment_norm": 0.5893,
-      "final_score": 0.5355,
-      "price": 1215.92,
-      "change_pct": -0.43,
+      "ticker": "PG",
+      "rank": 12,
+      "prob_up": 0.4937,
+      "sentiment_norm": 0.6117,
+      "final_score": 0.5291,
+      "price": 145.54,
+      "change_pct": -2.25,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Eli Lilly (LLY) Earnings Expected to Grow: Should You Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-earnings-expected-140026778.html?.tsrc=rss",
+          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Forget Weight Loss Drugs: Here's Another Reason to Buy Eli Lilly Stock",
-          "url": "https://www.fool.com/investing/2026/07/29/forget-weight-loss-drugs-heres-another-reason-to-b/?.tsrc=rss",
+          "title": "Q2 Earnings Season in Full Swing",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-full-swing-152900116.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Watch Out, Eli Lilly and Novo Nordisk: Amgen's Monthly Weight Loss Drug Has 6 Phase 3 Trials Running -- and It's Coming for Your Patients",
-          "url": "https://www.fool.com/investing/2026/07/29/watch-out-eli-lilly-and-novo-nordisk-amgens-monthl/?.tsrc=rss",
+          "title": "Procter & Gamble\u2019s Stock Drops After Sales Miss Wall Street\u2019s Projections",
+          "url": "https://www.investopedia.com/procter-and-gamble-stock-drops-after-sales-miss-wall-street-projections-12029122?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "rank": 13,
+      "prob_up": 0.5232,
+      "sentiment_norm": 0.5321,
+      "final_score": 0.5258,
+      "price": 395.63,
+      "change_pct": 0.03,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Prediction: Microsoft Will Be Worth This In 2030",
+          "url": "https://247wallst.com/investing/2026/07/29/prediction-microsoft-will-be-worth-this-in-2030/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Update: Microsoft Facing Probe in UK Over Changes to Microsoft 365 Subscription Plans",
+          "url": "https://finance.yahoo.com/technology/articles/microsoft-facing-probe-uk-over-161834290.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 14,
+      "prob_up": 0.5203,
+      "sentiment_norm": 0.5136,
+      "final_score": 0.5183,
+      "price": 192.51,
+      "change_pct": -2.59,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade",
+          "url": "https://247wallst.com/investing/2026/07/29/nebius-drops-10-coreweave-sinks-9-as-rising-credit-swap-costs-hit-the-ai-cloud-trade/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Chip selloff overblown, UBS says, downplaying \"circular financing\" fears",
+          "url": "https://www.proactiveinvestors.com/companies/news/1096227/chip-selloff-overblown-ubs-says-downplaying-circular-financing-fears-1096227.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Is the Private Credit Boom a Gift or a Risk for BDC Income Investors?",
+          "url": "https://www.fool.com/investing/2026/07/29/is-the-private-credit-boom-a-gift-or-a-risk-for-bd/?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "AAPL",
-      "rank": 14,
-      "prob_up": 0.4822,
-      "sentiment_norm": 0.6502,
-      "final_score": 0.5326,
-      "price": 340.45,
-      "change_pct": -0.23,
+      "rank": 15,
+      "prob_up": 0.4674,
+      "sentiment_norm": 0.6359,
+      "final_score": 0.5179,
+      "price": 341.85,
+      "change_pct": 0.18,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Can Qualcomm secure a 'tiny slice' of the data center pie?",
+          "url": "https://finance.yahoo.com/video/can-qualcomm-secure-a-tiny-slice-of-the-data-center-pie-163320789.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Ford Just Delivered Bad News for Tesla Investors",
           "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
@@ -372,49 +404,71 @@
           "title": "Apple says UK App Store proposal amounts to price regulation",
           "url": "https://finance.yahoo.com/technology/articles/apple-says-uk-app-store-154808227.html?.tsrc=rss",
           "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "V",
+      "rank": 16,
+      "prob_up": 0.4792,
+      "sentiment_norm": 0.5922,
+      "final_score": 0.5131,
+      "price": 373.02,
+      "change_pct": 2.94,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Apple Stock Could Close With $5 Trillion Market Value for First Time. Will It Get There?",
-          "url": "https://finance.yahoo.com/m/b3eef45b-5a17-3fdc-b1b7-ec54bf673ee0/apple-stock-could-close-with.html?.tsrc=rss",
+          "title": "Visa Q3 Earnings Beat Estimates on Cross-Border Volume Strength",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-q3-earnings-beat-estimates-153500281.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "The new AI trade: Visa, Shopify, and more",
+          "url": "https://finance.yahoo.com/video/ai-trade-visa-shopify-more-151500705.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 15,
-      "prob_up": 0.5294,
-      "sentiment_norm": 0.4955,
-      "final_score": 0.5192,
-      "price": 394.48,
-      "change_pct": -0.26,
+      "ticker": "MA",
+      "rank": 17,
+      "prob_up": 0.4897,
+      "sentiment_norm": 0.5282,
+      "final_score": 0.5013,
+      "price": 568.41,
+      "change_pct": 1.32,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
+          "title": "Visa Q3 Earnings Beat Estimates on Cross-Border Volume Strength",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-q3-earnings-beat-estimates-153500281.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Update: Microsoft Facing Probe in UK Over Changes to Microsoft 365 Subscription Plans",
-          "url": "https://finance.yahoo.com/technology/articles/microsoft-facing-probe-uk-over-161834290.html?.tsrc=rss",
+          "title": "Bernstein Lowers Price Target On Circle Stock",
+          "url": "https://www.cryptoprowl.com/releases/bernstein-lowers-price-target-on-circle-stock-6285?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Decoding PLTR Stock's Premium Valuation",
-          "url": "https://www.trefis.com/articles/609270/decoding-pltr-stocks-premium-valuation-3/2026-07-29?.tsrc=rss",
+          "title": "What To Expect From Mastercard\u2019s (MA) Q2 Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-mastercard-ma-q2-earnings-115702500.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "GOOGL",
-      "rank": 16,
-      "prob_up": 0.4468,
+      "rank": 18,
+      "prob_up": 0.4286,
       "sentiment_norm": 0.6546,
-      "final_score": 0.5091,
-      "price": 335.26,
-      "change_pct": -0.19,
+      "final_score": 0.4964,
+      "price": 336.38,
+      "change_pct": 0.15,
       "sparkline": [],
       "headlines": [
         {
@@ -435,94 +489,13 @@
       ]
     },
     {
-      "ticker": "V",
-      "rank": 17,
-      "prob_up": 0.4792,
-      "sentiment_norm": 0.5573,
-      "final_score": 0.5026,
-      "price": 373.11,
-      "change_pct": 2.96,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "The new AI trade: Visa, Shopify, and more",
-          "url": "https://finance.yahoo.com/video/ai-trade-visa-shopify-more-151500705.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Bernstein Lowers Price Target On Circle Stock",
-          "url": "https://www.cryptoprowl.com/releases/bernstein-lowers-price-target-on-circle-stock-6285?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "rank": 18,
-      "prob_up": 0.5002,
-      "sentiment_norm": 0.4252,
-      "final_score": 0.4777,
-      "price": 374.09,
-      "change_pct": -2.67,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Kospi sell-off deepens, Why leveraged ETFs are under fire",
-          "url": "https://finance.yahoo.com/video/kospi-sell-off-deepens-why-leveraged-etfs-are-under-fire-155119000.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status",
-          "url": "https://finance.yahoo.com/m/20b7db84-ba0b-39b3-8dec-9f60052331ab/how-far-tesla-stock-needs-to.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "The AI Trade Is Still On: Why Nvidia Remains at the Center of It",
-          "url": "https://247wallst.com/investing/2026/07/29/the-ai-trade-is-still-on-why-nvidia-remains-at-the-center-of-it/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "rank": 19,
-      "prob_up": 0.4592,
-      "sentiment_norm": 0.4984,
-      "final_score": 0.471,
-      "price": 567.46,
-      "change_pct": 1.15,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Bernstein Lowers Price Target On Circle Stock",
-          "url": "https://www.cryptoprowl.com/releases/bernstein-lowers-price-target-on-circle-stock-6285?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "What To Expect From Mastercard\u2019s (MA) Q2 Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-mastercard-ma-q2-earnings-115702500.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Mastercard (MA) Launches Scam Program And Expands Stablecoin Payment Infrastructure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-launches-scam-program-001655872.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
-      "rank": 20,
-      "prob_up": 0.37,
+      "rank": 19,
+      "prob_up": 0.4402,
       "sentiment_norm": 0.6211,
-      "final_score": 0.4453,
-      "price": 157.48,
-      "change_pct": 1.54,
+      "final_score": 0.4944,
+      "price": 157.6,
+      "change_pct": 1.62,
       "sparkline": [],
       "headlines": [
         {
@@ -538,6 +511,33 @@
         {
           "title": "Update: US Equity Futures Lower Pre-Bell as Middle East Hostilities Resume, Oil Prices Rise",
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-125355415.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 20,
+      "prob_up": 0.5001,
+      "sentiment_norm": 0.4252,
+      "final_score": 0.4776,
+      "price": 376.01,
+      "change_pct": -2.17,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Kospi sell-off deepens, Why leveraged ETFs are under fire",
+          "url": "https://finance.yahoo.com/video/kospi-sell-off-deepens-why-leveraged-etfs-are-under-fire-155119000.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status",
+          "url": "https://finance.yahoo.com/m/20b7db84-ba0b-39b3-8dec-9f60052331ab/how-far-tesla-stock-needs-to.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "The AI Trade Is Still On: Why Nvidia Remains at the Center of It",
+          "url": "https://247wallst.com/investing/2026/07/29/the-ai-trade-is-still-on-why-nvidia-remains-at-the-center-of-it/?.tsrc=rss",
           "score": 0.0
         }
       ]
