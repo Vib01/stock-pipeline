@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-07-29T17:07:57Z",
+  "last_updated": "2026-07-29T17:20:13Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "AMZN",
       "rank": 1,
-      "prob_up": 0.5331,
+      "prob_up": 0.5654,
       "sentiment_norm": 0.7683,
-      "final_score": 0.6037,
-      "price": 230.13,
-      "change_pct": -0.82,
+      "final_score": 0.6263,
+      "price": 230.77,
+      "change_pct": -0.55,
       "sparkline": [],
       "headlines": [
         {
@@ -30,42 +30,20 @@
       ]
     },
     {
-      "ticker": "META",
-      "rank": 2,
-      "prob_up": 0.6357,
-      "sentiment_norm": 0.5016,
-      "final_score": 0.5955,
-      "price": 593.24,
-      "change_pct": -0.69,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Exclusive-US FTC suing Hims & Hers for sending user health info to Meta, Snap",
-          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-us-ftc-suing-hims-163411261.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Why Meta\u2019s Risk Profile Screams Buy Right Now",
-          "url": "https://247wallst.com/investing/2026/07/29/why-metas-risk-profile-screams-buy-right-now/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "UNH",
-      "rank": 3,
-      "prob_up": 0.5291,
-      "sentiment_norm": 0.7382,
-      "final_score": 0.5918,
-      "price": 423.36,
-      "change_pct": -0.49,
+      "rank": 2,
+      "prob_up": 0.5277,
+      "sentiment_norm": 0.7514,
+      "final_score": 0.5948,
+      "price": 424.04,
+      "change_pct": -0.33,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "UnitedHealth's Cost-Control Story is Gaining Momentum: Time to Buy?",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealths-cost-control-story-gaining-155200493.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Humana Q2 Earnings Beat Estimates on Medical Membership Growth",
           "url": "https://finance.yahoo.com/healthcare/articles/humana-q2-earnings-beat-estimates-152300031.html?.tsrc=rss",
@@ -75,49 +53,44 @@
           "title": "Medicare Drug Plan Premiums Are About to Jump for 25 Million Seniors",
           "url": "https://finance.yahoo.com/m/5151fc90-fcaa-350d-a82c-f5cf12d77141/medicare-drug-plan-premiums.html?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "UnitedHealth Group Partners with UT Health Sciences to Expand Health Hubs to More Communities Across Tennessee",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-partners-ut-health-133800295.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
-      "ticker": "TSLA",
-      "rank": 4,
-      "prob_up": 0.5973,
-      "sentiment_norm": 0.5742,
-      "final_score": 0.5904,
-      "price": 302.67,
-      "change_pct": -1.37,
+      "ticker": "META",
+      "rank": 3,
+      "prob_up": 0.6397,
+      "sentiment_norm": 0.4857,
+      "final_score": 0.5935,
+      "price": 594.34,
+      "change_pct": -0.51,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Ford Just Delivered Bad News for Tesla Investors",
-          "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
+          "title": "Fast Money Host Warns Hyperscaler CapEx Binge Is \u2018Issuing Near Junk\u2019 as Data Center Buildout Shows Cracks",
+          "url": "https://247wallst.com/investing/2026/07/29/fast-money-host-warns-hyperscaler-capex-binge-is-issuing-near-junk-as-data-center-buildout-shows-cracks/?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Famous Investor Michael Burry Is Short Nvidia, Palantir, and Tesla. Why I'd Buy 1 of the Stocks, Hold Another, and Sell the Third.",
-          "url": "https://www.fool.com/investing/2026/07/29/famous-investor-michael-burry-is-short-nvidia-pala/?.tsrc=rss",
+          "title": "Update: US Equity Indexes Slide Ahead of Warsh's Press Briefing, Big-Tech Results While Trump Vows to Hit Iran Hard",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-ahead-165633062.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status",
-          "url": "https://finance.yahoo.com/m/20b7db84-ba0b-39b3-8dec-9f60052331ab/how-far-tesla-stock-needs-to.html?.tsrc=rss",
+          "title": "Exclusive-US FTC suing Hims & Hers for sending user health info to Meta, Snap",
+          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-us-ftc-suing-hims-163411261.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "COST",
-      "rank": 5,
+      "rank": 4,
       "prob_up": 0.5103,
       "sentiment_norm": 0.7528,
       "final_score": 0.583,
-      "price": 974.19,
-      "change_pct": 0.56,
+      "price": 973.91,
+      "change_pct": 0.53,
       "sparkline": [],
       "headlines": [
         {
@@ -138,13 +111,40 @@
       ]
     },
     {
+      "ticker": "TSLA",
+      "rank": 5,
+      "prob_up": 0.5828,
+      "sentiment_norm": 0.5742,
+      "final_score": 0.5802,
+      "price": 303.77,
+      "change_pct": -1.01,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Ford Just Delivered Bad News for Tesla Investors",
+          "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Famous Investor Michael Burry Is Short Nvidia, Palantir, and Tesla. Why I'd Buy 1 of the Stocks, Hold Another, and Sell the Third.",
+          "url": "https://www.fool.com/investing/2026/07/29/famous-investor-michael-burry-is-short-nvidia-pala/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status",
+          "url": "https://finance.yahoo.com/m/20b7db84-ba0b-39b3-8dec-9f60052331ab/how-far-tesla-stock-needs-to.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
       "ticker": "WMT",
       "rank": 6,
       "prob_up": 0.5209,
-      "sentiment_norm": 0.7144,
-      "final_score": 0.5789,
-      "price": 114.03,
-      "change_pct": -0.28,
+      "sentiment_norm": 0.7167,
+      "final_score": 0.5796,
+      "price": 114.07,
+      "change_pct": -0.24,
       "sparkline": [],
       "headlines": [
         {
@@ -165,40 +165,13 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 7,
-      "prob_up": 0.5556,
-      "sentiment_norm": 0.6314,
-      "final_score": 0.5783,
-      "price": 509.82,
-      "change_pct": -0.6,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Israel Englander's Top Disclosed Holding Is an iShares Russell 2000 ETF, a Bet on Small-Cap Stocks Broadening Out the Rally",
-          "url": "https://www.fool.com/investing/2026/07/29/israel-englanders-top-disclosed-holding-is-russell/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Berkshire Hathaway (BRK.B) Faces A Buffett Succession Test, Is The Stock Still Undervalued?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-faces-131013641.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Buffett's Berkshire Hathaway holds a record $397 billion in cash. Is a market crash coming \u2014 should you follow his lead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buffetts-berkshire-hathaway-holds-record-114500562.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "HD",
-      "rank": 8,
+      "rank": 7,
       "prob_up": 0.508,
       "sentiment_norm": 0.7218,
       "final_score": 0.5721,
-      "price": 342.52,
-      "change_pct": -0.62,
+      "price": 342.69,
+      "change_pct": -0.57,
       "sparkline": [],
       "headlines": [
         {
@@ -219,15 +192,47 @@
       ]
     },
     {
+      "ticker": "BRK-B",
+      "rank": 8,
+      "prob_up": 0.5443,
+      "sentiment_norm": 0.6337,
+      "final_score": 0.5711,
+      "price": 509.25,
+      "change_pct": -0.71,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Israel Englander's Top Disclosed Holding Is an iShares Russell 2000 ETF, a Bet on Small-Cap Stocks Broadening Out the Rally",
+          "url": "https://www.fool.com/investing/2026/07/29/israel-englanders-top-disclosed-holding-is-russell/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Berkshire Hathaway (BRK.B) Faces A Buffett Succession Test, Is The Stock Still Undervalued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-faces-131013641.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Buffett's Berkshire Hathaway holds a record $397 billion in cash. Is a market crash coming \u2014 should you follow his lead?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buffetts-berkshire-hathaway-holds-record-114500562.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
       "ticker": "JNJ",
       "rank": 9,
       "prob_up": 0.5413,
-      "sentiment_norm": 0.6385,
-      "final_score": 0.5705,
-      "price": 267.19,
-      "change_pct": -0.47,
+      "sentiment_norm": 0.6021,
+      "final_score": 0.5596,
+      "price": 267.21,
+      "change_pct": -0.46,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "GSK Beats Q2 Earnings & Revenue Estimates, Announces Cost-Saving Plan",
+          "url": "https://finance.yahoo.com/healthcare/articles/gsk-beats-q2-earnings-revenue-155200606.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Boston Scientific Cuts Outlook Amid Weak Demand for Watchman Heart Device",
           "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-cuts-outlook-amid-152702729.html?.tsrc=rss",
@@ -237,22 +242,17 @@
           "title": "The new AI trade: Visa, Shopify, and more",
           "url": "https://finance.yahoo.com/video/ai-trade-visa-shopify-more-151500705.html?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "The Best House On The Block Costs The Most: ISRG",
-          "url": "https://www.trefis.com/articles/609286/the-best-house-on-the-block-costs-the-most-isrg/2026-07-29?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "LLY",
       "rank": 10,
-      "prob_up": 0.5208,
+      "prob_up": 0.523,
       "sentiment_norm": 0.6029,
-      "final_score": 0.5454,
-      "price": 1218.53,
-      "change_pct": -0.21,
+      "final_score": 0.547,
+      "price": 1221.65,
+      "change_pct": 0.04,
       "sparkline": [],
       "headlines": [
         {
@@ -273,13 +273,121 @@
       ]
     },
     {
-      "ticker": "JPM",
+      "ticker": "V",
       "rank": 11,
-      "prob_up": 0.472,
+      "prob_up": 0.5212,
+      "sentiment_norm": 0.5922,
+      "final_score": 0.5425,
+      "price": 372.12,
+      "change_pct": 2.69,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Visa Q3 Earnings Beat Estimates on Cross-Border Volume Strength",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-q3-earnings-beat-estimates-153500281.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "The new AI trade: Visa, Shopify, and more",
+          "url": "https://finance.yahoo.com/video/ai-trade-visa-shopify-more-151500705.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 12,
+      "prob_up": 0.4732,
+      "sentiment_norm": 0.6964,
+      "final_score": 0.5401,
+      "price": 342.84,
+      "change_pct": 0.47,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Can Qualcomm secure a 'tiny slice' of the data center pie?",
+          "url": "https://finance.yahoo.com/video/can-qualcomm-secure-a-tiny-slice-of-the-data-center-pie-163320789.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Apple's Q3 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apples-q3-earnings-strong-iphone-155900810.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Ford Just Delivered Bad News for Tesla Investors",
+          "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "rank": 13,
+      "prob_up": 0.5295,
+      "sentiment_norm": 0.5567,
+      "final_score": 0.5377,
+      "price": 396.4,
+      "change_pct": 0.23,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Update: US Equity Indexes Slide Ahead of Warsh's Press Briefing, Big-Tech Results While Trump Vows to Hit Iran Hard",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-ahead-165633062.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Prediction: Microsoft Will Be Worth This In 2030",
+          "url": "https://247wallst.com/investing/2026/07/29/prediction-microsoft-will-be-worth-this-in-2030/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "rank": 14,
+      "prob_up": 0.5384,
+      "sentiment_norm": 0.5282,
+      "final_score": 0.5353,
+      "price": 567.45,
+      "change_pct": 1.15,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Visa Q3 Earnings Beat Estimates on Cross-Border Volume Strength",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-q3-earnings-beat-estimates-153500281.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Bernstein Lowers Price Target On Circle Stock",
+          "url": "https://www.cryptoprowl.com/releases/bernstein-lowers-price-target-on-circle-stock-6285?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "What To Expect From Mastercard\u2019s (MA) Q2 Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-mastercard-ma-q2-earnings-115702500.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "rank": 15,
+      "prob_up": 0.4655,
       "sentiment_norm": 0.688,
-      "final_score": 0.5368,
-      "price": 349.58,
-      "change_pct": -2.27,
+      "final_score": 0.5322,
+      "price": 349.94,
+      "change_pct": -2.17,
       "sparkline": [],
       "headlines": [
         {
@@ -301,12 +409,12 @@
     },
     {
       "ticker": "PG",
-      "rank": 12,
-      "prob_up": 0.4937,
+      "rank": 16,
+      "prob_up": 0.4871,
       "sentiment_norm": 0.6117,
-      "final_score": 0.5291,
-      "price": 145.54,
-      "change_pct": -2.25,
+      "final_score": 0.5245,
+      "price": 145.44,
+      "change_pct": -2.32,
       "sparkline": [],
       "headlines": [
         {
@@ -327,136 +435,28 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 13,
-      "prob_up": 0.5232,
-      "sentiment_norm": 0.5321,
-      "final_score": 0.5258,
-      "price": 395.63,
-      "change_pct": 0.03,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Prediction: Microsoft Will Be Worth This In 2030",
-          "url": "https://247wallst.com/investing/2026/07/29/prediction-microsoft-will-be-worth-this-in-2030/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Update: Microsoft Facing Probe in UK Over Changes to Microsoft 365 Subscription Plans",
-          "url": "https://finance.yahoo.com/technology/articles/microsoft-facing-probe-uk-over-161834290.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "NVDA",
-      "rank": 14,
-      "prob_up": 0.5203,
-      "sentiment_norm": 0.5136,
-      "final_score": 0.5183,
-      "price": 192.51,
-      "change_pct": -2.59,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade",
-          "url": "https://247wallst.com/investing/2026/07/29/nebius-drops-10-coreweave-sinks-9-as-rising-credit-swap-costs-hit-the-ai-cloud-trade/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Chip selloff overblown, UBS says, downplaying \"circular financing\" fears",
-          "url": "https://www.proactiveinvestors.com/companies/news/1096227/chip-selloff-overblown-ubs-says-downplaying-circular-financing-fears-1096227.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Is the Private Credit Boom a Gift or a Risk for BDC Income Investors?",
-          "url": "https://www.fool.com/investing/2026/07/29/is-the-private-credit-boom-a-gift-or-a-risk-for-bd/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 15,
-      "prob_up": 0.4674,
-      "sentiment_norm": 0.6359,
-      "final_score": 0.5179,
-      "price": 341.85,
-      "change_pct": 0.18,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Can Qualcomm secure a 'tiny slice' of the data center pie?",
-          "url": "https://finance.yahoo.com/video/can-qualcomm-secure-a-tiny-slice-of-the-data-center-pie-163320789.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Ford Just Delivered Bad News for Tesla Investors",
-          "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Apple says UK App Store proposal amounts to price regulation",
-          "url": "https://finance.yahoo.com/technology/articles/apple-says-uk-app-store-154808227.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "V",
-      "rank": 16,
-      "prob_up": 0.4792,
-      "sentiment_norm": 0.5922,
-      "final_score": 0.5131,
-      "price": 373.02,
-      "change_pct": 2.94,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Visa Q3 Earnings Beat Estimates on Cross-Border Volume Strength",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-q3-earnings-beat-estimates-153500281.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "The new AI trade: Visa, Shopify, and more",
-          "url": "https://finance.yahoo.com/video/ai-trade-visa-shopify-more-151500705.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
       "rank": 17,
-      "prob_up": 0.4897,
-      "sentiment_norm": 0.5282,
-      "final_score": 0.5013,
-      "price": 568.41,
-      "change_pct": 1.32,
+      "prob_up": 0.5298,
+      "sentiment_norm": 0.4872,
+      "final_score": 0.517,
+      "price": 192.73,
+      "change_pct": -2.48,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Visa Q3 Earnings Beat Estimates on Cross-Border Volume Strength",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-q3-earnings-beat-estimates-153500281.html?.tsrc=rss",
+          "title": "Fast Money Host Warns Hyperscaler CapEx Binge Is \u2018Issuing Near Junk\u2019 as Data Center Buildout Shows Cracks",
+          "url": "https://247wallst.com/investing/2026/07/29/fast-money-host-warns-hyperscaler-capex-binge-is-issuing-near-junk-as-data-center-buildout-shows-cracks/?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Bernstein Lowers Price Target On Circle Stock",
-          "url": "https://www.cryptoprowl.com/releases/bernstein-lowers-price-target-on-circle-stock-6285?.tsrc=rss",
+          "title": "Bank of America vs American Express: Only One Financial Stock Deserves Your Money",
+          "url": "https://247wallst.com/investing/2026/07/29/bank-of-america-vs-american-express-only-one-financial-stock-deserves-your-money/?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "What To Expect From Mastercard\u2019s (MA) Q2 Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-mastercard-ma-q2-earnings-115702500.html?.tsrc=rss",
+          "title": "Why Lemonade Stock Is Crashing Today",
+          "url": "https://www.fool.com/investing/2026/07/29/why-lemonade-stock-is-crashing-today/?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -464,13 +464,18 @@
     {
       "ticker": "GOOGL",
       "rank": 18,
-      "prob_up": 0.4286,
-      "sentiment_norm": 0.6546,
-      "final_score": 0.4964,
-      "price": 336.38,
-      "change_pct": 0.15,
+      "prob_up": 0.4099,
+      "sentiment_norm": 0.6924,
+      "final_score": 0.4946,
+      "price": 337.7,
+      "change_pct": 0.54,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Billionaire Money Manager Christopher Begg Bought Google at 15x Earnings. Here\u2019s Why He Calls It the Best Business in the World",
+          "url": "https://247wallst.com/investing/2026/07/29/billionaire-money-manager-christopher-begg-bought-google-at-15x-earnings-heres-why-he-calls-it-the-best-business-in-the-world/?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Amazon just made a major move to reshape its entire AI strategy",
           "url": "https://www.thestreet.com/technology/amazon-reshapes-ai-strategy-deprecating-aws-nova-premier-gemini-models?.tsrc=rss",
@@ -480,49 +485,17 @@
           "title": "Alphabet Captures 2026 AI Capex Alpha But Amazon Begins Surging in 2027",
           "url": "https://247wallst.com/investing/2026/07/29/alphabet-captures-2026-ai-capex-alpha-but-amazon-begins-surging-in-2027/?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "NanoClaw and Echo Partner to Protect AI Agents From Software Vulnerabilities",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nanoclaw-echo-partner-protect-ai-160000341.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "rank": 19,
-      "prob_up": 0.4402,
-      "sentiment_norm": 0.6211,
-      "final_score": 0.4944,
-      "price": 157.6,
-      "change_pct": 1.62,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Exxon Mobil (XOM): President Trump\u2019s Top Energy Stock Pick?",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-president-trump-142914070.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Oil Prices Spike After Iran Launches Surprise Attack on U.S. Forces",
-          "url": "https://finance.yahoo.com/m/4493abf9-8b61-3741-b657-b5892c5bb112/oil-prices-spike-after-iran.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Update: US Equity Futures Lower Pre-Bell as Middle East Hostilities Resume, Oil Prices Rise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-125355415.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "AVGO",
-      "rank": 20,
-      "prob_up": 0.5001,
+      "rank": 19,
+      "prob_up": 0.4802,
       "sentiment_norm": 0.4252,
-      "final_score": 0.4776,
-      "price": 376.01,
-      "change_pct": -2.17,
+      "final_score": 0.4637,
+      "price": 376.83,
+      "change_pct": -1.95,
       "sparkline": [],
       "headlines": [
         {
@@ -538,6 +511,33 @@
         {
           "title": "The AI Trade Is Still On: Why Nvidia Remains at the Center of It",
           "url": "https://247wallst.com/investing/2026/07/29/the-ai-trade-is-still-on-why-nvidia-remains-at-the-center-of-it/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "rank": 20,
+      "prob_up": 0.3732,
+      "sentiment_norm": 0.6211,
+      "final_score": 0.4476,
+      "price": 157.45,
+      "change_pct": 1.52,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Exxon Mobil (XOM): President Trump\u2019s Top Energy Stock Pick?",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-president-trump-142914070.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Oil Prices Spike After Iran Launches Surprise Attack on U.S. Forces",
+          "url": "https://finance.yahoo.com/m/4493abf9-8b61-3741-b657-b5892c5bb112/oil-prices-spike-after-iran.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Update: US Equity Futures Lower Pre-Bell as Middle East Hostilities Resume, Oil Prices Rise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-125355415.html?.tsrc=rss",
           "score": 0.0
         }
       ]
