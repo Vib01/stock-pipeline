@@ -1,42 +1,69 @@
 {
-  "last_updated": "2026-07-30T20:03:36Z",
+  "last_updated": "2026-07-30T21:21:30Z",
   "market_status": "closed",
   "rankings": [
     {
       "ticker": "TSLA",
       "rank": 1,
       "prob_up": 0.6989,
-      "sentiment_norm": 0.5693,
-      "final_score": 0.66,
+      "sentiment_norm": 0.5199,
+      "final_score": 0.6452,
       "price": 308.85,
       "change_pct": 4.02,
       "sparkline": [],
       "headlines": [
         {
-          "title": "TSLA Stock Breaks Losing Streak On Tesla\u2019s 10-Million Vehicle Feat",
-          "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-breaks-losing-streak-on-tesla-s-10-million-vehicle-feat/cZN5fdQRJ23?.tsrc=rss",
+          "title": "Eaton vs. Tesla: A Difference in Absolute Revenue and Revenue Volatility",
+          "url": "https://www.fool.com/coverage/charts/2026/07/30/eaton-vs-tesla-a-difference-in-absolute-revenue-and-revenue-volatility/?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Tesla Rival BYD Just Entered Musk's Next Big Market",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tesla-rival-byd-just-entered-193722689.html?.tsrc=rss",
+          "title": "Memecoins Are Trading Against Stocks Now",
+          "url": "https://www.bankless.com/read/tb?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Tesla Stock Rises as Robotaxi Service Expands to Miami",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-robotaxi-expands-191905008.html?.tsrc=rss",
+          "title": "Rivian Reports Strong Gross Profit in Pivotal Quarter",
+          "url": "https://finance.yahoo.com/m/9793be59-acb7-363f-bc68-aaccec056153/rivian-reports-strong-gross.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "rank": 2,
+      "prob_up": 0.5769,
+      "sentiment_norm": 0.6881,
+      "final_score": 0.6102,
+      "price": 539.03,
+      "change_pct": -0.64,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Dow Jones Futures: Apple, Amazon Lead Big Earnings After Microsoft Powers AI Stock Rebound",
+          "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Stock Market Today: Chips Lead Nasdaq's Fierce Rebound, But Meta Bashed",
+          "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-chips.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Update: Nasdaq Composite Snaps 6-Day Slump as Microsoft Soars",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-snaps-6-day-204416812.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "V",
-      "rank": 2,
+      "rank": 3,
       "prob_up": 0.5154,
       "sentiment_norm": 0.8119,
       "final_score": 0.6043,
-      "price": 366.23,
-      "change_pct": -1.02,
+      "price": 366.27,
+      "change_pct": -1.01,
       "sparkline": [],
       "headlines": [
         {
@@ -57,13 +84,40 @@
       ]
     },
     {
+      "ticker": "COST",
+      "rank": 4,
+      "prob_up": 0.529,
+      "sentiment_norm": 0.741,
+      "final_score": 0.5926,
+      "price": 954.17,
+      "change_pct": -1.84,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "How Costco Engineered the Perfect Gas Station",
+          "url": "https://thehustle.videonest.co/videos/2045270/how-costco-engineered-the-perfect-gas-station-Hg1xf2sOim?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Sanofi Q2 Earnings Call Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/sanofi-q2-earnings-call-highlights-2026-07-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Here's How Much You'd Have If You Invested $1000 in Costco a Decade Ago",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123002586.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
       "ticker": "UNH",
-      "rank": 3,
-      "prob_up": 0.5436,
+      "rank": 5,
+      "prob_up": 0.522,
       "sentiment_norm": 0.7447,
-      "final_score": 0.604,
-      "price": 421.49,
-      "change_pct": 0.38,
+      "final_score": 0.5888,
+      "price": 421.47,
+      "change_pct": 0.37,
       "sparkline": [],
       "headlines": [
         {
@@ -84,82 +138,28 @@
       ]
     },
     {
-      "ticker": "COST",
-      "rank": 4,
-      "prob_up": 0.529,
-      "sentiment_norm": 0.7222,
-      "final_score": 0.587,
-      "price": 954.17,
-      "change_pct": -1.84,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Sanofi Q2 Earnings Call Highlights",
-          "url": "https://www.marketbeat.com/instant-alerts/sanofi-q2-earnings-call-highlights-2026-07-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Here's How Much You'd Have If You Invested $1000 in Costco a Decade Ago",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123002586.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Costco customers may qualify for $14M settlement",
-          "url": "https://www.thestreet.com/retail/costco-14-million-email-settlement-how-to-claim?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 5,
-      "prob_up": 0.5769,
-      "sentiment_norm": 0.5958,
-      "final_score": 0.5826,
-      "price": 539.03,
-      "change_pct": -0.64,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Stock Market Today: Nasdaq Rebounds As Chips Leap; Oil Down As Gaming Stock Plunges (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-microsoft-sustains-195811777.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Sector Update: Tech Stocks Sharply Higher Late Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-sharply-higher-193549984.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "PG",
+      "ticker": "AMZN",
       "rank": 6,
-      "prob_up": 0.537,
-      "sentiment_norm": 0.6659,
-      "final_score": 0.5756,
-      "price": 143.95,
-      "change_pct": -1.2,
+      "prob_up": 0.5256,
+      "sentiment_norm": 0.7359,
+      "final_score": 0.5887,
+      "price": 235.5,
+      "change_pct": 2.36,
       "sparkline": [],
       "headlines": [
         {
-          "title": "P&G Stock Falls 1.8% as $1 Billion Cost Hit Looms",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-g-stock-falls-1-195132308.html?.tsrc=rss",
+          "title": "Amazon earnings: AWS's growth rate 'no doubt' justifies the big AI spending",
+          "url": "https://finance.yahoo.com/video/amazon-earnings-awss-growth-rate-211204681.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Publicis Is Winning the AI Advertising Race, and Its Stock Still Looks Cheap",
-          "url": "https://finance.yahoo.com/m/d9a56603-eea9-3ad4-9b00-43f50bd7fb48/publicis-is-winning-the-ai.html?.tsrc=rss",
+          "title": "Dow Jones Futures: Apple, Amazon Lead Big Earnings After Microsoft Powers AI Stock Rebound",
+          "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Procter & Gamble's Fiscal 2027 Guidance Reflects Prudent View of Market Realities, RBC Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-apos-fiscal-2027-164923586.html?.tsrc=rss",
+          "title": "AMZN Stock Soars 7% After-Hours \u2014 Amazon\u2019s Q2\u201926 AWS Sales Grow At Fastest Pace In Five Years",
+          "url": "https://stocktwits.com/news-articles/markets/equity/amazon-q226-aws-sales-grow-at-fastest-pace-in-five-years/cZN5XUFRJ24?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -168,12 +168,17 @@
       "ticker": "BRK-B",
       "rank": 7,
       "prob_up": 0.5443,
-      "sentiment_norm": 0.6431,
-      "final_score": 0.574,
-      "price": 509.74,
-      "change_pct": 0.14,
+      "sentiment_norm": 0.6782,
+      "final_score": 0.5845,
+      "price": 509.68,
+      "change_pct": 0.13,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "This Berkshire ETF Costs 20 Times More Than Owning BRK-B Directly\u2014Here\u2019s Why",
+          "url": "https://247wallst.com/investing/etf/2026/07/30/this-berkshire-etf-costs-20-times-more-than-owning-brk-b-directly-heres-why/?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Billionaire Charlie Munger, 99, Said Want to Ruin Your Life? Spend It Trying to Change Your Spouse \u2014 Marry the \u2018Best Person Who Will Have You\u2019",
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-charlie-munger-99-said-173027188.html?.tsrc=rss",
@@ -183,37 +188,32 @@
           "title": "Does This Top Warren Buffett Stock Have the Widest Moat in Payments?",
           "url": "https://www.fool.com/investing/2026/07/30/top-warren-buffett-stock-widest-moat-payments/?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "4 Dow Jones Industrial Giants Make Up 50% of Warren Buffett\u2019s Berkshire Hathaway Portfolio",
-          "url": "https://247wallst.com/investing/2026/07/30/4-dow-jones-industrial-giants-make-up-50-of-warren-buffetts-berkshire-hathaway-portfolio/?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
-      "ticker": "AMZN",
+      "ticker": "AVGO",
       "rank": 8,
-      "prob_up": 0.5256,
-      "sentiment_norm": 0.6673,
-      "final_score": 0.5681,
-      "price": 235.5,
-      "change_pct": 2.36,
+      "prob_up": 0.5655,
+      "sentiment_norm": 0.6111,
+      "final_score": 0.5792,
+      "price": 387.84,
+      "change_pct": 4.0,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Amazon Stock Jumps 5.2% as $200 Billion AI Test Nears",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-jumps-5-2-195416572.html?.tsrc=rss",
+          "title": "The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense",
+          "url": "https://www.trefis.com/articles/609483/the-growth-that-has-to-land-for-advanced-micro-devices-stock-to-make-sense/2026-07-30?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Update: US Equity Indexes Surge as Microsoft's Quarterly Results Spark Rebound in Chipmakers Ahead of Amazon's Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-microsoft-193220991.html?.tsrc=rss",
+          "title": "NVDA Stock: Where Compounding Could Take The Price",
+          "url": "https://www.trefis.com/articles/609450/nvda-stock-where-compounding-could-take-the-price/2026-07-30?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Cathie Wood Invests $28.7 Million in Two High-Stakes Tech Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-28-7-191401816.html?.tsrc=rss",
+          "title": "Google To Guarantee Billions For Anthropic's Lease Of Data Centers",
+          "url": "https://www.mediapost.com/publications/article/416923/google-to-guarantee-billions-for-anthropics-lease.html?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -222,12 +222,17 @@
       "ticker": "LLY",
       "rank": 9,
       "prob_up": 0.5283,
-      "sentiment_norm": 0.6314,
-      "final_score": 0.5593,
-      "price": 1155.27,
-      "change_pct": -4.36,
+      "sentiment_norm": 0.6484,
+      "final_score": 0.5644,
+      "price": 1154.97,
+      "change_pct": -4.38,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Dow Jones Futures: Apple, Amazon Lead Big Earnings After Microsoft Powers AI Stock Rebound",
+          "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
           "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-194608510.html?.tsrc=rss",
@@ -237,105 +242,24 @@
           "title": "Sector Update: Healthcare Stocks Decline Thursday Afternoon",
           "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-thursday-173531275.html?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "Should You Buy, Sell or Hold Merck Stock Ahead of Q2 Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-merck-stock-171500419.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 10,
-      "prob_up": 0.5395,
-      "sentiment_norm": 0.5868,
-      "final_score": 0.5537,
-      "price": 195.04,
-      "change_pct": 1.98,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-microsoft-sustains-195811777.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "TSMC's next AI chip move sends Intel stock soaring",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmcs-next-ai-chip-move-195343067.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "AMD Stock Has Surged 364% in 5 Years. History Suggests That It Will Become a Multibagger By 2030",
-          "url": "https://www.fool.com/investing/2026/07/30/amd-stock-has-surged-364-in-5-years-history-sugges/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "rank": 11,
-      "prob_up": 0.5655,
-      "sentiment_norm": 0.5179,
-      "final_score": 0.5512,
-      "price": 387.84,
-      "change_pct": 4.0,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Marvell Stock Sits Far Below Its High, But Its Operating Margin Has Kept Climbing",
-          "url": "https://www.trefis.com/articles/609515/marvell-stock-sits-far-below-its-high-but-its-operating-margin-has-kept-climbing/2026-07-30?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Citadel buys most of Situational's stock holdings after AI share rout, sources say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citadel-buys-most-situationals-stock-180422112.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "AI Accelerators and Networking Fuel Broadcom's Growth: What's Ahead?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-accelerators-networking-fuel-broadcoms-180400790.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "rank": 12,
-      "prob_up": 0.4818,
-      "sentiment_norm": 0.711,
-      "final_score": 0.5506,
-      "price": 577.64,
-      "change_pct": 2.59,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Mastercard\u2019s Earnings Beat Shows It\u2019s Much More Than a Card Company",
-          "url": "https://finance.yahoo.com/m/f2449616-d98e-3e59-869f-d707578877af/mastercard%E2%80%99s-earnings-beat.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Sector Update: Financial Stocks Advance Thursday Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-thursday-174309107.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "How Mastercard plans to compete in agentic commerce",
-          "url": "https://www.americanbanker.com/payments/news/mastercard-touts-agentic-ai-tools-during-earnings-call?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "HD",
-      "rank": 13,
+      "rank": 10,
       "prob_up": 0.493,
-      "sentiment_norm": 0.675,
-      "final_score": 0.5476,
-      "price": 333.33,
-      "change_pct": -1.67,
+      "sentiment_norm": 0.7055,
+      "final_score": 0.5568,
+      "price": 333.35,
+      "change_pct": -1.66,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "The Home Depot Announces Organizational Realignment to Provide a More Seamless Customer Experience, Drive Growth and Capture Market Share",
+          "url": "https://finance.yahoo.com/small-business/articles/home-depot-announces-organizational-realignment-200600753.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "MAC.BID Brings $1 Online Auctions & Deep Retail Discounts to the St. Louis Metro",
           "url": "https://finance.yahoo.com/small-business/articles/mac-bid-brings-1-online-221900110.html?.tsrc=rss",
@@ -345,17 +269,12 @@
           "title": "Home Depot (HD) Dips More Than Broader Market: What You Should Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-dips-more-214503926.html?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "C.H. Robinson Faces $604 Million Verdict: What Vicarious Liability and Negligent Hiring Mean for Brokers After Montgomery and Home Depot",
-          "url": "https://finance.yahoo.com/small-business/articles/c-h-robinson-faces-604-124003238.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "WMT",
-      "rank": 14,
+      "rank": 11,
       "prob_up": 0.491,
       "sentiment_norm": 0.6663,
       "final_score": 0.5436,
@@ -381,40 +300,148 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 15,
-      "prob_up": 0.462,
-      "sentiment_norm": 0.6694,
-      "final_score": 0.5242,
-      "price": 451.1,
-      "change_pct": 6.14,
+      "ticker": "PG",
+      "rank": 12,
+      "prob_up": 0.4848,
+      "sentiment_norm": 0.6803,
+      "final_score": 0.5434,
+      "price": 143.96,
+      "change_pct": -1.19,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Nasdaq Rebounds As Chips Leap; Oil Down As Gaming Stock Plunges (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+          "title": "Why e.l.f. & Est\u00e9e Lauder benefit from inflation",
+          "url": "https://finance.yahoo.com/video/why-e-l-f-est-211647478.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-microsoft-sustains-195811777.html?.tsrc=rss",
+          "title": "P&G Stock Falls 1.8% as $1 Billion Cost Hit Looms",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-g-stock-falls-1-195132308.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Expect to see less stock buybacks from Big Tech as companies ramp up AI capex",
-          "url": "https://finance.yahoo.com/video/expect-see-less-stock-buybacks-195451803.html?.tsrc=rss",
+          "title": "Publicis Is Winning the AI Advertising Race, and Its Stock Still Looks Cheap",
+          "url": "https://finance.yahoo.com/m/d9a56603-eea9-3ad4-9b00-43f50bd7fb48/publicis-is-winning-the-ai.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "rank": 13,
+      "prob_up": 0.4666,
+      "sentiment_norm": 0.7176,
+      "final_score": 0.5419,
+      "price": 333.66,
+      "change_pct": -0.66,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Update: US Equity Indexes Surge as Microsoft Triggers Rebound in Chipmakers While Inflation Rate Falls in June",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-microsoft-204930306.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Amazon Stock Surges on Results and Anthropic Earnings Boost",
+          "url": "https://finance.yahoo.com/m/ea73fca7-9c15-3ed5-b252-134122fe1c71/amazon-stock-surges-on.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Nvidia Stock Is Showing Signs of Life. What\u2019s Driving the Rebound.",
+          "url": "https://finance.yahoo.com/m/fe1e2ac6-d4ba-3c64-85a4-806285ed89fb/nvidia-stock-is-showing-signs.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "rank": 14,
+      "prob_up": 0.4818,
+      "sentiment_norm": 0.6775,
+      "final_score": 0.5405,
+      "price": 577.35,
+      "change_pct": 2.54,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-195214924.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Mastercard\u2019s Earnings Beat Shows It\u2019s Much More Than a Card Company",
+          "url": "https://finance.yahoo.com/m/f2449616-d98e-3e59-869f-d707578877af/mastercard%E2%80%99s-earnings-beat.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Sector Update: Financial Stocks Advance Thursday Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-thursday-174309107.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 15,
+      "prob_up": 0.4881,
+      "sentiment_norm": 0.6475,
+      "final_score": 0.5359,
+      "price": 333.43,
+      "change_pct": -1.93,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Apple earnings: iPhone prices are 'not immune' to rising memory costs",
+          "url": "https://finance.yahoo.com/video/apple-earnings-iphone-prices-not-211500247.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Apple Q3 2026 earnings beat estimates but services revenue misses",
+          "url": "https://qz.com/apple-q3-2026-earnings-record-june-quarter-073026?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Memecoins Are Trading Against Stocks Now",
+          "url": "https://www.bankless.com/read/tb?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 16,
+      "prob_up": 0.5395,
+      "sentiment_norm": 0.5076,
+      "final_score": 0.53,
+      "price": 195.04,
+      "change_pct": 1.98,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Fed Chair Kevin Warsh Is Stuck Between a Rock and a Hard Place. And It Could Be a Problem for the Market",
+          "url": "https://www.fool.com/investing/2026/07/30/kevin-warsh-is-stuck-between-a-rock-and-a-hard-pla/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Memecoins Are Trading Against Stocks Now",
+          "url": "https://www.bankless.com/read/tb?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "The Southern Company Q2 2026 Earnings Call Summary",
+          "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-southern-company-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 16,
+      "rank": 17,
       "prob_up": 0.5178,
-      "sentiment_norm": 0.5138,
-      "final_score": 0.5166,
-      "price": 350.93,
-      "change_pct": 1.44,
+      "sentiment_norm": 0.5545,
+      "final_score": 0.5288,
+      "price": 350.85,
+      "change_pct": 1.41,
       "sparkline": [],
       "headlines": [
         {
@@ -435,109 +462,82 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "rank": 17,
-      "prob_up": 0.4666,
-      "sentiment_norm": 0.6015,
-      "final_score": 0.507,
-      "price": 333.66,
-      "change_pct": -0.66,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Google Expands Its Robotics AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/google-expands-robotics-ai-200214038.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Expect to see less stock buybacks from Big Tech as companies ramp up AI capex",
-          "url": "https://finance.yahoo.com/video/expect-see-less-stock-buybacks-195451803.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Why Oracle Stock Just Jumped",
-          "url": "https://www.fool.com/investing/2026/07/30/why-oracle-stock-just-jumped/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "JNJ",
+      "ticker": "MSFT",
       "rank": 18,
-      "prob_up": 0.4747,
-      "sentiment_norm": 0.5672,
-      "final_score": 0.5025,
-      "price": 255.88,
-      "change_pct": -2.04,
+      "prob_up": 0.462,
+      "sentiment_norm": 0.6839,
+      "final_score": 0.5286,
+      "price": 451.1,
+      "change_pct": 6.14,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
-          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-194608510.html?.tsrc=rss",
+          "title": "Dow Jones Futures: Apple, Amazon Lead Big Earnings After Microsoft Powers AI Stock Rebound",
+          "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Bristol Myers Stock Rises. Why the Drugmaker Is Lifting Its Earnings Guidance.",
-          "url": "https://finance.yahoo.com/m/a94817ef-1fdd-3d60-bbcb-05b65b0ba021/bristol-myers-stock-rises..html?.tsrc=rss",
+          "title": "Update: US Equity Indexes Surge as Microsoft Triggers Rebound in Chipmakers While Inflation Rate Falls in June",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-microsoft-204930306.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Sector Update: Healthcare Stocks Decline Thursday Afternoon",
-          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-thursday-173531275.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 19,
-      "prob_up": 0.4881,
-      "sentiment_norm": 0.4528,
-      "final_score": 0.4775,
-      "price": 333.43,
-      "change_pct": -1.93,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Stock Market Today: Nasdaq Rebounds As Chips Leap; Oil Down As Gaming Stock Plunges (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Qualcomm Stock Falls 3.1% as Nine Analysts Cut Targets",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-falls-3-1-195735279.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Apple Stock Falls Nearly 2% Before Earnings as Upgrade Program Launches",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-nearly-2-195302646.html?.tsrc=rss",
+          "title": "Stock Market Today: Chips Lead Nasdaq's Fierce Rebound, But Meta Bashed",
+          "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-chips.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "XOM",
-      "rank": 20,
+      "rank": 19,
       "prob_up": 0.4591,
-      "sentiment_norm": 0.5028,
-      "final_score": 0.4722,
-      "price": 157.08,
-      "change_pct": 0.18,
+      "sentiment_norm": 0.6355,
+      "final_score": 0.512,
+      "price": 156.97,
+      "change_pct": 0.11,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Sector Update: Energy Stocks Mixed Thursday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-thursday-174918226.html?.tsrc=rss",
+          "title": "Exxon Earnings, Chevron Earnings Face Steep Expectations: A Triple-Digit Profit Spurt",
+          "url": "https://finance.yahoo.com/m/99e478d7-73a0-353b-a726-c70ddb3f43a4/exxon-earnings%2C-chevron.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Exxon Earnings Will Show What It Plans to Do With Its Cash Windfall",
+          "url": "https://finance.yahoo.com/m/0544ba56-6bd4-30a2-9dba-817404f80720/exxon-earnings-will-show-what.html?.tsrc=rss",
           "score": 0.0
         },
         {
           "title": "ExxonMobil Earnings: What To Look For From XOM",
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-earnings-look-xom-142102855.html?.tsrc=rss",
           "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "rank": 20,
+      "prob_up": 0.4747,
+      "sentiment_norm": 0.5622,
+      "final_score": 0.5009,
+      "price": 255.82,
+      "change_pct": -2.06,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Johnson & Johnson Just Got FDA Clearance for Its Surgical Robot, Hiked Its Dividend for the 64th Time, and Is Targeting $100 Billion in Revenue. But Here's What Investors Should Be Most Excited About",
+          "url": "https://www.fool.com/investing/2026/07/30/johnson-johnson-just-got-fda-clearance-for-its-sur/?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Chord Energy, Murphy Oil, Genesis Energy, ExxonMobil, and ConocoPhillips Stocks Trade Up, What You Need To Know",
-          "url": "https://finance.yahoo.com/energy/articles/chord-energy-murphy-oil-genesis-104502529.html?.tsrc=rss",
+          "title": "Contineum Therapeutics Reports Second-Quarter 2026 Financial Results; Affirms Key Clinical Development Milestones",
+          "url": "https://finance.yahoo.com/healthcare/articles/contineum-therapeutics-reports-second-quarter-200500999.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
+          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-194608510.html?.tsrc=rss",
           "score": 0.0
         }
       ]
