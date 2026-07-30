@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-07-30T14:48:07Z",
+  "last_updated": "2026-07-30T15:17:54Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "TSLA",
       "rank": 1,
-      "prob_up": 0.7014,
-      "sentiment_norm": 0.591,
-      "final_score": 0.6683,
-      "price": 306.26,
-      "change_pct": 3.15,
+      "prob_up": 0.7215,
+      "sentiment_norm": 0.6109,
+      "final_score": 0.6884,
+      "price": 304.27,
+      "change_pct": 2.48,
       "sparkline": [],
       "headlines": [
         {
+          "title": "Mark Zuckerberg\u2019s Wealth Plunges $25 Billion",
+          "url": "https://247wallst.com/investing/2026/07/30/mark-zuckerbergs-wealth-plunges-25-billion/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "TSMC Stock Gains On Report Of Developing 'EMIB-Like' Chips To Counter Intel's AI Threat",
+          "url": "https://stocktwits.com/news-articles/markets/equity/tsmc-stock-gains-developing-emib-like-intel-chips/cZN554qRJcq?.tsrc=rss",
+          "score": 0.0
+        },
+        {
           "title": "Tesla Eyes Its Worst July as Cathie Wood Buys the Dip. Who\u2019s Right?",
           "url": "https://247wallst.com/investing/2026/07/30/tesla-eyes-its-worst-july-as-cathie-wood-buys-the-dip-whos-right/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Goldman Upgrades Chinese Tesla Rival. New Releases Spur 'Successful Turnaround.'",
-          "url": "https://finance.yahoo.com/m/c77ab3de-c11f-31c2-be38-1dcd07d689b1/goldman-upgrades-chinese.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Virtuix Lands Tesla as First Omni One Enterprise Customer, Signaling Major Push into Humanoid Robotics",
-          "url": "https://finance.yahoo.com/technology/ai/articles/virtuix-lands-tesla-first-omni-131100175.html?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -32,38 +32,92 @@
     {
       "ticker": "META",
       "rank": 2,
-      "prob_up": 0.6124,
-      "sentiment_norm": 0.559,
-      "final_score": 0.5963,
-      "price": 532.76,
-      "change_pct": -1.79,
+      "prob_up": 0.573,
+      "sentiment_norm": 0.665,
+      "final_score": 0.6006,
+      "price": 535.36,
+      "change_pct": -1.31,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Post Earnings Clarity: Now Investors Know How to View Microsoft and Meta",
-          "url": "https://247wallst.com/investing/2026/07/30/post-earnings-clarity-now-investors-know-how-to-view-microsoft-and-meta/?.tsrc=rss",
+          "title": "Why Meta Platforms Stock Fell 10% Today",
+          "url": "https://www.fool.com/investing/2026/07/30/why-meta-platforms-stock-fell-10-today/?.tsrc=rss",
           "score": 0.0
         },
+        {
+          "title": "Scale AI taps former Google Cloud executive as CEO",
+          "url": "https://finance.yahoo.com/technology/ai/articles/scale-ai-taps-former-google-150409834.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Meta is in need of a new 'lead singer' beyond advertising: Brent Thill",
+          "url": "https://finance.yahoo.com/video/meta-is-in-need-of-a-new-lead-singer-beyond-advertising-brent-thill-150139791.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "rank": 3,
+      "prob_up": 0.5487,
+      "sentiment_norm": 0.7077,
+      "final_score": 0.5964,
+      "price": 111.39,
+      "change_pct": -2.72,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "RHP Properties Purchases All-Age Manufactured Home Community in Delaware's Capital Region with a Total of 346 Home Sites",
+          "url": "https://finance.yahoo.com/real-estate/articles/rhp-properties-purchases-age-manufactured-130000884.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Madison Reed Appoints Consumer Investor and Brand-Builder Jay Sammons to Its Board of Directors",
+          "url": "https://finance.yahoo.com/small-business/articles/madison-reed-appoints-consumer-investor-130000163.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Greene Concepts Expands Walmart Presence as Be Water(TM) Unites Premium Hydration and Positive Living",
+          "url": "https://finance.yahoo.com/small-business/articles/greene-concepts-expands-walmart-presence-114500791.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 4,
+      "prob_up": 0.5433,
+      "sentiment_norm": 0.6988,
+      "final_score": 0.5899,
+      "price": 383.89,
+      "change_pct": 2.94,
+      "sparkline": [],
+      "headlines": [
         {
           "title": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here",
           "url": "https://247wallst.com/investing/2026/07/30/amd-is-down-18-over-a-month-one-analyst-targets-1250-meaning-190-returns-from-here/?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "ORCL Stock Gains After Google\u2019s Gemini Joins Meta, OpenAI, xAI In Oracle\u2019s AI Model Lineup",
-          "url": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-gains-after-google-gemini-joins-meta-open-ai-x-ai-in-oracle/cZN5PRkRJc8?.tsrc=rss",
+          "title": "Is It Worth Investing in Broadcom Inc. (AVGO) Based on Wall Street's Bullish Views?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-broadcom-inc-avgo-133003837.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "SPMO ETF Hides A Heavy Tech Tilt",
+          "url": "https://www.trefis.com/articles/609471/spmo-etf-hides-a-heavy-tech-tilt/2026-07-30?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "COST",
-      "rank": 3,
+      "rank": 5,
       "prob_up": 0.529,
       "sentiment_norm": 0.7222,
       "final_score": 0.587,
-      "price": 954.18,
-      "change_pct": -1.84,
+      "price": 954.09,
+      "change_pct": -1.85,
       "sparkline": [],
       "headlines": [
         {
@@ -85,12 +139,12 @@
     },
     {
       "ticker": "V",
-      "rank": 4,
-      "prob_up": 0.5213,
+      "rank": 6,
+      "prob_up": 0.5175,
       "sentiment_norm": 0.7391,
-      "final_score": 0.5866,
-      "price": 361.55,
-      "change_pct": -2.28,
+      "final_score": 0.584,
+      "price": 361.4,
+      "change_pct": -2.32,
       "sparkline": [],
       "headlines": [
         {
@@ -112,12 +166,12 @@
     },
     {
       "ticker": "BRK-B",
-      "rank": 5,
-      "prob_up": 0.5205,
+      "rank": 7,
+      "prob_up": 0.5128,
       "sentiment_norm": 0.7306,
-      "final_score": 0.5835,
-      "price": 502.7,
-      "change_pct": -1.24,
+      "final_score": 0.5781,
+      "price": 502.41,
+      "change_pct": -1.3,
       "sparkline": [],
       "headlines": [
         {
@@ -138,67 +192,13 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "rank": 6,
-      "prob_up": 0.5433,
-      "sentiment_norm": 0.6737,
-      "final_score": 0.5824,
-      "price": 385.2,
-      "change_pct": 3.3,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here",
-          "url": "https://247wallst.com/investing/2026/07/30/amd-is-down-18-over-a-month-one-analyst-targets-1250-meaning-190-returns-from-here/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Is It Worth Investing in Broadcom Inc. (AVGO) Based on Wall Street's Bullish Views?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-broadcom-inc-avgo-133003837.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "SPMO ETF Hides A Heavy Tech Tilt",
-          "url": "https://www.trefis.com/articles/609471/spmo-etf-hides-a-heavy-tech-tilt/2026-07-30?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 7,
-      "prob_up": 0.5213,
-      "sentiment_norm": 0.7077,
-      "final_score": 0.5772,
-      "price": 111.79,
-      "change_pct": -2.37,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "RHP Properties Purchases All-Age Manufactured Home Community in Delaware's Capital Region with a Total of 346 Home Sites",
-          "url": "https://finance.yahoo.com/real-estate/articles/rhp-properties-purchases-age-manufactured-130000884.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Madison Reed Appoints Consumer Investor and Brand-Builder Jay Sammons to Its Board of Directors",
-          "url": "https://finance.yahoo.com/small-business/articles/madison-reed-appoints-consumer-investor-130000163.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Greene Concepts Expands Walmart Presence as Be Water(TM) Unites Premium Hydration and Positive Living",
-          "url": "https://finance.yahoo.com/small-business/articles/greene-concepts-expands-walmart-presence-114500791.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "UNH",
       "rank": 8,
-      "prob_up": 0.5106,
+      "prob_up": 0.5233,
       "sentiment_norm": 0.6802,
-      "final_score": 0.5615,
-      "price": 418.99,
-      "change_pct": -0.22,
+      "final_score": 0.5704,
+      "price": 419.96,
+      "change_pct": 0.01,
       "sparkline": [],
       "headlines": [
         {
@@ -219,67 +219,13 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 9,
-      "prob_up": 0.5395,
-      "sentiment_norm": 0.5825,
-      "final_score": 0.5524,
-      "price": 195.18,
-      "change_pct": 2.05,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Can Opendoor Escape Penny-Stock Limbo? 5 Companies That Could Make the Deal",
-          "url": "https://247wallst.com/investing/2026/07/30/can-opendoor-escape-penny-stock-limbo-5-companies-that-could-make-the-deal/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Prediction: Apple Will Become a $5 Trillion Company on July 30",
-          "url": "https://www.fool.com/investing/2026/07/30/prediction-apple-will-become-a-5-trillion-company/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Why Sandisk Stock Finally Popped Today",
-          "url": "https://www.fool.com/investing/2026/07/30/why-sandisk-stock-finally-popped-today/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "rank": 10,
-      "prob_up": 0.4552,
-      "sentiment_norm": 0.7706,
-      "final_score": 0.5498,
-      "price": 568.64,
-      "change_pct": 0.99,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Mastercard Q2 2026 earnings beat on revenue, payment network growth",
-          "url": "https://qz.com/mastercard-earnings-revenue-payment-network-digital-services-073026?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Mastercard beats Q2 estimates on strong consumer spending, cross-border payments",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-beats-q2-estimates-strong-124801452.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Mastercard Stock Rises as Earnings Get Boost From Growth in Payments Network",
-          "url": "https://finance.yahoo.com/m/f2449616-d98e-3e59-869f-d707578877af/mastercard-stock-rises-as.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "HD",
-      "rank": 11,
-      "prob_up": 0.4918,
+      "rank": 9,
+      "prob_up": 0.5192,
       "sentiment_norm": 0.675,
-      "final_score": 0.5468,
-      "price": 333.3,
-      "change_pct": -1.68,
+      "final_score": 0.566,
+      "price": 332.43,
+      "change_pct": -1.94,
       "sparkline": [],
       "headlines": [
         {
@@ -300,40 +246,121 @@
       ]
     },
     {
-      "ticker": "PG",
-      "rank": 12,
-      "prob_up": 0.5059,
-      "sentiment_norm": 0.6318,
-      "final_score": 0.5437,
-      "price": 142.56,
-      "change_pct": -2.16,
+      "ticker": "AAPL",
+      "rank": 10,
+      "prob_up": 0.5578,
+      "sentiment_norm": 0.5349,
+      "final_score": 0.5509,
+      "price": 331.69,
+      "change_pct": -2.44,
       "sparkline": [],
       "headlines": [
         {
-          "title": "HSBC downgrades Procter & Gamble to Hold as reinvestment weighs on growth outlook",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-downgrades-procter-gamble-hold-134507516.html?.tsrc=rss",
+          "title": "Apple stock is at a record \u2014 how to cushion gains ahead of earnings: AlphaSpace Options Playbook",
+          "url": "https://finance.yahoo.com/markets/article/apple-stock-is-at-a-record--how-to-cushion-gains-ahead-of-earnings-alphaspace-options-playbook-150631136.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Humana upgraded, Las Vegas Sands downgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/humana-upgraded-las-vegas-sands-133822539.html?.tsrc=rss",
+          "title": "TSMC Stock Gains On Report Of Developing 'EMIB-Like' Chips To Counter Intel's AI Threat",
+          "url": "https://stocktwits.com/news-articles/markets/equity/tsmc-stock-gains-developing-emib-like-intel-chips/cZN554qRJcq?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Downy Introduces an Immersive Fragrance Experience Where Consumers Can Step Inside the World Behind Luxury Laundry Scent",
-          "url": "https://finance.yahoo.com/media-advertising/articles/downy-introduces-immersive-fragrance-experience-130000549.html?.tsrc=rss",
+          "title": "Stock Market Today: Dow, Nasdaq Rebound Sharply; Fortinet Up, Meta Slammed After Earnings (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 11,
+      "prob_up": 0.5051,
+      "sentiment_norm": 0.6419,
+      "final_score": 0.5461,
+      "price": 194.18,
+      "change_pct": 1.53,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Why Meta Platforms Stock Fell 10% Today",
+          "url": "https://www.fool.com/investing/2026/07/30/why-meta-platforms-stock-fell-10-today/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "2 Power Stocks Riding the AI Electricity Boom. Which Is Best for Your Portfolio?",
+          "url": "https://www.fool.com/investing/2026/07/30/2-power-stocks-riding-the-ai-electricity-boom/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Can Nvidia Reclaim $5 Trillion? Jensen Huang\u2019s Bullish AI Call Says Yes",
+          "url": "https://247wallst.com/investing/2026/07/30/can-nvidia-reclaim-5-trillion-jensen-huangs-bullish-ai-call-says-yes/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "rank": 12,
+      "prob_up": 0.4669,
+      "sentiment_norm": 0.7294,
+      "final_score": 0.5457,
+      "price": 570.41,
+      "change_pct": 1.31,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "MasterCard (MA) Reports Q2 Earnings: What Key Metrics Have to Say",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-reports-q2-earnings-140002661.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "MasterCard (MA) Q2 Earnings and Revenues Surpass Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-q2-earnings-revenues-133505664.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Mastercard Q2 2026 earnings beat on revenue, payment network growth",
+          "url": "https://qz.com/mastercard-earnings-revenue-payment-network-digital-services-073026?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "rank": 13,
+      "prob_up": 0.4993,
+      "sentiment_norm": 0.5984,
+      "final_score": 0.529,
+      "price": 347.45,
+      "change_pct": 0.43,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Situational Awareness sells public equities book following steep losses: CNBC",
+          "url": "https://blockspace.media/insight/situational-awareness-unwinds-ai-trades-liquidity-2026/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "US GDP Growth Softens Despite Strong Consumer, Investment",
+          "url": "https://finance.yahoo.com/news/us-gdp-growth-softens-despite-134637542.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "JPMorgan downgrades Pirelli to Neutral despite solid first-half results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-downgrades-pirelli-neutral-despite-132831103.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "LLY",
-      "rank": 13,
-      "prob_up": 0.5021,
+      "rank": 14,
+      "prob_up": 0.4968,
       "sentiment_norm": 0.5835,
-      "final_score": 0.5265,
-      "price": 1161.2,
-      "change_pct": -3.87,
+      "final_score": 0.5228,
+      "price": 1156.57,
+      "change_pct": -4.25,
       "sparkline": [],
       "headlines": [
         {
@@ -355,54 +382,27 @@
     },
     {
       "ticker": "AMZN",
-      "rank": 14,
-      "prob_up": 0.479,
-      "sentiment_norm": 0.6303,
-      "final_score": 0.5244,
-      "price": 237.33,
-      "change_pct": 3.15,
+      "rank": 15,
+      "prob_up": 0.4801,
+      "sentiment_norm": 0.6142,
+      "final_score": 0.5203,
+      "price": 236.8,
+      "change_pct": 2.92,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Amazon Stock Climbs With Earnings Due. Google And Microsoft Just Raised The Cloud Stakes.",
+          "url": "https://finance.yahoo.com/m/9771509c-0bce-3fb1-b960-6d7d5a5facab/amazon-stock-climbs-with.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Stock Market Today: Dow, Nasdaq Rebound Sharply; Fortinet Up, Meta Slammed After Earnings (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Can Opendoor Escape Penny-Stock Limbo? 5 Companies That Could Make the Deal",
           "url": "https://247wallst.com/investing/2026/07/30/can-opendoor-escape-penny-stock-limbo-5-companies-that-could-make-the-deal/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Microsoft stock surges on earnings: A closer look at Copilot, Azure, and capex",
-          "url": "https://finance.yahoo.com/video/microsoft-stock-surges-earnings-closer-142000679.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Take Action Before Earnings Release: How to Play Apple and Amazon",
-          "url": "https://247wallst.com/investing/2026/07/30/take-action-before-earnings-release-how-to-play-apple-and-amazon/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 15,
-      "prob_up": 0.5132,
-      "sentiment_norm": 0.5267,
-      "final_score": 0.5172,
-      "price": 332.07,
-      "change_pct": -2.33,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "QCOM Stock Has Lost 41% In Two Months \u2014 Wall Street Turns Cautious After Qualcomm Warns AAPL's Exit Is Accelerating",
-          "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-lost-41-two-months-qualcomm-warns-aapl-exit-accelerating/cZN5PL4RJco?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Take Action Before Earnings Release: How to Play Apple and Amazon",
-          "url": "https://247wallst.com/investing/2026/07/30/take-action-before-earnings-release-how-to-play-apple-and-amazon/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "If you financed your iPhone with Apple, read this now",
-          "url": "https://www.thestreet.com/technology/apple-kills-iphone-upgrade-program?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -410,80 +410,80 @@
     {
       "ticker": "MSFT",
       "rank": 16,
-      "prob_up": 0.4593,
-      "sentiment_norm": 0.6388,
-      "final_score": 0.5132,
-      "price": 451.42,
-      "change_pct": 6.21,
+      "prob_up": 0.4518,
+      "sentiment_norm": 0.6681,
+      "final_score": 0.5167,
+      "price": 444.14,
+      "change_pct": 4.5,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Microsoft stock surges on earnings: A closer look at Copilot, Azure, and capex",
-          "url": "https://finance.yahoo.com/video/microsoft-stock-surges-earnings-closer-142000679.html?.tsrc=rss",
+          "title": "Amazon Stock Climbs With Earnings Due. Google And Microsoft Just Raised The Cloud Stakes.",
+          "url": "https://finance.yahoo.com/m/9771509c-0bce-3fb1-b960-6d7d5a5facab/amazon-stock-climbs-with.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Post Earnings Clarity: Now Investors Know How to View Microsoft and Meta",
-          "url": "https://247wallst.com/investing/2026/07/30/post-earnings-clarity-now-investors-know-how-to-view-microsoft-and-meta/?.tsrc=rss",
+          "title": "Meta is in need of a new 'lead singer' beyond advertising: Brent Thill",
+          "url": "https://finance.yahoo.com/video/meta-is-in-need-of-a-new-lead-singer-beyond-advertising-brent-thill-150139791.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Chip stocks are rebounding \u2014 except for Qualcomm: Why it might just be a 'one off'",
-          "url": "https://finance.yahoo.com/video/chip-stocks-rebounding-except-qualcomm-140656227.html?.tsrc=rss",
+          "title": "Meta Should Give Up On AI, Focus On Surging Social",
+          "url": "https://247wallst.com/investing/2026/07/30/meta-should-give-up-on-ai-focus-on-surging-social/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "PG",
+      "rank": 17,
+      "prob_up": 0.4493,
+      "sentiment_norm": 0.6724,
+      "final_score": 0.5162,
+      "price": 142.55,
+      "change_pct": -2.16,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "PG Q4 Earnings Call Highlights Consumer Growth Reset",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pg-q4-earnings-call-highlights-140000394.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "HSBC downgrades Procter & Gamble to Hold as reinvestment weighs on growth outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-downgrades-procter-gamble-hold-134507516.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Humana upgraded, Las Vegas Sands downgraded: Wall Street's top analyst calls",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/humana-upgraded-las-vegas-sands-133822539.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "GOOGL",
-      "rank": 17,
-      "prob_up": 0.46,
-      "sentiment_norm": 0.636,
-      "final_score": 0.5128,
-      "price": 332.45,
-      "change_pct": -1.02,
+      "rank": 18,
+      "prob_up": 0.4641,
+      "sentiment_norm": 0.5943,
+      "final_score": 0.5032,
+      "price": 331.82,
+      "change_pct": -1.21,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Meta is in need of a new 'lead singer' beyond advertising: Brent Thill",
+          "url": "https://finance.yahoo.com/video/meta-is-in-need-of-a-new-lead-singer-beyond-advertising-brent-thill-150139791.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Mark Zuckerberg\u2019s Wealth Plunges $25 Billion",
+          "url": "https://247wallst.com/investing/2026/07/30/mark-zuckerbergs-wealth-plunges-25-billion/?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Prediction: Apple Will Become a $5 Trillion Company on July 30",
           "url": "https://www.fool.com/investing/2026/07/30/prediction-apple-will-become-a-5-trillion-company/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Microsoft stock surges on earnings: A closer look at Copilot, Azure, and capex",
-          "url": "https://finance.yahoo.com/video/microsoft-stock-surges-earnings-closer-142000679.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Oracle Shares Climb as Expanded Google Cloud Alliance Brings Gemini AI to Enterprise Software",
-          "url": "https://investorshub.advfn.com/market-news/article/33105/oracle-shares-climb-as-expanded-google-cloud-alliance-brings-gemini-ai-to-enterprise-software?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "rank": 18,
-      "prob_up": 0.472,
-      "sentiment_norm": 0.5984,
-      "final_score": 0.5099,
-      "price": 348.82,
-      "change_pct": 0.83,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Situational Awareness sells public equities book following steep losses: CNBC",
-          "url": "https://blockspace.media/insight/situational-awareness-unwinds-ai-trades-liquidity-2026/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "US GDP Growth Softens Despite Strong Consumer, Investment",
-          "url": "https://finance.yahoo.com/news/us-gdp-growth-softens-despite-134637542.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "JPMorgan downgrades Pirelli to Neutral despite solid first-half results",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-downgrades-pirelli-neutral-despite-132831103.html?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -492,25 +492,25 @@
       "ticker": "JNJ",
       "rank": 19,
       "prob_up": 0.4747,
-      "sentiment_norm": 0.5196,
-      "final_score": 0.4882,
-      "price": 256.12,
-      "change_pct": -1.94,
+      "sentiment_norm": 0.4795,
+      "final_score": 0.4761,
+      "price": 255.95,
+      "change_pct": -2.01,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Bristol Myers Raises Earnings Guidance, Stock Falls",
+          "url": "https://finance.yahoo.com/m/a94817ef-1fdd-3d60-bbcb-05b65b0ba021/bristol-myers-raises-earnings.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Johnson & Johnson's RYBREVANT FASPRO\u2122 (amivantamab and hyaluronidase-lpuj) receives U.S. FDA Priority Review as potential first-in-class EGFR- and MET-targeted subcutaneous treatment for advanced head and neck cancer",
           "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnsons-rybrevant-faspro-amivantamab-123000131.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Johnson & Johnson agrees to pay billions in cancer lawsuit settlement",
-          "url": "https://www.ktalnews.com/health/johnson-johnson-talc-settlement/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "The Startup Using AI To Make Hearing Aids Better",
-          "url": "https://www.forbes.com/sites/innovationrx/2026/07/29/the-startup-using-ai-to-make-hearing-aids-better/?.tsrc=rss",
+          "title": "Johnson & Johnson (JNJ) Seeks $5.5 Billion Talc Lawsuit Settlement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-seeks-5-001503367.html?.tsrc=rss",
           "score": 0.0
         }
       ]
@@ -518,11 +518,11 @@
     {
       "ticker": "XOM",
       "rank": 20,
-      "prob_up": 0.3964,
+      "prob_up": 0.4111,
       "sentiment_norm": 0.5141,
-      "final_score": 0.4317,
-      "price": 154.82,
-      "change_pct": -1.26,
+      "final_score": 0.442,
+      "price": 155.05,
+      "change_pct": -1.12,
       "sparkline": [],
       "headlines": [
         {
