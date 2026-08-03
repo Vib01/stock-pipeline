@@ -1,161 +1,242 @@
 {
-  "last_updated": "2026-08-03T14:12:07Z",
+  "last_updated": "2026-08-03T14:25:00Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "META",
       "rank": 1,
-      "prob_up": 0.6344,
+      "prob_up": 0.6237,
       "sentiment_norm": 0.7093,
-      "final_score": 0.6569,
-      "price": 591.29,
-      "change_pct": 6.75,
+      "final_score": 0.6494,
+      "price": 589.05,
+      "change_pct": 6.35,
       "sparkline": [],
       "headlines": [
         {
           "title": "Open-weight AI models add new spark to China, Silicon Valley's AI race",
           "url": "https://finance.yahoo.com/video/open-weight-ai-models-add-140000138.html?.tsrc=rss",
-          "score": 0.0
+          "score": 0.4019
         },
         {
           "title": "Constellation Energy vs. Vistra: Which Utilities Stock Is a Better Buy in 2026?",
           "url": "https://www.fool.com/coverage/better-buy/2026/08/03/constellation-energy-vs-vistra-which-utilities-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-          "score": 0.0
+          "score": 0.2732
         },
         {
           "title": "Price Prediction: CoreWeave Will Trade at This Price in 2027",
           "url": "https://247wallst.com/investing/2026/08/03/price-prediction-coreweave-will-trade-at-this-price-in-2027/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 2,
-      "prob_up": 0.5227,
-      "sentiment_norm": 0.7973,
-      "final_score": 0.6051,
-      "price": 958.25,
-      "change_pct": 0.68,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Walmart, Costco, Amazon racing to capture weight loss drug customers",
-          "url": "https://qz.com/walmart-costco-amazon-weight-loss-drug-prescriptions-080326?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "UK supermarkets to benefit from 'end of cheap food', says UBS",
-          "url": "https://www.proactiveinvestors.com/companies/news/1096440/uk-supermarkets-to-benefit-from-end-of-cheap-food-says-ubs-1096440.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
-          "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-markets-gear-up-for-another-key-earnings-week-uso-pltr-crml-ionq-stocks-in-focus/cZoT25dRJ5Z?.tsrc=rss",
-          "score": 0.0
+          "score": -0.1531
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 3,
-      "prob_up": 0.5404,
+      "rank": 2,
+      "prob_up": 0.5738,
       "sentiment_norm": 0.7438,
-      "final_score": 0.6014,
-      "price": 414.05,
-      "change_pct": -0.06,
+      "final_score": 0.6248,
+      "price": 415.76,
+      "change_pct": 0.35,
       "sparkline": [],
       "headlines": [
         {
           "title": "MarketBeat Week in Review \u2013 07/27- 07/31",
           "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-07-27-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-          "score": 0.0
+          "score": 0.296
         },
         {
           "title": "Guardant Health Q2 Earnings Call Highlights",
           "url": "https://www.marketbeat.com/instant-alerts/guardant-health-q2-earnings-call-highlights-2026-07-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-          "score": 0.0
+          "score": 0.2732
         },
         {
           "title": "UnitedHealth vs. Centene: Which Managed Care Stock Is the Better Buy?",
           "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-vs-centene-managed-care-160400253.html?.tsrc=rss",
-          "score": 0.0
+          "score": 0.9217
         }
       ]
     },
     {
       "ticker": "HD",
-      "rank": 4,
-      "prob_up": 0.5282,
+      "rank": 3,
+      "prob_up": 0.56,
       "sentiment_norm": 0.7532,
-      "final_score": 0.5957,
-      "price": 337.32,
-      "change_pct": 1.63,
+      "final_score": 0.618,
+      "price": 337.21,
+      "change_pct": 1.6,
       "sparkline": [],
       "headlines": [
         {
           "title": "Masco Earnings Rise as Pricing and Tariff Refunds Lift 2026 Margins",
           "url": "https://finance.yahoo.com/markets/stocks/articles/masco-earnings-rise-pricing-tariff-161000008.html?.tsrc=rss",
-          "score": 0.0
+          "score": -0.6808
         },
         {
           "title": "Home Depot (HD) Stock Looks Fairly Valued After Reorganization Moves",
           "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-stock-looks-140843359.html?.tsrc=rss",
-          "score": 0.0
+          "score": 0.9186
         },
         {
           "title": "1 Profitable Stock on Our Buy List and 2 Facing Challenges",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-buy-list-134749745.html?.tsrc=rss",
-          "score": 0.0
+          "score": 0.5096
         }
       ]
     },
     {
-      "ticker": "WMT",
-      "rank": 5,
-      "prob_up": 0.5698,
-      "sentiment_norm": 0.6377,
-      "final_score": 0.5902,
-      "price": 111.23,
-      "change_pct": -0.08,
+      "ticker": "COST",
+      "rank": 4,
+      "prob_up": 0.5242,
+      "sentiment_norm": 0.7973,
+      "final_score": 0.6061,
+      "price": 954.94,
+      "change_pct": 0.34,
       "sparkline": [],
       "headlines": [
         {
           "title": "Walmart, Costco, Amazon racing to capture weight loss drug customers",
           "url": "https://qz.com/walmart-costco-amazon-weight-loss-drug-prescriptions-080326?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Premier Protein Introduces Sparkling Protein Soda, Where Refreshing Fizz Meets 15g of Protein",
-          "url": "https://finance.yahoo.com/healthcare/articles/premier-protein-introduces-sparkling-protein-125700500.html?.tsrc=rss",
-          "score": 0.0
+          "score": -0.0516
         },
         {
           "title": "UK supermarkets to benefit from 'end of cheap food', says UBS",
           "url": "https://www.proactiveinvestors.com/companies/news/1096440/uk-supermarkets-to-benefit-from-end-of-cheap-food-says-ubs-1096440.html?.tsrc=rss",
+          "score": 0.6705
+        },
+        {
+          "title": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+          "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-markets-gear-up-for-another-key-earnings-week-uso-pltr-crml-ionq-stocks-in-focus/cZoT25dRJ5Z?.tsrc=rss",
+          "score": 0.5106
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 5,
+      "prob_up": 0.5381,
+      "sentiment_norm": 0.6603,
+      "final_score": 0.5747,
+      "price": 381.95,
+      "change_pct": -1.42,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "The Market Is Missing a Huge Opportunity in NVIDIA, Micron, and Broadcom",
+          "url": "https://247wallst.com/investing/2026/08/03/the-market-is-missing-a-huge-opportunity-in-nvidia-micron-and-broadcom/?.tsrc=rss",
+          "score": 0.4404
+        },
+        {
+          "title": "Goldman Sachs Has Stark Message for AI Stock Investors",
+          "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-stark-message-ai-120644936.html?.tsrc=rss",
+          "score": 0.765
+        },
+        {
+          "title": "Broadcom Inc. to Announce Third Quarter Fiscal Year 2026 Financial Results on Wednesday, September 2, 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-announce-third-quarter-120000388.html?.tsrc=rss",
+          "score": 0.1779
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "rank": 6,
+      "prob_up": 0.5123,
+      "sentiment_norm": 0.7082,
+      "final_score": 0.5711,
+      "price": 252.02,
+      "change_pct": -2.24,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Johnson & Johnson\u2019s OTTAVA Robotic Surgery System Targets Long-Term Growth",
+          "url": "https://www.marketbeat.com/instant-alerts/johnson-johnsons-ottava-robotic-surgery-system-targets-long-term-growth-2026-08-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+          "score": 0.6369
+        },
+        {
+          "title": "Lipocine Appoints Michael J. Grissinger to Board of Directors",
+          "url": "https://finance.yahoo.com/healthcare/articles/lipocine-appoints-michael-j-grissinger-120000381.html?.tsrc=rss",
+          "score": 0.7351
+        },
+        {
+          "title": "Helus Pharma Appoints Michael Halstead as Chief Executive Officer",
+          "url": "https://finance.yahoo.com/healthcare/articles/helus-pharma-appoints-michael-halstead-114000753.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
+      "ticker": "JPM",
+      "rank": 7,
+      "prob_up": 0.5292,
+      "sentiment_norm": 0.6166,
+      "final_score": 0.5554,
+      "price": 354.88,
+      "change_pct": 1.35,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "JPMorganChase Doubles Down on Housing, Aiming to Deploy $750 Billion Through 2035\u2014Up by More Than $200 Billion\u2014Through Its American Dream Initiative",
+          "url": "https://finance.yahoo.com/real-estate/articles/jpmorganchase-doubles-down-housing-aiming-134800921.html?.tsrc=rss",
+          "score": 0.8779
+        },
+        {
+          "title": "JPMorgan Seeks to Pour $750 Billion Into Housing in Next Decade",
+          "url": "https://finance.yahoo.com/real-estate/articles/jpmorgan-seeks-pour-750-billion-130000540.html?.tsrc=rss",
+          "score": 0.0258
+        },
+        {
+          "title": "Dip Buyers Need to Heed the Market\u2019s Warning Signs",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dip-buyers-heed-market-warning-120002138.html?.tsrc=rss",
+          "score": -0.8957
+        }
+      ]
+    },
+    {
+      "ticker": "PG",
+      "rank": 8,
+      "prob_up": 0.4937,
+      "sentiment_norm": 0.6484,
+      "final_score": 0.5401,
+      "price": 145.54,
+      "change_pct": 0.82,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "3 Top Dividend Stocks to Buy Before Their Next Payout",
+          "url": "https://247wallst.com/investing/2026/08/03/3-top-dividend-stocks-to-buy-before-their-next-payout/?.tsrc=rss",
+          "score": -0.2382
+        },
+        {
+          "title": "Guinness-owner Diageo poaches P&G exec as City awaits turnaround plan",
+          "url": "https://uk.finance.yahoo.com/news/guinness-owner-diageo-poaches-p-102100689.html?.tsrc=rss",
+          "score": 0.6908
+        },
+        {
+          "title": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
+          "url": "https://www.fool.com/investing/2026/08/03/pg-guided-below-estimates-and-sits-5-above-a-52-we/?.tsrc=rss",
+          "score": -0.2732
+        }
+      ]
+    },
+    {
       "ticker": "BRK-B",
-      "rank": 6,
-      "prob_up": 0.5271,
+      "rank": 9,
+      "prob_up": 0.4844,
       "sentiment_norm": 0.6643,
-      "final_score": 0.5682,
-      "price": 516.62,
-      "change_pct": 0.95,
+      "final_score": 0.5384,
+      "price": 515.42,
+      "change_pct": 0.72,
       "sparkline": [],
       "headlines": [
         {
           "title": "Goldman Sachs Adds Financial Giant to the August Conviction List of Top Stock Picks",
           "url": "https://247wallst.com/investing/2026/08/03/goldman-sachs-adds-top-financial-to-a-august-conviction-list-stacked-with-dividend-giants/?.tsrc=rss",
-          "score": 0.0
+          "score": 0.2023
         },
         {
           "title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
           "url": "https://www.fool.com/investing/2026/08/03/warren-buffett-successor-abel-sell-cvx-buy-googl/?.tsrc=rss",
-          "score": 0.0
+          "score": 0.4939
         },
         {
           "title": "Greg Abel Is Spending Berkshire Hathaway's Cash on Whole Companies Instead of Stocks. Here's What That Changes for Shareholders.",
@@ -165,110 +246,29 @@
       ]
     },
     {
-      "ticker": "JNJ",
-      "rank": 7,
-      "prob_up": 0.496,
-      "sentiment_norm": 0.7192,
-      "final_score": 0.563,
-      "price": 251.36,
-      "change_pct": -2.49,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Lipocine Appoints Michael J. Grissinger to Board of Directors",
-          "url": "https://finance.yahoo.com/healthcare/articles/lipocine-appoints-michael-j-grissinger-120000381.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Helus Pharma Appoints Michael Halstead as Chief Executive Officer",
-          "url": "https://finance.yahoo.com/healthcare/articles/helus-pharma-appoints-michael-halstead-114000753.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Microsoft joins, Broadcom exits Goldman\u2019s top-stocks list",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-joins-broadcom-exits-goldman-110015714.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "rank": 8,
-      "prob_up": 0.5685,
-      "sentiment_norm": 0.5458,
-      "final_score": 0.5617,
-      "price": 317.55,
-      "change_pct": 2.68,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Open-weight AI models add new spark to China, Silicon Valley's AI race",
-          "url": "https://finance.yahoo.com/video/open-weight-ai-models-add-140000138.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
-          "url": "https://finance.yahoo.com/m/363bab4c-f84c-3639-b56a-5fbf98c09320/tesla-rival-byd-ramping-up.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Rivian Automotive Stock Asks The Market's Price For Sales That Do Not Yet Pay",
-          "url": "https://www.trefis.com/articles/609857/rivian-automotive-stock-asks-the-markets-price-for-sales-that-do-not-yet-pay/2026-08-03?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "rank": 9,
-      "prob_up": 0.5333,
-      "sentiment_norm": 0.6166,
-      "final_score": 0.5583,
-      "price": 354.85,
-      "change_pct": 1.34,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "JPMorganChase Doubles Down on Housing, Aiming to Deploy $750 Billion Through 2035\u2014Up by More Than $200 Billion\u2014Through Its American Dream Initiative",
-          "url": "https://finance.yahoo.com/real-estate/articles/jpmorganchase-doubles-down-housing-aiming-134800921.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "JPMorgan Seeks to Pour $750 Billion Into Housing in Next Decade",
-          "url": "https://finance.yahoo.com/real-estate/articles/jpmorgan-seeks-pour-750-billion-130000540.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Dip Buyers Need to Heed the Market\u2019s Warning Signs",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dip-buyers-heed-market-warning-120002138.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "PG",
+      "ticker": "WMT",
       "rank": 10,
-      "prob_up": 0.4854,
-      "sentiment_norm": 0.6484,
-      "final_score": 0.5343,
-      "price": 145.77,
-      "change_pct": 0.98,
+      "prob_up": 0.491,
+      "sentiment_norm": 0.6377,
+      "final_score": 0.535,
+      "price": 111.07,
+      "change_pct": -0.22,
       "sparkline": [],
       "headlines": [
         {
-          "title": "3 Top Dividend Stocks to Buy Before Their Next Payout",
-          "url": "https://247wallst.com/investing/2026/08/03/3-top-dividend-stocks-to-buy-before-their-next-payout/?.tsrc=rss",
-          "score": 0.0
+          "title": "Walmart, Costco, Amazon racing to capture weight loss drug customers",
+          "url": "https://qz.com/walmart-costco-amazon-weight-loss-drug-prescriptions-080326?.tsrc=rss",
+          "score": -0.0516
         },
         {
-          "title": "Guinness-owner Diageo poaches P&G exec as City awaits turnaround plan",
-          "url": "https://uk.finance.yahoo.com/news/guinness-owner-diageo-poaches-p-102100689.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Premier Protein Introduces Sparkling Protein Soda, Where Refreshing Fizz Meets 15g of Protein",
+          "url": "https://finance.yahoo.com/healthcare/articles/premier-protein-introduces-sparkling-protein-125700500.html?.tsrc=rss",
+          "score": 0.8356
         },
         {
-          "title": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
-          "url": "https://www.fool.com/investing/2026/08/03/pg-guided-below-estimates-and-sits-5-above-a-52-we/?.tsrc=rss",
-          "score": 0.0
+          "title": "UK supermarkets to benefit from 'end of cheap food', says UBS",
+          "url": "https://www.proactiveinvestors.com/companies/news/1096440/uk-supermarkets-to-benefit-from-end-of-cheap-food-says-ubs-1096440.html?.tsrc=rss",
+          "score": 0.6705
         }
       ]
     },
@@ -276,12 +276,17 @@
       "ticker": "AAPL",
       "rank": 11,
       "prob_up": 0.5133,
-      "sentiment_norm": 0.5592,
-      "final_score": 0.5271,
-      "price": 305.25,
-      "change_pct": -0.68,
+      "sentiment_norm": 0.5819,
+      "final_score": 0.5339,
+      "price": 306.0,
+      "change_pct": -0.44,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-joins-elite-list-stocks-133854481.html?.tsrc=rss",
+          "score": 0.5106
+        },
         {
           "title": "Why Apple's AI Strategy Looks Different From Everyone Else's",
           "url": "https://www.fool.com/investing/2026/08/03/apple-ai-strategy-different-from-everyone-else/?.tsrc=rss",
@@ -291,130 +296,98 @@
           "title": "Apple's Record Quarter Ran Into A Memory Bill",
           "url": "https://www.trefis.com/articles/609846/apples-record-quarter-ran-into-a-memory-bill/2026-08-03?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
-          "url": "https://www.fool.com/investing/2026/08/03/1-stock-buy-joins-nvidia-alphabet-3-trillion-club/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "V",
-      "rank": 12,
-      "prob_up": 0.5237,
-      "sentiment_norm": 0.5271,
-      "final_score": 0.5247,
-      "price": 369.17,
-      "change_pct": 0.91,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Visa to acquire fraud detection firm BioCatch for $2.4 billion",
-          "url": "https://qz.com/visa-biocatch-acquisition-fraud-detection-080326?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Visa Acquires BioCatch For $2.4B \u2013 President Andrew Torre Says It Will Help Clients Stop Fraud Before It Reaches The Point Of Payment",
-          "url": "https://stocktwits.com/news-articles/markets/equity/visa-acquires-bio-catch-for-2-4-b-president-andrew-torre-says-it-will-help-clients-stop-fraud-before-it-reaches-the-point-of-payment/cZoTgc3RJdY?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal",
-          "url": "https://finance.yahoo.com/technology/articles/visa-buy-fraud-intelligence-provider-123438441.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "rank": 13,
-      "prob_up": 0.4595,
-      "sentiment_norm": 0.6746,
-      "final_score": 0.524,
-      "price": 379.38,
-      "change_pct": -2.08,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Goldman Sachs Has Stark Message for AI Stock Investors",
-          "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-stark-message-ai-120644936.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Broadcom Inc. to Announce Third Quarter Fiscal Year 2026 Financial Results on Wednesday, September 2, 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-announce-third-quarter-120000388.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "This Week In AI Chips - Palomino's Strategic Acquisition Boosts AI Interconnect Market Expansion",
-          "url": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-palominos-strategic-113741943.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "MA",
-      "rank": 14,
-      "prob_up": 0.4852,
-      "sentiment_norm": 0.6131,
-      "final_score": 0.5236,
-      "price": 577.65,
-      "change_pct": 0.82,
+      "rank": 12,
+      "prob_up": 0.4818,
+      "sentiment_norm": 0.6334,
+      "final_score": 0.5273,
+      "price": 576.02,
+      "change_pct": 0.54,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Why Circle Internet Stock Is Slumping Today Even After a Fresh Buy Rating",
-          "url": "https://finance.yahoo.com/m/b8d9a955-fb5e-357c-8db0-8bdbce426d65/why-circle-internet-stock-is.html?.tsrc=rss",
+          "title": "Visa, Mastercard make bank on swipe fees, report claims",
+          "url": "https://www.cleveland.com/news/2026/07/visa-mastercard-make-bank-on-swipe-fees-report-claims.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "American Airlines and Citi Elevate Premium Travel With Enhanced Citi / AAdvantage Executive World Legend Mastercard",
-          "url": "https://finance.yahoo.com/media-advertising/articles/american-airlines-citi-elevate-premium-130000959.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Circle\u2019s NYDFS Trust Charter Completes a Regulatory Depth Moat No Other Stablecoin Issuer Can Match",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/circle-nydfs-trust-charter-completes-195753121.html?.tsrc=rss",
+          "score": -0.3612
         },
         {
-          "title": "Why Mastercard (MA) Remains Immune to AI Disruption Challenges",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-mastercard-ma-remains-immune-120400641.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Citi Offers Cardholders Exclusive VIP Access to NYFW, F1, and Art Basel",
+          "url": "https://parade.com/news/citis-premier-credit-card-is-offering-exclusive-dinners-at-new-york-fashion-week-f1-and-art-basel?.tsrc=rss",
+          "score": 0.918
         }
       ]
     },
     {
-      "ticker": "XOM",
-      "rank": 15,
-      "prob_up": 0.5191,
-      "sentiment_norm": 0.5214,
-      "final_score": 0.5198,
-      "price": 154.76,
-      "change_pct": -1.48,
+      "ticker": "V",
+      "rank": 13,
+      "prob_up": 0.5237,
+      "sentiment_norm": 0.5271,
+      "final_score": 0.5247,
+      "price": 369.21,
+      "change_pct": 0.92,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Chevron vs. ExxonMobil: Which Dividend Compounds Better Over the Next 10 Years?",
-          "url": "https://www.fool.com/investing/2026/08/03/chevron-vs-exxonmobil-which-dividend-compounds-bet/?.tsrc=rss",
-          "score": 0.0
+          "title": "Visa to acquire fraud detection firm BioCatch for $2.4 billion",
+          "url": "https://qz.com/visa-biocatch-acquisition-fraud-detection-080326?.tsrc=rss",
+          "score": -0.8225
         },
         {
-          "title": "Company News for Aug 3, 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-aug-3-2026-124400563.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Visa Acquires BioCatch For $2.4B \u2013 President Andrew Torre Says It Will Help Clients Stop Fraud Before It Reaches The Point Of Payment",
+          "url": "https://stocktwits.com/news-articles/markets/equity/visa-acquires-bio-catch-for-2-4-b-president-andrew-torre-says-it-will-help-clients-stop-fraud-before-it-reaches-the-point-of-payment/cZoTgc3RJdY?.tsrc=rss",
+          "score": -0.7579
         },
         {
-          "title": "ExxonMobil (XOM) Posts US$14.5 Billion Q2 Profit As Production Hits 20 Year High",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-xom-posts-us-14-110829960.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal",
+          "url": "https://finance.yahoo.com/technology/articles/visa-buy-fraud-intelligence-provider-123438441.html?.tsrc=rss",
+          "score": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "rank": 14,
+      "prob_up": 0.3826,
+      "sentiment_norm": 0.6402,
+      "final_score": 0.4599,
+      "price": 367.82,
+      "change_pct": 3.85,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Stocks are ignoring higher bond yields, but that can't last for 'very long'",
+          "url": "https://finance.yahoo.com/video/stocks-ignoring-higher-bond-yields-140933047.html?.tsrc=rss",
+          "score": 0.4053
+        },
+        {
+          "title": "RWE and Google sign power purchase agreement for Oklahoma solar project",
+          "url": "https://finance.yahoo.com/energy/articles/rwe-google-sign-power-purchase-140300702.html?.tsrc=rss",
+          "score": 0.7506
+        },
+        {
+          "title": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
+          "url": "https://www.fool.com/investing/2026/08/03/microsoft-and-alphabet-can-absorb-an-ai-shock/?.tsrc=rss",
+          "score": -0.3818
         }
       ]
     },
     {
       "ticker": "AMZN",
-      "rank": 16,
+      "rank": 15,
       "prob_up": 0.358,
-      "sentiment_norm": 0.7081,
-      "final_score": 0.463,
-      "price": 284.86,
-      "change_pct": 5.31,
+      "sentiment_norm": 0.6954,
+      "final_score": 0.4592,
+      "price": 284.12,
+      "change_pct": 5.04,
       "sparkline": [],
       "headlines": [
         {
@@ -425,23 +398,23 @@
         {
           "title": "Amazon enters $3 trillion club as AI, cloud growth power rally",
           "url": "https://finance.yahoo.com/technology/ai/articles/amazon-enters-3-trillion-club-134557825.html?.tsrc=rss",
-          "score": 0.0
+          "score": 0.9136
         },
         {
-          "title": "Walmart, Costco, Amazon racing to capture weight loss drug customers",
-          "url": "https://qz.com/walmart-costco-amazon-weight-loss-drug-prescriptions-080326?.tsrc=rss",
-          "score": 0.0
+          "title": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-joins-elite-list-stocks-133854481.html?.tsrc=rss",
+          "score": 0.5106
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "rank": 17,
+      "rank": 16,
       "prob_up": 0.3776,
-      "sentiment_norm": 0.636,
-      "final_score": 0.4551,
-      "price": 488.72,
-      "change_pct": 5.82,
+      "sentiment_norm": 0.6456,
+      "final_score": 0.458,
+      "price": 486.1,
+      "change_pct": 5.25,
       "sparkline": [],
       "headlines": [
         {
@@ -452,92 +425,119 @@
         {
           "title": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
           "url": "https://www.fool.com/investing/2026/08/03/microsoft-and-alphabet-can-absorb-an-ai-shock/?.tsrc=rss",
-          "score": 0.0
+          "score": -0.3818
         },
         {
-          "title": "678 Billion Reasons to Invest in Microsoft Stock",
-          "url": "https://www.fool.com/investing/2026/08/03/678-billion-reasons-to-invest-in-microsoft-stock/?.tsrc=rss",
-          "score": 0.0
+          "title": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-joins-elite-list-stocks-133854481.html?.tsrc=rss",
+          "score": 0.5106
         }
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 18,
-      "prob_up": 0.427,
-      "sentiment_norm": 0.4758,
-      "final_score": 0.4416,
-      "price": 204.99,
-      "change_pct": 3.04,
+      "ticker": "TSLA",
+      "rank": 17,
+      "prob_up": 0.4057,
+      "sentiment_norm": 0.5458,
+      "final_score": 0.4477,
+      "price": 318.26,
+      "change_pct": 2.91,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Open-weight AI models add new spark to China, Silicon Valley's AI race",
+          "url": "https://finance.yahoo.com/video/open-weight-ai-models-add-140000138.html?.tsrc=rss",
+          "score": 0.4019
         },
         {
-          "title": "The Market Is Missing a Huge Opportunity in NVIDIA, Micron, and Broadcom",
-          "url": "https://247wallst.com/investing/2026/08/03/the-market-is-missing-a-huge-opportunity-in-nvidia-micron-and-broadcom/?.tsrc=rss",
-          "score": 0.0
+          "title": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
+          "url": "https://finance.yahoo.com/m/363bab4c-f84c-3639-b56a-5fbf98c09320/tesla-rival-byd-ramping-up.html?.tsrc=rss",
+          "score": 0.6124
         },
         {
-          "title": "Seagate and Western Digital Dive 6%, SK Hynix and Micron Slide 5% as Memory Stocks Cool",
-          "url": "https://247wallst.com/investing/2026/08/03/seagate-and-western-digital-dive-6-sk-hynix-and-micron-slide-5-as-memory-stocks-cool/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "rank": 19,
-      "prob_up": 0.3837,
-      "sentiment_norm": 0.5673,
-      "final_score": 0.4388,
-      "price": 368.85,
-      "change_pct": 4.14,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
-          "url": "https://www.fool.com/investing/2026/08/03/microsoft-and-alphabet-can-absorb-an-ai-shock/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "ZoomInfo Connector Provides GTM Context Layer for Buyer Intent with Gemini Enterprise",
-          "url": "https://finance.yahoo.com/technology/ai/articles/zoominfo-connector-provides-gtm-context-132800782.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?",
-          "url": "https://www.fool.com/investing/2026/08/03/microsoft-and-amazon-won-the-ai-spending-week/?.tsrc=rss",
-          "score": 0.0
+          "title": "Rivian Automotive Stock Asks The Market's Price For Sales That Do Not Yet Pay",
+          "url": "https://www.trefis.com/articles/609857/rivian-automotive-stock-asks-the-markets-price-for-sales-that-do-not-yet-pay/2026-08-03?.tsrc=rss",
+          "score": -0.2509
         }
       ]
     },
     {
       "ticker": "LLY",
-      "rank": 20,
-      "prob_up": 0.4212,
+      "rank": 18,
+      "prob_up": 0.4367,
       "sentiment_norm": 0.4703,
-      "final_score": 0.4359,
-      "price": 1121.39,
-      "change_pct": -2.29,
+      "final_score": 0.4468,
+      "price": 1123.62,
+      "change_pct": -2.09,
       "sparkline": [],
       "headlines": [
         {
           "title": "Eli Lilly\u2019s Olomorasib Secures Second FDA Breakthrough Designation For Cancer Therapy \u2013 Retail Expects LLY Stock To Hit Record High Soon",
           "url": "https://stocktwits.com/news-articles/markets/equity/eli-lilly-olomorasib-second-fda-breakthrough-designation-pancreatic-cancer/cZoTgdzRJdp?.tsrc=rss",
-          "score": 0.0
+          "score": -0.6705
         },
         {
           "title": "Eli Lilly (LLY) Stock Looks Below Fair Value On Cash Flow",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-stock-looks-130918558.html?.tsrc=rss",
-          "score": 0.0
+          "score": 0.9113
         },
         {
           "title": "Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss",
           "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html?.tsrc=rss",
+          "score": -0.4588
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "rank": 19,
+      "prob_up": 0.3964,
+      "sentiment_norm": 0.5214,
+      "final_score": 0.4339,
+      "price": 154.73,
+      "change_pct": -1.5,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Chevron vs. ExxonMobil: Which Dividend Compounds Better Over the Next 10 Years?",
+          "url": "https://www.fool.com/investing/2026/08/03/chevron-vs-exxonmobil-which-dividend-compounds-bet/?.tsrc=rss",
+          "score": 0.3919
+        },
+        {
+          "title": "Company News for Aug 3, 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-aug-3-2026-124400563.html?.tsrc=rss",
+          "score": 0.694
+        },
+        {
+          "title": "ExxonMobil (XOM) Posts US$14.5 Billion Q2 Profit As Production Hits 20 Year High",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-xom-posts-us-14-110829960.html?.tsrc=rss",
+          "score": 0.7841
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 20,
+      "prob_up": 0.4209,
+      "sentiment_norm": 0.4566,
+      "final_score": 0.4316,
+      "price": 205.46,
+      "change_pct": 3.27,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "These 3 ETFs Turn Market Fear Into Double Digit Monthly Income",
+          "url": "https://247wallst.com/investing/2026/08/03/these-3-etfs-turn-market-fear-into-double-digit-monthly-income/?.tsrc=rss",
+          "score": -0.7506
+        },
+        {
+          "title": "S&P Global Grew Revenue 10% and Still Missed on Earnings. Except, Maybe It Didn't.",
+          "url": "https://www.fool.com/investing/2026/08/03/sp-global-grew-revenue-10-and-still-missed-on-earn/?.tsrc=rss",
+          "score": -0.296
+        },
+        {
+          "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html?.tsrc=rss",
           "score": 0.0
         }
       ]
