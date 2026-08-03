@@ -29,27 +29,36 @@ def load_latest_news() -> dict:
         return json.load(f)
 
 
-def score_all(all_news: dict) -> dict:
+def score_all(all_news: dict) -> tuple[dict, dict]:
     analyzer = SentimentIntensityAnalyzer()
     sentiment_scores = {}
+    scored_headlines = {}
 
     for ticker, articles in all_news.items():
         if not articles:
             sentiment_scores[ticker] = 0.0
+            scored_headlines[ticker] = []
             continue
 
         scores = []
+        headlines = []
         for article in articles:
             text = article["title"] + ". " + article["text"]
             score = analyzer.polarity_scores(text)["compound"]  # -1 to +1
             scores.append(score)
+            headlines.append({
+                "title": article["title"],
+                "url":   article.get("url", ""),
+                "score": round(score, 4),
+            })
             print(f"  {ticker} | {score:+.2f} | {article['title'][:60]}")
 
         avg = sum(scores) / len(scores)
         sentiment_scores[ticker] = round(avg, 4)
+        scored_headlines[ticker] = headlines
         print(f"  --> {ticker} avg: {avg:+.4f}\n")
 
-    return sentiment_scores
+    return sentiment_scores, scored_headlines
 
 
 def save_sentiment(scores: dict) -> Path:
@@ -60,11 +69,22 @@ def save_sentiment(scores: dict) -> Path:
     return out_path
 
 
+def save_scored_headlines(scored_headlines: dict) -> Path:
+    """Per-article VADER scores, keyed by ticker -- consumed by push_output.py
+    to populate the 'headlines' block in ranking.json."""
+    SENTIMENT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = SENTIMENT_DIR / "scored_headlines.json"
+    with open(out_path, "w") as f:
+        json.dump(scored_headlines, f, indent=2)
+    return out_path
+
+
 if __name__ == "__main__":
     all_news = load_latest_news()
-    scores = score_all(all_news)
+    scores, scored_headlines = score_all(all_news)
 
     out_path = save_sentiment(scores)
+    save_scored_headlines(scored_headlines)
     print("=== SENTIMENT SCORES ===")
     for ticker, score in sorted(scores.items(), key=lambda x: -x[1]):
         bar = "█" * int((score + 1) * 10)

@@ -89,42 +89,20 @@ def _load_sentiment() -> dict:
 
 def _load_headlines(ticker: str, max_headlines: int = 3) -> list[dict]:
     """
-    Pull headlines from the raw news cache written by fetch_news.py.
-    Files are named news_YYYYMMDD_HHMMSS.json and contain a list of
-    {ticker, title, url, sentiment_score} dicts (structure may vary).
-    Falls back to [] if no cache files exist.
+    Pull per-article VADER scores written by sentiment_engineering.py.
+    Falls back to [] if that file doesn't exist yet.
     """
-    news_dir = PROJECT_ROOT / "data" / "raw" / "news"
-    if not news_dir.exists():
-        return []
-
-    # Pick the most recent news file
-    files = sorted(news_dir.glob("news_*.json"), reverse=True)
-    if not files:
+    path = PROJECT_ROOT / "data" / "processed" / "sentiment" / "scored_headlines.json"
+    if not path.exists():
         return []
 
     try:
-        with open(files[0]) as f:
+        with open(path) as f:
             raw = json.load(f)
     except Exception:
         return []
 
-    # raw may be a list of records or a dict keyed by ticker
-    if isinstance(raw, dict):
-        items = raw.get(ticker, [])
-    elif isinstance(raw, list):
-        items = [r for r in raw if r.get("ticker") == ticker]
-    else:
-        return []
-
-    headlines = []
-    for item in items[:max_headlines]:
-        headlines.append({
-            "title": item.get("title", ""),
-            "url":   item.get("url", ""),
-            "score": round(float(item.get("sentiment_score", item.get("score", 0.0))), 4),
-        })
-    return headlines
+    return raw.get(ticker, [])[:max_headlines]
 
 
 # ── payload builder ───────────────────────────────────────────────────────────
