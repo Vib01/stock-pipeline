@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-08-03T20:41:05Z",
+  "last_updated": "2026-08-03T21:50:43Z",
   "market_status": "closed",
   "rankings": [
     {
       "ticker": "META",
       "rank": 1,
       "prob_up": 0.6344,
-      "sentiment_norm": 0.7135,
-      "final_score": 0.6581,
+      "sentiment_norm": 0.7378,
+      "final_score": 0.6654,
       "price": 590.24,
       "change_pct": 6.56,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
+          "url": "http://www.etf.com/sections/news/3-etfs-hold-most-magnificent-7-and-how-theyre-performing-tougher-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+          "score": 0.8687
+        },
         {
           "title": "Meta Platforms Stock Plunges On Earnings; This Bearish Options Trade Could Earn $470",
           "url": "https://finance.yahoo.com/m/ba5efde5-8be1-3800-b032-c508b7aa61a0/meta-platforms-stock-plunges.html?.tsrc=rss",
@@ -21,11 +26,6 @@
           "title": "While similar, Meta a better bet than SpaceX, says portfolio manager",
           "url": "https://finance.yahoo.com/video/while-similar-meta-better-bet-201332819.html?.tsrc=rss",
           "score": 0.6872
-        },
-        {
-          "title": "Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",
-          "url": "https://finance.yahoo.com/video/why-microsoft-amazon-other-big-195257279.html?.tsrc=rss",
-          "score": 0.34
         }
       ]
     },
@@ -141,62 +141,35 @@
       "ticker": "AAPL",
       "rank": 6,
       "prob_up": 0.5617,
-      "sentiment_norm": 0.5961,
-      "final_score": 0.572,
+      "sentiment_norm": 0.5966,
+      "final_score": 0.5721,
       "price": 303.42,
       "change_pct": -1.28,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Nasdaq Jumps 2%, Chevron Falls As Trump Lashes Out; This Viking Tops Entry (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": 0.4404
+          "title": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+          "score": 0.0772
         },
         {
-          "title": "Sector Update: Tech Stocks Rise Late Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-193731647.html?.tsrc=rss",
-          "score": 0.0
+          "title": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
+          "url": "http://www.etf.com/sections/news/3-etfs-hold-most-magnificent-7-and-how-theyre-performing-tougher-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+          "score": 0.8687
         },
         {
-          "title": "Spotify's Path to Sales Growth Reacceleration, Margin Expansion Should Drive Stock Higher, Morgan Stanley Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spotify-apos-path-sales-growth-193545479.html?.tsrc=rss",
-          "score": 0.5859
-        }
-      ]
-    },
-    {
-      "ticker": "JNJ",
-      "rank": 7,
-      "prob_up": 0.4799,
-      "sentiment_norm": 0.7328,
-      "final_score": 0.5558,
-      "price": 254.41,
-      "change_pct": -1.31,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "3 Dividend Stocks to Buy and Hold Forever",
-          "url": "https://www.fool.com/investing/2026/08/01/3-dividend-stocks-to-buy-and-hold-forever/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Johnson & Johnson (JNJ) Stock Sees Modest Fair Value Lift After Analyst Target Increases",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-stock-sees-121114536.html?.tsrc=rss",
-          "score": 0.5267
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Jumps 2%, Chevron Falls As Trump Lashes Out; This Viking Tops Entry (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": 0.4404
+          "title": "Prediction: Within 18 Months, Microsoft Will Be More Valuable Than Apple",
+          "url": "https://www.fool.com/investing/2026/08/03/prediction-within-18-months-microsoft-will-be-more/?.tsrc=rss",
+          "score": 0.2952
         }
       ]
     },
     {
       "ticker": "AVGO",
-      "rank": 8,
+      "rank": 7,
       "prob_up": 0.5217,
-      "sentiment_norm": 0.5961,
-      "final_score": 0.544,
+      "sentiment_norm": 0.6149,
+      "final_score": 0.5496,
       "price": 392.23,
       "change_pct": 1.23,
       "sparkline": [],
@@ -219,35 +192,35 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 9,
-      "prob_up": 0.4982,
-      "sentiment_norm": 0.6239,
-      "final_score": 0.5359,
-      "price": 513.14,
-      "change_pct": 0.27,
+      "ticker": "JNJ",
+      "rank": 8,
+      "prob_up": 0.4799,
+      "sentiment_norm": 0.6887,
+      "final_score": 0.5426,
+      "price": 254.41,
+      "change_pct": -1.31,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Greg Abel Poured $23 Billion of Berkshire's Cash Into Alphabet Stock",
-          "url": "https://www.fool.com/investing/2026/08/03/greg-abel-poured-23-billion-of-berkshires-cash-int/?.tsrc=rss",
-          "score": 0.0
+          "title": "AbbVie's Growth Now Leans On A Single Molecule",
+          "url": "https://www.trefis.com/articles/609855/abbvies-growth-now-leans-on-a-single-molecule/2026-08-03?.tsrc=rss",
+          "score": 0.3818
         },
         {
-          "title": "Greg Abel Closed Berkshire Hathaway's Taylor Morrison Deal on July 24. Here's What Berkshire Owns Now.",
-          "url": "https://www.fool.com/investing/2026/08/03/abel-closed-berkshire-hathaways-taylor-morrison/?.tsrc=rss",
-          "score": 0.0
+          "title": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+          "score": 0.0772
         },
         {
-          "title": "Goldman Sachs Adds Financial Giant to the August Conviction List of Top Stock Picks",
-          "url": "https://247wallst.com/investing/2026/08/03/goldman-sachs-adds-top-financial-to-a-august-conviction-list-stacked-with-dividend-giants/?.tsrc=rss",
-          "score": 0.2023
+          "title": "Johnson & Johnson (JNJ) Gets FDA Nod For OTTAVA As It Enters Surgical Robotics",
+          "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-gets-fda-180902130.html?.tsrc=rss",
+          "score": 0.1779
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 10,
+      "rank": 9,
       "prob_up": 0.4871,
       "sentiment_norm": 0.6484,
       "final_score": 0.5355,
@@ -274,7 +247,7 @@
     },
     {
       "ticker": "JPM",
-      "rank": 11,
+      "rank": 10,
       "prob_up": 0.5063,
       "sentiment_norm": 0.5795,
       "final_score": 0.5282,
@@ -300,6 +273,33 @@
       ]
     },
     {
+      "ticker": "BRK-B",
+      "rank": 11,
+      "prob_up": 0.4982,
+      "sentiment_norm": 0.585,
+      "final_score": 0.5242,
+      "price": 513.14,
+      "change_pct": 0.27,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Buffett-Inspired ETF Owns Berkshire, Apple, Amex and Generates 15% Yield",
+          "url": "https://finance.yahoo.com/m/c7fcdb43-6d09-3089-9f05-937c39f27baa/buffett-inspired-etf-owns.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Greg Abel Poured $23 Billion of Berkshire's Cash Into Alphabet Stock",
+          "url": "https://www.fool.com/investing/2026/08/03/greg-abel-poured-23-billion-of-berkshires-cash-int/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Greg Abel Closed Berkshire Hathaway's Taylor Morrison Deal on July 24. Here's What Berkshire Owns Now.",
+          "url": "https://www.fool.com/investing/2026/08/03/abel-closed-berkshire-hathaways-taylor-morrison/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
       "ticker": "V",
       "rank": 12,
       "prob_up": 0.5076,
@@ -310,6 +310,11 @@
       "sparkline": [],
       "headlines": [
         {
+          "title": "Visa\u2019s Latest Deal Signals New Era in Fighting Digital Scams",
+          "url": "https://finance.yahoo.com/m/29f459bf-31be-3f59-b5ac-77d0deeee2f5/visa%E2%80%99s-latest-deal-signals.html?.tsrc=rss",
+          "score": -0.9524
+        },
+        {
           "title": "Sector Update: Financial Stocks Advance Late Afternoon",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-195524260.html?.tsrc=rss",
           "score": 0.0
@@ -318,44 +323,12 @@
           "title": "Visa Stock Rises as $2.4 Billion Cybersecurity Deal Targets Fraud",
           "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-rises-2-4-191949805.html?.tsrc=rss",
           "score": -0.6705
-        },
-        {
-          "title": "2 Cash-Producing Stocks with Exciting Potential and 1 We Ignore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-exciting-181322838.html?.tsrc=rss",
-          "score": 0.7717
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "rank": 13,
-      "prob_up": 0.358,
-      "sentiment_norm": 0.7799,
-      "final_score": 0.4846,
-      "price": 284.02,
-      "change_pct": 5.0,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying.",
-          "url": "https://finance.yahoo.com/m/785c1696-3240-3321-91cf-8af3784ee3b7/amazon-stock-breaks-out-to-%243.html?.tsrc=rss",
-          "score": 0.6908
-        },
-        {
-          "title": "Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",
-          "url": "https://finance.yahoo.com/video/why-microsoft-amazon-other-big-195257279.html?.tsrc=rss",
-          "score": 0.34
-        },
-        {
-          "title": "Why Amazon Looks Better Than Microsoft After Each Jumped 15% Post Earnings",
-          "url": "https://247wallst.com/investing/2026/08/03/why-amazon-looks-better-than-microsoft-after-each-jumped-15-post-earnings/?.tsrc=rss",
-          "score": 0.5927
         }
       ]
     },
     {
       "ticker": "MA",
-      "rank": 14,
+      "rank": 13,
       "prob_up": 0.4669,
       "sentiment_norm": 0.5005,
       "final_score": 0.477,
@@ -382,55 +355,82 @@
     },
     {
       "ticker": "LLY",
-      "rank": 15,
+      "rank": 14,
       "prob_up": 0.4212,
-      "sentiment_norm": 0.5917,
-      "final_score": 0.4723,
+      "sentiment_norm": 0.5874,
+      "final_score": 0.471,
       "price": 1121.36,
       "change_pct": -2.29,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Bristol Myers Squibb Stock Falls on Report of $400 Billion Merger Talks With AstraZeneca",
-          "url": "https://finance.yahoo.com/m/97a51e2c-ccc6-3d2a-ad24-ef45ec3e00f4/bristol-myers-squibb-stock.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Eli Lilly (LLY) Wins FDA Breakthrough Tag For Olomorasib, Backs $70 Million Raise",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-wins-fda-210839264.html?.tsrc=rss",
+          "score": 0.0516
         },
         {
-          "title": "Is Eli Lilly Stock Running out of Steam?",
-          "url": "https://www.fool.com/investing/2026/08/03/is-eli-lilly-stock-running-out-of-steam/?.tsrc=rss",
-          "score": 0.0
+          "title": "AbbVie's Growth Now Leans On A Single Molecule",
+          "url": "https://www.trefis.com/articles/609855/abbvies-growth-now-leans-on-a-single-molecule/2026-08-03?.tsrc=rss",
+          "score": 0.3818
         },
         {
-          "title": "Eli Lilly's Latest Cancer Win Comes With a Big Caveat",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lillys-latest-cancer-win-174738823.html?.tsrc=rss",
-          "score": 0.25
+          "title": "Read Between These Lines As Eli Lilly, Hot IPO And More Face Key Test",
+          "url": "https://finance.yahoo.com/m/5590db17-86e1-3e20-968f-e17e3288e742/read-between-these-lines-as.html?.tsrc=rss",
+          "score": 0.2732
         }
       ]
     },
     {
-      "ticker": "GOOGL",
-      "rank": 16,
-      "prob_up": 0.3645,
-      "sentiment_norm": 0.7206,
-      "final_score": 0.4713,
-      "price": 373.51,
-      "change_pct": 5.45,
+      "ticker": "MSFT",
+      "rank": 15,
+      "prob_up": 0.3776,
+      "sentiment_norm": 0.6284,
+      "final_score": 0.4529,
+      "price": 487.65,
+      "change_pct": 5.59,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Adeia Announces Second Quarter 2026 Financial Results",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/adeia-announces-second-quarter-2026-200500035.html?.tsrc=rss",
-          "score": 0.8176
+          "title": "Top Tech Analyst Says Hyperscalers Are the Clear AI Winners, but Beaten-Down Software Offers Value",
+          "url": "https://247wallst.com/investing/2026/08/03/top-tech-analyst-says-hyperscalers-are-the-clear-ai-winners-but-beaten-down-software-offers-value/?.tsrc=rss",
+          "score": 0.7548
         },
         {
-          "title": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying.",
-          "url": "https://finance.yahoo.com/m/785c1696-3240-3321-91cf-8af3784ee3b7/amazon-stock-breaks-out-to-%243.html?.tsrc=rss",
-          "score": 0.6908
+          "title": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+          "score": 0.0772
         },
         {
-          "title": "Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",
-          "url": "https://finance.yahoo.com/video/why-microsoft-amazon-other-big-195257279.html?.tsrc=rss",
-          "score": 0.34
+          "title": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
+          "url": "http://www.etf.com/sections/news/3-etfs-hold-most-magnificent-7-and-how-theyre-performing-tougher-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+          "score": 0.8687
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 16,
+      "prob_up": 0.358,
+      "sentiment_norm": 0.6688,
+      "final_score": 0.4513,
+      "price": 284.02,
+      "change_pct": 5.0,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Top Tech Analyst Says Hyperscalers Are the Clear AI Winners, but Beaten-Down Software Offers Value",
+          "url": "https://247wallst.com/investing/2026/08/03/top-tech-analyst-says-hyperscalers-are-the-clear-ai-winners-but-beaten-down-software-offers-value/?.tsrc=rss",
+          "score": 0.7548
+        },
+        {
+          "title": "Dow Jones Futures: Trump Sparks Stock Market Rally; Palantir Soars On Earnings With SpaceX On Deck",
+          "url": "https://finance.yahoo.com/m/da473528-e61d-3587-a918-4ff481114351/dow-jones-futures%3A-trump.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+          "score": 0.0772
         }
       ]
     },
@@ -438,80 +438,80 @@
       "ticker": "XOM",
       "rank": 17,
       "prob_up": 0.4111,
-      "sentiment_norm": 0.5808,
-      "final_score": 0.4621,
+      "sentiment_norm": 0.4735,
+      "final_score": 0.4298,
       "price": 155.06,
       "change_pct": -1.29,
       "sparkline": [],
       "headlines": [
         {
+          "title": "Trump says Exxon, Chevron are 'making too much money' amid Iran war",
+          "url": "https://www.usatoday.com/story/news/politics/2026/08/03/trump-exxonmobil-chevron-profits-earnings-iran-war/91155779007/?.tsrc=rss",
+          "score": -0.8591
+        },
+        {
+          "title": "XOM, CVX Stocks In Focus: Trump Criticizes Exxon And Chevron For Profiting From Iran-Driven Oil Price Surge \u2014 \u2018They\u2019re Making Too Much Money\u2019",
+          "url": "https://stocktwits.com/news-articles/markets/equity/xom-cvx-stocks-in-focus-trump-criticizes-exxon-chevron-for-profiting-from-iran-driven-oil-price-surge/cZoTFnxRJ3i?.tsrc=rss",
+          "score": -0.2023
+        },
+        {
           "title": "Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly",
           "url": "https://finance.yahoo.com/m/543c3d5f-81e1-3761-a6f9-f540aef3bd68/several-oil-stocks-tee-up-for.html?.tsrc=rss",
           "score": 0.128
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-194250228.html?.tsrc=rss",
-          "score": 0.6486
-        },
-        {
-          "title": "Trump calls out Chevron and Exxon profits: 'They're making too much money'",
-          "url": "https://finance.yahoo.com/video/trump-calls-out-chevron-and-exxon-profits-theyre-making-too-much-money-194123098.html?.tsrc=rss",
-          "score": 0.6865
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "rank": 18,
-      "prob_up": 0.3776,
-      "sentiment_norm": 0.6457,
-      "final_score": 0.4581,
-      "price": 487.65,
-      "change_pct": 5.59,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Microsoft Stock Jumps 4.9% as Azure Rally Hits New Gear",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-jumps-4-9-203413924.html?.tsrc=rss",
-          "score": 0.8271
-        },
-        {
-          "title": "US Equity Markets End Higher as Crude Oil Falls on US-Iran's New Round of Talks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-201335222.html?.tsrc=rss",
-          "score": -0.8126
-        },
-        {
-          "title": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying.",
-          "url": "https://finance.yahoo.com/m/785c1696-3240-3321-91cf-8af3784ee3b7/amazon-stock-breaks-out-to-%243.html?.tsrc=rss",
-          "score": 0.6908
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "rank": 19,
+      "rank": 18,
       "prob_up": 0.3319,
-      "sentiment_norm": 0.5391,
-      "final_score": 0.3941,
+      "sentiment_norm": 0.6177,
+      "final_score": 0.4177,
       "price": 206.64,
       "change_pct": 3.87,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Winning Physically and Financially: How Working to 70 and Delaying Social Security Stack the Deck in Your Favor",
-          "url": "https://www.fool.com/retirement/2026/08/03/winning-physically-and-financially-how-working-to/?.tsrc=rss",
-          "score": 0.926
+          "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+          "url": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html?.tsrc=rss",
+          "score": 0.7297
         },
         {
-          "title": "Is Hims & Hers Health Stock in Trouble?",
-          "url": "https://www.fool.com/investing/2026/08/03/is-hims-hers-health-stock-in-trouble/?.tsrc=rss",
-          "score": -0.4019
+          "title": "SpaceX Stock Faces 2 Massive Tests This Week. One Could Triple Its Public Float",
+          "url": "https://247wallst.com/investing/2026/08/03/spacex-stock-faces-2-massive-tests-this-week-one-could-triple-its-public-float/?.tsrc=rss",
+          "score": 0.1531
         },
         {
-          "title": "Why IonQ Stock Popped Today",
-          "url": "https://www.fool.com/investing/2026/08/03/why-ionq-stock-popped-today/?.tsrc=rss",
-          "score": 0.7269
+          "title": "Realty Income Has Paid a Monthly Dividend for 673 Straight Months. Here's What That Means for Income Investors.",
+          "url": "https://www.fool.com/investing/2026/08/03/realty-income-has-paid-a-monthly-dividend-for-673/?.tsrc=rss",
+          "score": 0.5423
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "rank": 19,
+      "prob_up": 0.3645,
+      "sentiment_norm": 0.5403,
+      "final_score": 0.4172,
+      "price": 373.51,
+      "change_pct": 5.45,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Teads Files Lawsuit Against Google Seeking Financial Damages Following Federal Court Antitrust Ruling",
+          "url": "https://finance.yahoo.com/media-advertising/articles/teads-files-lawsuit-against-google-213000996.html?.tsrc=rss",
+          "score": -0.6908
+        },
+        {
+          "title": "Top Tech Analyst Says Hyperscalers Are the Clear AI Winners, but Beaten-Down Software Offers Value",
+          "url": "https://247wallst.com/investing/2026/08/03/top-tech-analyst-says-hyperscalers-are-the-clear-ai-winners-but-beaten-down-software-offers-value/?.tsrc=rss",
+          "score": 0.7548
+        },
+        {
+          "title": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+          "score": 0.0772
         }
       ]
     },
@@ -519,26 +519,26 @@
       "ticker": "TSLA",
       "rank": 20,
       "prob_up": 0.2713,
-      "sentiment_norm": 0.545,
-      "final_score": 0.3534,
+      "sentiment_norm": 0.6165,
+      "final_score": 0.3749,
       "price": 322.08,
       "change_pct": 4.15,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-despite-1-203652674.html?.tsrc=rss",
-          "score": -0.6522
+          "title": "Rivian Cuts Spending by $250 Million -- Here's What the New Guidance Means for Investors",
+          "url": "https://www.fool.com/investing/2026/08/03/what-hot-tickers-latest-guidance-means-for-investo/?.tsrc=rss",
+          "score": -0.34
         },
         {
-          "title": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
-          "url": "https://finance.yahoo.com/m/35bc8f46-c028-3b37-915f-6775743483cb/a-spacex-earnings-preview%3A.html?.tsrc=rss",
-          "score": 0.5859
+          "title": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
+          "url": "http://www.etf.com/sections/news/3-etfs-hold-most-magnificent-7-and-how-theyre-performing-tougher-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+          "score": 0.8687
         },
         {
-          "title": "Tesla's Big Robotaxi Progress Is Hidden in Plain Sight",
-          "url": "https://www.fool.com/investing/2026/08/03/teslas-big-robotaxi-progress-is-hidden-in-plain-si/?.tsrc=rss",
-          "score": 0.6908
+          "title": "BYD Sets Export Record. Nio, XPeng, and Li Auto Stocks Suffer",
+          "url": "https://finance.yahoo.com/m/eefd0b89-ef56-3383-84ec-d28dfd87077b/byd-sets-export-record.-nio%2C.html?.tsrc=rss",
+          "score": 0.6597
         }
       ]
     }
