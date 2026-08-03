@@ -1,69 +1,42 @@
 {
-  "last_updated": "2026-08-03T19:11:34Z",
-  "market_status": "open",
+  "last_updated": "2026-08-03T20:41:05Z",
+  "market_status": "closed",
   "rankings": [
     {
       "ticker": "META",
       "rank": 1,
-      "prob_up": 0.6397,
-      "sentiment_norm": 0.6599,
-      "final_score": 0.6457,
-      "price": 593.0,
-      "change_pct": 7.06,
+      "prob_up": 0.6344,
+      "sentiment_norm": 0.7135,
+      "final_score": 0.6581,
+      "price": 590.24,
+      "change_pct": 6.56,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Meta Stock Surges 6.6% as AI Spending Fears Suddenly Ease",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-surges-6-6-183555886.html?.tsrc=rss",
+          "title": "Meta Platforms Stock Plunges On Earnings; This Bearish Options Trade Could Earn $470",
+          "url": "https://finance.yahoo.com/m/ba5efde5-8be1-3800-b032-c508b7aa61a0/meta-platforms-stock-plunges.html?.tsrc=rss",
           "score": 0.3182
         },
         {
-          "title": "What's Going On With CoreWeave Stock Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-coreweave-stock-monday-183337643.html?.tsrc=rss",
-          "score": 0.4019
+          "title": "While similar, Meta a better bet than SpaceX, says portfolio manager",
+          "url": "https://finance.yahoo.com/video/while-similar-meta-better-bet-201332819.html?.tsrc=rss",
+          "score": 0.6872
         },
         {
-          "title": "Why Meta Platforms Stock Popped Today",
-          "url": "https://www.fool.com/investing/2026/08/03/why-meta-platforms-stock-popped-today/?.tsrc=rss",
-          "score": 0.5106
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 2,
-      "prob_up": 0.5332,
-      "sentiment_norm": 0.8181,
-      "final_score": 0.6187,
-      "price": 952.2,
-      "change_pct": 0.05,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "2 Cash-Producing Stocks to Research Further and 1 We Avoid",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-research-183722295.html?.tsrc=rss",
-          "score": 0.6858
-        },
-        {
-          "title": "Costco's Renewal Trends Point to Lasting Customer Loyalty",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/costcos-renewal-trends-point-lasting-150300024.html?.tsrc=rss",
-          "score": 0.8555
-        },
-        {
-          "title": "Walmart, Costco, Amazon racing to capture weight loss drug customers",
-          "url": "https://qz.com/walmart-costco-amazon-weight-loss-drug-prescriptions-080326?.tsrc=rss",
-          "score": -0.0516
+          "title": "Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",
+          "url": "https://finance.yahoo.com/video/why-microsoft-amazon-other-big-195257279.html?.tsrc=rss",
+          "score": 0.34
         }
       ]
     },
     {
       "ticker": "HD",
-      "rank": 3,
-      "prob_up": 0.5509,
+      "rank": 2,
+      "prob_up": 0.565,
       "sentiment_norm": 0.7532,
-      "final_score": 0.6116,
-      "price": 339.2,
-      "change_pct": 2.2,
+      "final_score": 0.6215,
+      "price": 340.02,
+      "change_pct": 2.45,
       "sparkline": [],
       "headlines": [
         {
@@ -84,15 +57,47 @@
       ]
     },
     {
+      "ticker": "COST",
+      "rank": 3,
+      "prob_up": 0.529,
+      "sentiment_norm": 0.8181,
+      "final_score": 0.6158,
+      "price": 954.08,
+      "change_pct": 0.25,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "2 Cash-Producing Stocks to Research Further and 1 We Avoid",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-research-183722295.html?.tsrc=rss",
+          "score": 0.6858
+        },
+        {
+          "title": "Costco's Renewal Trends Point to Lasting Customer Loyalty",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costcos-renewal-trends-point-lasting-150300024.html?.tsrc=rss",
+          "score": 0.8555
+        },
+        {
+          "title": "Walmart, Costco, Amazon racing to capture weight loss drug customers",
+          "url": "https://qz.com/walmart-costco-amazon-weight-loss-drug-prescriptions-080326?.tsrc=rss",
+          "score": -0.0516
+        }
+      ]
+    },
+    {
       "ticker": "UNH",
       "rank": 4,
       "prob_up": 0.5106,
-      "sentiment_norm": 0.7567,
-      "final_score": 0.5845,
-      "price": 415.69,
-      "change_pct": 0.34,
+      "sentiment_norm": 0.7204,
+      "final_score": 0.5736,
+      "price": 415.36,
+      "change_pct": 0.26,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "CVS Health Stock Surged On An Aetna Recovery That Management Had Already Sized",
+          "url": "https://www.trefis.com/articles/609854/cvs-health-stock-surged-on-an-aetna-recovery-that-management-had-already-sized/2026-08-03?.tsrc=rss",
+          "score": 0.2023
+        },
         {
           "title": "Why UnitedHealth Group (UNH) Is Back on Investors\u2019 Radar",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-unitedhealth-group-unh-back-153314421.html?.tsrc=rss",
@@ -102,11 +107,6 @@
           "title": "CVS Health's Q2 Earnings on Deck: How Should You Play the Stock?",
           "url": "https://finance.yahoo.com/healthcare/articles/cvs-healths-q2-earnings-deck-135500291.html?.tsrc=rss",
           "score": 0.7717
-        },
-        {
-          "title": "MarketBeat Week in Review \u2013 07/27- 07/31",
-          "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-07-27-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-          "score": 0.296
         }
       ]
     },
@@ -114,118 +114,91 @@
       "ticker": "WMT",
       "rank": 5,
       "prob_up": 0.5458,
-      "sentiment_norm": 0.5901,
-      "final_score": 0.5591,
+      "sentiment_norm": 0.6341,
+      "final_score": 0.5723,
       "price": 110.71,
       "change_pct": -0.55,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Jim Cramer says Wall Street is 'fleeing' AI stocks after a 7% drop \u2014 and buying Salesforce, Walmart instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wall-street-120000352.html?.tsrc=rss",
-          "score": -0.2732
-        },
-        {
-          "title": "Jefferies Faces Fresh Trouble at Fund It Was Already Shuttering",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-faces-fresh-trouble-fund-134500633.html?.tsrc=rss",
-          "score": -0.6908
+          "title": "CVS Health Stock Surged On An Aetna Recovery That Management Had Already Sized",
+          "url": "https://www.trefis.com/articles/609854/cvs-health-stock-surged-on-an-aetna-recovery-that-management-had-already-sized/2026-08-03?.tsrc=rss",
+          "score": 0.2023
         },
         {
           "title": "Walmart (WMT) Launches Florida Drone Delivery And GLP 1 Weight Loss Prescriptions",
           "url": "https://finance.yahoo.com/healthcare/articles/walmart-wmt-launches-florida-drone-170947568.html?.tsrc=rss",
           "score": -0.2263
-        }
-      ]
-    },
-    {
-      "ticker": "JNJ",
-      "rank": 6,
-      "prob_up": 0.4904,
-      "sentiment_norm": 0.7166,
-      "final_score": 0.5583,
-      "price": 254.43,
-      "change_pct": -1.3,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Stock Market Today: Nasdaq Jumps 2% As Amazon Passes $3 Trillion Level; This Viking Tops Entry (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": 0.5574
         },
         {
-          "title": "Johnson & Johnson (JNJ) Gets FDA Nod For OTTAVA As It Enters Surgical Robotics",
-          "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-gets-fda-180902130.html?.tsrc=rss",
-          "score": 0.1779
-        },
-        {
-          "title": "Are These 5 Pharma Stocks Set to Surpass Q2 Earnings Forecasts?",
-          "url": "https://finance.yahoo.com/healthcare/articles/5-pharma-stocks-set-surpass-173000188.html?.tsrc=rss",
-          "score": 0.5661
+          "title": "Amazon's Cloud Profit Line Is What The Market Actually Bought",
+          "url": "https://www.trefis.com/articles/609851/amazons-cloud-profit-line-is-what-the-market-actually-bought/2026-08-03?.tsrc=rss",
+          "score": 0.6124
         }
       ]
     },
     {
       "ticker": "AAPL",
-      "rank": 7,
-      "prob_up": 0.5133,
-      "sentiment_norm": 0.6623,
-      "final_score": 0.558,
-      "price": 305.72,
-      "change_pct": -0.53,
+      "rank": 6,
+      "prob_up": 0.5617,
+      "sentiment_norm": 0.5961,
+      "final_score": 0.572,
+      "price": 303.42,
+      "change_pct": -1.28,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Micron Stock Falls -- Apple Tests Chinese Memory Chips From Rising Rival",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-falls-apple-tests-190529091.html?.tsrc=rss",
-          "score": -0.5267
+          "title": "Stock Market Today: Nasdaq Jumps 2%, Chevron Falls As Trump Lashes Out; This Viking Tops Entry (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+          "score": 0.4404
         },
         {
-          "title": "Apple Makes Surprise Manufacturing Power Play",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-makes-surprise-manufacturing-power-190220762.html?.tsrc=rss",
-          "score": 0.296
+          "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-193731647.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "All But 2 \"Magnificent Seven\" Stocks Are Underperforming the Market This Year. Here's 1 Company I'd Load Up On and 1 I'd Avoid",
-          "url": "https://www.fool.com/investing/2026/08/03/all-but-2-magnificent-seven-stocks-underperforming/?.tsrc=rss",
-          "score": 0.8047
+          "title": "Spotify's Path to Sales Growth Reacceleration, Margin Expansion Should Drive Stock Higher, Morgan Stanley Says",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spotify-apos-path-sales-growth-193545479.html?.tsrc=rss",
+          "score": 0.5859
         }
       ]
     },
     {
-      "ticker": "PG",
-      "rank": 8,
-      "prob_up": 0.519,
-      "sentiment_norm": 0.6484,
-      "final_score": 0.5578,
-      "price": 144.82,
-      "change_pct": 0.33,
+      "ticker": "JNJ",
+      "rank": 7,
+      "prob_up": 0.4799,
+      "sentiment_norm": 0.7328,
+      "final_score": 0.5558,
+      "price": 254.41,
+      "change_pct": -1.31,
       "sparkline": [],
       "headlines": [
         {
-          "title": "3 Top Dividend Stocks to Buy Before Their Next Payout",
-          "url": "https://247wallst.com/investing/2026/08/03/3-top-dividend-stocks-to-buy-before-their-next-payout/?.tsrc=rss",
-          "score": -0.2382
+          "title": "3 Dividend Stocks to Buy and Hold Forever",
+          "url": "https://www.fool.com/investing/2026/08/01/3-dividend-stocks-to-buy-and-hold-forever/?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Guinness-owner Diageo poaches P&G exec as City awaits turnaround plan",
-          "url": "https://uk.finance.yahoo.com/news/guinness-owner-diageo-poaches-p-102100689.html?.tsrc=rss",
-          "score": 0.6908
+          "title": "Johnson & Johnson (JNJ) Stock Sees Modest Fair Value Lift After Analyst Target Increases",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-stock-sees-121114536.html?.tsrc=rss",
+          "score": 0.5267
         },
         {
-          "title": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
-          "url": "https://www.fool.com/investing/2026/08/03/pg-guided-below-estimates-and-sits-5-above-a-52-we/?.tsrc=rss",
-          "score": -0.2732
+          "title": "Stock Market Today: Nasdaq Jumps 2%, Chevron Falls As Trump Lashes Out; This Viking Tops Entry (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+          "score": 0.4404
         }
       ]
     },
     {
       "ticker": "AVGO",
-      "rank": 9,
-      "prob_up": 0.5305,
-      "sentiment_norm": 0.6149,
-      "final_score": 0.5558,
-      "price": 391.54,
-      "change_pct": 1.06,
+      "rank": 8,
+      "prob_up": 0.5217,
+      "sentiment_norm": 0.5961,
+      "final_score": 0.544,
+      "price": 392.23,
+      "change_pct": 1.23,
       "sparkline": [],
       "headlines": [
         {
@@ -246,40 +219,13 @@
       ]
     },
     {
-      "ticker": "JPM",
-      "rank": 10,
-      "prob_up": 0.5178,
-      "sentiment_norm": 0.6002,
-      "final_score": 0.5425,
-      "price": 351.56,
-      "change_pct": 0.4,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "JPMorgan Makes Massive Push Into American Housing",
-          "url": "https://finance.yahoo.com/real-estate/articles/jpmorgan-makes-massive-push-american-182147548.html?.tsrc=rss",
-          "score": 0.5267
-        },
-        {
-          "title": "Sector Update: Financial Stocks Advance Monday Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-monday-174425791.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "JPMorgan Chase pledges $750 billion for U.S. housing through 2035",
-          "url": "https://qz.com/jpmorgan-chase-750-billion-housing-supply-homeownership-080326?.tsrc=rss",
-          "score": 0.4019
-        }
-      ]
-    },
-    {
       "ticker": "BRK-B",
-      "rank": 11,
+      "rank": 9,
       "prob_up": 0.4982,
       "sentiment_norm": 0.6239,
       "final_score": 0.5359,
-      "price": 512.54,
-      "change_pct": 0.15,
+      "price": 513.14,
+      "change_pct": 0.27,
       "sparkline": [],
       "headlines": [
         {
@@ -300,67 +246,121 @@
       ]
     },
     {
-      "ticker": "XOM",
-      "rank": 12,
-      "prob_up": 0.526,
-      "sentiment_norm": 0.4776,
-      "final_score": 0.5115,
-      "price": 154.49,
-      "change_pct": -1.66,
+      "ticker": "PG",
+      "rank": 10,
+      "prob_up": 0.4871,
+      "sentiment_norm": 0.6484,
+      "final_score": 0.5355,
+      "price": 144.97,
+      "change_pct": 0.43,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Trump Blasts Oil Companies For Making \u201cToo Much Money\u201d During Iran Conflict As Chevron and Exxon Profits Skyrocket",
-          "url": "https://247wallst.com/investing/2026/08/03/trump-blasts-oil-companies-for-making-too-much-money-during-iran-conflict-as-chevron-and-exxon-profits-skyrocket/?.tsrc=rss",
-          "score": -0.8885
+          "title": "3 Top Dividend Stocks to Buy Before Their Next Payout",
+          "url": "https://247wallst.com/investing/2026/08/03/3-top-dividend-stocks-to-buy-before-their-next-payout/?.tsrc=rss",
+          "score": -0.2382
         },
         {
-          "title": "This Oil Stock Breaks Out Powerfully In Hefty Energy Earnings Week",
-          "url": "https://finance.yahoo.com/m/543c3d5f-81e1-3761-a6f9-f540aef3bd68/this-oil-stock-breaks-out.html?.tsrc=rss",
-          "score": -0.5106
+          "title": "Guinness-owner Diageo poaches P&G exec as City awaits turnaround plan",
+          "url": "https://uk.finance.yahoo.com/news/guinness-owner-diageo-poaches-p-102100689.html?.tsrc=rss",
+          "score": 0.6908
         },
         {
-          "title": "Trump Chastises Chevron CEO for Failing to Praise Administration",
-          "url": "https://finance.yahoo.com/energy/articles/trump-chastises-chevron-ceo-failing-151654454.html?.tsrc=rss",
-          "score": -0.8172
+          "title": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
+          "url": "https://www.fool.com/investing/2026/08/03/pg-guided-below-estimates-and-sits-5-above-a-52-we/?.tsrc=rss",
+          "score": -0.2732
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "rank": 11,
+      "prob_up": 0.5063,
+      "sentiment_norm": 0.5795,
+      "final_score": 0.5282,
+      "price": 352.64,
+      "change_pct": 0.71,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "JPMorgan Stock Rises as $750 Billion Housing Plan Unfolds",
+          "url": "https://finance.yahoo.com/real-estate/articles/jpmorgan-stock-rises-750-billion-203455477.html?.tsrc=rss",
+          "score": 0.3182
+        },
+        {
+          "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-195524260.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Nebex CEO: \u201cSpace Is the Only Major Sector Left Without Functioning Capital Markets\u201d",
+          "url": "https://247wallst.com/investing/2026/08/03/nebex-ceo-space-is-the-only-major-sector-left-without-functioning-capital-markets/?.tsrc=rss",
+          "score": -0.7269
         }
       ]
     },
     {
       "ticker": "V",
-      "rank": 13,
-      "prob_up": 0.514,
-      "sentiment_norm": 0.4299,
-      "final_score": 0.4887,
-      "price": 366.52,
-      "change_pct": 0.19,
+      "rank": 12,
+      "prob_up": 0.5076,
+      "sentiment_norm": 0.4754,
+      "final_score": 0.4979,
+      "price": 365.67,
+      "change_pct": -0.04,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-195524260.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Visa Stock Rises as $2.4 Billion Cybersecurity Deal Targets Fraud",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-rises-2-4-191949805.html?.tsrc=rss",
+          "score": -0.6705
+        },
         {
           "title": "2 Cash-Producing Stocks with Exciting Potential and 1 We Ignore",
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-exciting-181322838.html?.tsrc=rss",
           "score": 0.7717
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 13,
+      "prob_up": 0.358,
+      "sentiment_norm": 0.7799,
+      "final_score": 0.4846,
+      "price": 284.02,
+      "change_pct": 5.0,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying.",
+          "url": "https://finance.yahoo.com/m/785c1696-3240-3321-91cf-8af3784ee3b7/amazon-stock-breaks-out-to-%243.html?.tsrc=rss",
+          "score": 0.6908
         },
         {
-          "title": "Visa\u2019s Latest Deal Signals New Era in Fighting Digital Scams",
-          "url": "https://finance.yahoo.com/m/29f459bf-31be-3f59-b5ac-77d0deeee2f5/visa%E2%80%99s-latest-deal-signals.html?.tsrc=rss",
-          "score": -0.9524
+          "title": "Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",
+          "url": "https://finance.yahoo.com/video/why-microsoft-amazon-other-big-195257279.html?.tsrc=rss",
+          "score": 0.34
         },
         {
-          "title": "Sector Update: Financial Stocks Advance Monday Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-monday-174425791.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Why Amazon Looks Better Than Microsoft After Each Jumped 15% Post Earnings",
+          "url": "https://247wallst.com/investing/2026/08/03/why-amazon-looks-better-than-microsoft-after-each-jumped-15-post-earnings/?.tsrc=rss",
+          "score": 0.5927
         }
       ]
     },
     {
       "ticker": "MA",
       "rank": 14,
-      "prob_up": 0.4805,
+      "prob_up": 0.4669,
       "sentiment_norm": 0.5005,
-      "final_score": 0.4865,
-      "price": 574.8,
-      "change_pct": 0.32,
+      "final_score": 0.477,
+      "price": 570.97,
+      "change_pct": -0.34,
       "sparkline": [],
       "headlines": [
         {
@@ -383,11 +383,11 @@
     {
       "ticker": "LLY",
       "rank": 15,
-      "prob_up": 0.4387,
+      "prob_up": 0.4212,
       "sentiment_norm": 0.5917,
-      "final_score": 0.4846,
-      "price": 1118.83,
-      "change_pct": -2.51,
+      "final_score": 0.4723,
+      "price": 1121.36,
+      "change_pct": -2.29,
       "sparkline": [],
       "headlines": [
         {
@@ -408,137 +408,137 @@
       ]
     },
     {
-      "ticker": "MSFT",
+      "ticker": "GOOGL",
       "rank": 16,
-      "prob_up": 0.3776,
-      "sentiment_norm": 0.7303,
-      "final_score": 0.4834,
-      "price": 488.36,
-      "change_pct": 5.74,
+      "prob_up": 0.3645,
+      "sentiment_norm": 0.7206,
+      "final_score": 0.4713,
+      "price": 373.51,
+      "change_pct": 5.45,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Nasdaq Jumps 2% As Amazon Passes $3 Trillion Level; This Viking Tops Entry (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": 0.5574
+          "title": "Adeia Announces Second Quarter 2026 Financial Results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/adeia-announces-second-quarter-2026-200500035.html?.tsrc=rss",
+          "score": 0.8176
         },
         {
-          "title": "Suze Orman: SpaceX IPO Buyers Are Down 44% in 7 Weeks and the Lesson Has Nothing to Do With Elon Musk",
-          "url": "https://247wallst.com/personal-finance/2026/08/03/suze-orman-spacex-ipo-buyers-are-down-44-in-7-weeks-and-the-lesson-has-nothing-to-do-with-elon-musk/?.tsrc=rss",
-          "score": 0.0
+          "title": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying.",
+          "url": "https://finance.yahoo.com/m/785c1696-3240-3321-91cf-8af3784ee3b7/amazon-stock-breaks-out-to-%243.html?.tsrc=rss",
+          "score": 0.6908
         },
         {
-          "title": "What's Going On With CoreWeave Stock Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-coreweave-stock-monday-183337643.html?.tsrc=rss",
-          "score": 0.4019
+          "title": "Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",
+          "url": "https://finance.yahoo.com/video/why-microsoft-amazon-other-big-195257279.html?.tsrc=rss",
+          "score": 0.34
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "rank": 17,
+      "prob_up": 0.4111,
+      "sentiment_norm": 0.5808,
+      "final_score": 0.4621,
+      "price": 155.06,
+      "change_pct": -1.29,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly",
+          "url": "https://finance.yahoo.com/m/543c3d5f-81e1-3761-a6f9-f540aef3bd68/several-oil-stocks-tee-up-for.html?.tsrc=rss",
+          "score": 0.128
+        },
+        {
+          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-194250228.html?.tsrc=rss",
+          "score": 0.6486
+        },
+        {
+          "title": "Trump calls out Chevron and Exxon profits: 'They're making too much money'",
+          "url": "https://finance.yahoo.com/video/trump-calls-out-chevron-and-exxon-profits-theyre-making-too-much-money-194123098.html?.tsrc=rss",
+          "score": 0.6865
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "rank": 18,
+      "prob_up": 0.3776,
+      "sentiment_norm": 0.6457,
+      "final_score": 0.4581,
+      "price": 487.65,
+      "change_pct": 5.59,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Microsoft Stock Jumps 4.9% as Azure Rally Hits New Gear",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-jumps-4-9-203413924.html?.tsrc=rss",
+          "score": 0.8271
+        },
+        {
+          "title": "US Equity Markets End Higher as Crude Oil Falls on US-Iran's New Round of Talks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-201335222.html?.tsrc=rss",
+          "score": -0.8126
+        },
+        {
+          "title": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying.",
+          "url": "https://finance.yahoo.com/m/785c1696-3240-3321-91cf-8af3784ee3b7/amazon-stock-breaks-out-to-%243.html?.tsrc=rss",
+          "score": 0.6908
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "rank": 17,
-      "prob_up": 0.4248,
-      "sentiment_norm": 0.6089,
-      "final_score": 0.48,
-      "price": 208.24,
-      "change_pct": 4.67,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Trump Blasts Oil Companies For Making \u201cToo Much Money\u201d During Iran Conflict As Chevron and Exxon Profits Skyrocket",
-          "url": "https://247wallst.com/investing/2026/08/03/trump-blasts-oil-companies-for-making-too-much-money-during-iran-conflict-as-chevron-and-exxon-profits-skyrocket/?.tsrc=rss",
-          "score": -0.8885
-        },
-        {
-          "title": "All But 2 \"Magnificent Seven\" Stocks Are Underperforming the Market This Year. Here's 1 Company I'd Load Up On and 1 I'd Avoid",
-          "url": "https://www.fool.com/investing/2026/08/03/all-but-2-magnificent-seven-stocks-underperforming/?.tsrc=rss",
-          "score": 0.8047
-        },
-        {
-          "title": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://finance.yahoo.com/m/43e3b66a-fc8c-3bba-9d54-03a4046409ea/amazon%2C-apple%2C-boeing%2C.html?.tsrc=rss",
-          "score": 0.5574
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "rank": 18,
-      "prob_up": 0.358,
-      "sentiment_norm": 0.7629,
-      "final_score": 0.4795,
-      "price": 283.21,
-      "change_pct": 4.7,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Stock Market Today: Nasdaq Jumps 2% As Amazon Passes $3 Trillion Level; This Viking Tops Entry (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": 0.5574
-        },
-        {
-          "title": "Suze Orman: SpaceX IPO Buyers Are Down 44% in 7 Weeks and the Lesson Has Nothing to Do With Elon Musk",
-          "url": "https://247wallst.com/personal-finance/2026/08/03/suze-orman-spacex-ipo-buyers-are-down-44-in-7-weeks-and-the-lesson-has-nothing-to-do-with-elon-musk/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://finance.yahoo.com/m/43e3b66a-fc8c-3bba-9d54-03a4046409ea/amazon%2C-apple%2C-boeing%2C.html?.tsrc=rss",
-          "score": 0.5574
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
       "rank": 19,
-      "prob_up": 0.356,
-      "sentiment_norm": 0.7441,
-      "final_score": 0.4724,
-      "price": 374.8,
-      "change_pct": 5.82,
+      "prob_up": 0.3319,
+      "sentiment_norm": 0.5391,
+      "final_score": 0.3941,
+      "price": 206.64,
+      "change_pct": 3.87,
       "sparkline": [],
       "headlines": [
         {
-          "title": "DeepSeek Drops New Bombshell on AI Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-drops-bombshell-ai-stocks-190053199.html?.tsrc=rss",
-          "score": 0.3612
+          "title": "Winning Physically and Financially: How Working to 70 and Delaying Social Security Stack the Deck in Your Favor",
+          "url": "https://www.fool.com/retirement/2026/08/03/winning-physically-and-financially-how-working-to/?.tsrc=rss",
+          "score": 0.926
         },
         {
-          "title": "All But 2 \"Magnificent Seven\" Stocks Are Underperforming the Market This Year. Here's 1 Company I'd Load Up On and 1 I'd Avoid",
-          "url": "https://www.fool.com/investing/2026/08/03/all-but-2-magnificent-seven-stocks-underperforming/?.tsrc=rss",
-          "score": 0.8047
+          "title": "Is Hims & Hers Health Stock in Trouble?",
+          "url": "https://www.fool.com/investing/2026/08/03/is-hims-hers-health-stock-in-trouble/?.tsrc=rss",
+          "score": -0.4019
         },
         {
-          "title": "Stock Market Today: Nasdaq Jumps 2% As Amazon Passes $3 Trillion Level; This Viking Tops Entry (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": 0.5574
+          "title": "Why IonQ Stock Popped Today",
+          "url": "https://www.fool.com/investing/2026/08/03/why-ionq-stock-popped-today/?.tsrc=rss",
+          "score": 0.7269
         }
       ]
     },
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.2376,
-      "sentiment_norm": 0.5946,
-      "final_score": 0.3447,
-      "price": 323.12,
-      "change_pct": 4.48,
+      "prob_up": 0.2713,
+      "sentiment_norm": 0.545,
+      "final_score": 0.3534,
+      "price": 322.08,
+      "change_pct": 4.15,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Cathie Wood Spends $26 Million On Battered Tech Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-spends-26-million-183842300.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-despite-1-203652674.html?.tsrc=rss",
+          "score": -0.6522
         },
         {
-          "title": "Veteran Analyst Flags Tesla Stock's Next Critical Test",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-flags-tesla-stocks-175147410.html?.tsrc=rss",
-          "score": 0.4404
+          "title": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
+          "url": "https://finance.yahoo.com/m/35bc8f46-c028-3b37-915f-6775743483cb/a-spacex-earnings-preview%3A.html?.tsrc=rss",
+          "score": 0.5859
         },
         {
-          "title": "The \u2018Nvidia Tax\u2019: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
-          "url": "https://247wallst.com/investing/2026/08/03/the-nvidia-tax-alphabet-mitigates-it-better-than-amazon-or-any-other-mag-7-stock/?.tsrc=rss",
-          "score": 0.1027
+          "title": "Tesla's Big Robotaxi Progress Is Hidden in Plain Sight",
+          "url": "https://www.fool.com/investing/2026/08/03/teslas-big-robotaxi-progress-is-hidden-in-plain-si/?.tsrc=rss",
+          "score": 0.6908
         }
       ]
     }
