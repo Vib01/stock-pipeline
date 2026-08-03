@@ -7,6 +7,7 @@ This is the ONLY job of this file -- no features, no model, nothing else.
 """
 
 import json
+import math
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -34,9 +35,19 @@ def fetch_live_quotes(tickers: list[str]) -> dict:
                 continue
             latest = hist.iloc[-1]
             prev   = hist.iloc[-2] if len(hist) > 1 else latest
+            price = float(latest["Close"])
+            prev_close = float(prev["Close"])
+
+            if price <= 0 or math.isnan(price):
+                print(f"  {t}: anomalous price ({price}), skipping")
+                continue
+            if prev_close > 0 and abs(price - prev_close) / prev_close > 0.5:
+                print(f"  {t}: anomalous move ({prev_close} -> {price}), skipping")
+                continue
+
             quotes[t] = {
-                "price":          float(latest["Close"]),
-                "previous_close": float(prev["Close"]),
+                "price":          price,
+                "previous_close": prev_close,
                 "volume":         int(latest["Volume"]),
                 "day_high":       float(latest["High"]),
                 "day_low":        float(latest["Low"]),

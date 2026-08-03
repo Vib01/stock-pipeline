@@ -78,7 +78,15 @@ if __name__ == "__main__":
 
     all_live_features = {}
     for ticker in TICKERS:
+        if ticker not in live_quotes:
+            print(f"\n{ticker}: no live quote (skipped upstream), excluding from ranking")
+            continue
+
         feats = build_live_features(ticker, live_quotes)
+        if feats.isna().any():
+            print(f"\n{ticker}: incomplete features (insufficient history), excluding from ranking")
+            continue
+
         all_live_features[ticker] = feats
         print(f"\n{ticker}:")
         print(feats)

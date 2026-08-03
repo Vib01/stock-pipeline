@@ -21,8 +21,9 @@ PROJECT_ROOT   = Path(__file__).resolve().parents[2]
 HISTORICAL_DIR = PROJECT_ROOT / "data" / "raw" / "prices" / "historical"
 MODELS_DIR     = PROJECT_ROOT / "models"
 
-TICKERS  = ["AAPL", "MSFT", "AMZN", "TSLA", "NVDA", "META", "GOOGL"]
-FEATURES = ["return", "ret_5", "ret_10", "ret_20", "volatility"]
+import sys
+sys.path.insert(0, str(PROJECT_ROOT))
+from src.utils.config import TICKERS, FEATURES
 
 
 def load_and_build(ticker: str) -> pd.DataFrame:
