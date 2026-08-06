@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-08-06T14:41:28Z",
+  "last_updated": "2026-08-06T15:24:27Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "META",
       "rank": 1,
-      "prob_up": 0.6357,
-      "sentiment_norm": 0.7399,
-      "final_score": 0.667,
-      "price": 591.94,
-      "change_pct": 0.09,
+      "prob_up": 0.6237,
+      "sentiment_norm": 0.6755,
+      "final_score": 0.6392,
+      "price": 589.36,
+      "change_pct": -0.35,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Nextech3D.ai: 160 new contracts, 92% margins, biggest deal ever due August",
+          "url": "https://finance.yahoo.com/video/nextech3d-ai-160-contracts-92-145725645.html?.tsrc=rss",
+          "score": 0.2263
+        },
+        {
+          "title": "Tesla, Nvidia or Meta: What Would Kenneth Griffin Do?",
+          "url": "https://247wallst.com/investing/2026/08/06/tesla-nvidia-or-meta-what-would-kenneth-griffin-do/?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "After Surging 298%, Is Nebius Stock Still a Buy? Here's What History Says.",
           "url": "https://www.fool.com/investing/2026/08/06/after-surging-298-is-nebius-stock-still-a-buy-here/?.tsrc=rss",
           "score": 0.031
-        },
-        {
-          "title": "Optical networking firm Lumilens valued at $5.5 billion in latest funding round",
-          "url": "https://finance.yahoo.com/technology/ai/articles/optical-networking-firm-lumilens-valued-134155297.html?.tsrc=rss",
-          "score": 0.6486
-        },
-        {
-          "title": "Could Microsoft, Amazon, or Google Actually Buy Reddit?",
-          "url": "https://247wallst.com/investing/2026/08/06/could-microsoft-amazon-or-google-actually-buy-reddit/?.tsrc=rss",
-          "score": 0.7522
         }
       ]
     },
@@ -35,8 +35,8 @@
       "prob_up": 0.5713,
       "sentiment_norm": 0.7529,
       "final_score": 0.6258,
-      "price": 406.22,
-      "change_pct": -1.65,
+      "price": 405.92,
+      "change_pct": -1.73,
       "sparkline": [],
       "headlines": [
         {
@@ -62,8 +62,8 @@
       "prob_up": 0.6131,
       "sentiment_norm": 0.6034,
       "final_score": 0.6102,
-      "price": 312.21,
-      "change_pct": -0.09,
+      "price": 310.05,
+      "change_pct": -0.78,
       "sparkline": [],
       "headlines": [
         {
@@ -84,13 +84,40 @@
       ]
     },
     {
-      "ticker": "PG",
+      "ticker": "COST",
       "rank": 4,
+      "prob_up": 0.5394,
+      "sentiment_norm": 0.7379,
+      "final_score": 0.599,
+      "price": 945.61,
+      "change_pct": -0.46,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Costco delivers a service Lowe's and Home Depot can't match",
+          "url": "https://www.thestreet.com/retail/costco-delivers-a-service-lowes-and-home-depot-cant-match?.tsrc=rss",
+          "score": 0.0772
+        },
+        {
+          "title": "Formerly bankrupt department store bets on Costco strategy",
+          "url": "https://www.thestreet.com/retail/formerly-bankrupt-lord-and-taylor-private-label-heritage-collection-costco-strategy?.tsrc=rss",
+          "score": 0.4754
+        },
+        {
+          "title": "How Does Costco Have Such Cheap Gas Prices?",
+          "url": "https://www.autoguide.com/auto/auto-news/how-does-costco-have-such-cheap-gas-prices-44636161?utm_medium=auto&amp;utm_source=rss&amp;utm_campaign=all_full&.tsrc=rss",
+          "score": 0.5719
+        }
+      ]
+    },
+    {
+      "ticker": "PG",
+      "rank": 5,
       "prob_up": 0.5187,
       "sentiment_norm": 0.7409,
       "final_score": 0.5854,
-      "price": 147.09,
-      "change_pct": 0.31,
+      "price": 147.11,
+      "change_pct": 0.32,
       "sparkline": [],
       "headlines": [
         {
@@ -111,13 +138,40 @@
       ]
     },
     {
+      "ticker": "BRK-B",
+      "rank": 6,
+      "prob_up": 0.5146,
+      "sentiment_norm": 0.7453,
+      "final_score": 0.5838,
+      "price": 517.9,
+      "change_pct": -0.21,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Greg Abel Sold 15 Buffett Stock Positions in His First Quarter as Berkshire CEO. What His Early Portfolio Moves Signal for Shareholders.",
+          "url": "https://www.fool.com/investing/2026/08/06/abel-sold-15-buffett-positions-in-first-quarter/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Warren Buffett and Wife Susie Ate Fritos, Steak, Chocolate and Cookies\u2014Then She Asked Him to Pay Her to Stay 118 Lbs, but Money Didn\u2019t Motivate Her",
+          "url": "https://finance.yahoo.com/small-business/articles/warren-buffett-wife-susie-ate-140026936.html?.tsrc=rss",
+          "score": 0.85
+        },
+        {
+          "title": "Greg Abel's Berkshire Hathaway May Have Repurchased Up to $11 Billion of Its Own Stock Last Quarter. Is This a Bullish Signal for Shareholders?",
+          "url": "https://www.fool.com/investing/2026/08/06/greg-abel-berkshire-hathaway-repurchase-stock/?.tsrc=rss",
+          "score": 0.7506
+        }
+      ]
+    },
+    {
       "ticker": "WMT",
-      "rank": 5,
-      "prob_up": 0.521,
+      "rank": 7,
+      "prob_up": 0.5158,
       "sentiment_norm": 0.7315,
-      "final_score": 0.5841,
-      "price": 112.58,
-      "change_pct": -0.27,
+      "final_score": 0.5805,
+      "price": 112.14,
+      "change_pct": -0.66,
       "sparkline": [],
       "headlines": [
         {
@@ -138,94 +192,67 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 6,
-      "prob_up": 0.5143,
-      "sentiment_norm": 0.7052,
-      "final_score": 0.5716,
-      "price": 517.94,
-      "change_pct": -0.2,
+      "ticker": "LLY",
+      "rank": 8,
+      "prob_up": 0.5451,
+      "sentiment_norm": 0.6576,
+      "final_score": 0.5788,
+      "price": 1184.77,
+      "change_pct": 0.57,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Greg Abel Sold 15 Buffett Stock Positions in His First Quarter as Berkshire CEO. What His Early Portfolio Moves Signal for Shareholders.",
-          "url": "https://www.fool.com/investing/2026/08/06/abel-sold-15-buffett-positions-in-first-quarter/?.tsrc=rss",
-          "score": 0.0
+          "title": "The Next Billion-Dollar Opportunity in Alzheimer's Disease Market: 6 Pipeline Therapies to Watch | DelveInsight",
+          "url": "https://finance.yahoo.com/healthcare/articles/next-billion-dollar-opportunity-alzheimers-143100887.html?.tsrc=rss",
+          "score": 0.4215
         },
         {
-          "title": "Greg Abel's Berkshire Hathaway May Have Repurchased Up to $11 Billion of Its Own Stock Last Quarter. Is This a Bullish Signal for Shareholders?",
-          "url": "https://www.fool.com/investing/2026/08/06/greg-abel-berkshire-hathaway-repurchase-stock/?.tsrc=rss",
-          "score": 0.7506
+          "title": "LLY Q2 Earnings Call Raises Outlook as Foundayo Gains Traction",
+          "url": "https://finance.yahoo.com/healthcare/articles/lly-q2-earnings-call-raises-140000786.html?.tsrc=rss",
+          "score": 0.4215
         },
         {
-          "title": "Berkshire Hathaway (BRK.A) Could Be 18% Undervalued After Recent Buybacks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-could-18-131620594.html?.tsrc=rss",
-          "score": 0.5423
+          "title": "Weight loss drug\u00a0Wegovy made Novo Nordisk Europe\u2019s most valuable company\u2014finding its next blockbuster drug is proving difficult",
+          "url": "https://finance.yahoo.com/healthcare/articles/weight-loss-drug-wegovy-made-123105074.html?.tsrc=rss",
+          "score": 0.3804
         }
       ]
     },
     {
       "ticker": "HD",
-      "rank": 7,
-      "prob_up": 0.5001,
-      "sentiment_norm": 0.6574,
-      "final_score": 0.5473,
-      "price": 351.33,
-      "change_pct": -0.75,
+      "rank": 9,
+      "prob_up": 0.5168,
+      "sentiment_norm": 0.6857,
+      "final_score": 0.5675,
+      "price": 350.05,
+      "change_pct": -1.12,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Costco delivers a service Lowe's and Home Depot can't match",
+          "url": "https://www.thestreet.com/retail/costco-delivers-a-service-lowes-and-home-depot-cant-match?.tsrc=rss",
+          "score": 0.0772
+        },
+        {
+          "title": "Bob\u2019s Discount Furniture Jumps on Q2 Revenue Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bob-discount-furniture-jumps-q2-144856001.html?.tsrc=rss",
+          "score": 0.7269
+        },
         {
           "title": "Somnigroup International (SGI) Matches Q2 Earnings Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/somnigroup-international-sgi-matches-q2-122010821.html?.tsrc=rss",
           "score": 0.128
-        },
-        {
-          "title": "Home Depot reshuffles leadership to accelerate tech innovation",
-          "url": "https://www.ciodive.com/news/home-depot-leadership-tech-innovation/827150/?.tsrc=rss",
-          "score": 0.3818
-        },
-        {
-          "title": "Do Wall Street Analysts Like Home Depot Stock?",
-          "url": "https://www.barchart.com/story/news/3664880/do-wall-street-analysts-like-home-depot-stock?.tsrc=rss",
-          "score": 0.7184
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 8,
-      "prob_up": 0.522,
-      "sentiment_norm": 0.5999,
-      "final_score": 0.5454,
-      "price": 948.0,
-      "change_pct": -0.21,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "ASUS Kicks Off Back-to-School Deals with Savings of Up to 40% on Student-Favorite Laptops and PCs!",
-          "url": "https://finance.yahoo.com/technology/articles/asus-kicks-off-back-school-130000609.html?.tsrc=rss",
-          "score": 0.9259
-        },
-        {
-          "title": "Formerly bankrupt department store bets on Costco strategy",
-          "url": "https://www.thestreet.com/retail/formerly-bankrupt-lord-and-taylor-private-label-heritage-collection-costco-strategy?.tsrc=rss",
-          "score": 0.4754
-        },
-        {
-          "title": "Costco Wholesale Corporation Reports July Sales Results",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-reports-july-201500339.html?.tsrc=rss",
-          "score": 0.3182
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 9,
-      "prob_up": 0.5237,
+      "rank": 10,
+      "prob_up": 0.5371,
       "sentiment_norm": 0.5826,
-      "final_score": 0.5414,
-      "price": 358.12,
-      "change_pct": -0.76,
+      "final_score": 0.5508,
+      "price": 356.12,
+      "change_pct": -1.32,
       "sparkline": [],
       "headlines": [
         {
@@ -246,94 +273,40 @@
       ]
     },
     {
-      "ticker": "LLY",
-      "rank": 10,
-      "prob_up": 0.4854,
-      "sentiment_norm": 0.6234,
-      "final_score": 0.5268,
-      "price": 1176.79,
-      "change_pct": -0.1,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "VivoSim Provides Financial and Listing Compliance Update",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vivosim-provides-financial-listing-compliance-120500947.html?.tsrc=rss",
-          "score": 0.4215
-        },
-        {
-          "title": "Eli Lilly raises 2026 outlook again as Q2 soars past estimates",
-          "url": "https://www.pharmaceutical-technology.com/news/eli-lilly-raises-2026-outlook-again-as-q2-soars-past-estimates/?.tsrc=rss",
-          "score": 0.3818
-        },
-        {
-          "title": "Stock Market News for Aug 6, 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-6-094500461.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "rank": 11,
-      "prob_up": 0.4565,
-      "sentiment_norm": 0.6867,
-      "final_score": 0.5256,
-      "price": 152.39,
-      "change_pct": 0.26,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Wall Street Is Bullish on Chevron Stock. Here\u2019s Our Price Target",
-          "url": "https://247wallst.com/investing/2026/08/06/wall-street-is-bullish-on-chevron-stock-heres-our-price-target/?.tsrc=rss",
-          "score": -0.296
-        },
-        {
-          "title": "Why this portfolio manager's top 3 energy stock picks don't include Chevron",
-          "url": "https://finance.yahoo.com/video/why-portfolio-managers-top-3-120000021.html?.tsrc=rss",
-          "score": 0.8442
-        },
-        {
-          "title": "How Large Does Your Portfolio Need to Be to Generate $30,000 a Month?",
-          "url": "https://247wallst.com/personal-finance/2026/08/06/how-large-does-your-portfolio-need-to-be-to-generate-30000-a-month/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "V",
-      "rank": 12,
-      "prob_up": 0.5237,
-      "sentiment_norm": 0.5144,
-      "final_score": 0.5209,
-      "price": 368.21,
-      "change_pct": -0.14,
+      "rank": 11,
+      "prob_up": 0.514,
+      "sentiment_norm": 0.6343,
+      "final_score": 0.5501,
+      "price": 366.83,
+      "change_pct": -0.52,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "$15.3T BlackRock Joins Visa and Mastercard to Validate Circle's Arc Blockchain: What's Next for CRCL",
+          "url": "https://www.ccn.com/news/crypto/blackrock-visa-mastercard-circle-arc-launch-crcl/?.tsrc=rss",
+          "score": 0.3612
+        },
         {
           "title": "Zacks Industry Outlook Visa, Mastercard, PayPal, Fidelity  and WEX",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-visa-mastercard-085000255.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Visa Puts Stablecoins Into Its Cross-Border Payout Rail Across 18 Billion Endpoints",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/visa-puts-stablecoins-cross-border-222304577.html?.tsrc=rss",
-          "score": 0.0258
-        },
-        {
-          "title": "Visa Adds Stablecoin Funding and Payouts to Visa Direct With zerohash",
-          "url": "https://www.cryptoprowl.com/releases/visa-adds-stablecoin-funding-and-payouts-to-visa-direct-with-zerohash-6339?.tsrc=rss",
-          "score": 0.0
+          "title": "Visa (V) Reports Strong Q3 Results, Is The Upside Already Priced In?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-reports-strong-q3-001620058.html?.tsrc=rss",
+          "score": 0.8402
         }
       ]
     },
     {
       "ticker": "JNJ",
-      "rank": 13,
-      "prob_up": 0.4763,
+      "rank": 12,
+      "prob_up": 0.5057,
       "sentiment_norm": 0.6159,
-      "final_score": 0.5182,
-      "price": 255.65,
-      "change_pct": -0.93,
+      "final_score": 0.5387,
+      "price": 256.55,
+      "change_pct": -0.58,
       "sparkline": [],
       "headlines": [
         {
@@ -354,13 +327,40 @@
       ]
     },
     {
+      "ticker": "XOM",
+      "rank": 13,
+      "prob_up": 0.4676,
+      "sentiment_norm": 0.6304,
+      "final_score": 0.5164,
+      "price": 152.91,
+      "change_pct": 0.6,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "SBM Offshore NV (SBFFF) (H1 2026) Earnings Call Highlights: Record Backlog and Raised Guidance ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sbm-offshore-nv-sbfff-h1-150124102.html?.tsrc=rss",
+          "score": 0.5574
+        },
+        {
+          "title": "Wall Street Is Bullish on Chevron Stock. Here\u2019s Our Price Target",
+          "url": "https://247wallst.com/investing/2026/08/06/wall-street-is-bullish-on-chevron-stock-heres-our-price-target/?.tsrc=rss",
+          "score": -0.296
+        },
+        {
+          "title": "ConocoPhillips CEO Ryan Lance steps down after 14 years and will be replaced by the CFO, a company lifer",
+          "url": "https://finance.yahoo.com/energy/articles/conocophillips-ceo-ryan-lance-steps-122636923.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
       "ticker": "MA",
       "rank": 14,
-      "prob_up": 0.4552,
+      "prob_up": 0.4592,
       "sentiment_norm": 0.6489,
-      "final_score": 0.5133,
-      "price": 569.49,
-      "change_pct": -0.37,
+      "final_score": 0.5161,
+      "price": 568.44,
+      "change_pct": -0.56,
       "sparkline": [],
       "headlines": [
         {
@@ -381,13 +381,40 @@
       ]
     },
     {
-      "ticker": "AVGO",
+      "ticker": "GOOGL",
       "rank": 15,
+      "prob_up": 0.4182,
+      "sentiment_norm": 0.6039,
+      "final_score": 0.4739,
+      "price": 359.27,
+      "change_pct": -1.49,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "What the bond market is signaling for SpaceX's hopes to ramp up debt sales",
+          "url": "https://finance.yahoo.com/video/bond-market-signaling-spacexs-hopes-150000153.html?.tsrc=rss",
+          "score": 0.2291
+        },
+        {
+          "title": "Nextech3D.ai: 160 new contracts, 92% margins, biggest deal ever due August",
+          "url": "https://finance.yahoo.com/video/nextech3d-ai-160-contracts-92-145725645.html?.tsrc=rss",
+          "score": 0.2263
+        },
+        {
+          "title": "Palantir Diversifies Your Portfolio, But It Will Not Calm It",
+          "url": "https://www.trefis.com/articles/610405/palantir-diversifies-your-portfolio-but-it-will-not-calm-it/2026-08-06?.tsrc=rss",
+          "score": -0.3491
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 16,
       "prob_up": 0.3902,
       "sentiment_norm": 0.6514,
       "final_score": 0.4686,
-      "price": 423.71,
-      "change_pct": 0.64,
+      "price": 423.5,
+      "change_pct": 0.59,
       "sparkline": [],
       "headlines": [
         {
@@ -408,56 +435,29 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "rank": 16,
-      "prob_up": 0.3981,
-      "sentiment_norm": 0.6234,
-      "final_score": 0.4657,
-      "price": 359.93,
-      "change_pct": -1.31,
+      "ticker": "MSFT",
+      "rank": 17,
+      "prob_up": 0.3776,
+      "sentiment_norm": 0.6542,
+      "final_score": 0.4606,
+      "price": 495.23,
+      "change_pct": 1.95,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Nextech3D.ai: 160 new contracts, 92% margins, biggest deal ever due August",
+          "url": "https://finance.yahoo.com/video/nextech3d-ai-160-contracts-92-145725645.html?.tsrc=rss",
+          "score": 0.2263
+        },
+        {
+          "title": "Palantir Diversifies Your Portfolio, But It Will Not Calm It",
+          "url": "https://www.trefis.com/articles/610405/palantir-diversifies-your-portfolio-but-it-will-not-calm-it/2026-08-06?.tsrc=rss",
+          "score": -0.3491
+        },
         {
           "title": "MSFT Stock Gains After Microsoft Opens Its Biggest India Data Center Yet, Deepening The Cloud Fight With Google And Amazon",
           "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-microsoft-opens-biggest-india-data-cente-cloud-fight-google-amazon/cZoJ6q8RJ7v?.tsrc=rss",
           "score": 0.128
-        },
-        {
-          "title": "Why Google's AI leadership shake-up isn't a good look",
-          "url": "https://finance.yahoo.com/video/why-googles-ai-leadership-shake-141659549.html?.tsrc=rss",
-          "score": -0.3412
-        },
-        {
-          "title": "Correction: S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/correction-p-500-posts-weekly-135622152.html?.tsrc=rss",
-          "score": 0.7845
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 17,
-      "prob_up": 0.418,
-      "sentiment_norm": 0.5672,
-      "final_score": 0.4628,
-      "price": 219.28,
-      "change_pct": -0.66,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-          "url": "https://www.fool.com/investing/2026/08/06/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?.tsrc=rss",
-          "score": -0.128
-        },
-        {
-          "title": "SoundHound AI Rallies 12%, Unity Software Rises 11%, Datadog Sinks 15% as Traders Separate Software Winners From Losers",
-          "url": "https://247wallst.com/investing/2026/08/06/soundhound-ai-rallies-12-unity-software-rises-11-datadog-sinks-15-as-traders-separate-software-winners-from-losers/?.tsrc=rss",
-          "score": 0.7506
-        },
-        {
-          "title": "Greg Abel Sold 15 Buffett Stock Positions in His First Quarter as Berkshire CEO. What His Early Portfolio Moves Signal for Shareholders.",
-          "url": "https://www.fool.com/investing/2026/08/06/abel-sold-15-buffett-positions-in-first-quarter/?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
@@ -465,80 +465,80 @@
       "ticker": "AMZN",
       "rank": 18,
       "prob_up": 0.3452,
-      "sentiment_norm": 0.7293,
-      "final_score": 0.4604,
-      "price": 273.32,
-      "change_pct": 0.21,
+      "sentiment_norm": 0.6418,
+      "final_score": 0.4342,
+      "price": 273.77,
+      "change_pct": 0.37,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Palantir Diversifies Your Portfolio, But It Will Not Calm It",
+          "url": "https://www.trefis.com/articles/610405/palantir-diversifies-your-portfolio-but-it-will-not-calm-it/2026-08-06?.tsrc=rss",
+          "score": -0.3491
+        },
+        {
+          "title": "Navigating Alphabet\u2019s (GOOGL) AI Frontier",
+          "url": "https://finance.yahoo.com/technology/ai/articles/navigating-alphabet-googl-ai-frontier-143526977.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Is Amazon\u2019s Massive Capex Expansion a Drag, or Did They Just Win the Cloud Infrastructure War?",
           "url": "https://247wallst.com/investing/2026/08/06/is-amazons-massive-capex-expansion-a-drag-or-did-they-just-win-the-cloud-infrastructure-war/?.tsrc=rss",
           "score": -0.6124
-        },
-        {
-          "title": "Correction: S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/correction-p-500-posts-weekly-135622152.html?.tsrc=rss",
-          "score": 0.7845
-        },
-        {
-          "title": "Amazon vs. Alibaba: Two AI Giants Building Very Different Futures",
-          "url": "https://www.fool.com/investing/2026/08/06/amazon-vs-alibaba-two-ai-giants-building-different/?.tsrc=rss",
-          "score": 0.6597
         }
       ]
     },
     {
-      "ticker": "MSFT",
+      "ticker": "NVDA",
       "rank": 19,
-      "prob_up": 0.3455,
-      "sentiment_norm": 0.6968,
-      "final_score": 0.4509,
-      "price": 496.6,
-      "change_pct": 1.22,
+      "prob_up": 0.3804,
+      "sentiment_norm": 0.5328,
+      "final_score": 0.4261,
+      "price": 218.02,
+      "change_pct": -1.23,
       "sparkline": [],
       "headlines": [
         {
-          "title": "MSFT Stock Gains After Microsoft Opens Its Biggest India Data Center Yet, Deepening The Cloud Fight With Google And Amazon",
-          "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-microsoft-opens-biggest-india-data-cente-cloud-fight-google-amazon/cZoJ6q8RJ7v?.tsrc=rss",
-          "score": 0.128
+          "title": "Is Michael Burry Wrong About Everything?",
+          "url": "https://247wallst.com/investing/2026/08/06/is-michael-burry-wrong-about-everything/?.tsrc=rss",
+          "score": -0.3839
         },
         {
-          "title": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
-          "url": "https://finance.yahoo.com/m/4c427706-d807-397b-8248-5aafd35373c7/nvidia%2C-microsoft-partner.html?.tsrc=rss",
-          "score": 0.6486
+          "title": "SpaceX Climbs 3% as Lockup Expiration Fails to Trigger a Selloff; AST SpaceMobile and Rocket Lab Rise 5%",
+          "url": "https://247wallst.com/investing/2026/08/06/spacex-climbs-3-as-lockup-expiration-fails-to-trigger-a-selloff-ast-spacemobile-and-rocket-lab-rise-5/?.tsrc=rss",
+          "score": -0.1531
         },
         {
-          "title": "After Surging 298%, Is Nebius Stock Still a Buy? Here's What History Says.",
-          "url": "https://www.fool.com/investing/2026/08/06/after-surging-298-is-nebius-stock-still-a-buy-here/?.tsrc=rss",
-          "score": 0.031
+          "title": "Why Nokia's 5G Business Just Became an AI Story (and Who Wins)",
+          "url": "https://www.fool.com/investing/2026/08/06/why-nokias-5g-business-just-became-an-ai-story-and/?.tsrc=rss",
+          "score": 0.5719
         }
       ]
     },
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.3582,
-      "sentiment_norm": 0.5241,
-      "final_score": 0.408,
-      "price": 321.07,
-      "change_pct": -0.13,
+      "prob_up": 0.2713,
+      "sentiment_norm": 0.4324,
+      "final_score": 0.3196,
+      "price": 321.22,
+      "change_pct": -0.09,
       "sparkline": [],
       "headlines": [
         {
-          "title": "SpaceX says Terafab to be built in Texas with initial investment of $16.8 billion",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-says-terafab-built-texas-142548566.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Is Michael Burry Wrong About Everything?",
+          "url": "https://247wallst.com/investing/2026/08/06/is-michael-burry-wrong-about-everything/?.tsrc=rss",
+          "score": -0.3839
         },
         {
-          "title": "Steve Eisman Pushes Back on Michael Burry's Market Top Call: 'I Think It's Premature'",
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/08/60998326/steve-eisman-pushes-back-on-michael-burrys-market-top-call-i-think-its-premature?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-          "score": -0.6597
+          "title": "Musk\u2019s megaproject gets real: $16.8B chip plant confirmed for Grimes County",
+          "url": "https://finance.yahoo.com/technology/ai/articles/musk-megaproject-gets-real-16-145259407.html?.tsrc=rss",
+          "score": -0.4588
         },
         {
-          "title": "Is Wall Street Getting Uber Wrong? Bill Ackman Backs Bull Case That Robotaxi Fears Are Overblown",
-          "url": "https://stocktwits.com/news-articles/markets/equity/uber-stock-bill-ackman-robotaxi-buying-opportunity/cZoJyMyRJ7q?.tsrc=rss",
-          "score": 0.128
+          "title": "Tesla Continues to Crater in 2026: Why One of Wall Street\u2019s Most Controversial Pros Expects 100% Gains",
+          "url": "https://247wallst.com/investing/2026/08/06/tesla-continues-to-crater-in-2026-why-one-of-wall-streets-most-controversial-pros-expects-100-gains/?.tsrc=rss",
+          "score": 0.3197
         }
       ]
     }
