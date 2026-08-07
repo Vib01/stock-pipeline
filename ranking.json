@@ -1,150 +1,42 @@
 {
-  "last_updated": "2026-08-07T19:36:02Z",
-  "market_status": "open",
+  "last_updated": "2026-08-07T20:19:36Z",
+  "market_status": "closed",
   "rankings": [
     {
       "ticker": "META",
       "rank": 1,
       "prob_up": 0.6344,
-      "sentiment_norm": 0.6808,
-      "final_score": 0.6483,
-      "price": 591.94,
-      "change_pct": 0.48,
+      "sentiment_norm": 0.604,
+      "final_score": 0.6253,
+      "price": 592.1,
+      "change_pct": 0.51,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Jim Cramer Believes Meta Platforms, Inc. (NASDAQ:META) Can Do Better",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-meta-platforms-183357464.html?.tsrc=rss",
-          "score": 0.7269
+          "title": "Meta Faces New Risk After Major Court Ruling",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-risk-major-court-195614005.html?.tsrc=rss",
+          "score": -0.5859
         },
         {
-          "title": "What Does Meta (META) Have To Change After The $942 Million Teen Safety Ruling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-meta-meta-change-942-181156175.html?.tsrc=rss",
-          "score": 0.296
-        },
-        {
-          "title": "Meta was just slapped with a $942-million bill for harming kids \u2014 it makes that back in roughly five days",
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-just-slapped-942-million-173500875.html?.tsrc=rss",
-          "score": -0.5574
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 2,
-      "prob_up": 0.6014,
-      "sentiment_norm": 0.5437,
-      "final_score": 0.5841,
-      "price": 313.1,
-      "change_pct": 0.17,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Canaccord Genuity Shareholders Back Board as Revenue Tops CAD 2 Billion",
-          "url": "https://www.marketbeat.com/instant-alerts/canaccord-genuity-shareholders-back-board-as-revenue-tops-cad-2-billion-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-          "score": 0.7351
-        },
-        {
-          "title": "\u2018Your refund: $0\u2019: Companies claim billions in tariff refunds, months after Trump floated $2,000 checks",
-          "url": "https://finance.yahoo.com/economy/policy/articles/refund-0-companies-claim-billions-185000374.html?.tsrc=rss",
+          "title": "Meta Stock Rises 1.2% Despite $942 Million Child-Safety Judgment",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rises-1-2-195317524.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
-          "url": "https://qz.com/berkshire-hathaway-greg-abel-portfolio-concentration-five-stocks-080726?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 3,
-      "prob_up": 0.5124,
-      "sentiment_norm": 0.75,
-      "final_score": 0.5837,
-      "price": 946.71,
-      "change_pct": -0.19,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Costco delivers a service Lowe's and Home Depot can't match",
-          "url": "https://www.thestreet.com/retail/costco-delivers-a-service-lowes-and-home-depot-cant-match?.tsrc=rss",
-          "score": 0.0772
-        },
-        {
-          "title": "Formerly bankrupt department store bets on Costco strategy",
-          "url": "https://www.thestreet.com/retail/formerly-bankrupt-lord-and-taylor-private-label-heritage-collection-costco-strategy?.tsrc=rss",
-          "score": 0.4754
-        },
-        {
-          "title": "How Does Costco Have Such Cheap Gas Prices?",
-          "url": "https://www.autoguide.com/auto/auto-news/how-does-costco-have-such-cheap-gas-prices-44636161?utm_medium=auto&amp;utm_source=rss&amp;utm_campaign=all_full&.tsrc=rss",
-          "score": 0.5719
-        }
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "rank": 4,
-      "prob_up": 0.5085,
-      "sentiment_norm": 0.73,
-      "final_score": 0.5749,
-      "price": 152.53,
-      "change_pct": -1.47,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "SM Energy Q2 Earnings Beat Estimates on Strong Production Growth",
-          "url": "https://finance.yahoo.com/energy/articles/sm-energy-q2-earnings-beat-160800909.html?.tsrc=rss",
-          "score": 0.8779
-        },
-        {
-          "title": "20 Years on Wall Street Taught Me to Buy and Hold 5 High-Yield Energy Giants",
-          "url": "https://247wallst.com/investing/2026/08/07/20-years-on-wall-street-taught-me-to-buy-and-hold-5-high-yield-energy-giants/?.tsrc=rss",
-          "score": 0.6249
-        },
-        {
-          "title": "Exxon's Profit Fell Short. Its Dividend Didn't.",
-          "url": "https://www.fool.com/investing/2026/08/07/exxons-profit-fell-short-its-dividend-didnt/?.tsrc=rss",
-          "score": 0.6705
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 5,
-      "prob_up": 0.5449,
-      "sentiment_norm": 0.6227,
-      "final_score": 0.5682,
-      "price": 111.8,
-      "change_pct": -0.11,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Walmart Resets Store Operations After Shopping Cart Risk",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-resets-store-operations-shopping-190730216.html?.tsrc=rss",
-          "score": 0.4588
-        },
-        {
-          "title": "Trade Desk's Downbeat Guidance Indicates Macro, Structural Issues, Wedbush Says",
-          "url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-apos-downbeat-guidance-185852903.html?.tsrc=rss",
-          "score": -0.1531
-        },
-        {
-          "title": "\u2018Your refund: $0\u2019: Companies claim billions in tariff refunds, months after Trump floated $2,000 checks",
-          "url": "https://finance.yahoo.com/economy/policy/articles/refund-0-companies-claim-billions-185000374.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Explainer-How could New Mexico's $567 million ruling change Meta?",
+          "url": "https://finance.yahoo.com/media-advertising/articles/explainer-could-mexicos-567-million-193540333.html?.tsrc=rss",
+          "score": -0.5719
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 6,
-      "prob_up": 0.5081,
+      "rank": 2,
+      "prob_up": 0.5426,
       "sentiment_norm": 0.7037,
-      "final_score": 0.5668,
-      "price": 409.02,
-      "change_pct": 1.24,
+      "final_score": 0.5909,
+      "price": 407.08,
+      "change_pct": 0.76,
       "sparkline": [],
       "headlines": [
         {
@@ -165,40 +57,175 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 7,
-      "prob_up": 0.5148,
-      "sentiment_norm": 0.6822,
-      "final_score": 0.565,
-      "price": 520.78,
-      "change_pct": -0.56,
+      "ticker": "COST",
+      "rank": 3,
+      "prob_up": 0.5124,
+      "sentiment_norm": 0.7722,
+      "final_score": 0.5904,
+      "price": 947.82,
+      "change_pct": -0.07,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Costco Stock Slips Despite 10.7% July Sales Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-slips-despite-10-192016370.html?.tsrc=rss",
+          "score": -0.1406
+        },
+        {
+          "title": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-reasons-behind-182404118.html?.tsrc=rss",
+          "score": 0.875
+        },
+        {
+          "title": "Is Costco Wholesale (COST) Fully Valued Following Strong July Sales Growth?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-cost-fully-valued-171906948.html?.tsrc=rss",
+          "score": 0.8795
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 4,
+      "prob_up": 0.6014,
+      "sentiment_norm": 0.5152,
+      "final_score": 0.5756,
+      "price": 313.33,
+      "change_pct": 0.25,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "\u2018Your refund: $0\u2019: Companies claim billions in tariff refunds, months after Trump floated $2,000 checks",
+          "url": "https://finance.yahoo.com/economy/policy/articles/refund-0-companies-claim-billions-185000374.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Prediction: Can Apple Stock Reach $400 This Year?",
+          "url": "https://247wallst.com/investing/2026/08/07/prediction-can-apple-stock-reach-400-this-year/?.tsrc=rss",
+          "score": 0.6908
+        },
+        {
+          "title": "Apple faces iPhone 18 Pro DRAM shortage weeks before launch",
+          "url": "https://www.cultofmac.com/news/iphone-18-pro-dram-shortage-launch?.tsrc=rss",
+          "score": -0.7579
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "rank": 5,
+      "prob_up": 0.5182,
+      "sentiment_norm": 0.6956,
+      "final_score": 0.5714,
+      "price": 153.04,
+      "change_pct": -1.14,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "SM Energy Q2 Earnings Beat Estimates on Strong Production Growth",
+          "url": "https://finance.yahoo.com/energy/articles/sm-energy-q2-earnings-beat-160800909.html?.tsrc=rss",
+          "score": 0.8779
+        },
+        {
+          "title": "XOM Q2 Earnings Call Highlights Refining Strength and Guyana Cash Flow",
+          "url": "https://finance.yahoo.com/energy/articles/xom-q2-earnings-call-highlights-151000279.html?.tsrc=rss",
+          "score": 0.5994
+        },
+        {
+          "title": "The New Wild West: Texas Experiments With Raw Capitalism",
+          "url": "https://finance.yahoo.com/m/3b27e67f-d42f-351a-a142-85f8c2433d78/the-new-wild-west%3A-texas.html?.tsrc=rss",
+          "score": -0.7351
+        }
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "rank": 6,
+      "prob_up": 0.5214,
+      "sentiment_norm": 0.684,
+      "final_score": 0.5702,
+      "price": 521.8,
+      "change_pct": -0.36,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Berkshire investors seem to be warming up to Greg Abel's leadership. \ud83d\udc40\n\nThe stock is trading at its highest price since Warren Buffett announced his retirement in May 2025.\n\nThe recent gains have been fueled by a rotation back into safe-haven plays to hedge against riskier tech stocks.\n\nAlthough it's worth noting that the stock is still badly lagging the S&P 500.\n\n\ud83d\udcc8 Explore AlphaSpace for charts, analysis, and premium news on Berkshire Hathaway at the link in bio. \ud83d\udc49",
+          "url": "https://finance.yahoo.com/video/berkshire-investors-seem-warming-greg-151725019.html?.tsrc=rss",
+          "score": 0.2263
+        },
+        {
+          "title": "Warren Buffett's Berkshire Hathaway stock shows investors warming to Greg Abel's leadership",
+          "url": "https://finance.yahoo.com/markets/stocks/article/warren-buffetts-berkshire-hathaway-stock-shows-investors-warming-to-greg-abels-leadership-121444115.html?.tsrc=rss",
+          "score": 0.4215
+        },
         {
           "title": "Greg Abel Reports Saturday Morning. Berkshire Stock Just Hit a 52-Week High and Is Still Behind the S&P 500 This Year.",
           "url": "https://www.fool.com/investing/2026/08/07/greg-abel-reports-saturday-morning-berkshire-stock/?.tsrc=rss",
           "score": 0.2263
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "rank": 7,
+      "prob_up": 0.5252,
+      "sentiment_norm": 0.63,
+      "final_score": 0.5566,
+      "price": 357.52,
+      "change_pct": 0.15,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Portman Ridge Finance Q2 Earnings Call Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/portman-ridge-finance-q2-earnings-call-highlights-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+          "score": 0.8074
         },
         {
-          "title": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
-          "url": "https://qz.com/berkshire-hathaway-greg-abel-portfolio-concentration-five-stocks-080726?.tsrc=rss",
+          "title": "Trump\u2019s Homegrown Solar Push Risks Widening Green Energy Divide",
+          "url": "https://finance.yahoo.com/energy/articles/trump-homegrown-solar-push-risks-150441089.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Berkshire Hathaway Is Set to Report Earnings Saturday. Here\u2019s What You Need to Know",
-          "url": "https://www.investopedia.com/berkshire-hathaway-is-set-to-report-earnings-saturday-here-is-what-you-need-to-know-brk-abel-buffett-12036164?.tsrc=rss",
-          "score": 0.3182
+          "title": "The New Wild West: Texas Experiments With Raw Capitalism",
+          "url": "https://finance.yahoo.com/m/3b27e67f-d42f-351a-a142-85f8c2433d78/the-new-wild-west%3A-texas.html?.tsrc=rss",
+          "score": -0.7351
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "rank": 8,
+      "prob_up": 0.5213,
+      "sentiment_norm": 0.6227,
+      "final_score": 0.5517,
+      "price": 111.85,
+      "change_pct": -0.06,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Walmart Resets Store Operations After Shopping Cart Risk",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-resets-store-operations-shopping-190730216.html?.tsrc=rss",
+          "score": 0.4588
+        },
+        {
+          "title": "Trade Desk's Downbeat Guidance Indicates Macro, Structural Issues, Wedbush Says",
+          "url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-apos-downbeat-guidance-185852903.html?.tsrc=rss",
+          "score": -0.1531
+        },
+        {
+          "title": "\u2018Your refund: $0\u2019: Companies claim billions in tariff refunds, months after Trump floated $2,000 checks",
+          "url": "https://finance.yahoo.com/economy/policy/articles/refund-0-companies-claim-billions-185000374.html?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
     {
       "ticker": "LLY",
-      "rank": 8,
+      "rank": 9,
       "prob_up": 0.5451,
-      "sentiment_norm": 0.5705,
-      "final_score": 0.5527,
-      "price": 1184.83,
-      "change_pct": -0.51,
+      "sentiment_norm": 0.561,
+      "final_score": 0.5499,
+      "price": 1185.71,
+      "change_pct": -0.44,
       "sparkline": [],
       "headlines": [
         {
@@ -219,40 +246,13 @@
       ]
     },
     {
-      "ticker": "JPM",
-      "rank": 9,
-      "prob_up": 0.5297,
-      "sentiment_norm": 0.6056,
-      "final_score": 0.5525,
-      "price": 358.35,
-      "change_pct": 0.38,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "JPMorgan resets SpaceX price target after earnings",
-          "url": "https://www.thestreet.com/investing/stocks/jpmorgan-raises-spacex-price-target-after-earnings-starlink-elon-musk?.tsrc=rss",
-          "score": 0.296
-        },
-        {
-          "title": "JPMorgan issued a quiet warning about new exchange",
-          "url": "https://www.thestreet.com/crypto/markets/jpmorgan-issued-a-quiet-warning-about-new-exchange?.tsrc=rss",
-          "score": 0.2023
-        },
-        {
-          "title": "Construction begins on 420MW solar and BESS facility in Mexico",
-          "url": "https://www.worldconstructionnetwork.com/news/construction-begins-420mw-solar-bess/?.tsrc=rss",
-          "score": 0.7003
-        }
-      ]
-    },
-    {
       "ticker": "PG",
       "rank": 10,
-      "prob_up": 0.4937,
-      "sentiment_norm": 0.6855,
-      "final_score": 0.5512,
-      "price": 145.67,
-      "change_pct": -0.72,
+      "prob_up": 0.4854,
+      "sentiment_norm": 0.6703,
+      "final_score": 0.5408,
+      "price": 145.79,
+      "change_pct": -0.64,
       "sparkline": [],
       "headlines": [
         {
@@ -273,67 +273,13 @@
       ]
     },
     {
-      "ticker": "V",
-      "rank": 11,
-      "prob_up": 0.5213,
-      "sentiment_norm": 0.564,
-      "final_score": 0.5341,
-      "price": 363.07,
-      "change_pct": -1.74,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Reading Between The Lines Of V's Latest Call",
-          "url": "https://www.trefis.com/articles/610574/reading-between-the-lines-of-vs-latest-call/2026-08-07?.tsrc=rss",
-          "score": 0.1901
-        },
-        {
-          "title": "Wall Street Raises Visa Outlook After Strong Q3: Buy, Hold or Sell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-raises-visa-outlook-145600845.html?.tsrc=rss",
-          "score": -0.128
-        },
-        {
-          "title": "Zacks Industry Outlook Visa, Mastercard, PayPal, Fidelity   and WEX",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-visa-mastercard-100600594.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "JNJ",
-      "rank": 12,
-      "prob_up": 0.524,
-      "sentiment_norm": 0.5557,
-      "final_score": 0.5335,
-      "price": 257.63,
-      "change_pct": 0.05,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Halozyme's Q2 Earnings Beat Estimates, 2026 Outlook Raised, Stock Up",
-          "url": "https://finance.yahoo.com/healthcare/articles/halozymes-q2-earnings-beat-estimates-173500785.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Genmab Stock Rises 4.4% as Drug Royalties Lift Outlook",
-          "url": "https://finance.yahoo.com/healthcare/articles/genmab-stock-rises-4-4-164350819.html?.tsrc=rss",
-          "score": 0.5574
-        },
-        {
-          "title": "Johnson & Johnson Is Spending $1 Billion to Make More Contact Lenses. Medicare Covers Them in Only One Narrow Situation.",
-          "url": "https://247wallst.com/personal-finance/2026/08/06/johnson-johnson-is-spending-1-billion-to-make-more-contact-lenses-medicare-covers-them-in-only-one-narrow-situation/?.tsrc=rss",
-          "score": -0.1655
-        }
-      ]
-    },
-    {
       "ticker": "MA",
-      "rank": 13,
-      "prob_up": 0.5061,
+      "rank": 11,
+      "prob_up": 0.516,
       "sentiment_norm": 0.5958,
-      "final_score": 0.533,
-      "price": 563.87,
-      "change_pct": -1.76,
+      "final_score": 0.54,
+      "price": 562.95,
+      "change_pct": -1.92,
       "sparkline": [],
       "headlines": [
         {
@@ -354,67 +300,67 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "rank": 14,
-      "prob_up": 0.4536,
-      "sentiment_norm": 0.6768,
-      "final_score": 0.5206,
-      "price": 354.69,
-      "change_pct": -1.17,
+      "ticker": "JNJ",
+      "rank": 12,
+      "prob_up": 0.5059,
+      "sentiment_norm": 0.6052,
+      "final_score": 0.5357,
+      "price": 259.24,
+      "change_pct": 0.68,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Jim Cramer Reveals How Alphabet Inc (NASDAQ:GOOGL) Can Reverse Recent Weakness",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-alphabet-inc-183314728.html?.tsrc=rss",
-          "score": 0.8925
+          "title": "Johnson & Johnson (JNJ) Reaches $5.5 Billion Talc Settlement To Close Years Of Lawsuits",
+          "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-reaches-5-191035095.html?.tsrc=rss",
+          "score": -0.5423
         },
         {
-          "title": "Alphabet (GOOGL) Lines Up $25 Billion Bond Offering For AI Expansion",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-lines-25-billion-181151026.html?.tsrc=rss",
-          "score": -0.0516
+          "title": "The Two Divergent Paths Priced Into Eli Lilly Stock",
+          "url": "https://www.trefis.com/articles/610531/the-two-divergent-paths-priced-into-eli-lilly-stock/2026-08-07?.tsrc=rss",
+          "score": -0.0772
         },
         {
-          "title": "Whatnot raises $545M Series G at $20 billion valuation",
-          "url": "https://qz.com/whatnot-series-g-funding-live-shopping-valuation-080726?.tsrc=rss",
+          "title": "Halozyme's Q2 Earnings Beat Estimates, 2026 Outlook Raised, Stock Up",
+          "url": "https://finance.yahoo.com/healthcare/articles/halozymes-q2-earnings-beat-estimates-173500785.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
-      "ticker": "AVGO",
-      "rank": 15,
-      "prob_up": 0.3986,
-      "sentiment_norm": 0.79,
-      "final_score": 0.516,
-      "price": 425.68,
-      "change_pct": 0.87,
+      "ticker": "V",
+      "rank": 13,
+      "prob_up": 0.5213,
+      "sentiment_norm": 0.564,
+      "final_score": 0.5341,
+      "price": 362.5,
+      "change_pct": -1.89,
       "sparkline": [],
       "headlines": [
         {
-          "title": "The Toughest Questions AMD Faced On Its Latest Call",
-          "url": "https://www.trefis.com/articles/610570/the-toughest-questions-amd-faced-on-its-latest-call/2026-08-07?.tsrc=rss",
-          "score": -0.2953
+          "title": "Reading Between The Lines Of V's Latest Call",
+          "url": "https://www.trefis.com/articles/610574/reading-between-the-lines-of-vs-latest-call/2026-08-07?.tsrc=rss",
+          "score": 0.1901
         },
         {
-          "title": "How To Earn 11% On NVDA Stock And Set A 30% Safety Net",
-          "url": "https://www.trefis.com/articles/610545/how-to-earn-11-on-nvda-stock-and-set-a-30-safety-net/2026-08-07?.tsrc=rss",
-          "score": 0.8225
+          "title": "Wall Street Raises Visa Outlook After Strong Q3: Buy, Hold or Sell?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-raises-visa-outlook-145600845.html?.tsrc=rss",
+          "score": -0.128
         },
         {
-          "title": "AMD Drops 6% Post Q2 Earnings: Is the Stock a Buy on the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-drops-6-post-q2-171500161.html?.tsrc=rss",
-          "score": 0.7964
+          "title": "Zacks Industry Outlook Visa, Mastercard, PayPal, Fidelity   and WEX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-visa-mastercard-100600594.html?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
     {
       "ticker": "HD",
-      "rank": 16,
+      "rank": 14,
       "prob_up": 0.4757,
       "sentiment_norm": 0.6079,
       "final_score": 0.5153,
-      "price": 354.97,
-      "change_pct": 1.68,
+      "price": 355.62,
+      "change_pct": 1.86,
       "sparkline": [],
       "headlines": [
         {
@@ -435,51 +381,24 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 17,
-      "prob_up": 0.3662,
-      "sentiment_norm": 0.8145,
-      "final_score": 0.5007,
-      "price": 501.42,
-      "change_pct": 0.49,
+      "ticker": "GOOGL",
+      "rank": 15,
+      "prob_up": 0.4536,
+      "sentiment_norm": 0.6533,
+      "final_score": 0.5135,
+      "price": 354.3,
+      "change_pct": -1.28,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
-          "url": "https://finance.yahoo.com/m/4c427706-d807-397b-8248-5aafd35373c7/nvidia%2C-microsoft-partner.html?.tsrc=rss",
-          "score": 0.6486
+          "title": "Explainer-How could New Mexico's $567 million ruling change Meta?",
+          "url": "https://finance.yahoo.com/media-advertising/articles/explainer-could-mexicos-567-million-193540333.html?.tsrc=rss",
+          "score": -0.5719
         },
         {
-          "title": "Jim Cramer Was \u201cBlown Away\u201d By Microsoft Corporation (NASDAQ:MSFT)\u2019s Financials",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-blown-away-microsoft-183838604.html?.tsrc=rss",
-          "score": 0.7845
-        },
-        {
-          "title": "AI Boom: Top Stocks to Consider for Your Portfolio",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-top-stocks-consider-172600854.html?.tsrc=rss",
-          "score": 0.7096
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "rank": 18,
-      "prob_up": 0.3737,
-      "sentiment_norm": 0.7653,
-      "final_score": 0.4912,
-      "price": 274.42,
-      "change_pct": 0.82,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Trade Desk's Downbeat Guidance Indicates Macro, Structural Issues, Wedbush Says",
-          "url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-apos-downbeat-guidance-185852903.html?.tsrc=rss",
-          "score": -0.1531
-        },
-        {
-          "title": "\u2018Your refund: $0\u2019: Companies claim billions in tariff refunds, months after Trump floated $2,000 checks",
-          "url": "https://finance.yahoo.com/economy/policy/articles/refund-0-companies-claim-billions-185000374.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
+          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html?.tsrc=rss",
+          "score": 0.836
         },
         {
           "title": "Jim Cramer Reveals How Alphabet Inc (NASDAQ:GOOGL) Can Reverse Recent Weakness",
@@ -489,19 +408,100 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 19,
-      "prob_up": 0.3591,
-      "sentiment_norm": 0.5663,
-      "final_score": 0.4213,
-      "price": 222.58,
-      "change_pct": 1.44,
+      "ticker": "MSFT",
+      "rank": 16,
+      "prob_up": 0.3662,
+      "sentiment_norm": 0.8562,
+      "final_score": 0.5132,
+      "price": 499.99,
+      "change_pct": 0.2,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Nvidia Stock Rises 2.2% as SpaceX Commits to Its Chips",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-2-2-192151950.html?.tsrc=rss",
-          "score": 0.5574
+          "title": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
+          "url": "https://finance.yahoo.com/m/4c427706-d807-397b-8248-5aafd35373c7/nvidia%2C-microsoft-partner.html?.tsrc=rss",
+          "score": 0.6486
+        },
+        {
+          "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
+          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html?.tsrc=rss",
+          "score": 0.836
+        },
+        {
+          "title": "Jim Cramer Was \u201cBlown Away\u201d By Microsoft Corporation (NASDAQ:MSFT)\u2019s Financials",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-blown-away-microsoft-183838604.html?.tsrc=rss",
+          "score": 0.7845
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 17,
+      "prob_up": 0.3943,
+      "sentiment_norm": 0.7876,
+      "final_score": 0.5123,
+      "price": 427.76,
+      "change_pct": 1.36,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
+          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html?.tsrc=rss",
+          "score": 0.836
+        },
+        {
+          "title": "The Toughest Questions AMD Faced On Its Latest Call",
+          "url": "https://www.trefis.com/articles/610570/the-toughest-questions-amd-faced-on-its-latest-call/2026-08-07?.tsrc=rss",
+          "score": -0.2953
+        },
+        {
+          "title": "How To Earn 11% On NVDA Stock And Set A 30% Safety Net",
+          "url": "https://www.trefis.com/articles/610545/how-to-earn-11-on-nvda-stock-and-set-a-30-safety-net/2026-08-07?.tsrc=rss",
+          "score": 0.8225
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 18,
+      "prob_up": 0.3737,
+      "sentiment_norm": 0.7914,
+      "final_score": 0.499,
+      "price": 274.48,
+      "change_pct": 0.84,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Solana wants to be the Netflix of finance",
+          "url": "https://www.thestreet.com/crypto/innovation/solana-wants-to-be-the-netflix-of-finance?.tsrc=rss",
+          "score": 0.4939
+        },
+        {
+          "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
+          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html?.tsrc=rss",
+          "score": 0.836
+        },
+        {
+          "title": "Trade Desk's Downbeat Guidance Indicates Macro, Structural Issues, Wedbush Says",
+          "url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-apos-downbeat-guidance-185852903.html?.tsrc=rss",
+          "score": -0.1531
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 19,
+      "prob_up": 0.3499,
+      "sentiment_norm": 0.5191,
+      "final_score": 0.4007,
+      "price": 223.96,
+      "change_pct": 2.07,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Nvidia\u2019s (NVDA) Alpamayo Launch and the Robotaxi Bet",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-alpamayo-launch-robotaxi-200324206.html?.tsrc=rss",
+          "score": 0.7184
         },
         {
           "title": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
@@ -509,9 +509,9 @@
           "score": 0.6486
         },
         {
-          "title": "MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin\u2019s $65K Push",
-          "url": "https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/?.tsrc=rss",
-          "score": -0.7783
+          "title": "The Trade Desk Rebuilt Its C-Suite in Two Months. Its First Guidance Since Points to a 12% Revenue Decline.",
+          "url": "https://www.fool.com/investing/2026/08/07/the-trade-desk-rebuilt-its-c-suite-in-two-months-i/?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
@@ -521,8 +521,8 @@
       "prob_up": 0.204,
       "sentiment_norm": 0.7782,
       "final_score": 0.3763,
-      "price": 327.04,
-      "change_pct": 2.05,
+      "price": 328.58,
+      "change_pct": 2.53,
       "sparkline": [],
       "headlines": [
         {
