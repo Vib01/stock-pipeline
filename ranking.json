@@ -1,44 +1,22 @@
 {
-  "last_updated": "2026-08-10T15:34:09Z",
+  "last_updated": "2026-08-10T16:27:45Z",
   "market_status": "open",
   "rankings": [
     {
-      "ticker": "UNH",
-      "rank": 1,
-      "prob_up": 0.4997,
-      "sentiment_norm": 0.8036,
-      "final_score": 0.5909,
-      "price": 411.09,
-      "change_pct": 1.05,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "UnitedHealth Group (UNH) Leans On Optum And Medicare Advantage, Is The Stock Already Pricey?",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-leans-optum-061430711.html?.tsrc=rss",
-          "score": 0.6486
-        },
-        {
-          "title": "UNH Leads Its Peer Group. You Pay For That",
-          "url": "https://www.trefis.com/articles/610540/unh-leads-its-peer-group-you-pay-for-that/2026-08-07?.tsrc=rss",
-          "score": 0.4588
-        },
-        {
-          "title": "4 Healthcare Stocks to Watch as Defensive Demand Strengthens",
-          "url": "https://finance.yahoo.com/healthcare/articles/4-healthcare-stocks-watch-defensive-125900116.html?.tsrc=rss",
-          "score": 0.802
-        }
-      ]
-    },
-    {
       "ticker": "COST",
-      "rank": 2,
-      "prob_up": 0.522,
-      "sentiment_norm": 0.748,
-      "final_score": 0.5898,
-      "price": 943.92,
-      "change_pct": -0.33,
+      "rank": 1,
+      "prob_up": 0.5394,
+      "sentiment_norm": 0.7931,
+      "final_score": 0.6155,
+      "price": 946.0,
+      "change_pct": -0.11,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Can Costco Keep Its Sales Momentum Going After a Solid July?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-keep-sales-momentum-going-144000210.html?.tsrc=rss",
+          "score": 0.7851
+        },
         {
           "title": "3 Stocks to Buy and Hold Even If There's a Stock Market Sell-Off in August",
           "url": "https://www.fool.com/investing/2026/08/10/3-stocks-to-buy-and-hold-even-if-theres-a-stock-ma/?.tsrc=rss",
@@ -48,103 +26,125 @@
           "title": "Costco vs. General Mills: Comparing Revenue Trends Between These Consumer Staples Companies",
           "url": "https://www.fool.com/coverage/charts/2026/08/09/costco-vs-general-mills-comparing-revenue-trends-between-these-consumer-staples-companies/?.tsrc=rss",
           "score": 0.5574
+        }
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "rank": 2,
+      "prob_up": 0.5424,
+      "sentiment_norm": 0.7214,
+      "final_score": 0.5961,
+      "price": 409.67,
+      "change_pct": 0.7,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "UnitedHealth (UNH) Commits $4M to Tennessee Health Hub Expansion",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-commits-4m-tennessee-181302253.html?.tsrc=rss",
+          "score": 0.7845
         },
         {
-          "title": "Not the destination: What a road trip taught me about Costco\u2019s gas station dominance",
-          "url": "https://www.supermarketnews.com/grocery-wholesale-distributors/not-the-destination-what-a-road-trip-taught-me-about-costco-s-gas-station-dominance?.tsrc=rss",
-          "score": 0.6059
+          "title": "UnitedHealth Group (UNH) Leans On Optum And Medicare Advantage, Is The Stock Already Pricey?",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-leans-optum-061430711.html?.tsrc=rss",
+          "score": 0.6486
+        },
+        {
+          "title": "UNH Leads Its Peer Group. You Pay For That",
+          "url": "https://www.trefis.com/articles/610540/unh-leads-its-peer-group-you-pay-for-that/2026-08-07?.tsrc=rss",
+          "score": 0.4588
         }
       ]
     },
     {
       "ticker": "LLY",
       "rank": 3,
-      "prob_up": 0.5456,
-      "sentiment_norm": 0.6569,
-      "final_score": 0.579,
-      "price": 1213.84,
-      "change_pct": 2.36,
+      "prob_up": 0.5442,
+      "sentiment_norm": 0.6743,
+      "final_score": 0.5832,
+      "price": 1213.92,
+      "change_pct": 2.37,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Eli Lilly (LLY) Posts Blowout Growth And Raises Its Outlook",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-posts-blowout-085111847.html?.tsrc=rss",
-          "score": 0.5719
+          "title": "Eli Lilly Stock's Next Climb Runs Through A Pill, Not Just An Injection",
+          "url": "https://www.trefis.com/articles/610756/eli-lilly-stocks-next-climb-runs-through-a-pill-not-just-an-injection/2026-08-10?.tsrc=rss",
+          "score": -0.1531
         },
         {
-          "title": "LLY Q2 Deep Dive: Key Products and Pipeline Expansion",
-          "url": "https://finance.yahoo.com/healthcare/articles/lly-q2-deep-dive-key-212522317.html?.tsrc=rss",
-          "score": 0.0
+          "title": "This Biotech\u2019s Drug Could Treat Hot Flashes. The Stock Is Up 36% on Good News.",
+          "url": "https://finance.yahoo.com/m/228d5141-325a-32e3-b4da-3b347a2a5268/this-biotech%E2%80%99s-drug-could.html?.tsrc=rss",
+          "score": 0.6808
         },
         {
-          "title": "Eli Lilly (LLY) Gains FDA Breakthrough Nod As Olomorasib Cancer Trial Broadens",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-gains-fda-211612038.html?.tsrc=rss",
-          "score": -0.7717
-        }
-      ]
-    },
-    {
-      "ticker": "BRK-B",
-      "rank": 4,
-      "prob_up": 0.5062,
-      "sentiment_norm": 0.7399,
-      "final_score": 0.5763,
-      "price": 534.16,
-      "change_pct": 2.57,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Warren Buffett Personally Initiated Berkshire's $30 Billion Alphabet Stake, a Sign He's Still Making Calls Despite Stepping Back as Chairman",
-          "url": "https://www.fool.com/investing/2026/08/10/warren-buffett-personally-initiated-berkshires-30/?.tsrc=rss",
-          "score": 0.7096
-        },
-        {
-          "title": "BRK.B Q2 Earnings & Revenues Rise Year Over Year on Diversified Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/brk-b-q2-earnings-revenues-140000941.html?.tsrc=rss",
-          "score": 0.7269
-        },
-        {
-          "title": "Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities",
-          "url": "https://finance.yahoo.com/m/ef04c6ea-ee99-389a-9f50-259ca266bb1e/berkshire-hathaway-beats.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Lifespan Vision Ventures Leads Remedium Bio's Series A Financing",
+          "url": "https://finance.yahoo.com/healthcare/articles/lifespan-vision-ventures-leads-remedium-140000000.html?.tsrc=rss",
+          "score": 0.4588
         }
       ]
     },
     {
       "ticker": "WMT",
-      "rank": 5,
-      "prob_up": 0.5487,
-      "sentiment_norm": 0.6343,
-      "final_score": 0.5744,
-      "price": 111.29,
-      "change_pct": -0.44,
+      "rank": 4,
+      "prob_up": 0.5449,
+      "sentiment_norm": 0.6711,
+      "final_score": 0.5828,
+      "price": 111.68,
+      "change_pct": -0.09,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Walmart rivals H-E-B, pours $3.6 million into grocery-centric Texas store",
-          "url": "https://www.mysanantonio.com/business/article/walmart-neighborhood-market-garland-texas-22373207.php?utm_medium=referral&utm_campaign=yahoo_syndication&.tsrc=rss",
-          "score": 0.0
+          "title": "Consumers Seek Value, Deal With Stress During Back-to-School Shopping Season",
+          "url": "https://wwd.com/sourcing-journal/industry-news/consumers-deal-with-stress-during-back-to-school-season-1239099381/?.tsrc=rss",
+          "score": -0.5413
         },
         {
-          "title": "Walmart steps up collectibles push with expanded sports convention presence",
-          "url": "https://investorshub.advfn.com/market-news/article/33828/walmart-steps-up-collectibles-push-with-expanded-sports-convention-presence?.tsrc=rss",
-          "score": 0.2732
+          "title": "Walmart's Expense Deleverage Raises Concerns Despite Sales Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmarts-expense-deleverage-raises-concerns-144200396.html?.tsrc=rss",
+          "score": 0.6964
         },
         {
-          "title": "The Fed's new chapter runs through Walmart's ex-CEO",
-          "url": "https://www.axios.com/2026/08/10/federal-reserve-kevin-warsh-doug-mcmillon-walmart#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-          "score": 0.6597
+          "title": "3 Boring but Brilliant Stocks to Buy in August",
+          "url": "https://247wallst.com/investing/2026/08/10/3-boring-but-brilliant-stocks-to-buy-in-august/?.tsrc=rss",
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "rank": 5,
+      "prob_up": 0.5237,
+      "sentiment_norm": 0.7143,
+      "final_score": 0.5809,
+      "price": 357.79,
+      "change_pct": -0.12,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "JPMorgan Chase (JPM) Wins First Approved Tokenised Money Market Fund Mandate",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-chase-jpm-wins-first-161049641.html?.tsrc=rss",
+          "score": 0.9432
+        },
+        {
+          "title": "JPMorgan Leads $441 Million Debt Deal for AI Infrastructure Firm",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-leads-441-million-debt-150000863.html?.tsrc=rss",
+          "score": 0.25
+        },
+        {
+          "title": "You might not need a Roth IRA for a secure retirement \u2014 despite what online \u2018experts\u2019 say. Here\u2019s why",
+          "url": "https://finance.yahoo.com/markets/articles/might-not-roth-ira-secure-144500938.html?.tsrc=rss",
+          "score": 0.7128
         }
       ]
     },
     {
       "ticker": "META",
       "rank": 6,
-      "prob_up": 0.5535,
-      "sentiment_norm": 0.6094,
-      "final_score": 0.5702,
-      "price": 598.74,
-      "change_pct": 1.17,
+      "prob_up": 0.5685,
+      "sentiment_norm": 0.5945,
+      "final_score": 0.5763,
+      "price": 597.26,
+      "change_pct": 0.92,
       "sparkline": [],
       "headlines": [
         {
@@ -153,108 +153,59 @@
           "score": -0.3612
         },
         {
-          "title": "Cathie Wood Ignores AI Panic \u2014 Buys More Nvidia, Sells This Gaming Stock Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ignores-ai-panic-145750434.html?.tsrc=rss",
-          "score": 0.1406
+          "title": "Why Meta shareholders should be 'alarmed' right now",
+          "url": "https://finance.yahoo.com/video/why-meta-shareholders-alarmed-now-142026725.html?.tsrc=rss",
+          "score": -0.34
         },
         {
-          "title": "Memory chip crunch could last 2 more years, JPMorgan says",
-          "url": "https://finance.yahoo.com/video/memory-chip-crunch-could-last-143400576.html?.tsrc=rss",
-          "score": -0.5267
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "rank": 7,
-      "prob_up": 0.5722,
-      "sentiment_norm": 0.5506,
-      "final_score": 0.5657,
-      "price": 565.19,
-      "change_pct": 0.38,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Design Bridge and Partners Names Tazza Managing Director, North America",
-          "url": "https://www.mediapost.com/publications/article/417087/design-bridge-and-partners-names-tazza-managing-di.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "The Real Upside Case For Mastercard Stock Is In The Plumbing",
-          "url": "https://www.trefis.com/articles/610755/the-real-upside-case-for-mastercard-stock-is-in-the-plumbing/2026-08-10?.tsrc=rss",
-          "score": 0.4404
-        },
-        {
-          "title": "How Investors Are Reacting To Fiserv (FISV) Weaker Guidance Amid Portfolio Shift And Activist Pressure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-fiserv-fisv-weaker-081328470.html?.tsrc=rss",
-          "score": -0.7506
+          "title": "Meta (META) Unveils Muse Glimmer as Open-Source AI Spending Debate Intensifies",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-unveils-muse-glimmer-160609898.html?.tsrc=rss",
+          "score": -0.4588
         }
       ]
     },
     {
       "ticker": "V",
-      "rank": 8,
-      "prob_up": 0.5175,
-      "sentiment_norm": 0.6746,
-      "final_score": 0.5646,
-      "price": 361.6,
-      "change_pct": -0.33,
+      "rank": 7,
+      "prob_up": 0.5148,
+      "sentiment_norm": 0.6855,
+      "final_score": 0.5661,
+      "price": 360.58,
+      "change_pct": -0.61,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Falls, SpaceX Wavers; Energy Stocks Shine, Oil Rises As Trump Says This (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/5a48fb66-bb53-319a-8205-3a75ef0a9e9d/stock-market-today%3A-dow.html?.tsrc=rss",
-          "score": 0.3818
+          "title": "Q2 Earnings Outperformers: Visa (NYSE:V) And The Rest Of The Credit Card Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-visa-nyse-155722569.html?.tsrc=rss",
+          "score": 0.875
+        },
+        {
+          "title": "Stock Market Today: Dow Firm, Apple Skids On iPhone Fear; Oil Rises As Trump Says This (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/5a48fb66-bb53-319a-8205-3a75ef0a9e9d/stock-market-today%3A-dow-firm%2C.html?.tsrc=rss",
+          "score": -0.4019
         },
         {
           "title": "The Real Upside Case For Mastercard Stock Is In The Plumbing",
           "url": "https://www.trefis.com/articles/610755/the-real-upside-case-for-mastercard-stock-is-in-the-plumbing/2026-08-10?.tsrc=rss",
           "score": 0.4404
-        },
-        {
-          "title": "Why Visa (V) Could Be a Major Winner in the AI Payments Boom",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-visa-v-could-major-130908103.html?.tsrc=rss",
-          "score": 0.624
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "rank": 9,
-      "prob_up": 0.5116,
-      "sentiment_norm": 0.6809,
-      "final_score": 0.5624,
-      "price": 359.39,
-      "change_pct": 0.33,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Memory chip supply crunch will last 2 more years, JPMorgan warns",
-          "url": "https://finance.yahoo.com/markets/article/memory-chip-supply-crunch-will-last-2-more-years-jpmorgan-warns-130733703.html?.tsrc=rss",
-          "score": -0.4969
-        },
-        {
-          "title": "Is JPMorgan Small Cap Growth Fund A (PGSGX) a Strong Mutual Fund Pick Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-small-cap-growth-fund-110002923.html?.tsrc=rss",
-          "score": 0.7096
-        },
-        {
-          "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-lifts-2026-061958111.html?.tsrc=rss",
-          "score": 0.8658
         }
       ]
     },
     {
       "ticker": "HD",
-      "rank": 10,
-      "prob_up": 0.4987,
-      "sentiment_norm": 0.6757,
-      "final_score": 0.5518,
-      "price": 349.82,
-      "change_pct": -1.6,
+      "rank": 8,
+      "prob_up": 0.5109,
+      "sentiment_norm": 0.6729,
+      "final_score": 0.5595,
+      "price": 348.79,
+      "change_pct": -1.89,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Home Depot to Benefit From Professional Demand More than Lowe's in Q2, BofA Says",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-benefit-professional-demand-160112157.html?.tsrc=rss",
+          "score": 0.6705
+        },
         {
           "title": "1 Reason Lowe's May Be a Smarter Buy Than Home Depot Before Aug. 19",
           "url": "https://www.fool.com/investing/2026/08/10/1-reason-lowes-smarter-buy-home-depot-august-19/?.tsrc=rss",
@@ -264,11 +215,60 @@
           "title": "1 Incredible Reason to Buy Home Depot Stock Before It Reports Earnings on Aug. 18",
           "url": "https://www.fool.com/investing/2026/08/09/reason-buy-home-depot-stock-before-earnings/?.tsrc=rss",
           "score": 0.4588
+        }
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "rank": 9,
+      "prob_up": 0.5071,
+      "sentiment_norm": 0.6464,
+      "final_score": 0.5489,
+      "price": 532.08,
+      "change_pct": 2.17,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Berkshire shares climb to highest level under Abel on strong results, new stakes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-shares-climb-highest-level-160514921.html?.tsrc=rss",
+          "score": 0.8555
         },
         {
-          "title": "Home Depot Has Raised Its Dividend for 17 Consecutive Years and Reports Earnings Aug. 18. Is It the Smarter Dow Stock to Buy Over Walmart?",
-          "url": "https://www.fool.com/investing/2026/08/08/home-depot-dividend-17-years-walmart/?.tsrc=rss",
-          "score": 0.7184
+          "title": "Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities",
+          "url": "https://finance.yahoo.com/m/ef04c6ea-ee99-389a-9f50-259ca266bb1e/berkshire-hathaway-beats.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "The Stock Market Is Cultivating Gamblers and Not Investors, According to Warren Buffett. What That Means for Anyone Considering Buying Into Flashy IPOs.",
+          "url": "https://www.fool.com/investing/2026/08/10/the-stock-market-is-cultivating-gamblers-and-not/?.tsrc=rss",
+          "score": -0.3875
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "rank": 10,
+      "prob_up": 0.53,
+      "sentiment_norm": 0.5795,
+      "final_score": 0.5449,
+      "price": 562.24,
+      "change_pct": -0.14,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Mastercard (MA) Q2 2026 Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/mastercard-ma-q2-2026-earnings-call-transcript/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Zacks Industry Outlook Visa, Mastercard, PayPal, Fidelity   and WEX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-visa-mastercard-100600594.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Mastercard (MA) vs. Visa (V): Stablecoins or AI Fraud Defense?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-vs-visa-v-222246965.html?.tsrc=rss",
+          "score": -0.3818
         }
       ]
     },
@@ -276,26 +276,26 @@
       "ticker": "JNJ",
       "rank": 11,
       "prob_up": 0.4879,
-      "sentiment_norm": 0.6944,
-      "final_score": 0.5498,
-      "price": 260.3,
-      "change_pct": 0.17,
+      "sentiment_norm": 0.6702,
+      "final_score": 0.5426,
+      "price": 260.02,
+      "change_pct": 0.06,
       "sparkline": [],
       "headlines": [
-        {
-          "title": "Can Johnson & Johnson (JNJ) Challenge Intuitive Surgical (ISRG) After Ottava\u2019s FDA Approval?",
-          "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-challenge-intuitive-124242559.html?.tsrc=rss",
-          "score": 0.3818
-        },
         {
           "title": "3 Beaten-Down Healthcare Stocks to Buy in August",
           "url": "https://247wallst.com/investing/2026/08/10/3-beaten-down-healthcare-stocks-to-buy-in-august/?.tsrc=rss",
           "score": 0.8402
         },
         {
-          "title": "ACCESS Announces Multi-Year Strategic Agreement to Bring Advanced Cardiac Electrophysiology Technologies to Ambulatory Surgery Centers",
-          "url": "https://finance.yahoo.com/healthcare/articles/access-announces-multi-strategic-agreement-110000847.html?.tsrc=rss",
-          "score": 0.9022
+          "title": "Johnson & Johnson Has Increased Its Dividend for 64 Consecutive Years. Here's How Much $10,000 Invested in the Dividend King Pays Annually.",
+          "url": "https://www.fool.com/investing/2026/08/09/johnson-johnson-increased-dividend-king-yield/?.tsrc=rss",
+          "score": 0.5719
+        },
+        {
+          "title": "Why PG, JNJ, and KO Could Surprise Investors Next Year",
+          "url": "https://247wallst.com/investing/2026/08/08/why-pg-jnj-and-ko-could-surprise-investors-next-year/?.tsrc=rss",
+          "score": -0.6258
         }
       ]
     },
@@ -305,8 +305,8 @@
       "prob_up": 0.4854,
       "sentiment_norm": 0.6668,
       "final_score": 0.5398,
-      "price": 145.84,
-      "change_pct": -0.02,
+      "price": 145.81,
+      "change_pct": -0.04,
       "sparkline": [],
       "headlines": [
         {
@@ -327,137 +327,137 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "rank": 13,
-      "prob_up": 0.4536,
-      "sentiment_norm": 0.6752,
-      "final_score": 0.5201,
-      "price": 354.39,
-      "change_pct": -0.1,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Why The Trade Desk Was Sliding Again Today",
-          "url": "https://www.fool.com/investing/2026/08/10/why-the-trade-desk-was-sliding-again-today/?.tsrc=rss",
-          "score": -0.6124
-        },
-        {
-          "title": "Cathie Wood Ignores AI Panic \u2014 Buys More Nvidia, Sells This Gaming Stock Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ignores-ai-panic-145750434.html?.tsrc=rss",
-          "score": 0.1406
-        },
-        {
-          "title": "Warren Buffett Personally Initiated Berkshire's $30 Billion Alphabet Stake, a Sign He's Still Making Calls Despite Stepping Back as Chairman",
-          "url": "https://www.fool.com/investing/2026/08/10/warren-buffett-personally-initiated-berkshires-30/?.tsrc=rss",
-          "score": 0.7096
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 14,
-      "prob_up": 0.5089,
-      "sentiment_norm": 0.5231,
-      "final_score": 0.5132,
-      "price": 306.42,
-      "change_pct": -2.18,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "\u2018Massive Upgrade Cycle\u2019 Coming \u2013 Ignore Memory Costs Panic and Buy Apple (AAPL)?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/massive-upgrade-cycle-coming-ignore-152241666.html?.tsrc=rss",
-          "score": -0.4767
-        },
-        {
-          "title": "Apple Investors Get Fresh iPhone Warning",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-investors-fresh-iphone-warning-151903712.html?.tsrc=rss",
-          "score": -0.0258
-        },
-        {
-          "title": "Why The Trade Desk Was Sliding Again Today",
-          "url": "https://www.fool.com/investing/2026/08/10/why-the-trade-desk-was-sliding-again-today/?.tsrc=rss",
-          "score": -0.6124
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
-      "rank": 15,
-      "prob_up": 0.4369,
-      "sentiment_norm": 0.6199,
-      "final_score": 0.4918,
-      "price": 158.27,
-      "change_pct": 3.38,
+      "rank": 13,
+      "prob_up": 0.4402,
+      "sentiment_norm": 0.6498,
+      "final_score": 0.5031,
+      "price": 158.03,
+      "change_pct": 3.22,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "2 Energy Dividend Stocks to Buy -- and the Risk Behind Each Payout",
+          "url": "https://www.fool.com/investing/2026/08/10/2-energy-dividend-stocks-to-buy-and-the-risk-behin/?.tsrc=rss",
+          "score": 0.7535
+        },
+        {
+          "title": "1 Cash-Producing Stock with Impressive Fundamentals and 2 We Turn Down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-impressive-152522894.html?.tsrc=rss",
+          "score": 0.8126
+        },
         {
           "title": "Exxon Handed Shareholders $9.4 Billion in One Quarter. Here's What It Earned to Cover It.",
           "url": "https://www.fool.com/investing/2026/08/09/exxon-handed-shareholders-94-billion-in-one-quarte/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Why Trump\u2019s Waiver of the Jones Act Is Unlikely To Lower Gas Prices",
-          "url": "https://finance.yahoo.com/energy/articles/why-trump-waiver-jones-act-230000493.html?.tsrc=rss",
-          "score": -0.3818
-        },
-        {
-          "title": "Warren Buffett sends a blunt message to stock market investors",
-          "url": "https://www.thestreet.com/investing/stocks/warren-buffett-sends-a-blunt-message-to-stock-market-investors-sp-500-dot-com-bubble-gambling?.tsrc=rss",
-          "score": 0.4019
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "rank": 16,
-      "prob_up": 0.3902,
-      "sentiment_norm": 0.7016,
-      "final_score": 0.4836,
-      "price": 424.98,
-      "change_pct": -0.39,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Broadcom\u2019s Brilliant Positioning is Why I Am Loading Up Over and Over",
-          "url": "https://247wallst.com/investing/2026/08/10/broadcoms-brilliant-positioning-is-why-i-am-loading-up-over-and-over/?.tsrc=rss",
-          "score": 0.8892
-        },
-        {
-          "title": "2 Dividend Growth Stocks Worth Holding for the Long Haul",
-          "url": "https://www.fool.com/investing/2026/08/10/2-dividend-growth-stocks-worth-holding-for-the/?.tsrc=rss",
-          "score": 0.5423
-        },
-        {
-          "title": "Is Avnet (AVT) Stock Outpacing Its Computer and Technology Peers This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/avnet-avt-stock-outpacing-computer-134003666.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "rank": 17,
-      "prob_up": 0.418,
-      "sentiment_norm": 0.5471,
-      "final_score": 0.4568,
-      "price": 219.24,
-      "change_pct": -2.02,
+      "rank": 14,
+      "prob_up": 0.4228,
+      "sentiment_norm": 0.6439,
+      "final_score": 0.4891,
+      "price": 219.66,
+      "change_pct": -1.83,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Universal Corp (UVV) Stock Is Falling Today: What\u2019s Behind the Drop, and Are Other Tobacco Stocks Plummeting Today?",
-          "url": "https://247wallst.com/investing/2026/08/10/universal-corp-uvv-stock-is-falling-today-whats-behind-the-drop-and-are-other-tobacco-stocks-plummeting-today/?.tsrc=rss",
-          "score": -0.6369
-        },
-        {
-          "title": "Why Plug Power Stock Slumped Another 24% in July",
-          "url": "https://www.fool.com/investing/2026/08/10/why-plug-power-stock-slumped-another-24-in-july/?.tsrc=rss",
+          "title": "Microsoft's Nvidia Alternative Is Getting Much Bigger",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-nvidia-alternative-getting-much-153413889.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "1 Super Streaming Stock Down 37% You'll Regret Not Buying on the Dip, According to Wall Street",
-          "url": "https://www.fool.com/investing/2026/08/10/1-streaming-stock-down-37-regret-buying-dip-wall/?.tsrc=rss",
-          "score": 0.6597
+          "title": "The Mag 7 Face-Off: Only 2 Come Out on Top",
+          "url": "https://247wallst.com/investing/2026/08/10/the-mag-7-face-off-only-2-come-out-on-top/?.tsrc=rss",
+          "score": 0.836
+        },
+        {
+          "title": "How Monday.com Stock Gained 20.4% In July",
+          "url": "https://www.fool.com/investing/2026/08/10/how-mondaycom-stock-gained-204-in-july/?.tsrc=rss",
+          "score": 0.7184
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 15,
+      "prob_up": 0.5133,
+      "sentiment_norm": 0.4194,
+      "final_score": 0.4852,
+      "price": 305.51,
+      "change_pct": -2.47,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Will Apple Have To Increase iPhone Prices?",
+          "url": "https://247wallst.com/investing/2026/08/10/will-apple-have-to-increase-iphone-prices/?.tsrc=rss",
+          "score": 0.7615
+        },
+        {
+          "title": "Stock Market Today: Dow Firm, Apple Skids On iPhone Fear; Oil Rises As Trump Says This (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/5a48fb66-bb53-319a-8205-3a75ef0a9e9d/stock-market-today%3A-dow-firm%2C.html?.tsrc=rss",
+          "score": -0.4019
+        },
+        {
+          "title": "Apple Stock Falls on Downgrade -- Jefferies Warns of Major iPhone Setback",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-downgrade-jefferies-155212368.html?.tsrc=rss",
+          "score": -0.1027
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "rank": 16,
+      "prob_up": 0.4536,
+      "sentiment_norm": 0.541,
+      "final_score": 0.4798,
+      "price": 354.28,
+      "change_pct": -0.13,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Big Tech is borrowing its way through the AI boom: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/big-tech-is-borrowing-its-way-through-the-ai-boom-chart-of-the-day-100000605.html?.tsrc=rss",
+          "score": 0.1877
+        },
+        {
+          "title": "Google seeks $25B bond raise as investors grow weary of AI spend",
+          "url": "https://blockspace.media/short/google-seeks-25b-bond-raise-as-investors-grow-weary-of-ai-spend/?.tsrc=rss",
+          "score": -0.2732
+        },
+        {
+          "title": "Alphabet's $25B debt sale underscores hyperscalers' AI arms race",
+          "url": "https://finance.yahoo.com/video/alphabets-25b-debt-sale-underscores-191800525.html?.tsrc=rss",
+          "score": -0.6369
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 17,
+      "prob_up": 0.3986,
+      "sentiment_norm": 0.6684,
+      "final_score": 0.4796,
+      "price": 425.95,
+      "change_pct": -0.16,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Broadcom Stock Looks Like a Screaming Deal",
+          "url": "https://www.fool.com/investing/2026/08/10/broadcom-stock-looks-like-a-screaming-deal/?.tsrc=rss",
+          "score": -0.0258
+        },
+        {
+          "title": "Qualcomm's Android Growth Number Has Left The Front Of The Story",
+          "url": "https://www.trefis.com/articles/610766/qualcomms-android-growth-number-has-left-the-front-of-the-story/2026-08-10?.tsrc=rss",
+          "score": 0.5719
+        },
+        {
+          "title": "Broadcom\u2019s Brilliant Positioning is Why I Am Loading Up Over and Over",
+          "url": "https://247wallst.com/investing/2026/08/10/broadcoms-brilliant-positioning-is-why-i-am-loading-up-over-and-over/?.tsrc=rss",
+          "score": 0.8892
         }
       ]
     },
@@ -465,53 +465,53 @@
       "ticker": "MSFT",
       "rank": 18,
       "prob_up": 0.3568,
-      "sentiment_norm": 0.6545,
-      "final_score": 0.4461,
-      "price": 509.44,
-      "change_pct": 2.0,
+      "sentiment_norm": 0.7148,
+      "final_score": 0.4642,
+      "price": 510.53,
+      "change_pct": 2.22,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Cathie Wood Ignores AI Panic \u2014 Buys More Nvidia, Sells This Gaming Stock Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ignores-ai-panic-145750434.html?.tsrc=rss",
-          "score": 0.1406
+          "title": "Microsoft's Nvidia Alternative Is Getting Much Bigger",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-nvidia-alternative-getting-much-153413889.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD",
-          "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-snps-unleashes-agentic-ai-143945738.html?.tsrc=rss",
-          "score": -0.1027
+          "title": "Top Midday Stories: Intel Offers $15 Billion of Common Stock; Microsoft to Ramp Up Production of Homegrown AI Chip",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-intel-offers-153156518.html?.tsrc=rss",
+          "score": 0.296
         },
         {
-          "title": "Memory chip crunch could last 2 more years, JPMorgan says",
-          "url": "https://finance.yahoo.com/video/memory-chip-crunch-could-last-143400576.html?.tsrc=rss",
-          "score": -0.5267
+          "title": "Microsoft, Amazon, Micron and Alphabet are part of Zacks Earnings Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-micron-alphabet-part-150600706.html?.tsrc=rss",
+          "score": 0.7964
         }
       ]
     },
     {
       "ticker": "AMZN",
       "rank": 19,
-      "prob_up": 0.358,
-      "sentiment_norm": 0.6443,
-      "final_score": 0.4439,
-      "price": 278.88,
-      "change_pct": 1.67,
+      "prob_up": 0.3333,
+      "sentiment_norm": 0.5444,
+      "final_score": 0.3966,
+      "price": 278.32,
+      "change_pct": 1.46,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Consumers Seek Value, Deal With Stress During Back-to-School Shopping Season",
-          "url": "https://wwd.com/sourcing-journal/industry-news/consumers-deal-with-stress-during-back-to-school-season-1239099381/?.tsrc=rss",
-          "score": -0.5413
+          "title": "Embraer-Empresa Brasileira de Aeronautica Q2 Earnings Call Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/embraer-empresa-brasileira-de-aeronautica-q2-earnings-call-highlights-2026-08-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+          "score": 0.5994
         },
         {
-          "title": "Why The Trade Desk Was Sliding Again Today",
-          "url": "https://www.fool.com/investing/2026/08/10/why-the-trade-desk-was-sliding-again-today/?.tsrc=rss",
-          "score": -0.6124
+          "title": "Amazon, IBD Stock Of The Day, Rides Cloud Momentum To $3 Trillion Milestone",
+          "url": "https://finance.yahoo.com/m/4d7170cc-68b3-3e83-9582-c1a94e676cc3/amazon%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
+          "score": 0.34
         },
         {
-          "title": "Cathie Wood Ignores AI Panic \u2014 Buys More Nvidia, Sells This Gaming Stock Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ignores-ai-panic-145750434.html?.tsrc=rss",
-          "score": 0.1406
+          "title": "CoreWeave Stock Rallied Ahead Of Its Own Numbers, Not On Them",
+          "url": "https://www.trefis.com/articles/610752/coreweave-stock-rallied-ahead-of-its-own-numbers-not-on-them/2026-08-10?.tsrc=rss",
+          "score": 0.3182
         }
       ]
     },
@@ -519,26 +519,26 @@
       "ticker": "TSLA",
       "rank": 20,
       "prob_up": 0.204,
-      "sentiment_norm": 0.4986,
-      "final_score": 0.2924,
-      "price": 329.05,
-      "change_pct": 0.02,
+      "sentiment_norm": 0.4738,
+      "final_score": 0.285,
+      "price": 330.24,
+      "change_pct": 0.38,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Tesla in the spotlight as NFL's 49ers head coach says Autopilot may have been engaged during accident",
+          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-in-the-spotlight-as-nfls-49ers-head-coach-says-autopilot-may-have-been-engaged-during-accident-160422251.html?.tsrc=rss",
+          "score": -0.2732
+        },
         {
           "title": "Tesla Has More to Prove Than Ever, But the Upside Could Be Huge",
           "url": "https://247wallst.com/investing/2026/08/10/tesla-has-more-to-prove-than-ever-but-the-upside-could-be-huge/?.tsrc=rss",
           "score": 0.1154
         },
         {
-          "title": "How to Deploy $1000 Across Tesla and Ford for Growth and Optionality",
-          "url": "https://247wallst.com/investing/2026/08/10/how-to-deploy-1000-across-tesla-and-ford-for-growth-and-optionality/?.tsrc=rss",
-          "score": -0.25
-        },
-        {
-          "title": "Semis Surge, Michael Burry\u2019s Shorts Feel the Pressure \u2014 But Don\u2019t Expect Him to Run for Cover After His Latest \u201c1987-Style\u201d Crash Warning",
-          "url": "https://247wallst.com/investing/2026/08/10/semis-surge-michael-burrys-shorts-feel-the-pressure-but-dont-expect-him-to-run-for-cover-after-his-latest-1987-style-crash-warning/?.tsrc=rss",
-          "score": -0.8047
+          "title": "The Zacks Analyst Blog Highlights SpaceX, Tesla KLA Corp, Onto Innovation, Applied Materials and Lam Research",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-spacex-145600132.html?.tsrc=rss",
+          "score": 0.2732
         }
       ]
     }
