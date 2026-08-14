@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-14T19:33:11Z",
-  "market_status": "open",
+  "last_updated": "2026-08-14T20:06:37Z",
+  "market_status": "closed",
   "rankings": [
     {
       "ticker": "BRK-B",
       "rank": 1,
-      "prob_up": 0.5307,
+      "prob_up": 0.5434,
       "sentiment_norm": 0.7228,
-      "final_score": 0.5883,
-      "price": 505.55,
-      "change_pct": -0.36,
+      "final_score": 0.5972,
+      "price": 503.99,
+      "change_pct": -0.67,
       "sparkline": [],
       "headlines": [
         {
@@ -32,13 +32,18 @@
     {
       "ticker": "META",
       "rank": 2,
-      "prob_up": 0.6344,
-      "sentiment_norm": 0.4599,
-      "final_score": 0.5821,
-      "price": 591.6,
-      "change_pct": -0.4,
+      "prob_up": 0.6237,
+      "sentiment_norm": 0.4587,
+      "final_score": 0.5742,
+      "price": 589.85,
+      "change_pct": -0.7,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html?.tsrc=rss",
+          "score": -0.0258
+        },
         {
           "title": "Meta Stock Edges Higher as Australia Enforcement Risk Intensifies",
           "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-edges-higher-australia-192037912.html?.tsrc=rss",
@@ -48,11 +53,6 @@
           "title": "Reddit Is Still Down 24% This Year. What Will It Take to Get RDDT Stock Back Up to $200?",
           "url": "https://247wallst.com/investing/2026/08/14/reddit-is-still-down-24-this-year-what-will-it-take-to-get-rddt-stock-back-up-to-200/?.tsrc=rss",
           "score": -0.3612
-        },
-        {
-          "title": "How Serious Are Thousands of Addiction Lawsuits for Meta (META) and Snap (SNAP)?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/serious-thousands-addiction-lawsuits-meta-182623555.html?.tsrc=rss",
-          "score": -0.8612
         }
       ]
     },
@@ -60,64 +60,37 @@
       "ticker": "LLY",
       "rank": 3,
       "prob_up": 0.5421,
-      "sentiment_norm": 0.6034,
-      "final_score": 0.5605,
-      "price": 1180.67,
-      "change_pct": -2.45,
+      "sentiment_norm": 0.6462,
+      "final_score": 0.5733,
+      "price": 1180.2,
+      "change_pct": -2.49,
       "sparkline": [],
       "headlines": [
-        {
-          "title": "Eli Lilly Just Scored Europe's First Weight Loss Pill Approval -- and the Growth Story Keeps Getting Bigger",
-          "url": "https://www.fool.com/investing/2026/08/14/eli-lilly-just-scored-europes-first-weight-loss/?.tsrc=rss",
-          "score": 0.9062
-        },
-        {
-          "title": "Eli Lilly Stock Nears Buy Point After Earnings-Fueled Gains",
-          "url": "https://finance.yahoo.com/m/c7509af1-9542-320b-b10c-f73523ccdd58/eli-lilly-stock-nears-buy.html?.tsrc=rss",
-          "score": 0.0777
-        },
-        {
-          "title": "5 Revealing Analyst Questions From Eli Lilly\u2019s Q2 Earnings Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-eli-054900384.html?.tsrc=rss",
-          "score": 0.8621
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "rank": 4,
-      "prob_up": 0.5173,
-      "sentiment_norm": 0.6439,
-      "final_score": 0.5553,
-      "price": 393.02,
-      "change_pct": -6.09,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "What Separates AVGO From Its Peers Right Now",
-          "url": "https://www.trefis.com/articles/611488/what-separates-avgo-from-its-peers-right-now/2026-08-14?.tsrc=rss",
-          "score": 0.5023
-        },
-        {
-          "title": "Broadcom Shares Plunge on Major VMware Security Threat",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-plunge-major-vmware-182433296.html?.tsrc=rss",
-          "score": 0.1317
-        },
         {
           "title": "Vanguard Quietly Changed the Index Behind Your VUG ETF. Here\u2019s What Happens to Your Portfolio",
           "url": "https://247wallst.com/investing/etf/2026/08/14/vanguard-quietly-changed-the-index-behind-your-vug-etf-heres-what-happens-to-your-portfolio/?.tsrc=rss",
           "score": 0.8162
+        },
+        {
+          "title": "Eli Lilly (LLY) Steps Up Legal Fight Over Illegal Retatrutide Sales",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-steps-legal-160839074.html?.tsrc=rss",
+          "score": -0.8555
+        },
+        {
+          "title": "Nektar Q2 Earnings Beat Estimates, Revenues Lag, Pipeline in Focus",
+          "url": "https://finance.yahoo.com/healthcare/articles/nektar-q2-earnings-beat-estimates-150200758.html?.tsrc=rss",
+          "score": -0.1779
         }
       ]
     },
     {
       "ticker": "COST",
-      "rank": 5,
-      "prob_up": 0.5142,
+      "rank": 4,
+      "prob_up": 0.5156,
       "sentiment_norm": 0.6401,
-      "final_score": 0.552,
-      "price": 962.12,
-      "change_pct": 0.26,
+      "final_score": 0.553,
+      "price": 961.1,
+      "change_pct": 0.15,
       "sparkline": [],
       "headlines": [
         {
@@ -139,12 +112,12 @@
     },
     {
       "ticker": "JNJ",
-      "rank": 6,
-      "prob_up": 0.482,
-      "sentiment_norm": 0.7082,
-      "final_score": 0.5499,
-      "price": 260.66,
-      "change_pct": -0.64,
+      "rank": 5,
+      "prob_up": 0.4879,
+      "sentiment_norm": 0.704,
+      "final_score": 0.5527,
+      "price": 260.29,
+      "change_pct": -0.79,
       "sparkline": [],
       "headlines": [
         {
@@ -153,25 +126,25 @@
           "score": 0.8519
         },
         {
-          "title": "Can ABBV's Neuroscience Drugs Drive Growth in the Second Half of 2026?",
-          "url": "https://finance.yahoo.com/healthcare/articles/abbvs-neuroscience-drugs-drive-growth-172900939.html?.tsrc=rss",
-          "score": 0.9022
-        },
-        {
           "title": "Why Is Johnson & Johnson (JNJ) Up 4.8% Since Last Earnings Report?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-johnson-johnson-jnj-4-153004936.html?.tsrc=rss",
           "score": 0.0
+        },
+        {
+          "title": "5 Dividend Kings to Buy and Hold Forever in August",
+          "url": "https://247wallst.com/investing/2026/08/14/5-dividend-kings-to-buy-and-hold-forever-in-august/?.tsrc=rss",
+          "score": 0.1901
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 7,
+      "rank": 6,
       "prob_up": 0.4712,
       "sentiment_norm": 0.7277,
       "final_score": 0.5482,
-      "price": 144.69,
-      "change_pct": 0.19,
+      "price": 144.56,
+      "change_pct": 0.1,
       "sparkline": [],
       "headlines": [
         {
@@ -193,28 +166,55 @@
     },
     {
       "ticker": "HD",
-      "rank": 8,
-      "prob_up": 0.5523,
-      "sentiment_norm": 0.5173,
-      "final_score": 0.5418,
-      "price": 339.02,
-      "change_pct": -0.75,
+      "rank": 7,
+      "prob_up": 0.5457,
+      "sentiment_norm": 0.5424,
+      "final_score": 0.5447,
+      "price": 338.79,
+      "change_pct": -0.82,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Q2 Earnings Season Enters Final Stretch: Walmart Headlines Upcoming Retail Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-enters-final-173800061.html?.tsrc=rss",
+          "score": -0.7579
+        },
+        {
+          "title": "Should You Buy Lowe's Stock Before Aug. 19?",
+          "url": "https://www.fool.com/investing/2026/08/14/should-you-buy-lowes-stock-before-aug-19/?.tsrc=rss",
+          "score": 0.5859
+        },
         {
           "title": "Home Depot, Lowe's Quarterly Results Unlikely to Show Signs of Recovery Amid Macro Pressures, Oppenheimer Says",
           "url": "https://finance.yahoo.com/real-estate/articles/home-depot-lowe-apos-quarterly-150016486.html?.tsrc=rss",
           "score": -0.2808
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 8,
+      "prob_up": 0.5173,
+      "sentiment_norm": 0.6079,
+      "final_score": 0.5445,
+      "price": 392.99,
+      "change_pct": -6.1,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Broadcom Falls 6% as AI Trade Cools",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-6-ai-trade-195640614.html?.tsrc=rss",
+          "score": 0.2023
         },
         {
-          "title": "Ahead of Home Depot (HD) Q2 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-home-depot-hd-q2-131502062.html?.tsrc=rss",
-          "score": 0.7096
+          "title": "What Separates AVGO From Its Peers Right Now",
+          "url": "https://www.trefis.com/articles/611488/what-separates-avgo-from-its-peers-right-now/2026-08-14?.tsrc=rss",
+          "score": 0.5023
         },
         {
-          "title": "Home Depot hardware store rival files Chapter 11 bankruptcy",
-          "url": "https://www.thestreet.com/retail/ace-hardware-store-operator-files-chapter-11-bankruptcy?.tsrc=rss",
-          "score": -0.6369
+          "title": "Broadcom Shares Plunge on Major VMware Security Threat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-plunge-major-vmware-182433296.html?.tsrc=rss",
+          "score": 0.1317
         }
       ]
     },
@@ -224,8 +224,8 @@
       "prob_up": 0.5133,
       "sentiment_norm": 0.5962,
       "final_score": 0.5382,
-      "price": 305.81,
-      "change_pct": 0.34,
+      "price": 305.93,
+      "change_pct": 0.38,
       "sparkline": [],
       "headlines": [
         {
@@ -248,11 +248,11 @@
     {
       "ticker": "V",
       "rank": 10,
-      "prob_up": 0.5346,
+      "prob_up": 0.5164,
       "sentiment_norm": 0.4986,
-      "final_score": 0.5238,
-      "price": 365.6,
-      "change_pct": 0.16,
+      "final_score": 0.5111,
+      "price": 364.08,
+      "change_pct": -0.25,
       "sparkline": [],
       "headlines": [
         {
@@ -273,40 +273,13 @@
       ]
     },
     {
-      "ticker": "MA",
-      "rank": 11,
-      "prob_up": 0.4552,
-      "sentiment_norm": 0.5858,
-      "final_score": 0.4944,
-      "price": 569.98,
-      "change_pct": 0.57,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Mastercard Is Making a Big Push Into Stablecoins. Here's Why That Matters For Crypto Investors.",
-          "url": "https://www.fool.com/investing/2026/08/14/mastercard-is-making-a-big-push-into-stablecoins-h/?.tsrc=rss",
-          "score": 0.4019
-        },
-        {
-          "title": "PayPal Stock Surged On A Profit Shift Management Had Already Spelled Out",
-          "url": "https://www.trefis.com/articles/611549/paypal-stock-surged-on-a-profit-shift-management-had-already-spelled-out/2026-08-14?.tsrc=rss",
-          "score": 0.7351
-        },
-        {
-          "title": "Bill Ackman Moves Stocks. These 5 Prove It.",
-          "url": "https://finance.yahoo.com/m/64a71894-9cf8-3252-9833-967f9d9af31d/bill-ackman-moves-stocks..html?.tsrc=rss",
-          "score": 0.3818
-        }
-      ]
-    },
-    {
       "ticker": "JPM",
-      "rank": 12,
+      "rank": 11,
       "prob_up": 0.4483,
-      "sentiment_norm": 0.5968,
-      "final_score": 0.4928,
-      "price": 362.75,
-      "change_pct": -0.1,
+      "sentiment_norm": 0.5875,
+      "final_score": 0.49,
+      "price": 362.79,
+      "change_pct": -0.09,
       "sparkline": [],
       "headlines": [
         {
@@ -328,12 +301,12 @@
     },
     {
       "ticker": "WMT",
-      "rank": 13,
+      "rank": 12,
       "prob_up": 0.5111,
-      "sentiment_norm": 0.4301,
-      "final_score": 0.4868,
-      "price": 115.51,
-      "change_pct": -0.16,
+      "sentiment_norm": 0.4402,
+      "final_score": 0.4898,
+      "price": 115.27,
+      "change_pct": -0.37,
       "sparkline": [],
       "headlines": [
         {
@@ -342,52 +315,52 @@
           "score": -0.7579
         },
         {
-          "title": "Walmart Seen Missing Comparable Sales Estimates, Target Set to Beat, Deutsche Bank Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-seen-missing-comparable-sales-155210437.html?.tsrc=rss",
-          "score": -0.4215
+          "title": "Walmart says it did nothing wrong after 11-year-old raids family's emergency fund for $2,000 in Roblox gaming gift cards",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-says-did-nothing-wrong-170000636.html?.tsrc=rss",
+          "score": 0.1665
         },
         {
-          "title": "Walmart set for in-line Q2 as investors eye tariff refund plans, 2H guidance",
-          "url": "https://www.proactiveinvestors.com/companies/news/1097069/walmart-set-for-in-line-q2-as-investors-eye-tariff-refund-plans-2h-guidance-1097069.html?.tsrc=rss",
-          "score": 0.0
+          "title": "What Could Kroger (KR) Gain From Its New Ecommerce Chief And Texas Fresh Push?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-kroger-kr-gain-ecommerce-160940929.html?.tsrc=rss",
+          "score": 0.802
         }
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 14,
-      "prob_up": 0.407,
-      "sentiment_norm": 0.6531,
-      "final_score": 0.4808,
-      "price": 225.2,
-      "change_pct": -0.1,
+      "ticker": "MA",
+      "rank": 13,
+      "prob_up": 0.4552,
+      "sentiment_norm": 0.5501,
+      "final_score": 0.4836,
+      "price": 569.26,
+      "change_pct": 0.44,
       "sparkline": [],
       "headlines": [
         {
-          "title": "What Separates AVGO From Its Peers Right Now",
-          "url": "https://www.trefis.com/articles/611488/what-separates-avgo-from-its-peers-right-now/2026-08-14?.tsrc=rss",
-          "score": 0.5023
+          "title": "Mastercard Is Making a Big Push Into Stablecoins. Here's Why That Matters For Crypto Investors.",
+          "url": "https://www.fool.com/investing/2026/08/14/mastercard-is-making-a-big-push-into-stablecoins-h/?.tsrc=rss",
+          "score": 0.4019
         },
         {
-          "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html?.tsrc=rss",
-          "score": 0.7783
+          "title": "Bill Ackman Just Bought Mastercard. Here\u2019s What an Investment 5 Years Ago Would Be Worth Today",
+          "url": "https://247wallst.com/investing/2026/08/14/bill-ackman-just-bought-mastercard-heres-what-an-investment-5-years-ago-would-be-worth-today/?.tsrc=rss",
+          "score": 0.0772
         },
         {
-          "title": "Elon Musk Says SpaceX Will Try to Catch a Returning Starship This Month",
-          "url": "https://www.fool.com/investing/2026/08/14/elon-musk-says-spacex-will-try-to-catch-a-returnin/?.tsrc=rss",
+          "title": "Mastercard Stock Rises as Ackman Targets Agentic Commerce",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-ackman-targets-191128954.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
       "ticker": "XOM",
-      "rank": 15,
+      "rank": 14,
       "prob_up": 0.4392,
       "sentiment_norm": 0.5733,
       "final_score": 0.4794,
-      "price": 159.92,
-      "change_pct": 0.75,
+      "price": 160.11,
+      "change_pct": 0.87,
       "sparkline": [],
       "headlines": [
         {
@@ -408,13 +381,40 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "rank": 15,
+      "prob_up": 0.3866,
+      "sentiment_norm": 0.6608,
+      "final_score": 0.4689,
+      "price": 262.65,
+      "change_pct": -0.98,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Seth Klarman\u2019s Baupost Loads Up On AMZN, GOOGL \u2014 Takes New Stake In Bill Ackman\u2019s Pershing Square",
+          "url": "https://stocktwits.com/news-articles/markets/equity/seth-klarmans-baupost-loads-up-on-amzn-googl-takes-new-stake-in-bill-ackman-pershing-square/cZotrFPRJ0C?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
+          "url": "https://finance.yahoo.com/technology/articles/joshua-kushners-thrive-capital-discloses-165712497.html?.tsrc=rss",
+          "score": 0.6124
+        },
+        {
+          "title": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
+          "url": "https://finance.yahoo.com/m/8a0d6d61-6808-361b-acad-32b72e4561d8/rocket-lab%2C-amazon-win-space.html?.tsrc=rss",
+          "score": 0.7351
+        }
+      ]
+    },
+    {
       "ticker": "MSFT",
       "rank": 16,
       "prob_up": 0.3776,
       "sentiment_norm": 0.645,
       "final_score": 0.4578,
-      "price": 495.45,
-      "change_pct": -0.08,
+      "price": 495.4,
+      "change_pct": -0.09,
       "sparkline": [],
       "headlines": [
         {
@@ -437,13 +437,18 @@
     {
       "ticker": "UNH",
       "rank": 17,
-      "prob_up": 0.4444,
-      "sentiment_norm": 0.4855,
-      "final_score": 0.4567,
-      "price": 402.35,
-      "change_pct": 0.72,
+      "prob_up": 0.4554,
+      "sentiment_norm": 0.4559,
+      "final_score": 0.4556,
+      "price": 401.82,
+      "change_pct": 0.58,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
+          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-195128452.html?.tsrc=rss",
+          "score": -0.296
+        },
         {
           "title": "Is Dividend Hike And Medicare Exit Strategy Altering The Investment Case For UnitedHealth Group (UNH)?",
           "url": "https://finance.yahoo.com/healthcare/articles/dividend-hike-medicare-exit-strategy-171143024.html?.tsrc=rss",
@@ -453,38 +458,33 @@
           "title": "The Signs Before UnitedHealth Stock Ran Were In Its Own Exit Plan",
           "url": "https://www.trefis.com/articles/611364/the-signs-before-unitedhealth-stock-ran-were-in-its-own-exit-plan/2026-08-13?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "UnitedHealth Group Board Authorizes Payment of Quarterly Dividend",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-board-authorizes-payment-110000732.html?.tsrc=rss",
-          "score": 0.296
         }
       ]
     },
     {
-      "ticker": "AMZN",
+      "ticker": "NVDA",
       "rank": 18,
-      "prob_up": 0.3898,
-      "sentiment_norm": 0.592,
-      "final_score": 0.4504,
-      "price": 263.43,
-      "change_pct": -0.69,
+      "prob_up": 0.389,
+      "sentiment_norm": 0.5954,
+      "final_score": 0.4509,
+      "price": 225.16,
+      "change_pct": -0.12,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
-          "url": "https://finance.yahoo.com/technology/articles/joshua-kushners-thrive-capital-discloses-165712497.html?.tsrc=rss",
-          "score": 0.6124
+          "title": "Stock Market Today: Nasdaq Sinks On Retail Sales Gloom; Nvidia Eyes Robotics Wave (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+          "score": -0.5574
         },
         {
-          "title": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
-          "url": "https://finance.yahoo.com/m/8a0d6d61-6808-361b-acad-32b72e4561d8/rocket-lab%2C-amazon-win-space.html?.tsrc=rss",
-          "score": 0.7351
+          "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html?.tsrc=rss",
+          "score": 0.7783
         },
         {
-          "title": "Billionaire Investor Makes Huge Bet on Two AI Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-makes-huge-bet-160330451.html?.tsrc=rss",
-          "score": 0.2263
+          "title": "Nvidia's Next Earnings Could Shock Wall Street: UBS Sees Billions Above Guidance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-next-earnings-could-shock-185110303.html?.tsrc=rss",
+          "score": -0.3818
         }
       ]
     },
@@ -492,10 +492,10 @@
       "ticker": "TSLA",
       "rank": 19,
       "prob_up": 0.3259,
-      "sentiment_norm": 0.492,
-      "final_score": 0.3758,
-      "price": 342.15,
-      "change_pct": 0.19,
+      "sentiment_norm": 0.4773,
+      "final_score": 0.3713,
+      "price": 342.27,
+      "change_pct": 0.22,
       "sparkline": [],
       "headlines": [
         {
@@ -518,27 +518,27 @@
     {
       "ticker": "GOOGL",
       "rank": 20,
-      "prob_up": 0.2803,
-      "sentiment_norm": 0.5917,
-      "final_score": 0.3737,
-      "price": 345.39,
-      "change_pct": -0.25,
+      "prob_up": 0.2965,
+      "sentiment_norm": 0.5046,
+      "final_score": 0.3589,
+      "price": 345.9,
+      "change_pct": -0.1,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Alphabet's $900 Million SpaceX Bet Grew to $94 Billion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabets-900-million-spacex-bet-193357444.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "The Best House On The Block Costs The Most: PLTR",
+          "url": "https://www.trefis.com/articles/611491/the-best-house-on-the-block-costs-the-most-pltr/2026-08-14?.tsrc=rss",
+          "score": 0.6908
+        },
         {
           "title": "Texas Data Center Moratorium: Key Meeting Next Week; Watch These S&P 500 Stocks",
           "url": "https://finance.yahoo.com/m/2f4b62de-0bca-3474-878e-22edae37d495/texas-data-center-moratorium%3A.html?.tsrc=rss",
           "score": -0.296
-        },
-        {
-          "title": "Alphabet Stock Rises as Investors Assess $78 Billion SpaceX Stake",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-rises-investors-assess-192252517.html?.tsrc=rss",
-          "score": 0.765
-        },
-        {
-          "title": "Reddit Is Still Down 24% This Year. What Will It Take to Get RDDT Stock Back Up to $200?",
-          "url": "https://247wallst.com/investing/2026/08/14/reddit-is-still-down-24-this-year-what-will-it-take-to-get-rddt-stock-back-up-to-200/?.tsrc=rss",
-          "score": -0.3612
         }
       ]
     }
