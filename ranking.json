@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T20:06:37Z",
+  "last_updated": "2026-08-14T20:42:06Z",
   "market_status": "closed",
   "rankings": [
     {
@@ -8,15 +8,10 @@
       "prob_up": 0.5434,
       "sentiment_norm": 0.7228,
       "final_score": 0.5972,
-      "price": 503.99,
-      "change_pct": -0.67,
+      "price": 504.03,
+      "change_pct": -0.66,
       "sparkline": [],
       "headlines": [
-        {
-          "title": "This ETF Copies Buffett\u2019s Portfolio and Pays You Monthly. Why Buffett Would Never.",
-          "url": "https://247wallst.com/investing/etf/2026/08/14/this-etf-copies-buffetts-portfolio-and-pays-you-monthly-why-buffett-would-never/?.tsrc=rss",
-          "score": 0.1027
-        },
         {
           "title": "3 Obvious Reasons Warren Buffett's Berkshire Hathaway Owns Nearly 152 Million Shares in This Winning Financial Stock",
           "url": "https://www.fool.com/investing/2026/08/14/warren-buffett-berkshire-hathaway-financial-stock/?.tsrc=rss",
@@ -26,6 +21,11 @@
           "title": "Did Greg Abel Just End Berkshire Hathaway\u2019s (BRK-B) Cash-Hoard Problem?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/did-greg-abel-just-end-182906702.html?.tsrc=rss",
           "score": 0.6486
+        },
+        {
+          "title": "Berkshire Stock Slips Despite $1.75 Million Insider Buying Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-stock-slips-despite-1-160911733.html?.tsrc=rss",
+          "score": 0.4019
         }
       ]
     },
@@ -33,91 +33,48 @@
       "ticker": "META",
       "rank": 2,
       "prob_up": 0.6237,
-      "sentiment_norm": 0.4587,
-      "final_score": 0.5742,
+      "sentiment_norm": 0.5,
+      "final_score": 0.5866,
       "price": 589.85,
       "change_pct": -0.7,
       "sparkline": [],
-      "headlines": [
-        {
-          "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html?.tsrc=rss",
-          "score": -0.0258
-        },
-        {
-          "title": "Meta Stock Edges Higher as Australia Enforcement Risk Intensifies",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-edges-higher-australia-192037912.html?.tsrc=rss",
-          "score": -0.6757
-        },
-        {
-          "title": "Reddit Is Still Down 24% This Year. What Will It Take to Get RDDT Stock Back Up to $200?",
-          "url": "https://247wallst.com/investing/2026/08/14/reddit-is-still-down-24-this-year-what-will-it-take-to-get-rddt-stock-back-up-to-200/?.tsrc=rss",
-          "score": -0.3612
-        }
-      ]
+      "headlines": []
     },
     {
       "ticker": "LLY",
       "rank": 3,
       "prob_up": 0.5421,
-      "sentiment_norm": 0.6462,
-      "final_score": 0.5733,
-      "price": 1180.2,
-      "change_pct": -2.49,
+      "sentiment_norm": 0.6034,
+      "final_score": 0.5605,
+      "price": 1180.16,
+      "change_pct": -2.5,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Vanguard Quietly Changed the Index Behind Your VUG ETF. Here\u2019s What Happens to Your Portfolio",
-          "url": "https://247wallst.com/investing/etf/2026/08/14/vanguard-quietly-changed-the-index-behind-your-vug-etf-heres-what-happens-to-your-portfolio/?.tsrc=rss",
-          "score": 0.8162
+          "title": "Eli Lilly Just Scored Europe's First Weight Loss Pill Approval -- and the Growth Story Keeps Getting Bigger",
+          "url": "https://www.fool.com/investing/2026/08/14/eli-lilly-just-scored-europes-first-weight-loss/?.tsrc=rss",
+          "score": 0.9062
         },
         {
-          "title": "Eli Lilly (LLY) Steps Up Legal Fight Over Illegal Retatrutide Sales",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-steps-legal-160839074.html?.tsrc=rss",
-          "score": -0.8555
+          "title": "Eli Lilly Stock Nears Buy Point After Earnings-Fueled Gains",
+          "url": "https://finance.yahoo.com/m/c7509af1-9542-320b-b10c-f73523ccdd58/eli-lilly-stock-nears-buy.html?.tsrc=rss",
+          "score": 0.0777
         },
         {
-          "title": "Nektar Q2 Earnings Beat Estimates, Revenues Lag, Pipeline in Focus",
-          "url": "https://finance.yahoo.com/healthcare/articles/nektar-q2-earnings-beat-estimates-150200758.html?.tsrc=rss",
-          "score": -0.1779
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 4,
-      "prob_up": 0.5156,
-      "sentiment_norm": 0.6401,
-      "final_score": 0.553,
-      "price": 961.1,
-      "change_pct": 0.15,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Is Costco Stock Worth Buying Now or Still Too Pricey to Touch?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-worth-buying-now-170700099.html?.tsrc=rss",
-          "score": 0.3071
-        },
-        {
-          "title": "Jim Cramer Discussed Costco Wholesale Corporation (NASDAQ:COST) & Forecast Bumps",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discussed-costco-wholesale-075852345.html?.tsrc=rss",
-          "score": 0.6369
-        },
-        {
-          "title": "Costco makes a pricing promise members need to know",
-          "url": "https://www.thestreet.com/retail/costcos-biggest-price-rival-isnt-walmart-or-amazon?.tsrc=rss",
-          "score": -0.128
+          "title": "5 Revealing Analyst Questions From Eli Lilly\u2019s Q2 Earnings Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-eli-054900384.html?.tsrc=rss",
+          "score": 0.8621
         }
       ]
     },
     {
       "ticker": "JNJ",
-      "rank": 5,
+      "rank": 4,
       "prob_up": 0.4879,
       "sentiment_norm": 0.704,
       "final_score": 0.5527,
-      "price": 260.29,
-      "change_pct": -0.79,
+      "price": 260.35,
+      "change_pct": -0.76,
       "sparkline": [],
       "headlines": [
         {
@@ -139,11 +96,11 @@
     },
     {
       "ticker": "PG",
-      "rank": 6,
+      "rank": 5,
       "prob_up": 0.4712,
       "sentiment_norm": 0.7277,
       "final_score": 0.5482,
-      "price": 144.56,
+      "price": 144.55,
       "change_pct": 0.1,
       "sparkline": [],
       "headlines": [
@@ -165,38 +122,11 @@
       ]
     },
     {
-      "ticker": "HD",
-      "rank": 7,
-      "prob_up": 0.5457,
-      "sentiment_norm": 0.5424,
-      "final_score": 0.5447,
-      "price": 338.79,
-      "change_pct": -0.82,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Q2 Earnings Season Enters Final Stretch: Walmart Headlines Upcoming Retail Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-enters-final-173800061.html?.tsrc=rss",
-          "score": -0.7579
-        },
-        {
-          "title": "Should You Buy Lowe's Stock Before Aug. 19?",
-          "url": "https://www.fool.com/investing/2026/08/14/should-you-buy-lowes-stock-before-aug-19/?.tsrc=rss",
-          "score": 0.5859
-        },
-        {
-          "title": "Home Depot, Lowe's Quarterly Results Unlikely to Show Signs of Recovery Amid Macro Pressures, Oppenheimer Says",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-lowe-apos-quarterly-150016486.html?.tsrc=rss",
-          "score": -0.2808
-        }
-      ]
-    },
-    {
       "ticker": "AVGO",
-      "rank": 8,
+      "rank": 6,
       "prob_up": 0.5173,
-      "sentiment_norm": 0.6079,
-      "final_score": 0.5445,
+      "sentiment_norm": 0.6116,
+      "final_score": 0.5456,
       "price": 392.99,
       "change_pct": -6.1,
       "sparkline": [],
@@ -220,7 +150,7 @@
     },
     {
       "ticker": "AAPL",
-      "rank": 9,
+      "rank": 7,
       "prob_up": 0.5133,
       "sentiment_norm": 0.5962,
       "final_score": 0.5382,
@@ -246,13 +176,94 @@
       ]
     },
     {
-      "ticker": "V",
+      "ticker": "COST",
+      "rank": 8,
+      "prob_up": 0.5156,
+      "sentiment_norm": 0.5855,
+      "final_score": 0.5366,
+      "price": 961.1,
+      "change_pct": 0.15,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Is Costco Stock Worth Buying Now or Still Too Pricey to Touch?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-worth-buying-now-170700099.html?.tsrc=rss",
+          "score": 0.3071
+        },
+        {
+          "title": "Costco (COST) Outpaces Stock Market Gains: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-outpaces-stock-market-214502083.html?.tsrc=rss",
+          "score": 0.34
+        },
+        {
+          "title": "Costco (COST) Debuts Reusable Tote Trio In West Coast Stores And Online Soon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-debuts-reusable-tote-200937612.html?.tsrc=rss",
+          "score": 0.3818
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "rank": 9,
+      "prob_up": 0.5457,
+      "sentiment_norm": 0.5128,
+      "final_score": 0.5359,
+      "price": 338.86,
+      "change_pct": -0.8,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "S&P 500 Pulls Back from High as Market's Fear Gauge Keeps Its Cool",
+          "url": "https://finance.yahoo.com/m/7ac5a3e7-f7d1-32c7-8c17-0815a6eded42/s%26p-500-pulls-back-from-high.html?.tsrc=rss",
+          "score": -0.6956
+        },
+        {
+          "title": "Q2 Earnings Season Enters Final Stretch: Walmart Headlines Upcoming Retail Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-enters-final-173800061.html?.tsrc=rss",
+          "score": -0.7579
+        },
+        {
+          "title": "Should You Buy Lowe's Stock Before Aug. 19?",
+          "url": "https://www.fool.com/investing/2026/08/14/should-you-buy-lowes-stock-before-aug-19/?.tsrc=rss",
+          "score": 0.5859
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
       "rank": 10,
+      "prob_up": 0.5111,
+      "sentiment_norm": 0.5163,
+      "final_score": 0.5127,
+      "price": 115.27,
+      "change_pct": -0.37,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Q2 Earnings Season Enters Final Stretch: Walmart Headlines Upcoming Retail Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-enters-final-173800061.html?.tsrc=rss",
+          "score": -0.7579
+        },
+        {
+          "title": "Walmart Seen Missing Comparable Sales Estimates, Target Set to Beat, Deutsche Bank Says",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-seen-missing-comparable-sales-155210437.html?.tsrc=rss",
+          "score": -0.4215
+        },
+        {
+          "title": "Walmart set for in-line Q2 as investors eye tariff refund plans, 2H guidance",
+          "url": "https://www.proactiveinvestors.com/companies/news/1097069/walmart-set-for-in-line-q2-as-investors-eye-tariff-refund-plans-2h-guidance-1097069.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "V",
+      "rank": 11,
       "prob_up": 0.5164,
       "sentiment_norm": 0.4986,
       "final_score": 0.5111,
-      "price": 364.08,
-      "change_pct": -0.25,
+      "price": 364.15,
+      "change_pct": -0.23,
       "sparkline": [],
       "headlines": [
         {
@@ -274,14 +285,19 @@
     },
     {
       "ticker": "JPM",
-      "rank": 11,
+      "rank": 12,
       "prob_up": 0.4483,
-      "sentiment_norm": 0.5875,
-      "final_score": 0.49,
-      "price": 362.79,
-      "change_pct": -0.09,
+      "sentiment_norm": 0.6057,
+      "final_score": 0.4955,
+      "price": 362.84,
+      "change_pct": -0.08,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "JPMorganChase Declares Preferred Stock Dividends",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorganchase-declares-preferred-stock-dividends-202300466.html?.tsrc=rss",
+          "score": 0.7351
+        },
         {
           "title": "JPMorgan Spots Something Unusual in Hot Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-spots-something-unusual-hot-190932634.html?.tsrc=rss",
@@ -291,38 +307,6 @@
           "title": "What Does JPMorgan Chase (JPM) Olympic Deal And Banking Exit Mean Now?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/does-jpmorgan-chase-jpm-olympic-190823020.html?.tsrc=rss",
           "score": 0.3182
-        },
-        {
-          "title": "JPMorgan Dropped Polymarket Banking Over Regulatory Risk",
-          "url": "https://www.bankless.com/read/news/jpmorgan-dropped-polymarket-banking-over-regulatory-risk?.tsrc=rss",
-          "score": 0.1655
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 12,
-      "prob_up": 0.5111,
-      "sentiment_norm": 0.4402,
-      "final_score": 0.4898,
-      "price": 115.27,
-      "change_pct": -0.37,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Q2 Earnings Season Enters Final Stretch: Walmart Headlines Upcoming Retail Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-enters-final-173800061.html?.tsrc=rss",
-          "score": -0.7579
-        },
-        {
-          "title": "Walmart says it did nothing wrong after 11-year-old raids family's emergency fund for $2,000 in Roblox gaming gift cards",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-says-did-nothing-wrong-170000636.html?.tsrc=rss",
-          "score": 0.1665
-        },
-        {
-          "title": "What Could Kroger (KR) Gain From Its New Ecommerce Chief And Texas Fresh Push?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-kroger-kr-gain-ecommerce-160940929.html?.tsrc=rss",
-          "score": 0.802
         }
       ]
     },
@@ -332,8 +316,8 @@
       "prob_up": 0.4552,
       "sentiment_norm": 0.5501,
       "final_score": 0.4836,
-      "price": 569.26,
-      "change_pct": 0.44,
+      "price": 569.29,
+      "change_pct": 0.45,
       "sparkline": [],
       "headlines": [
         {
@@ -354,13 +338,40 @@
       ]
     },
     {
-      "ticker": "XOM",
+      "ticker": "MSFT",
       "rank": 14,
+      "prob_up": 0.3776,
+      "sentiment_norm": 0.7262,
+      "final_score": 0.4822,
+      "price": 495.4,
+      "change_pct": -0.09,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "The Best House On The Block Costs The Most: PLTR",
+          "url": "https://www.trefis.com/articles/611491/the-best-house-on-the-block-costs-the-most-pltr/2026-08-14?.tsrc=rss",
+          "score": 0.6908
+        },
+        {
+          "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html?.tsrc=rss",
+          "score": -0.0258
+        },
+        {
+          "title": "Vanguard Quietly Changed the Index Behind Your VUG ETF. Here\u2019s What Happens to Your Portfolio",
+          "url": "https://247wallst.com/investing/etf/2026/08/14/vanguard-quietly-changed-the-index-behind-your-vug-etf-heres-what-happens-to-your-portfolio/?.tsrc=rss",
+          "score": 0.8162
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "rank": 15,
       "prob_up": 0.4392,
       "sentiment_norm": 0.5733,
       "final_score": 0.4794,
-      "price": 160.11,
-      "change_pct": 0.87,
+      "price": 160.1,
+      "change_pct": 0.86,
       "sparkline": [],
       "headlines": [
         {
@@ -381,67 +392,40 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 15,
-      "prob_up": 0.3866,
-      "sentiment_norm": 0.6608,
-      "final_score": 0.4689,
-      "price": 262.65,
-      "change_pct": -0.98,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Seth Klarman\u2019s Baupost Loads Up On AMZN, GOOGL \u2014 Takes New Stake In Bill Ackman\u2019s Pershing Square",
-          "url": "https://stocktwits.com/news-articles/markets/equity/seth-klarmans-baupost-loads-up-on-amzn-googl-takes-new-stake-in-bill-ackman-pershing-square/cZotrFPRJ0C?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
-          "url": "https://finance.yahoo.com/technology/articles/joshua-kushners-thrive-capital-discloses-165712497.html?.tsrc=rss",
-          "score": 0.6124
-        },
-        {
-          "title": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
-          "url": "https://finance.yahoo.com/m/8a0d6d61-6808-361b-acad-32b72e4561d8/rocket-lab%2C-amazon-win-space.html?.tsrc=rss",
-          "score": 0.7351
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
+      "ticker": "NVDA",
       "rank": 16,
-      "prob_up": 0.3776,
-      "sentiment_norm": 0.645,
-      "final_score": 0.4578,
-      "price": 495.4,
-      "change_pct": -0.09,
+      "prob_up": 0.389,
+      "sentiment_norm": 0.6606,
+      "final_score": 0.4705,
+      "price": 225.16,
+      "change_pct": -0.12,
       "sparkline": [],
       "headlines": [
         {
-          "title": "JPMorgan set a serious Microsoft stock price target for 2027",
-          "url": "https://www.thestreet.com/investing/stocks/jpmorgan-set-high-microsoft-stock-price-target-for-2027?.tsrc=rss",
-          "score": -0.5106
+          "title": "Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity",
+          "url": "https://www.coinage.media/2026/nvidia-ceo-jensen-huang-sells-wall-street-on-compute-as-a-commodity?.tsrc=rss",
+          "score": 0.4019
         },
         {
-          "title": "Vanguard Quietly Changed the Index Behind Your VUG ETF. Here\u2019s What Happens to Your Portfolio",
-          "url": "https://247wallst.com/investing/etf/2026/08/14/vanguard-quietly-changed-the-index-behind-your-vug-etf-heres-what-happens-to-your-portfolio/?.tsrc=rss",
-          "score": 0.8162
+          "title": "Stock Market Today: Nasdaq Sinks On Retail Sales Gloom; Nvidia Eyes Robotics Wave (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+          "score": -0.5574
         },
         {
-          "title": "Does FICO\u2019s (FICO) New Marketplace Integrations Reveal a Deeper Shift in Its Platform Strategy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-fico-fico-marketplace-integrations-181223093.html?.tsrc=rss",
-          "score": 0.1531
+          "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html?.tsrc=rss",
+          "score": 0.7783
         }
       ]
     },
     {
       "ticker": "UNH",
       "rank": 17,
-      "prob_up": 0.4554,
+      "prob_up": 0.447,
       "sentiment_norm": 0.4559,
-      "final_score": 0.4556,
-      "price": 401.82,
-      "change_pct": 0.58,
+      "final_score": 0.4497,
+      "price": 401.73,
+      "change_pct": 0.56,
       "sparkline": [],
       "headlines": [
         {
@@ -462,29 +446,29 @@
       ]
     },
     {
-      "ticker": "NVDA",
+      "ticker": "AMZN",
       "rank": 18,
-      "prob_up": 0.389,
-      "sentiment_norm": 0.5954,
-      "final_score": 0.4509,
-      "price": 225.16,
-      "change_pct": -0.12,
+      "prob_up": 0.3866,
+      "sentiment_norm": 0.5873,
+      "final_score": 0.4468,
+      "price": 262.65,
+      "change_pct": -0.98,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Nasdaq Sinks On Retail Sales Gloom; Nvidia Eyes Robotics Wave (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-          "score": -0.5574
+          "title": "Seth Klarman\u2019s Baupost Loads Up On AMZN, GOOGL \u2014 Takes New Stake In Bill Ackman\u2019s Pershing Square",
+          "url": "https://stocktwits.com/news-articles/markets/equity/seth-klarmans-baupost-loads-up-on-amzn-googl-takes-new-stake-in-bill-ackman-pershing-square/cZotrFPRJ0C?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html?.tsrc=rss",
-          "score": 0.7783
+          "title": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
+          "url": "https://finance.yahoo.com/technology/articles/joshua-kushners-thrive-capital-discloses-165712497.html?.tsrc=rss",
+          "score": 0.6124
         },
         {
-          "title": "Nvidia's Next Earnings Could Shock Wall Street: UBS Sees Billions Above Guidance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-next-earnings-could-shock-185110303.html?.tsrc=rss",
-          "score": -0.3818
+          "title": "Q2 Earnings Season Enters Final Stretch: Walmart Headlines Upcoming Retail Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-enters-final-173800061.html?.tsrc=rss",
+          "score": -0.7579
         }
       ]
     },
@@ -492,26 +476,26 @@
       "ticker": "TSLA",
       "rank": 19,
       "prob_up": 0.3259,
-      "sentiment_norm": 0.4773,
-      "final_score": 0.3713,
+      "sentiment_norm": 0.4566,
+      "final_score": 0.3651,
       "price": 342.27,
       "change_pct": 0.22,
       "sparkline": [],
       "headlines": [
         {
+          "title": "Tesla Reportedly Will Demo Flying Roadster",
+          "url": "https://finance.yahoo.com/m/1b6cfee2-0069-35dc-aded-fce36aab6c84/tesla-reportedly-will-demo.html?.tsrc=rss",
+          "score": 0.4019
+        },
+        {
+          "title": "Tesla Stock Rises as Musk Teases Potential 'Flying' Roadster Debut",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-musk-teases-200519418.html?.tsrc=rss",
+          "score": -0.296
+        },
+        {
           "title": "Tesla Stock Jumps 2.7% After Fresh Roadster Reveal Signal",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-2-7-192139233.html?.tsrc=rss",
           "score": 0.1027
-        },
-        {
-          "title": "Tesla Stock Is on Track for a 2-Week Winning Streak",
-          "url": "https://finance.yahoo.com/m/ec8f4160-78e6-3be4-8480-59a3ee7e6506/tesla-stock-is-on-track-for-a.html?.tsrc=rss",
-          "score": 0.2617
-        },
-        {
-          "title": "Sector Update: Consumer Stocks Mixed in Afternoon Trading",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-173803183.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
