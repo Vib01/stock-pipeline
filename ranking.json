@@ -1,91 +1,64 @@
 {
-  "last_updated": "2026-08-17T20:38:07Z",
+  "last_updated": "2026-08-17T21:00:27Z",
   "market_status": "closed",
   "rankings": [
     {
       "ticker": "LLY",
       "rank": 1,
       "prob_up": 0.5679,
-      "sentiment_norm": 0.7145,
-      "final_score": 0.6119,
+      "sentiment_norm": 0.6442,
+      "final_score": 0.5908,
       "price": 1183.16,
       "change_pct": 0.27,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "OmniAb Jumps 18% as Lilly Deal Lifts Cash Outlook",
+          "url": "https://finance.yahoo.com/healthcare/articles/omniab-jumps-18-lilly-deal-204708905.html?.tsrc=rss",
+          "score": 0.4588
+        },
         {
           "title": "Jim Cramer Says One Group of Stocks is \u2018So Hated\u2019 Right Now. Is it Time to Buy?",
           "url": "https://247wallst.com/investing/2026/08/17/jim-cramer-says-one-group-of-stocks-is-so-hated-right-now-is-it-time-to-buy/?.tsrc=rss",
           "score": -0.3818
         },
         {
-          "title": "Can Eli Lilly (LLY) Stay Undervalued If Growth Keeps Delivering?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-stay-undervalued-151537377.html?.tsrc=rss",
-          "score": 0.9061
-        },
-        {
-          "title": "Eli Lilly and Company (LLY)\u2019s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html?.tsrc=rss",
-          "score": 0.9423
+          "title": "Three Center-Stage AI Players Join Eli Lilly On Elite Screen",
+          "url": "https://finance.yahoo.com/m/75ba5e3f-80b9-371a-9b80-956b90dbc30b/three-center-stage-ai-players.html?.tsrc=rss",
+          "score": 0.6124
         }
       ]
     },
     {
-      "ticker": "JPM",
+      "ticker": "BRK-B",
       "rank": 2,
-      "prob_up": 0.589,
-      "sentiment_norm": 0.5707,
-      "final_score": 0.5835,
-      "price": 360.96,
-      "change_pct": -0.45,
+      "prob_up": 0.5704,
+      "sentiment_norm": 0.6381,
+      "final_score": 0.5908,
+      "price": 498.23,
+      "change_pct": -1.28,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Will Housing Push, New Bonds and Blockchain Network Expansion Change JPMorgan Chase's (JPM) Narrative",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/housing-push-bonds-blockchain-network-170942577.html?.tsrc=rss",
-          "score": -0.2023
+          "title": "Warren Buffett's Portfolio Is Looking Even More Like The Dow Jones Index. This Is Why.",
+          "url": "https://finance.yahoo.com/m/349b667c-e06c-3ea5-bfe1-285faefb9d07/warren-buffett%27s-portfolio-is.html?.tsrc=rss",
+          "score": 0.5095
         },
         {
-          "title": "The \u2018Jamie premium\u2019 nears $1 trillion as JP Morgan flirts with historic market valuation",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jamie-premium-nears-1-trillion-164735019.html?.tsrc=rss",
-          "score": 0.6971
+          "title": "This Has Far and Away Been the Biggest Surprise at Berkshire Hathaway Since Greg Abel Took Over From Warren Buffett",
+          "url": "https://www.fool.com/investing/2026/08/17/this-has-far-and-away-been-the-biggest-surprise-at/?.tsrc=rss",
+          "score": 0.2732
         },
         {
-          "title": "JPMorgan cut Polymarket as banking client over regulatory concerns",
-          "url": "https://qz.com/jpmorgan-polymarket-banking-relationship-regulatory-concerns-081726?.tsrc=rss",
-          "score": -0.2732
-        }
-      ]
-    },
-    {
-      "ticker": "V",
-      "rank": 3,
-      "prob_up": 0.5164,
-      "sentiment_norm": 0.7361,
-      "final_score": 0.5824,
-      "price": 358.84,
-      "change_pct": -1.51,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Can Visa Direct Give Visa's Growth Story a New Direction?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-direct-visas-growth-story-155700036.html?.tsrc=rss",
-          "score": 0.7783
-        },
-        {
-          "title": "Visa\u2019s Agentic Ready Program Moves Issuer-Layer Readiness From Theory to Production",
-          "url": "https://finance.yahoo.com/technology/ai/articles/visa-agentic-ready-program-moves-011957911.html?.tsrc=rss",
-          "score": 0.7717
-        },
-        {
-          "title": "More Than 30% of Americans 80 and Older Still Carry Mortgage Debt. The Number Climbs to 41% for Those 65 to 79, Visa Says",
-          "url": "https://finance.yahoo.com/real-estate/articles/more-30-americans-80-older-163153780.html?.tsrc=rss",
-          "score": 0.5574
+          "title": "Warren Buffett Is Still Making Big Bets at Berkshire",
+          "url": "https://finance.yahoo.com/m/e5e49776-ce78-3f18-bae0-ea4d0dc733ba/warren-buffett-is-still.html?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 4,
+      "rank": 3,
       "prob_up": 0.5421,
       "sentiment_norm": 0.6603,
       "final_score": 0.5775,
@@ -112,7 +85,7 @@
     },
     {
       "ticker": "COST",
-      "rank": 5,
+      "rank": 4,
       "prob_up": 0.529,
       "sentiment_norm": 0.6861,
       "final_score": 0.5761,
@@ -138,29 +111,56 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 6,
-      "prob_up": 0.5704,
-      "sentiment_norm": 0.5691,
-      "final_score": 0.57,
-      "price": 498.23,
-      "change_pct": -1.28,
+      "ticker": "JPM",
+      "rank": 5,
+      "prob_up": 0.589,
+      "sentiment_norm": 0.5395,
+      "final_score": 0.5742,
+      "price": 360.96,
+      "change_pct": -0.45,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Warren Buffett's Portfolio Is Looking Even More Like The Dow Jones Index. This Is Why.",
-          "url": "https://finance.yahoo.com/m/349b667c-e06c-3ea5-bfe1-285faefb9d07/warren-buffett%27s-portfolio-is.html?.tsrc=rss",
-          "score": 0.5095
-        },
-        {
-          "title": "This Has Far and Away Been the Biggest Surprise at Berkshire Hathaway Since Greg Abel Took Over From Warren Buffett",
-          "url": "https://www.fool.com/investing/2026/08/17/this-has-far-and-away-been-the-biggest-surprise-at/?.tsrc=rss",
-          "score": 0.2732
-        },
-        {
-          "title": "Warren Buffett Is Still Making Big Bets at Berkshire",
-          "url": "https://finance.yahoo.com/m/e5e49776-ce78-3f18-bae0-ea4d0dc733ba/warren-buffett-is-still.html?.tsrc=rss",
+          "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195353964.html?.tsrc=rss",
           "score": 0.0
+        },
+        {
+          "title": "JPMorgan revamps SanDisk stock with massive price target",
+          "url": "https://www.thestreet.com/investing/stocks/sndk-sandisk-jpmorgan-raises-stock-price-target-after-investors-day-august-2026?.tsrc=rss",
+          "score": 0.0772
+        },
+        {
+          "title": "JPMorganChase Opens New Two-Story Magnificent Mile Flagship, Bringing Chase, JPMorgan Private Client Together Under One Roof",
+          "url": "https://finance.yahoo.com/small-business/articles/jpmorganchase-opens-two-story-magnificent-190000531.html?.tsrc=rss",
+          "score": 0.9423
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "rank": 6,
+      "prob_up": 0.53,
+      "sentiment_norm": 0.6387,
+      "final_score": 0.5626,
+      "price": 562.26,
+      "change_pct": -1.18,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Mastercard Stock Slips as Ackman Rally Loses Momentum",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-slips-ackman-rally-173229700.html?.tsrc=rss",
+          "score": -0.2263
+        },
+        {
+          "title": "Mastercard CEO: Cybersecurity Is Our Fastest-Growing Business",
+          "url": "https://www.fool.com/investing/2026/08/16/mastercard-ceo-cybersecurity-is-our-fastest-growing-business/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Mastercard vs. Visa: One Fintech Giant Has the Stronger Growth Story",
+          "url": "https://247wallst.com/investing/2026/08/15/mastercard-vs-visa-one-fintech-giant-has-the-stronger-growth-story/?.tsrc=rss",
+          "score": 0.8807
         }
       ]
     },
@@ -168,26 +168,26 @@
       "ticker": "AAPL",
       "rank": 7,
       "prob_up": 0.5133,
-      "sentiment_norm": 0.6292,
-      "final_score": 0.5481,
+      "sentiment_norm": 0.6445,
+      "final_score": 0.5527,
       "price": 305.59,
       "change_pct": -0.06,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Trump admin. urges Apple not to purchase Chinese memory chips, but this presents a problem",
+          "url": "https://finance.yahoo.com/video/trump-admin-urges-apple-not-203543932.html?.tsrc=rss",
+          "score": -0.5971
+        },
         {
           "title": "Apple Changes App Tracking Rules in Europe",
           "url": "https://finance.yahoo.com/technology/articles/apple-changes-app-tracking-rules-201438480.html?.tsrc=rss",
           "score": 0.4019
         },
         {
-          "title": "What You Actually Pay To Join The AAPL Run",
-          "url": "https://www.trefis.com/articles/611667/what-you-actually-pay-to-join-the-aapl-run-2/2026-08-17?.tsrc=rss",
-          "score": -0.0516
-        },
-        {
-          "title": "Apple Stock Got an Upgrade. It Could Be the AI Gatekeeper.",
-          "url": "https://finance.yahoo.com/m/6bef341c-5032-3b65-a77f-891b2b04046d/apple-stock-got-an-upgrade..html?.tsrc=rss",
-          "score": 0.2023
+          "title": "Four Reasons To Put This Nvidia, AMD Partner On Your Watchlist Right Now",
+          "url": "https://finance.yahoo.com/m/badd95c3-60f3-3400-b02b-19b6385bb030/four-reasons-to-put-this.html?.tsrc=rss",
+          "score": 0.5574
         }
       ]
     },
@@ -219,73 +219,19 @@
       ]
     },
     {
-      "ticker": "WMT",
+      "ticker": "V",
       "rank": 9,
-      "prob_up": 0.5099,
-      "sentiment_norm": 0.6067,
-      "final_score": 0.5389,
-      "price": 114.33,
-      "change_pct": -0.84,
+      "prob_up": 0.5164,
+      "sentiment_norm": 0.5714,
+      "final_score": 0.5329,
+      "price": 358.84,
+      "change_pct": -1.51,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Uber and Zipline Target a Million Drone Deliveries a Day",
-          "url": "https://finance.yahoo.com/technology/articles/uber-zipline-target-million-drone-200843989.html?.tsrc=rss",
-          "score": 0.3947
-        },
-        {
-          "title": "Popular Ice Cream Brand Sold at Walmart Files for Bankruptcy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/popular-ice-cream-brand-sold-200212515.html?.tsrc=rss",
-          "score": 0.0772
-        },
-        {
-          "title": "Walmart Delivering Continued Strong E-Commerce Growth Would Reinforce Upbeat Bottom-Line Views, Tigress Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-delivering-continued-strong-e-194509655.html?.tsrc=rss",
-          "score": 0.9217
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "rank": 10,
-      "prob_up": 0.5217,
-      "sentiment_norm": 0.5557,
-      "final_score": 0.5319,
-      "price": 392.43,
-      "change_pct": -0.28,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Broadcom Inc. (AVGO) Upgraded to Buy: What Does It Mean for the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-upgraded-buy-160002444.html?.tsrc=rss",
-          "score": 0.7506
-        },
-        {
-          "title": "Billionaire Stanley Druckenmiller and Brad Gerstner Both Dumped Broadcom (AVGO) and Bought This AI Stock Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-brad-gerstner-144900858.html?.tsrc=rss",
-          "score": -0.4019
-        },
-        {
-          "title": "Here's Why AXTI Stock Is a Buy Despite Its Premium 48.12X Valuation",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-axti-stock-buy-142400926.html?.tsrc=rss",
-          "score": 0.296
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "rank": 11,
-      "prob_up": 0.53,
-      "sentiment_norm": 0.5108,
-      "final_score": 0.5242,
-      "price": 562.26,
-      "change_pct": -1.18,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Mastercard Stock Slips as Ackman Rally Loses Momentum",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-slips-ackman-rally-173229700.html?.tsrc=rss",
-          "score": -0.2263
+          "title": "Visa Stock Slips After Ackman Reveals New Payment Bet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-slips-ackman-reveals-204441833.html?.tsrc=rss",
+          "score": 0.8422
         },
         {
           "title": "Should You Buy, Sell or Hold PayPal Stock After a 36.1% 3-Month Rise?",
@@ -296,6 +242,60 @@
           "title": "Can Visa Direct Give Visa's Growth Story a New Direction?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/visa-direct-visas-growth-story-155700036.html?.tsrc=rss",
           "score": 0.7783
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 10,
+      "prob_up": 0.5217,
+      "sentiment_norm": 0.5573,
+      "final_score": 0.5324,
+      "price": 392.43,
+      "change_pct": -0.28,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
+          "url": "https://www.fool.com/investing/2026/08/17/broadcom-s-ai-financing-could-reach-usd370-billion-but-it-s-not-as-bad-as-it-sounds/?.tsrc=rss",
+          "score": 0.6932
+        },
+        {
+          "title": "Stanley Druckenmiller Opens Positions in Hut 8, Riot Platforms And Bitdeer",
+          "url": "https://www.cryptoprowl.com/releases/stanley-druckenmiller-opens-positions-in-hut-8-riot-platforms-and-bitdeer-6450?.tsrc=rss",
+          "score": -0.128
+        },
+        {
+          "title": "MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain",
+          "url": "https://www.trefis.com/articles/611681/maxlinear-stock-sells-at-a-price-its-trailing-year-cannot-explain/2026-08-17?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "rank": 11,
+      "prob_up": 0.5099,
+      "sentiment_norm": 0.5748,
+      "final_score": 0.5294,
+      "price": 114.33,
+      "change_pct": -0.84,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Update: Equities Fall, Oil Rallies as US-Iran Ceasefire Expires",
+          "url": "https://finance.yahoo.com/markets/articles/equities-fall-oil-rallies-us-203511790.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Uber and Zipline Target a Million Drone Deliveries a Day",
+          "url": "https://finance.yahoo.com/technology/articles/uber-zipline-target-million-drone-200843989.html?.tsrc=rss",
+          "score": 0.3947
+        },
+        {
+          "title": "Popular Ice Cream Brand Sold at Walmart Files for Bankruptcy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/popular-ice-cream-brand-sold-200212515.html?.tsrc=rss",
+          "score": 0.0772
         }
       ]
     },
@@ -408,11 +408,38 @@
       ]
     },
     {
-      "ticker": "META",
+      "ticker": "NVDA",
       "rank": 16,
+      "prob_up": 0.389,
+      "sentiment_norm": 0.7117,
+      "final_score": 0.4858,
+      "price": 225.01,
+      "change_pct": 0.13,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Gold and Silver Prices Are Rising. Here's Which Precious Metal May Have More Upside",
+          "url": "https://www.fool.com/investing/2026/08/17/gold-and-silver-prices-are-rising-heres-which-prec/?.tsrc=rss",
+          "score": 0.765
+        },
+        {
+          "title": "Morgan Stanley Delivers a Bullish Message for Nvidia Stock Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-bullish-message-204121851.html?.tsrc=rss",
+          "score": 0.4215
+        },
+        {
+          "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
+          "url": "https://www.fool.com/investing/2026/08/17/broadcom-s-ai-financing-could-reach-usd370-billion-but-it-s-not-as-bad-as-it-sounds/?.tsrc=rss",
+          "score": 0.6932
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "rank": 17,
       "prob_up": 0.4551,
-      "sentiment_norm": 0.5452,
-      "final_score": 0.4821,
+      "sentiment_norm": 0.5321,
+      "final_score": 0.4782,
       "price": 568.97,
       "change_pct": -3.61,
       "sparkline": [],
@@ -436,10 +463,10 @@
     },
     {
       "ticker": "MSFT",
-      "rank": 17,
+      "rank": 18,
       "prob_up": 0.4334,
-      "sentiment_norm": 0.5304,
-      "final_score": 0.4625,
+      "sentiment_norm": 0.5473,
+      "final_score": 0.4676,
       "price": 480.35,
       "change_pct": -3.01,
       "sparkline": [],
@@ -455,36 +482,9 @@
           "score": 0.0
         },
         {
-          "title": "What You Actually Pay To Join The AAPL Run",
-          "url": "https://www.trefis.com/articles/611667/what-you-actually-pay-to-join-the-aapl-run-2/2026-08-17?.tsrc=rss",
-          "score": -0.0516
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 18,
-      "prob_up": 0.389,
-      "sentiment_norm": 0.5966,
-      "final_score": 0.4513,
-      "price": 225.01,
-      "change_pct": 0.13,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Nvidia to finance $105B for an OpenAI data center: What to know",
-          "url": "https://finance.yahoo.com/video/nvidia-finance-105b-openai-data-202533699.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Nvidia's Next AI Infrastructure Bet Is Scaling Fast",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-next-ai-infrastructure-bet-203610188.html?.tsrc=rss",
-          "score": 0.1779
-        },
-        {
-          "title": "Nvidia, ASML Lead Five Stocks Near Buy Points With Roaring Growth",
-          "url": "https://finance.yahoo.com/m/cd7217b5-d3da-364e-93aa-992f30c3cbc4/nvidia%2C-asml-lead-five-stocks.html?.tsrc=rss",
-          "score": 0.5267
+          "title": "Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/7654dd66-1194-303a-af9a-35b802d06b78/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+          "score": -0.3818
         }
       ]
     },
