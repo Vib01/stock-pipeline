@@ -1,10 +1,37 @@
 {
-  "last_updated": "2026-08-18T20:35:09Z",
+  "last_updated": "2026-08-18T20:55:58Z",
   "market_status": "closed",
   "rankings": [
     {
-      "ticker": "PG",
+      "ticker": "AAPL",
       "rank": 1,
+      "prob_up": 0.6131,
+      "sentiment_norm": 0.5545,
+      "final_score": 0.5955,
+      "price": 310.03,
+      "change_pct": 1.6,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Apple Cuts EU App Fees to 5% Outside the App Store",
+          "url": "https://finance.yahoo.com/technology/articles/apple-cuts-eu-app-fees-195212178.html?.tsrc=rss",
+          "score": -0.296
+        },
+        {
+          "title": "Apple Changes App Store Terms to Resolve E.U. Antitrust Dispute",
+          "url": "https://finance.yahoo.com/m/a7054334-ef73-3b48-b6ec-62c14bac853f/apple-changes-app-store-terms.html?.tsrc=rss",
+          "score": -0.3182
+        },
+        {
+          "title": "Apple Overhauls EU App Store Policies to Settle Long-Standing Antitrust Dispute",
+          "url": "https://stocktwits.com/news-articles/markets/equity/apple-overhauls-eu-app-store-policies-to-settle-long-standing-antitrust-dispute/cZYcKHGRJjA?.tsrc=rss",
+          "score": -0.2263
+        }
+      ]
+    },
+    {
+      "ticker": "PG",
+      "rank": 2,
       "prob_up": 0.5924,
       "sentiment_norm": 0.5707,
       "final_score": 0.5859,
@@ -31,7 +58,7 @@
     },
     {
       "ticker": "V",
-      "rank": 2,
+      "rank": 3,
       "prob_up": 0.5164,
       "sentiment_norm": 0.7237,
       "final_score": 0.5786,
@@ -53,33 +80,6 @@
           "title": "Bill Ackman Bets Big on Visa After It Lagged the Market for 5 Years. Should You?",
           "url": "https://247wallst.com/investing/2026/08/18/bill-ackman-bets-big-on-visa-after-it-lagged-the-market-for-5-years-should-you/?.tsrc=rss",
           "score": -0.802
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 3,
-      "prob_up": 0.6131,
-      "sentiment_norm": 0.4856,
-      "final_score": 0.5749,
-      "price": 310.03,
-      "change_pct": 1.6,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Apple Cuts EU App Fees to 5% Outside the App Store",
-          "url": "https://finance.yahoo.com/technology/articles/apple-cuts-eu-app-fees-195212178.html?.tsrc=rss",
-          "score": -0.296
-        },
-        {
-          "title": "Apple Changes App Store Terms to Resolve E.U. Antitrust Dispute",
-          "url": "https://finance.yahoo.com/m/a7054334-ef73-3b48-b6ec-62c14bac853f/apple-changes-app-store-terms.html?.tsrc=rss",
-          "score": -0.3182
-        },
-        {
-          "title": "Apple Overhauls EU App Store Policies to Settle Long-Standing Antitrust Dispute",
-          "url": "https://stocktwits.com/news-articles/markets/equity/apple-overhauls-eu-app-store-policies-to-settle-long-standing-antitrust-dispute/cZYcKHGRJjA?.tsrc=rss",
-          "score": -0.2263
         }
       ]
     },
@@ -141,8 +141,8 @@
       "ticker": "JPM",
       "rank": 6,
       "prob_up": 0.5154,
-      "sentiment_norm": 0.6623,
-      "final_score": 0.5594,
+      "sentiment_norm": 0.6424,
+      "final_score": 0.5535,
       "price": 363.25,
       "change_pct": 0.61,
       "sparkline": [],
@@ -168,8 +168,8 @@
       "ticker": "WMT",
       "rank": 7,
       "prob_up": 0.5084,
-      "sentiment_norm": 0.6704,
-      "final_score": 0.557,
+      "sentiment_norm": 0.6458,
+      "final_score": 0.5496,
       "price": 115.2,
       "change_pct": 0.72,
       "sparkline": [],
@@ -195,12 +195,17 @@
       "ticker": "LLY",
       "rank": 8,
       "prob_up": 0.5026,
-      "sentiment_norm": 0.6663,
-      "final_score": 0.5517,
+      "sentiment_norm": 0.638,
+      "final_score": 0.5432,
       "price": 1225.73,
       "change_pct": 3.56,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Target Earnings Due",
+          "url": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures%3A-sandisk%2C.html?.tsrc=rss",
+          "score": 0.34
+        },
         {
           "title": "Eli Lilly Stock Jumps 2.6% as Investors Flee Expensive Tech",
           "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-stock-jumps-2-190001536.html?.tsrc=rss",
@@ -210,11 +215,6 @@
           "title": "Eli Lilly, Stock Of The Day, Is Erasing Novo's Early Lead In Weight-Loss Pills",
           "url": "https://finance.yahoo.com/m/4f1f8d6d-2cdd-3f70-b5c9-4f34aabbc5de/eli-lilly%2C-stock-of-the-day%2C.html?.tsrc=rss",
           "score": 0.5574
-        },
-        {
-          "title": "AlzeCure Receives a USD 10 Million Upfront Payment and Completes Initial Transaction with Lilly",
-          "url": "https://finance.yahoo.com/healthcare/articles/alzecure-receives-usd-10-million-081500252.html?.tsrc=rss",
-          "score": -0.5106
         }
       ]
     },
@@ -300,38 +300,11 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 12,
-      "prob_up": 0.4334,
-      "sentiment_norm": 0.7728,
-      "final_score": 0.5352,
-      "price": 481.63,
-      "change_pct": 0.35,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Q2 Earnings Roundup: Microsoft (NASDAQ:MSFT) And The Rest Of The Automation Software Segment",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-microsoft-nasdaq-191733756.html?.tsrc=rss",
-          "score": 0.6249
-        },
-        {
-          "title": "These Telltale Signs Cue Microsoft Investors Despite Earnings Surge; Is Microsoft A Sell Now?",
-          "url": "https://finance.yahoo.com/m/b7ed9635-6bc3-32bc-afc7-5e98c2451501/these-telltale-signs-cue.html?.tsrc=rss",
-          "score": 0.782
-        },
-        {
-          "title": "What IREN's Microsoft Delivery Means for Its $9.7 Billion AI Pivot",
-          "url": "https://finance.yahoo.com/technology/ai/articles/irens-microsoft-delivery-means-9-181800132.html?.tsrc=rss",
-          "score": 0.4588
-        }
-      ]
-    },
-    {
       "ticker": "META",
-      "rank": 13,
+      "rank": 12,
       "prob_up": 0.5788,
-      "sentiment_norm": 0.4253,
-      "final_score": 0.5327,
+      "sentiment_norm": 0.4394,
+      "final_score": 0.537,
       "price": 543.67,
       "change_pct": -4.33,
       "sparkline": [],
@@ -342,20 +315,20 @@
           "score": 0.4215
         },
         {
-          "title": "Meta Stock Sinks 3.8% as Legal and AI Costs Collide",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-sinks-3-8-201921919.html?.tsrc=rss",
-          "score": 0.4404
+          "title": "Big Investors Send Conflicting Signal on Meta Platforms Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-send-conflicting-signal-204606493.html?.tsrc=rss",
+          "score": -0.4019
         },
         {
-          "title": "Meta Platforms (META) Heads To Trial, Is The Stock 44% Undervalued?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-heads-trial-181643144.html?.tsrc=rss",
-          "score": -0.4939
+          "title": "Meta Faces Up To $1.4 Trillion For \u201cAddictive\u201d Products",
+          "url": "https://app.moby.co/home/news/news-meta-faces-up-to-14-trillion-for-addictive-products?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+          "score": -0.4588
         }
       ]
     },
     {
       "ticker": "MA",
-      "rank": 14,
+      "rank": 13,
       "prob_up": 0.4714,
       "sentiment_norm": 0.65,
       "final_score": 0.525,
@@ -377,6 +350,33 @@
           "title": "Mastercard Stock Slips as Ackman Rally Loses Momentum",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-slips-ackman-rally-173229700.html?.tsrc=rss",
           "score": -0.2263
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "rank": 14,
+      "prob_up": 0.4334,
+      "sentiment_norm": 0.7186,
+      "final_score": 0.519,
+      "price": 481.63,
+      "change_pct": 0.35,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Microsoft Stock Defies Tech Selloff as Azure Growth Holds the Line",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-defies-tech-selloff-205301064.html?.tsrc=rss",
+          "score": 0.7351
+        },
+        {
+          "title": "Q2 Earnings Roundup: Microsoft (NASDAQ:MSFT) And The Rest Of The Automation Software Segment",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-microsoft-nasdaq-191733756.html?.tsrc=rss",
+          "score": 0.6249
+        },
+        {
+          "title": "These Telltale Signs Cue Microsoft Investors Despite Earnings Surge; Is Microsoft A Sell Now?",
+          "url": "https://finance.yahoo.com/m/b7ed9635-6bc3-32bc-afc7-5e98c2451501/these-telltale-signs-cue.html?.tsrc=rss",
+          "score": 0.782
         }
       ]
     },
@@ -411,12 +411,17 @@
       "ticker": "AMZN",
       "rank": 16,
       "prob_up": 0.4229,
-      "sentiment_norm": 0.6231,
-      "final_score": 0.483,
+      "sentiment_norm": 0.5727,
+      "final_score": 0.4679,
       "price": 259.45,
       "change_pct": -0.63,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Sector Update: Financial Stocks Mixed Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-201025983.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Amazon's $500 Bull Case Puts AWS Under Massive Pressure",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-500-bull-case-puts-184302733.html?.tsrc=rss",
@@ -426,11 +431,6 @@
           "title": "Amazon\u2019s $10B Houston Data Center Project Hits Snags",
           "url": "https://www.credaily.com/briefs/amazons-10b-houston-data-center-project-hits-snags/?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "Tesla Plans Cybercab Launch As Soon As This Month: Report",
-          "url": "https://finance.yahoo.com/m/d42fd524-a30e-32c9-b651-2c5fafc3e1dd/tesla-plans-cybercab-launch.html?.tsrc=rss",
-          "score": 0.3626
         }
       ]
     },
@@ -465,8 +465,8 @@
       "ticker": "NVDA",
       "rank": 18,
       "prob_up": 0.4228,
-      "sentiment_norm": 0.4485,
-      "final_score": 0.4305,
+      "sentiment_norm": 0.3937,
+      "final_score": 0.4141,
       "price": 219.74,
       "change_pct": -2.4,
       "sparkline": [],
@@ -482,9 +482,9 @@
           "score": 0.0516
         },
         {
-          "title": "Why The Direxion Daily Semiconductor Bull 3X ETF Plunged Nearly 20% Today",
-          "url": "https://www.fool.com/investing/2026/08/18/why-the-direxion-daily-semiconductor-bull-3x-etf-p/?.tsrc=rss",
-          "score": -0.5423
+          "title": "Netflix, Salesforce, and Adobe Rally as Investors Rotate Out of Semiconductors and Into Beaten Down Stocks",
+          "url": "https://247wallst.com/investing/2026/08/18/netflix-salesforce-and-adobe-rally-as-investors-rotate-out-of-semiconductors-and-into-beaten-down-stocks/?.tsrc=rss",
+          "score": -0.4215
         }
       ]
     },
