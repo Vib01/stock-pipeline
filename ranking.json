@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T19:35:37Z",
+  "last_updated": "2026-08-18T19:54:31Z",
   "market_status": "open",
   "rankings": [
     {
@@ -8,8 +8,8 @@
       "prob_up": 0.5142,
       "sentiment_norm": 0.8107,
       "final_score": 0.6032,
-      "price": 962.69,
-      "change_pct": 1.07,
+      "price": 962.96,
+      "change_pct": 1.1,
       "sparkline": [],
       "headlines": [
         {
@@ -30,67 +30,13 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "rank": 2,
-      "prob_up": 0.6131,
-      "sentiment_norm": 0.5173,
-      "final_score": 0.5844,
-      "price": 309.98,
-      "change_pct": 1.58,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Apple Changes App Store Terms to Resolve E.U. Antitrust Dispute",
-          "url": "https://finance.yahoo.com/m/a7054334-ef73-3b48-b6ec-62c14bac853f/apple-changes-app-store-terms.html?.tsrc=rss",
-          "score": -0.3182
-        },
-        {
-          "title": "Apple Overhauls EU App Store Policies to Settle Long-Standing Antitrust Dispute",
-          "url": "https://stocktwits.com/news-articles/markets/equity/apple-overhauls-eu-app-store-policies-to-settle-long-standing-antitrust-dispute/cZYcKHGRJjA?.tsrc=rss",
-          "score": -0.2263
-        },
-        {
-          "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-          "url": "https://finance.yahoo.com/technology/articles/apple-overhauls-eu-app-store-171213924.html?.tsrc=rss",
-          "score": 0.4215
-        }
-      ]
-    },
-    {
-      "ticker": "V",
-      "rank": 3,
-      "prob_up": 0.5346,
-      "sentiment_norm": 0.6968,
-      "final_score": 0.5833,
-      "price": 365.33,
-      "change_pct": 1.77,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Visa In Search Of Stablecoin Partner After BVNK Sale",
-          "url": "https://www.cryptoprowl.com/releases/visa-in-search-of-stablecoin-partner-after-bvnk-sale-6456?.tsrc=rss",
-          "score": 0.3818
-        },
-        {
-          "title": "Bill Ackman Bets Big on Visa After It Lagged the Market for 5 Years. Should You?",
-          "url": "https://247wallst.com/investing/2026/08/18/bill-ackman-bets-big-on-visa-after-it-lagged-the-market-for-5-years-should-you/?.tsrc=rss",
-          "score": -0.802
-        },
-        {
-          "title": "Visa Stock Slips After Ackman Reveals New Payment Bet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-slips-ackman-reveals-204441833.html?.tsrc=rss",
-          "score": 0.8422
-        }
-      ]
-    },
-    {
       "ticker": "HD",
-      "rank": 4,
-      "prob_up": 0.5523,
+      "rank": 2,
+      "prob_up": 0.5822,
       "sentiment_norm": 0.6313,
-      "final_score": 0.576,
-      "price": 339.42,
-      "change_pct": 0.07,
+      "final_score": 0.5969,
+      "price": 339.44,
+      "change_pct": 0.08,
       "sparkline": [],
       "headlines": [
         {
@@ -111,94 +57,13 @@
       ]
     },
     {
-      "ticker": "JPM",
-      "rank": 5,
-      "prob_up": 0.5272,
-      "sentiment_norm": 0.6623,
-      "final_score": 0.5677,
-      "price": 362.42,
-      "change_pct": 0.38,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "JPMorgan warns a global food crisis could hit next year, and unlike oil, there\u2019s no backup plan for fertilizer",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/jpmorgan-warns-global-food-crisis-183000431.html?.tsrc=rss",
-          "score": -0.8225
-        },
-        {
-          "title": "J.P. Morgan Life Sciences Private Capital Welcomes Bruce N. Rogers, Ph.D. as Venture Partner",
-          "url": "https://finance.yahoo.com/healthcare/articles/j-p-morgan-life-sciences-130000021.html?.tsrc=rss",
-          "score": 0.7783
-        },
-        {
-          "title": "JPMorgan chief cautions UK chancellor against tougher bank taxes \u2013 report",
-          "url": "https://www.retailbankerinternational.com/news/jpmorgan-chief-cautions-uk-bank-taxes/?.tsrc=rss",
-          "score": -0.296
-        }
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "rank": 6,
-      "prob_up": 0.523,
-      "sentiment_norm": 0.6663,
-      "final_score": 0.566,
-      "price": 1222.45,
-      "change_pct": 3.29,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Eli Lilly Stock Jumps 2.6% as Investors Flee Expensive Tech",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-stock-jumps-2-190001536.html?.tsrc=rss",
-          "score": 0.8176
-        },
-        {
-          "title": "Eli Lilly, Stock Of The Day, Is Erasing Novo's Early Lead In Weight-Loss Pills",
-          "url": "https://finance.yahoo.com/m/4f1f8d6d-2cdd-3f70-b5c9-4f34aabbc5de/eli-lilly%2C-stock-of-the-day%2C.html?.tsrc=rss",
-          "score": 0.5574
-        },
-        {
-          "title": "AlzeCure Receives a USD 10 Million Upfront Payment and Completes Initial Transaction with Lilly",
-          "url": "https://finance.yahoo.com/healthcare/articles/alzecure-receives-usd-10-million-081500252.html?.tsrc=rss",
-          "score": -0.5106
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 7,
-      "prob_up": 0.5146,
-      "sentiment_norm": 0.6785,
-      "final_score": 0.5638,
-      "price": 115.61,
-      "change_pct": 1.08,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Price Prediction: Can Walmart Reclaim $140 After Its Recent Pullback?",
-          "url": "https://247wallst.com/investing/2026/08/18/price-prediction-can-walmart-reclaim-140-after-its-recent-pullback/?.tsrc=rss",
-          "score": 0.6597
-        },
-        {
-          "title": "Why Walmart (WMT) Could Beat Earnings Estimates Again",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-walmart-wmt-could-beat-161001956.html?.tsrc=rss",
-          "score": 0.6597
-        },
-        {
-          "title": "Target\u2019s Stock Down 40% In Five Years",
-          "url": "https://247wallst.com/investing/2026/08/18/targets-stock-down-40-in-five-years/?.tsrc=rss",
-          "score": 0.7351
-        }
-      ]
-    },
-    {
       "ticker": "PG",
-      "rank": 8,
-      "prob_up": 0.5558,
+      "rank": 3,
+      "prob_up": 0.5924,
       "sentiment_norm": 0.5707,
-      "final_score": 0.5603,
-      "price": 143.52,
-      "change_pct": 0.28,
+      "final_score": 0.5859,
+      "price": 143.45,
+      "change_pct": 0.23,
       "sparkline": [],
       "headlines": [
         {
@@ -219,13 +84,148 @@
       ]
     },
     {
+      "ticker": "V",
+      "rank": 4,
+      "prob_up": 0.5346,
+      "sentiment_norm": 0.6968,
+      "final_score": 0.5833,
+      "price": 365.54,
+      "change_pct": 1.82,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Visa In Search Of Stablecoin Partner After BVNK Sale",
+          "url": "https://www.cryptoprowl.com/releases/visa-in-search-of-stablecoin-partner-after-bvnk-sale-6456?.tsrc=rss",
+          "score": 0.3818
+        },
+        {
+          "title": "Bill Ackman Bets Big on Visa After It Lagged the Market for 5 Years. Should You?",
+          "url": "https://247wallst.com/investing/2026/08/18/bill-ackman-bets-big-on-visa-after-it-lagged-the-market-for-5-years-should-you/?.tsrc=rss",
+          "score": -0.802
+        },
+        {
+          "title": "Visa Stock Slips After Ackman Reveals New Payment Bet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-slips-ackman-reveals-204441833.html?.tsrc=rss",
+          "score": 0.8422
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 5,
+      "prob_up": 0.6131,
+      "sentiment_norm": 0.4856,
+      "final_score": 0.5749,
+      "price": 310.61,
+      "change_pct": 1.79,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Apple Cuts EU App Fees to 5% Outside the App Store",
+          "url": "https://finance.yahoo.com/technology/articles/apple-cuts-eu-app-fees-195212178.html?.tsrc=rss",
+          "score": -0.296
+        },
+        {
+          "title": "Apple Changes App Store Terms to Resolve E.U. Antitrust Dispute",
+          "url": "https://finance.yahoo.com/m/a7054334-ef73-3b48-b6ec-62c14bac853f/apple-changes-app-store-terms.html?.tsrc=rss",
+          "score": -0.3182
+        },
+        {
+          "title": "Apple Overhauls EU App Store Policies to Settle Long-Standing Antitrust Dispute",
+          "url": "https://stocktwits.com/news-articles/markets/equity/apple-overhauls-eu-app-store-policies-to-settle-long-standing-antitrust-dispute/cZYcKHGRJjA?.tsrc=rss",
+          "score": -0.2263
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 6,
+      "prob_up": 0.524,
+      "sentiment_norm": 0.6663,
+      "final_score": 0.5667,
+      "price": 1225.3,
+      "change_pct": 3.53,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Eli Lilly Stock Jumps 2.6% as Investors Flee Expensive Tech",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-stock-jumps-2-190001536.html?.tsrc=rss",
+          "score": 0.8176
+        },
+        {
+          "title": "Eli Lilly, Stock Of The Day, Is Erasing Novo's Early Lead In Weight-Loss Pills",
+          "url": "https://finance.yahoo.com/m/4f1f8d6d-2cdd-3f70-b5c9-4f34aabbc5de/eli-lilly%2C-stock-of-the-day%2C.html?.tsrc=rss",
+          "score": 0.5574
+        },
+        {
+          "title": "AlzeCure Receives a USD 10 Million Upfront Payment and Completes Initial Transaction with Lilly",
+          "url": "https://finance.yahoo.com/healthcare/articles/alzecure-receives-usd-10-million-081500252.html?.tsrc=rss",
+          "score": -0.5106
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "rank": 7,
+      "prob_up": 0.5239,
+      "sentiment_norm": 0.6623,
+      "final_score": 0.5654,
+      "price": 362.62,
+      "change_pct": 0.43,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "JPMorgan warns a global food crisis could hit next year, and unlike oil, there\u2019s no backup plan for fertilizer",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/jpmorgan-warns-global-food-crisis-183000431.html?.tsrc=rss",
+          "score": -0.8225
+        },
+        {
+          "title": "J.P. Morgan Life Sciences Private Capital Welcomes Bruce N. Rogers, Ph.D. as Venture Partner",
+          "url": "https://finance.yahoo.com/healthcare/articles/j-p-morgan-life-sciences-130000021.html?.tsrc=rss",
+          "score": 0.7783
+        },
+        {
+          "title": "JPMorgan chief cautions UK chancellor against tougher bank taxes \u2013 report",
+          "url": "https://www.retailbankerinternational.com/news/jpmorgan-chief-cautions-uk-bank-taxes/?.tsrc=rss",
+          "score": -0.296
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "rank": 8,
+      "prob_up": 0.5111,
+      "sentiment_norm": 0.6748,
+      "final_score": 0.5602,
+      "price": 115.54,
+      "change_pct": 1.01,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Price Prediction: Can Walmart Reclaim $140 After Its Recent Pullback?",
+          "url": "https://247wallst.com/investing/2026/08/18/price-prediction-can-walmart-reclaim-140-after-its-recent-pullback/?.tsrc=rss",
+          "score": 0.6597
+        },
+        {
+          "title": "Why Walmart (WMT) Could Beat Earnings Estimates Again",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-walmart-wmt-could-beat-161001956.html?.tsrc=rss",
+          "score": 0.6597
+        },
+        {
+          "title": "Target\u2019s Stock Down 40% In Five Years",
+          "url": "https://247wallst.com/investing/2026/08/18/targets-stock-down-40-in-five-years/?.tsrc=rss",
+          "score": 0.7351
+        }
+      ]
+    },
+    {
       "ticker": "BRK-B",
       "rank": 9,
       "prob_up": 0.5227,
       "sentiment_norm": 0.6314,
       "final_score": 0.5553,
-      "price": 503.39,
-      "change_pct": 0.88,
+      "price": 503.29,
+      "change_pct": 0.86,
       "sparkline": [],
       "headlines": [
         {
@@ -251,8 +251,8 @@
       "prob_up": 0.4777,
       "sentiment_norm": 0.7148,
       "final_score": 0.5488,
-      "price": 271.1,
-      "change_pct": 3.16,
+      "price": 271.12,
+      "change_pct": 3.17,
       "sparkline": [],
       "headlines": [
         {
@@ -278,8 +278,8 @@
       "prob_up": 0.4375,
       "sentiment_norm": 0.7861,
       "final_score": 0.5421,
-      "price": 165.25,
-      "change_pct": 2.3,
+      "price": 165.35,
+      "change_pct": 2.36,
       "sparkline": [],
       "headlines": [
         {
@@ -300,40 +300,13 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 12,
-      "prob_up": 0.4949,
-      "sentiment_norm": 0.6167,
-      "final_score": 0.5314,
-      "price": 260.14,
-      "change_pct": -0.37,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Amazon's $500 Bull Case Puts AWS Under Massive Pressure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-500-bull-case-puts-184302733.html?.tsrc=rss",
-          "score": -0.128
-        },
-        {
-          "title": "Amazon\u2019s $10B Houston Data Center Project Hits Snags",
-          "url": "https://www.credaily.com/briefs/amazons-10b-houston-data-center-project-hits-snags/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Boeing-Lockheed\u2019s ULA triples bond sale to $1.5 billion - report",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-lockheed-ula-triples-bond-185553491.html?.tsrc=rss",
-          "score": 0.4215
-        }
-      ]
-    },
-    {
       "ticker": "MSFT",
-      "rank": 13,
+      "rank": 12,
       "prob_up": 0.4334,
       "sentiment_norm": 0.7327,
       "final_score": 0.5232,
-      "price": 483.34,
-      "change_pct": 0.7,
+      "price": 482.05,
+      "change_pct": 0.43,
       "sparkline": [],
       "headlines": [
         {
@@ -355,12 +328,12 @@
     },
     {
       "ticker": "MA",
-      "rank": 14,
+      "rank": 13,
       "prob_up": 0.4818,
       "sentiment_norm": 0.6076,
       "final_score": 0.5195,
-      "price": 577.38,
-      "change_pct": 3.06,
+      "price": 576.4,
+      "change_pct": 2.89,
       "sparkline": [],
       "headlines": [
         {
@@ -381,40 +354,13 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 15,
-      "prob_up": 0.418,
-      "sentiment_norm": 0.7317,
-      "final_score": 0.5121,
-      "price": 219.14,
-      "change_pct": -2.67,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Market Chatter: Nvidia Talent Being Recruited by AI Chip Startup Etched",
-          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-talent-being-190056632.html?.tsrc=rss",
-          "score": 0.8271
-        },
-        {
-          "title": "Why CoreWeave Stock Is Down 11.8%",
-          "url": "https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/?.tsrc=rss",
-          "score": 0.25
-        },
-        {
-          "title": "1 Rock-Solid Dividend ETF That Can Generate Passive Income for Decades",
-          "url": "https://www.fool.com/investing/2026/08/18/1-unstoppable-dividend-etf-that-can-generate-passi/?.tsrc=rss",
-          "score": 0.3818
-        }
-      ]
-    },
-    {
       "ticker": "META",
-      "rank": 16,
+      "rank": 14,
       "prob_up": 0.5566,
-      "sentiment_norm": 0.4016,
-      "final_score": 0.5101,
-      "price": 544.47,
-      "change_pct": -4.18,
+      "sentiment_norm": 0.3657,
+      "final_score": 0.4993,
+      "price": 544.42,
+      "change_pct": -4.19,
       "sparkline": [],
       "headlines": [
         {
@@ -436,12 +382,12 @@
     },
     {
       "ticker": "AVGO",
-      "rank": 17,
-      "prob_up": 0.4802,
+      "rank": 15,
+      "prob_up": 0.4595,
       "sentiment_norm": 0.5385,
-      "final_score": 0.4977,
-      "price": 378.42,
-      "change_pct": -3.67,
+      "final_score": 0.4832,
+      "price": 378.71,
+      "change_pct": -3.6,
       "sparkline": [],
       "headlines": [
         {
@@ -462,13 +408,67 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "rank": 16,
+      "prob_up": 0.4229,
+      "sentiment_norm": 0.6167,
+      "final_score": 0.481,
+      "price": 259.61,
+      "change_pct": -0.57,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Amazon's $500 Bull Case Puts AWS Under Massive Pressure",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-500-bull-case-puts-184302733.html?.tsrc=rss",
+          "score": -0.128
+        },
+        {
+          "title": "Amazon\u2019s $10B Houston Data Center Project Hits Snags",
+          "url": "https://www.credaily.com/briefs/amazons-10b-houston-data-center-project-hits-snags/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Boeing-Lockheed\u2019s ULA triples bond sale to $1.5 billion - report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-lockheed-ula-triples-bond-185553491.html?.tsrc=rss",
+          "score": 0.4215
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 17,
+      "prob_up": 0.418,
+      "sentiment_norm": 0.6225,
+      "final_score": 0.4794,
+      "price": 219.34,
+      "change_pct": -2.58,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Bank of America Thinks Nvidia Stock Could Go 50% Higher",
+          "url": "https://beincrypto.com/nvidia-stock-bofa-350-target/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Market Chatter: Nvidia Talent Being Recruited by AI Chip Startup Etched",
+          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-talent-being-190056632.html?.tsrc=rss",
+          "score": 0.8271
+        },
+        {
+          "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html?.tsrc=rss",
+          "score": -0.296
+        }
+      ]
+    },
+    {
       "ticker": "UNH",
       "rank": 18,
-      "prob_up": 0.5161,
+      "prob_up": 0.4779,
       "sentiment_norm": 0.3898,
-      "final_score": 0.4782,
-      "price": 395.41,
-      "change_pct": -0.02,
+      "final_score": 0.4515,
+      "price": 395.1,
+      "change_pct": -0.09,
       "sparkline": [],
       "headlines": [
         {
@@ -491,11 +491,11 @@
     {
       "ticker": "TSLA",
       "rank": 19,
-      "prob_up": 0.3512,
-      "sentiment_norm": 0.5371,
-      "final_score": 0.407,
-      "price": 337.04,
-      "change_pct": -0.83,
+      "prob_up": 0.3487,
+      "sentiment_norm": 0.5888,
+      "final_score": 0.4207,
+      "price": 335.76,
+      "change_pct": -1.2,
       "sparkline": [],
       "headlines": [
         {
@@ -509,9 +509,9 @@
           "score": 0.0
         },
         {
-          "title": "Better Buy: Palantir at 108 Times Forward Earnings or Tesla at 190 Times?",
-          "url": "https://www.fool.com/investing/2026/08/18/better-buy-palantir-at-109x-forward-earnings-or-te/?.tsrc=rss",
-          "score": 0.7003
+          "title": "Tesla Is Down 25% in 2026: How Does It Compare to EV Competitors Like Rivian, Lucid, and General Motors?",
+          "url": "https://247wallst.com/investing/2026/08/18/tesla-is-down-25-in-2026-how-does-it-compare-to-ev-competitors-like-rivian-lucid-and-general-motors/?.tsrc=rss",
+          "score": 0.4767
         }
       ]
     },
@@ -521,8 +521,8 @@
       "prob_up": 0.2944,
       "sentiment_norm": 0.5841,
       "final_score": 0.3813,
-      "price": 344.23,
-      "change_pct": 0.11,
+      "price": 344.07,
+      "change_pct": 0.06,
       "sparkline": [],
       "headlines": [
         {
