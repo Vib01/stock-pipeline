@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-08-19T17:36:00Z",
+  "last_updated": "2026-08-19T17:56:07Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "AAPL",
       "rank": 1,
       "prob_up": 0.6303,
-      "sentiment_norm": 0.6078,
-      "final_score": 0.6236,
-      "price": 315.21,
-      "change_pct": 1.61,
+      "sentiment_norm": 0.6217,
+      "final_score": 0.6277,
+      "price": 315.28,
+      "change_pct": 1.63,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Apple Stock Jumps 2.8% as Investors Rebuild Mega-Cap Exposure",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-jumps-2-8-174910766.html?.tsrc=rss",
+          "score": -0.1027
+        },
         {
           "title": "Steve Jobs' 8th-grade science fair project draws $8,475 in bids as Apple memorabilia auction heats up",
           "url": "https://finance.yahoo.com/technology/articles/steve-jobs-8th-grade-science-154000897.html?.tsrc=rss",
@@ -21,11 +26,6 @@
           "title": "Apple's App Store commission revenue reportedly drops 18% as legal challenges mount \u2014 what it means for your wallet",
           "url": "https://finance.yahoo.com/markets/stocks/articles/apples-app-store-commission-revenue-113000583.html?.tsrc=rss",
           "score": 0.5719
-        },
-        {
-          "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
-          "url": "https://stocktwits.com/news-articles/markets/equity/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr?.tsrc=rss",
-          "score": 0.5106
         }
       ]
     },
@@ -35,8 +35,8 @@
       "prob_up": 0.5237,
       "sentiment_norm": 0.6893,
       "final_score": 0.5734,
-      "price": 368.83,
-      "change_pct": 1.15,
+      "price": 369.09,
+      "change_pct": 1.23,
       "sparkline": [],
       "headlines": [
         {
@@ -57,40 +57,13 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 3,
-      "prob_up": 0.5309,
-      "sentiment_norm": 0.6663,
-      "final_score": 0.5715,
-      "price": 502.01,
-      "change_pct": -0.28,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Berkshire's Cash Pile Fell From $400 Billion to $365.5 Billion as Greg Abel Became a Net Buyer for the First Time in 3 Years. What Does That Signal for Investors?",
-          "url": "https://www.fool.com/investing/2026/08/19/berkshires-cash-pile-fell-from-400-billion-to-365/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Did Berkshire Hathaway\u2019s $6.8 Billion Bet Misjudge the Housing Market \u2014 Again?",
-          "url": "https://247wallst.com/investing/2026/08/19/did-berkshire-hathaways-6-8-billion-bet-misjudge-the-housing-market-again/?.tsrc=rss",
-          "score": 0.6124
-        },
-        {
-          "title": "3 Stocks That Warren Buffett's Successor, Greg Abel, Bought (Besides Alphabet). Should You?",
-          "url": "https://www.fool.com/investing/2026/08/19/3-stocks-that-warren-buffetts-successor-greg-abel/?.tsrc=rss",
-          "score": 0.4215
-        }
-      ]
-    },
-    {
       "ticker": "JNJ",
-      "rank": 4,
+      "rank": 3,
       "prob_up": 0.483,
       "sentiment_norm": 0.7576,
       "final_score": 0.5654,
-      "price": 272.6,
-      "change_pct": 0.41,
+      "price": 272.74,
+      "change_pct": 0.46,
       "sparkline": [],
       "headlines": [
         {
@@ -111,15 +84,47 @@
       ]
     },
     {
-      "ticker": "HD",
-      "rank": 5,
-      "prob_up": 0.5169,
-      "sentiment_norm": 0.6321,
-      "final_score": 0.5514,
-      "price": 344.47,
-      "change_pct": 1.81,
+      "ticker": "BRK-B",
+      "rank": 4,
+      "prob_up": 0.5106,
+      "sentiment_norm": 0.6911,
+      "final_score": 0.5648,
+      "price": 502.36,
+      "change_pct": -0.21,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Berkshire's Cash Pile Fell From $400 Billion to $365.5 Billion as Greg Abel Became a Net Buyer for the First Time in 3 Years. What Does That Signal for Investors?",
+          "url": "https://www.fool.com/investing/2026/08/19/berkshires-cash-pile-fell-from-400-billion-to-365/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Did Berkshire Hathaway\u2019s $6.8 Billion Bet Misjudge the Housing Market \u2014 Again?",
+          "url": "https://247wallst.com/investing/2026/08/19/did-berkshire-hathaways-6-8-billion-bet-misjudge-the-housing-market-again/?.tsrc=rss",
+          "score": 0.6124
+        },
+        {
+          "title": "3 Stocks That Warren Buffett's Successor, Greg Abel, Bought (Besides Alphabet). Should You?",
+          "url": "https://www.fool.com/investing/2026/08/19/3-stocks-that-warren-buffetts-successor-greg-abel/?.tsrc=rss",
+          "score": 0.4215
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "rank": 5,
+      "prob_up": 0.5151,
+      "sentiment_norm": 0.6479,
+      "final_score": 0.5549,
+      "price": 343.85,
+      "change_pct": 1.62,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Home Depot is making a big bet on cautious consumers",
+          "url": "https://www.thestreet.com/retail/home-depot-expands-express-delivery?.tsrc=rss",
+          "score": 0.34
+        },
         {
           "title": "Home Depot Q2 Results Support Growth Ahead of Broader Home-Improvement Recovery, UBS Says",
           "url": "https://finance.yahoo.com/real-estate/articles/home-depot-q2-results-support-155951108.html?.tsrc=rss",
@@ -129,49 +134,17 @@
           "title": "Home Depot Sales Outlook Improves, Cost Pressure Remains, RBC Says",
           "url": "https://finance.yahoo.com/real-estate/articles/home-depot-sales-outlook-improves-151516347.html?.tsrc=rss",
           "score": 0.6336
-        },
-        {
-          "title": "Home Depot Q2 Earnings Call Spotlights Pro Momentum and Cost Pressures",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-q2-earnings-call-144100882.html?.tsrc=rss",
-          "score": 0.7269
-        }
-      ]
-    },
-    {
-      "ticker": "PG",
-      "rank": 6,
-      "prob_up": 0.4844,
-      "sentiment_norm": 0.7023,
-      "final_score": 0.5497,
-      "price": 144.2,
-      "change_pct": 0.45,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "3 Reasons to Buy and Hold This Wide-Moat Dividend King's Stock Forever",
-          "url": "https://www.fool.com/investing/2026/08/19/3-reasons-to-buy-and-hold-this-wide-moat-dividend/?.tsrc=rss",
-          "score": 0.1027
-        },
-        {
-          "title": "Why Procter & Gamble Remains a Dividend Powerhouse After 70 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-procter-gamble-remains-dividend-010918881.html?.tsrc=rss",
-          "score": 0.3612
-        },
-        {
-          "title": "Procter & Gamble (PG) Stock May Trade At A Discount After Thorne Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-pg-stock-may-151330968.html?.tsrc=rss",
-          "score": 0.4588
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 7,
-      "prob_up": 0.5252,
+      "rank": 6,
+      "prob_up": 0.5371,
       "sentiment_norm": 0.5955,
-      "final_score": 0.5463,
-      "price": 357.15,
-      "change_pct": -1.68,
+      "final_score": 0.5546,
+      "price": 356.17,
+      "change_pct": -1.95,
       "sparkline": [],
       "headlines": [
         {
@@ -192,94 +165,40 @@
       ]
     },
     {
-      "ticker": "MA",
-      "rank": 8,
-      "prob_up": 0.4818,
-      "sentiment_norm": 0.6819,
-      "final_score": 0.5418,
-      "price": 575.78,
-      "change_pct": 0.32,
+      "ticker": "PG",
+      "rank": 7,
+      "prob_up": 0.4844,
+      "sentiment_norm": 0.7023,
+      "final_score": 0.5497,
+      "price": 144.21,
+      "change_pct": 0.46,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
-          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
-          "score": 0.0
+          "title": "3 Reasons to Buy and Hold This Wide-Moat Dividend King's Stock Forever",
+          "url": "https://www.fool.com/investing/2026/08/19/3-reasons-to-buy-and-hold-this-wide-moat-dividend/?.tsrc=rss",
+          "score": 0.1027
         },
         {
-          "title": "Stable Growth Trajectory Positions Mastercard (MA) for Strong Returns",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stable-growth-trajectory-positions-mastercard-114803769.html?.tsrc=rss",
-          "score": 0.8625
+          "title": "Why Procter & Gamble Remains a Dividend Powerhouse After 70 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-procter-gamble-remains-dividend-010918881.html?.tsrc=rss",
+          "score": 0.3612
         },
         {
-          "title": "Mastercard Stock Rises 2% as Investors Favor Payment Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-2-investors-195506730.html?.tsrc=rss",
-          "score": 0.8481
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 9,
-      "prob_up": 0.5606,
-      "sentiment_norm": 0.4451,
-      "final_score": 0.526,
-      "price": 552.14,
-      "change_pct": 1.37,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
-          "url": "https://finance.yahoo.com/real-estate/articles/neighbors-1-5-billion-meta-163000936.html?.tsrc=rss",
-          "score": -0.7003
-        },
-        {
-          "title": "Prediction: The Child Safety Trial Will Have Minimal Impact on Meta Platforms Stock in the Long Run. Here's Why",
-          "url": "https://www.fool.com/investing/2026/08/19/prediction-the-child-safety-trial-will-have-minima/?.tsrc=rss",
-          "score": 0.1012
-        },
-        {
-          "title": "Meta's $1.4 Trillion Legal Risk Takes a New Turn",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-1-4-trillion-legal-151428076.html?.tsrc=rss",
-          "score": 0.2037
-        }
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "rank": 10,
-      "prob_up": 0.3918,
-      "sentiment_norm": 0.8291,
-      "final_score": 0.523,
-      "price": 166.04,
-      "change_pct": 0.16,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "ExxonMobil Holdings (XOM) Awards Rovuma LNG Contracts, Does It Look Fully Valued?",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-awards-rovuma-051002015.html?.tsrc=rss",
-          "score": 0.8655
-        },
-        {
-          "title": "Exxon Stock Surges 2.3% as Oil Breaks Above $91",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-stock-surges-2-3-200008899.html?.tsrc=rss",
-          "score": 0.25
-        },
-        {
-          "title": "ExxonMobil Awards $1.1B Contracts for Mozambique LNG Project",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-awards-1-1b-contracts-165420525.html?.tsrc=rss",
+          "title": "Procter & Gamble (PG) Stock May Trade At A Discount After Thorne Deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-pg-stock-may-151330968.html?.tsrc=rss",
           "score": 0.4588
         }
       ]
     },
     {
       "ticker": "COST",
-      "rank": 11,
-      "prob_up": 0.5017,
+      "rank": 8,
+      "prob_up": 0.5393,
       "sentiment_norm": 0.5534,
-      "final_score": 0.5172,
-      "price": 967.85,
-      "change_pct": 0.45,
+      "final_score": 0.5435,
+      "price": 968.04,
+      "change_pct": 0.47,
       "sparkline": [],
       "headlines": [
         {
@@ -300,67 +219,67 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 12,
-      "prob_up": 0.4334,
-      "sentiment_norm": 0.7096,
-      "final_score": 0.5163,
-      "price": 483.03,
-      "change_pct": 0.35,
+      "ticker": "MA",
+      "rank": 9,
+      "prob_up": 0.4818,
+      "sentiment_norm": 0.6819,
+      "final_score": 0.5418,
+      "price": 576.78,
+      "change_pct": 0.49,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Why Is Microsoft (MSFT) Reworking AI Data Center Policy Across The US?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-microsoft-msft-reworking-ai-161431602.html?.tsrc=rss",
-          "score": 0.5719
+          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
+          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Mattel Brick Shop\u2122 Celebrates 25 Years of Microsoft's Iconic XBOX Game Console with New Premium Building Set",
-          "url": "https://finance.yahoo.com/media-advertising/articles/mattel-brick-shop-celebrates-25-160000536.html?.tsrc=rss",
-          "score": 0.836
+          "title": "Stable Growth Trajectory Positions Mastercard (MA) for Strong Returns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stable-growth-trajectory-positions-mastercard-114803769.html?.tsrc=rss",
+          "score": 0.8625
         },
         {
-          "title": "Prediction: Microsoft\u2019s AI Boom Is Bigger Than Investors Realize",
-          "url": "https://247wallst.com/investing/2026/08/19/prediction-microsofts-ai-boom-is-bigger-than-investors-realize/?.tsrc=rss",
-          "score": 0.296
+          "title": "Mastercard Stock Rises 2% as Investors Favor Payment Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-2-investors-195506730.html?.tsrc=rss",
+          "score": 0.8481
         }
       ]
     },
     {
       "ticker": "AMZN",
-      "rank": 13,
+      "rank": 10,
       "prob_up": 0.4152,
-      "sentiment_norm": 0.7476,
-      "final_score": 0.5149,
-      "price": 264.08,
-      "change_pct": 1.76,
+      "sentiment_norm": 0.7566,
+      "final_score": 0.5176,
+      "price": 264.48,
+      "change_pct": 1.92,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Amazon Stock Rises as AWS Growth Reclaims Attention",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-rises-aws-growth-174624803.html?.tsrc=rss",
+          "score": 0.6249
+        },
+        {
+          "title": "Amazon drone delivery is expanding. See in which cities, when",
+          "url": "https://www.usatoday.com/story/money/2026/08/19/amazon-prime-air-drone-delivery-coming-more-cities-2026/91371094007/?.tsrc=rss",
+          "score": 0.5719
+        },
         {
           "title": "Amazon's Drone Delivery Ambitions Are Getting Much Bigger",
           "url": "https://finance.yahoo.com/technology/articles/amazons-drone-delivery-ambitions-getting-145452935.html?.tsrc=rss",
           "score": 0.2732
-        },
-        {
-          "title": "Amazon drone delivery expansion targets 500 cities by year\u2019s end",
-          "url": "https://finance.yahoo.com/technology/articles/amazon-drone-delivery-expansion-targets-144708659.html?.tsrc=rss",
-          "score": 0.4767
-        },
-        {
-          "title": "Amazon Just Gave Investors a Big Reason to Be Bullish",
-          "url": "https://247wallst.com/investing/2026/08/19/amazon-just-gave-investors-a-big-reason-to-be-bullish/?.tsrc=rss",
-          "score": 0.6705
         }
       ]
     },
     {
       "ticker": "WMT",
-      "rank": 14,
-      "prob_up": 0.5075,
-      "sentiment_norm": 0.4845,
-      "final_score": 0.5006,
-      "price": 115.9,
-      "change_pct": 0.36,
+      "rank": 11,
+      "prob_up": 0.5146,
+      "sentiment_norm": 0.5208,
+      "final_score": 0.5165,
+      "price": 115.73,
+      "change_pct": 0.22,
       "sparkline": [],
       "headlines": [
         {
@@ -374,9 +293,90 @@
           "score": 0.5859
         },
         {
-          "title": "Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022",
-          "url": "https://www.fool.com/investing/2026/08/19/worried-about-a-market-crash-these-3-stocks-beat-the-s-and-p-500-in-2008-and-2022/?.tsrc=rss",
-          "score": -0.7964
+          "title": "Walmart Q2 Preview: Retailer Beats Revenue 25 Straight Quarters, Could Streak Extension Help Close Gap with Target Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-q2-preview-retailer-beats-163341194.html?.tsrc=rss",
+          "score": 0.5106
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "rank": 12,
+      "prob_up": 0.5606,
+      "sentiment_norm": 0.3847,
+      "final_score": 0.5078,
+      "price": 552.12,
+      "change_pct": 1.37,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Meta Stock Rebounds as Investors Revisit 28% Revenue Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rebounds-investors-revisit-174136583.html?.tsrc=rss",
+          "score": -0.3818
+        },
+        {
+          "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
+          "url": "https://finance.yahoo.com/real-estate/articles/neighbors-1-5-billion-meta-163000936.html?.tsrc=rss",
+          "score": -0.7003
+        },
+        {
+          "title": "Prediction: The Child Safety Trial Will Have Minimal Impact on Meta Platforms Stock in the Long Run. Here's Why",
+          "url": "https://www.fool.com/investing/2026/08/19/prediction-the-child-safety-trial-will-have-minima/?.tsrc=rss",
+          "score": 0.1012
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "rank": 13,
+      "prob_up": 0.3918,
+      "sentiment_norm": 0.7653,
+      "final_score": 0.5039,
+      "price": 166.0,
+      "change_pct": 0.13,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "What\u2019s Going On With Exxon Stock on Wednesday?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/going-exxon-stock-wednesday-164745964.html?.tsrc=rss",
+          "score": -0.4019
+        },
+        {
+          "title": "ExxonMobil Holdings (XOM) Awards Rovuma LNG Contracts, Does It Look Fully Valued?",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-awards-rovuma-051002015.html?.tsrc=rss",
+          "score": 0.8655
+        },
+        {
+          "title": "Exxon Stock Surges 2.3% as Oil Breaks Above $91",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-stock-surges-2-3-200008899.html?.tsrc=rss",
+          "score": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 14,
+      "prob_up": 0.418,
+      "sentiment_norm": 0.672,
+      "final_score": 0.4942,
+      "price": 219.14,
+      "change_pct": -0.05,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Nvidia Stalls as Google's $12.2 Billion Custom-Chip Push Expands",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stalls-googles-12-2-173648919.html?.tsrc=rss",
+          "score": 0.1779
+        },
+        {
+          "title": "Nvidia Lands Major China Breakthrough",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-lands-major-china-breakthrough-172520755.html?.tsrc=rss",
+          "score": 0.4215
+        },
+        {
+          "title": "SK Hynix Crashes 9.8%--Then Launches $28.6 Billion Buyback",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-crashes-9-8-175109113.html?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
@@ -386,7 +386,7 @@
       "prob_up": 0.4767,
       "sentiment_norm": 0.5336,
       "final_score": 0.4938,
-      "price": 391.0,
+      "price": 390.76,
       "change_pct": -0.73,
       "sparkline": [],
       "headlines": [
@@ -413,8 +413,8 @@
       "prob_up": 0.4917,
       "sentiment_norm": 0.497,
       "final_score": 0.4933,
-      "price": 364.21,
-      "change_pct": -4.14,
+      "price": 364.43,
+      "change_pct": -4.08,
       "sparkline": [],
       "headlines": [
         {
@@ -435,13 +435,40 @@
       ]
     },
     {
-      "ticker": "LLY",
+      "ticker": "MSFT",
       "rank": 17,
+      "prob_up": 0.3776,
+      "sentiment_norm": 0.6885,
+      "final_score": 0.4709,
+      "price": 483.76,
+      "change_pct": 0.5,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Microsoft Stock Rises as $678 Billion Backlog Supports AI Spending",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-rises-678-billion-174044835.html?.tsrc=rss",
+          "score": 0.5267
+        },
+        {
+          "title": "Why Is Microsoft (MSFT) Reworking AI Data Center Policy Across The US?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-microsoft-msft-reworking-ai-161431602.html?.tsrc=rss",
+          "score": 0.5719
+        },
+        {
+          "title": "Mattel Brick Shop\u2122 Celebrates 25 Years of Microsoft's Iconic XBOX Game Console with New Premium Building Set",
+          "url": "https://finance.yahoo.com/media-advertising/articles/mattel-brick-shop-celebrates-25-160000536.html?.tsrc=rss",
+          "score": 0.836
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 18,
       "prob_up": 0.4676,
       "sentiment_norm": 0.4598,
       "final_score": 0.4652,
-      "price": 1268.78,
-      "change_pct": 3.61,
+      "price": 1268.64,
+      "change_pct": 3.6,
       "sparkline": [],
       "headlines": [
         {
@@ -463,12 +490,12 @@
     },
     {
       "ticker": "GOOGL",
-      "rank": 18,
-      "prob_up": 0.3548,
+      "rank": 19,
+      "prob_up": 0.2944,
       "sentiment_norm": 0.6356,
-      "final_score": 0.4391,
-      "price": 343.92,
-      "change_pct": -0.05,
+      "final_score": 0.3968,
+      "price": 343.85,
+      "change_pct": -0.07,
       "sparkline": [],
       "headlines": [
         {
@@ -489,42 +516,20 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 19,
-      "prob_up": 0.418,
-      "sentiment_norm": 0.4373,
-      "final_score": 0.4238,
-      "price": 219.03,
-      "change_pct": -0.1,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Nvidia Lands Major China Breakthrough",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-lands-major-china-breakthrough-172520755.html?.tsrc=rss",
-          "score": 0.4215
-        },
-        {
-          "title": "This Stock Has Become Too Important to the AI Revolution to Ignore",
-          "url": "https://247wallst.com/investing/2026/08/19/this-stock-has-become-too-important-to-the-ai-revolution-to-ignore/?.tsrc=rss",
-          "score": -0.4215
-        },
-        {
-          "title": "Netflix Is Down, But One Billionaire Thinks the Stock Is a Buy",
-          "url": "https://247wallst.com/investing/2026/08/19/netflix-is-down-but-one-billionaire-thinks-the-stock-is-a-buy/?.tsrc=rss",
-          "score": 0.0387
-        }
-      ]
-    },
-    {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.2903,
-      "sentiment_norm": 0.5783,
-      "final_score": 0.3767,
-      "price": 346.58,
-      "change_pct": 3.09,
+      "prob_up": 0.3009,
+      "sentiment_norm": 0.6053,
+      "final_score": 0.3922,
+      "price": 347.7,
+      "change_pct": 3.43,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Tesla Stock Surges 2.9% Despite Its 321-Times Earnings Valuation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-surges-2-9-174820790.html?.tsrc=rss",
+          "score": -0.4404
+        },
         {
           "title": "Tesla Stock Jumps as Cybercab Launch Puts Robotaxi Plans in Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-cybercab-launch-172749081.html?.tsrc=rss",
@@ -534,11 +539,6 @@
           "title": "Tesla Climbs 3%, Rivian Jumps 4%: Why Are These EV Stocks Outperforming Ford and General Motors Today?",
           "url": "https://247wallst.com/investing/2026/08/19/tesla-climbs-3-rivian-jumps-4-why-are-these-ev-stocks-outperforming-ford-and-general-motors-today/?.tsrc=rss",
           "score": -0.1531
-        },
-        {
-          "title": "Should You Buy Tesla Stock While It's Trading Below $400?",
-          "url": "https://www.fool.com/investing/2026/08/19/should-you-buy-tesla-stock-while-its-trading-below/?.tsrc=rss",
-          "score": -0.7391
         }
       ]
     }
