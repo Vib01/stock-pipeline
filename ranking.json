@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-19T16:41:53Z",
+  "last_updated": "2026-08-19T17:36:00Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "AAPL",
       "rank": 1,
       "prob_up": 0.6303,
-      "sentiment_norm": 0.6593,
-      "final_score": 0.639,
-      "price": 315.26,
-      "change_pct": 1.62,
+      "sentiment_norm": 0.6078,
+      "final_score": 0.6236,
+      "price": 315.21,
+      "change_pct": 1.61,
       "sparkline": [],
       "headlines": [
         {
@@ -30,40 +30,13 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 2,
-      "prob_up": 0.5309,
-      "sentiment_norm": 0.7144,
-      "final_score": 0.5859,
-      "price": 501.73,
-      "change_pct": -0.23,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "3 Stocks That Warren Buffett's Successor, Greg Abel, Bought (Besides Alphabet). Should You?",
-          "url": "https://www.fool.com/investing/2026/08/19/3-stocks-that-warren-buffetts-successor-greg-abel/?.tsrc=rss",
-          "score": 0.4215
-        },
-        {
-          "title": "Warren Buffett's Successor, Greg Abel, Just Sold Over 50% of Berkshire Hathaway's Stake in Nucor and Piled Into an Artificial Intelligence (AI) Stock That Billionaire Investor Bill Ackman Just Exited",
-          "url": "https://www.fool.com/investing/2026/08/19/warren-buffetts-successor-greg-abel-just-sold-over/?.tsrc=rss",
-          "score": 0.6124
-        },
-        {
-          "title": "Warren Buffett's and Greg Abel's $175 Billion Warning Echoes Loudly Through Wall Street",
-          "url": "https://www.fool.com/investing/2026/08/19/warren-buffett-abel-175-billion-warning-wall-st/?.tsrc=rss",
-          "score": -0.34
-        }
-      ]
-    },
-    {
       "ticker": "V",
-      "rank": 3,
+      "rank": 2,
       "prob_up": 0.5237,
       "sentiment_norm": 0.6893,
       "final_score": 0.5734,
-      "price": 368.97,
-      "change_pct": 1.19,
+      "price": 368.83,
+      "change_pct": 1.15,
       "sparkline": [],
       "headlines": [
         {
@@ -84,13 +57,40 @@
       ]
     },
     {
+      "ticker": "BRK-B",
+      "rank": 3,
+      "prob_up": 0.5309,
+      "sentiment_norm": 0.6663,
+      "final_score": 0.5715,
+      "price": 502.01,
+      "change_pct": -0.28,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Berkshire's Cash Pile Fell From $400 Billion to $365.5 Billion as Greg Abel Became a Net Buyer for the First Time in 3 Years. What Does That Signal for Investors?",
+          "url": "https://www.fool.com/investing/2026/08/19/berkshires-cash-pile-fell-from-400-billion-to-365/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Did Berkshire Hathaway\u2019s $6.8 Billion Bet Misjudge the Housing Market \u2014 Again?",
+          "url": "https://247wallst.com/investing/2026/08/19/did-berkshire-hathaways-6-8-billion-bet-misjudge-the-housing-market-again/?.tsrc=rss",
+          "score": 0.6124
+        },
+        {
+          "title": "3 Stocks That Warren Buffett's Successor, Greg Abel, Bought (Besides Alphabet). Should You?",
+          "url": "https://www.fool.com/investing/2026/08/19/3-stocks-that-warren-buffetts-successor-greg-abel/?.tsrc=rss",
+          "score": 0.4215
+        }
+      ]
+    },
+    {
       "ticker": "JNJ",
       "rank": 4,
-      "prob_up": 0.4863,
+      "prob_up": 0.483,
       "sentiment_norm": 0.7576,
-      "final_score": 0.5677,
-      "price": 272.33,
-      "change_pct": 0.35,
+      "final_score": 0.5654,
+      "price": 272.6,
+      "change_pct": 0.41,
       "sparkline": [],
       "headlines": [
         {
@@ -111,40 +111,40 @@
       ]
     },
     {
-      "ticker": "META",
+      "ticker": "HD",
       "rank": 5,
-      "prob_up": 0.5606,
-      "sentiment_norm": 0.5344,
-      "final_score": 0.5527,
-      "price": 551.66,
-      "change_pct": 1.28,
+      "prob_up": 0.5169,
+      "sentiment_norm": 0.6321,
+      "final_score": 0.5514,
+      "price": 344.47,
+      "change_pct": 1.81,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
-          "url": "https://finance.yahoo.com/real-estate/articles/neighbors-1-5-billion-meta-163000936.html?.tsrc=rss",
-          "score": -0.7003
+          "title": "Home Depot Q2 Results Support Growth Ahead of Broader Home-Improvement Recovery, UBS Says",
+          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-q2-results-support-155951108.html?.tsrc=rss",
+          "score": 0.8481
         },
         {
-          "title": "Prediction: The Child Safety Trial Will Have Minimal Impact on Meta Platforms Stock in the Long Run. Here's Why",
-          "url": "https://www.fool.com/investing/2026/08/19/prediction-the-child-safety-trial-will-have-minima/?.tsrc=rss",
-          "score": 0.1012
+          "title": "Home Depot Sales Outlook Improves, Cost Pressure Remains, RBC Says",
+          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-sales-outlook-improves-151516347.html?.tsrc=rss",
+          "score": 0.6336
         },
         {
-          "title": "Meta's $1.4 Trillion Legal Risk Takes a New Turn",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-1-4-trillion-legal-151428076.html?.tsrc=rss",
-          "score": 0.2037
+          "title": "Home Depot Q2 Earnings Call Spotlights Pro Momentum and Cost Pressures",
+          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-q2-earnings-call-144100882.html?.tsrc=rss",
+          "score": 0.7269
         }
       ]
     },
     {
       "ticker": "PG",
       "rank": 6,
-      "prob_up": 0.4848,
+      "prob_up": 0.4844,
       "sentiment_norm": 0.7023,
-      "final_score": 0.55,
-      "price": 143.96,
-      "change_pct": 0.3,
+      "final_score": 0.5497,
+      "price": 144.2,
+      "change_pct": 0.45,
       "sparkline": [],
       "headlines": [
         {
@@ -170,8 +170,8 @@
       "prob_up": 0.5252,
       "sentiment_norm": 0.5955,
       "final_score": 0.5463,
-      "price": 357.58,
-      "change_pct": -1.57,
+      "price": 357.15,
+      "change_pct": -1.68,
       "sparkline": [],
       "headlines": [
         {
@@ -192,67 +192,13 @@
       ]
     },
     {
-      "ticker": "HD",
-      "rank": 8,
-      "prob_up": 0.5085,
-      "sentiment_norm": 0.6058,
-      "final_score": 0.5377,
-      "price": 343.44,
-      "change_pct": 1.42,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Home Depot Q2 Results Support Growth Ahead of Broader Home-Improvement Recovery, UBS Says",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-q2-results-support-155951108.html?.tsrc=rss",
-          "score": 0.8481
-        },
-        {
-          "title": "Home Depot Sales Outlook Improves, Cost Pressure Remains, RBC Says",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-sales-outlook-improves-151516347.html?.tsrc=rss",
-          "score": 0.6336
-        },
-        {
-          "title": "Home Depot Q2 Earnings Call Spotlights Pro Momentum and Cost Pressures",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-q2-earnings-call-144100882.html?.tsrc=rss",
-          "score": 0.7269
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "rank": 9,
-      "prob_up": 0.5355,
-      "sentiment_norm": 0.5343,
-      "final_score": 0.5352,
-      "price": 364.52,
-      "change_pct": -4.06,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Why Broadcom Stock Crashed Today",
-          "url": "https://www.fool.com/investing/2026/08/19/why-broadcom-stock-crashed-today/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Enterprise Networking Market Surges to $193.77 billion at a CAGR 9.2% by 2030 | Report by MarketsandMarkets\u2122",
-          "url": "https://finance.yahoo.com/technology/articles/enterprise-networking-market-surges-193-150000148.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Broadcom Falls 5% as Marvell Lands Google Custom Chip Deal, VMware and Financing Concerns Persist",
-          "url": "https://247wallst.com/investing/2026/08/19/broadcom-falls-5-as-marvell-lands-google-custom-chip-deal-vmware-and-financing-concerns-persist/?.tsrc=rss",
-          "score": -0.5434
-        }
-      ]
-    },
-    {
       "ticker": "MA",
-      "rank": 10,
+      "rank": 8,
       "prob_up": 0.4818,
-      "sentiment_norm": 0.6574,
-      "final_score": 0.5345,
-      "price": 576.39,
-      "change_pct": 0.45,
+      "sentiment_norm": 0.6819,
+      "final_score": 0.5418,
+      "price": 575.78,
+      "change_pct": 0.32,
       "sparkline": [],
       "headlines": [
         {
@@ -273,13 +219,40 @@
       ]
     },
     {
+      "ticker": "META",
+      "rank": 9,
+      "prob_up": 0.5606,
+      "sentiment_norm": 0.4451,
+      "final_score": 0.526,
+      "price": 552.14,
+      "change_pct": 1.37,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
+          "url": "https://finance.yahoo.com/real-estate/articles/neighbors-1-5-billion-meta-163000936.html?.tsrc=rss",
+          "score": -0.7003
+        },
+        {
+          "title": "Prediction: The Child Safety Trial Will Have Minimal Impact on Meta Platforms Stock in the Long Run. Here's Why",
+          "url": "https://www.fool.com/investing/2026/08/19/prediction-the-child-safety-trial-will-have-minima/?.tsrc=rss",
+          "score": 0.1012
+        },
+        {
+          "title": "Meta's $1.4 Trillion Legal Risk Takes a New Turn",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-1-4-trillion-legal-151428076.html?.tsrc=rss",
+          "score": 0.2037
+        }
+      ]
+    },
+    {
       "ticker": "XOM",
-      "rank": 11,
+      "rank": 10,
       "prob_up": 0.3918,
       "sentiment_norm": 0.8291,
       "final_score": 0.523,
-      "price": 166.34,
-      "change_pct": 0.36,
+      "price": 166.04,
+      "change_pct": 0.16,
       "sparkline": [],
       "headlines": [
         {
@@ -300,42 +273,20 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 12,
-      "prob_up": 0.4152,
-      "sentiment_norm": 0.7724,
-      "final_score": 0.5224,
-      "price": 264.89,
-      "change_pct": 2.08,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Amazon's Drone Delivery Ambitions Are Getting Much Bigger",
-          "url": "https://finance.yahoo.com/technology/articles/amazons-drone-delivery-ambitions-getting-145452935.html?.tsrc=rss",
-          "score": 0.2732
-        },
-        {
-          "title": "Amazon drone delivery expansion targets 500 cities by year\u2019s end",
-          "url": "https://finance.yahoo.com/technology/articles/amazon-drone-delivery-expansion-targets-144708659.html?.tsrc=rss",
-          "score": 0.4767
-        },
-        {
-          "title": "Amazon Just Gave Investors a Big Reason to Be Bullish",
-          "url": "https://247wallst.com/investing/2026/08/19/amazon-just-gave-investors-a-big-reason-to-be-bullish/?.tsrc=rss",
-          "score": 0.6705
-        }
-      ]
-    },
-    {
       "ticker": "COST",
-      "rank": 13,
+      "rank": 11,
       "prob_up": 0.5017,
-      "sentiment_norm": 0.5443,
-      "final_score": 0.5145,
-      "price": 965.41,
-      "change_pct": 0.2,
+      "sentiment_norm": 0.5534,
+      "final_score": 0.5172,
+      "price": 967.85,
+      "change_pct": 0.45,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Costco Is Getting Into Medicare",
+          "url": "https://www.investopedia.com/costco-is-getting-into-medicare-12063311?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Costco's Cash Pile Keeps Building. Is a Special Dividend Finally Coming This Fall?",
           "url": "https://www.fool.com/investing/2026/08/19/costcos-cash-pile-keeps-building-is-a-special-divi/?.tsrc=rss",
@@ -345,49 +296,17 @@
           "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
           "url": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?.tsrc=rss",
           "score": 0.25
-        },
-        {
-          "title": "Costco Is Getting Into This $600 Billion Business \u2014 Here\u2019s Its Plan",
-          "url": "https://www.entrepreneur.com/business-news/costco-is-getting-into-this-600-billion-business-heres-its-plan?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 14,
-      "prob_up": 0.5084,
-      "sentiment_norm": 0.4882,
-      "final_score": 0.5024,
-      "price": 115.21,
-      "change_pct": -0.23,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
-          "url": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html?.tsrc=rss",
-          "score": 0.296
-        },
-        {
-          "title": "Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022",
-          "url": "https://www.fool.com/investing/2026/08/19/worried-about-a-market-crash-these-3-stocks-beat-the-s-and-p-500-in-2008-and-2022/?.tsrc=rss",
-          "score": -0.7964
-        },
-        {
-          "title": "Here\u2019s How Much Traders Expect Walmart Stock to Move After Earnings",
-          "url": "https://www.investopedia.com/here-is-how-much-traders-expect-walmart-stock-to-move-after-earnings-wmt-q2-2026-12057126?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "rank": 15,
-      "prob_up": 0.3776,
-      "sentiment_norm": 0.7766,
-      "final_score": 0.4973,
-      "price": 485.71,
-      "change_pct": 0.9,
+      "rank": 12,
+      "prob_up": 0.4334,
+      "sentiment_norm": 0.7096,
+      "final_score": 0.5163,
+      "price": 483.03,
+      "change_pct": 0.35,
       "sparkline": [],
       "headlines": [
         {
@@ -408,67 +327,67 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 16,
-      "prob_up": 0.418,
-      "sentiment_norm": 0.6331,
-      "final_score": 0.4826,
-      "price": 219.49,
-      "change_pct": 0.11,
+      "ticker": "AMZN",
+      "rank": 13,
+      "prob_up": 0.4152,
+      "sentiment_norm": 0.7476,
+      "final_score": 0.5149,
+      "price": 264.08,
+      "change_pct": 1.76,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Jensen Huang Just Signed AI Factory Deals Across Japan's Biggest Manufacturers. What That Means for Nvidia's Growth.",
-          "url": "https://www.fool.com/investing/2026/08/19/jensen-huang-just-signed-ai-factory-deals-across-j/?.tsrc=rss",
-          "score": 0.6597
+          "title": "Amazon's Drone Delivery Ambitions Are Getting Much Bigger",
+          "url": "https://finance.yahoo.com/technology/articles/amazons-drone-delivery-ambitions-getting-145452935.html?.tsrc=rss",
+          "score": 0.2732
         },
         {
-          "title": "When the Next Bear Market Begins, This Is the First Investing Move I'm Making",
-          "url": "https://www.fool.com/investing/2026/08/19/when-the-next-bear-market-begins-this-is-the-first/?.tsrc=rss",
-          "score": 0.6369
+          "title": "Amazon drone delivery expansion targets 500 cities by year\u2019s end",
+          "url": "https://finance.yahoo.com/technology/articles/amazon-drone-delivery-expansion-targets-144708659.html?.tsrc=rss",
+          "score": 0.4767
         },
         {
-          "title": "One of Wall Street\u2019s Best-Known Hedge Funds Just Loaded Up on These 5 Stocks",
-          "url": "https://247wallst.com/investing/2026/08/19/one-of-wall-streets-best-known-hedge-funds-just-loaded-up-on-these-5-stocks/?.tsrc=rss",
-          "score": -0.5283
+          "title": "Amazon Just Gave Investors a Big Reason to Be Bullish",
+          "url": "https://247wallst.com/investing/2026/08/19/amazon-just-gave-investors-a-big-reason-to-be-bullish/?.tsrc=rss",
+          "score": 0.6705
         }
       ]
     },
     {
-      "ticker": "LLY",
-      "rank": 17,
-      "prob_up": 0.4676,
-      "sentiment_norm": 0.4965,
-      "final_score": 0.4763,
-      "price": 1267.55,
-      "change_pct": 3.51,
+      "ticker": "WMT",
+      "rank": 14,
+      "prob_up": 0.5075,
+      "sentiment_norm": 0.4845,
+      "final_score": 0.5006,
+      "price": 115.9,
+      "change_pct": 0.36,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Eli Lilly, Novo Nordisk and Merck: Buy, Sell or Hold?",
-          "url": "https://247wallst.com/investing/2026/08/19/eli-lilly-novo-nordisk-and-merck-buy-sell-or-hold/?.tsrc=rss",
-          "score": -0.5719
+          "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
+          "url": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html?.tsrc=rss",
+          "score": 0.296
         },
         {
-          "title": "Stock Forecast: The Market is Sleeping on Eli Lilly\u2019s Next $1 Trillion Opportunity",
-          "url": "https://247wallst.com/investing/2026/08/19/stock-forecast-the-market-is-sleeping-on-eli-lillys-next-1-trillion-opportunity/?.tsrc=rss",
-          "score": 0.6369
+          "title": "Walmart May Have a Big Surprise in Store For Investors on August 20th",
+          "url": "https://247wallst.com/investing/2026/08/19/walmart-may-have-a-big-surprise-in-store-for-investors-on-august-20th/?.tsrc=rss",
+          "score": 0.5859
         },
         {
-          "title": "Why Novartis, Lilly, and Bristol Myers Are Eyeing This Clinical-Stage Cancer Play",
-          "url": "https://247wallst.com/investing/2026/08/19/why-novartis-lilly-and-bristol-myers-are-eyeing-this-clinical-stage-cancer-play/?.tsrc=rss",
-          "score": -0.7506
+          "title": "Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022",
+          "url": "https://www.fool.com/investing/2026/08/19/worried-about-a-market-crash-these-3-stocks-beat-the-s-and-p-500-in-2008-and-2022/?.tsrc=rss",
+          "score": -0.7964
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 18,
-      "prob_up": 0.4174,
-      "sentiment_norm": 0.5566,
-      "final_score": 0.4592,
-      "price": 387.28,
-      "change_pct": -1.61,
+      "rank": 15,
+      "prob_up": 0.4767,
+      "sentiment_norm": 0.5336,
+      "final_score": 0.4938,
+      "price": 391.0,
+      "change_pct": -0.73,
       "sparkline": [],
       "headlines": [
         {
@@ -489,13 +408,67 @@
       ]
     },
     {
+      "ticker": "AVGO",
+      "rank": 16,
+      "prob_up": 0.4917,
+      "sentiment_norm": 0.497,
+      "final_score": 0.4933,
+      "price": 364.21,
+      "change_pct": -4.14,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Why Broadcom Stock Crashed Today",
+          "url": "https://www.fool.com/investing/2026/08/19/why-broadcom-stock-crashed-today/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Enterprise Networking Market Surges to $193.77 billion at a CAGR 9.2% by 2030 | Report by MarketsandMarkets\u2122",
+          "url": "https://finance.yahoo.com/technology/articles/enterprise-networking-market-surges-193-150000148.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Broadcom Falls 5% as Marvell Lands Google Custom Chip Deal, VMware and Financing Concerns Persist",
+          "url": "https://247wallst.com/investing/2026/08/19/broadcom-falls-5-as-marvell-lands-google-custom-chip-deal-vmware-and-financing-concerns-persist/?.tsrc=rss",
+          "score": -0.5434
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 17,
+      "prob_up": 0.4676,
+      "sentiment_norm": 0.4598,
+      "final_score": 0.4652,
+      "price": 1268.78,
+      "change_pct": 3.61,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Eli Lilly, Novo Nordisk and Merck: Buy, Sell or Hold?",
+          "url": "https://247wallst.com/investing/2026/08/19/eli-lilly-novo-nordisk-and-merck-buy-sell-or-hold/?.tsrc=rss",
+          "score": -0.5719
+        },
+        {
+          "title": "Stock Forecast: The Market is Sleeping on Eli Lilly\u2019s Next $1 Trillion Opportunity",
+          "url": "https://247wallst.com/investing/2026/08/19/stock-forecast-the-market-is-sleeping-on-eli-lillys-next-1-trillion-opportunity/?.tsrc=rss",
+          "score": 0.6369
+        },
+        {
+          "title": "Why Novartis, Lilly, and Bristol Myers Are Eyeing This Clinical-Stage Cancer Play",
+          "url": "https://247wallst.com/investing/2026/08/19/why-novartis-lilly-and-bristol-myers-are-eyeing-this-clinical-stage-cancer-play/?.tsrc=rss",
+          "score": -0.7506
+        }
+      ]
+    },
+    {
       "ticker": "GOOGL",
-      "rank": 19,
-      "prob_up": 0.2944,
+      "rank": 18,
+      "prob_up": 0.3548,
       "sentiment_norm": 0.6356,
-      "final_score": 0.3968,
-      "price": 345.16,
-      "change_pct": 0.31,
+      "final_score": 0.4391,
+      "price": 343.92,
+      "change_pct": -0.05,
       "sparkline": [],
       "headlines": [
         {
@@ -516,29 +489,56 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "rank": 20,
-      "prob_up": 0.2903,
-      "sentiment_norm": 0.6119,
-      "final_score": 0.3868,
-      "price": 346.96,
-      "change_pct": 3.21,
+      "ticker": "NVDA",
+      "rank": 19,
+      "prob_up": 0.418,
+      "sentiment_norm": 0.4373,
+      "final_score": 0.4238,
+      "price": 219.03,
+      "change_pct": -0.1,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Elon Musk Says Tesla Is \u2018Most Made in America\u2019 Car Brand as Trump Tariffs Shake Up Auto Industry",
-          "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-says-tesla-most-150027321.html?.tsrc=rss",
-          "score": 0.296
+          "title": "Nvidia Lands Major China Breakthrough",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-lands-major-china-breakthrough-172520755.html?.tsrc=rss",
+          "score": 0.4215
         },
         {
-          "title": "Buy, Hold or Sell Tesla Stock Ahead of Cybercab Launch?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-tesla-stock-134400558.html?.tsrc=rss",
+          "title": "This Stock Has Become Too Important to the AI Revolution to Ignore",
+          "url": "https://247wallst.com/investing/2026/08/19/this-stock-has-become-too-important-to-the-ai-revolution-to-ignore/?.tsrc=rss",
           "score": -0.4215
         },
         {
-          "title": "Home batteries are suddenly cheap and everywhere. Here\u2019s why.",
-          "url": "https://finance.yahoo.com/energy/articles/home-batteries-suddenly-cheap-everywhere-134000924.html?.tsrc=rss",
-          "score": 0.1779
+          "title": "Netflix Is Down, But One Billionaire Thinks the Stock Is a Buy",
+          "url": "https://247wallst.com/investing/2026/08/19/netflix-is-down-but-one-billionaire-thinks-the-stock-is-a-buy/?.tsrc=rss",
+          "score": 0.0387
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "rank": 20,
+      "prob_up": 0.2903,
+      "sentiment_norm": 0.5783,
+      "final_score": 0.3767,
+      "price": 346.58,
+      "change_pct": 3.09,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Tesla Stock Jumps as Cybercab Launch Puts Robotaxi Plans in Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-cybercab-launch-172749081.html?.tsrc=rss",
+          "score": 0.296
+        },
+        {
+          "title": "Tesla Climbs 3%, Rivian Jumps 4%: Why Are These EV Stocks Outperforming Ford and General Motors Today?",
+          "url": "https://247wallst.com/investing/2026/08/19/tesla-climbs-3-rivian-jumps-4-why-are-these-ev-stocks-outperforming-ford-and-general-motors-today/?.tsrc=rss",
+          "score": -0.1531
+        },
+        {
+          "title": "Should You Buy Tesla Stock While It's Trading Below $400?",
+          "url": "https://www.fool.com/investing/2026/08/19/should-you-buy-tesla-stock-while-its-trading-below/?.tsrc=rss",
+          "score": -0.7391
         }
       ]
     }
