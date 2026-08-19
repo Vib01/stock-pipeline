@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-19T19:34:20Z",
+  "last_updated": "2026-08-19T19:55:30Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "AAPL",
       "rank": 1,
-      "prob_up": 0.5626,
+      "prob_up": 0.6194,
       "sentiment_norm": 0.7554,
-      "final_score": 0.6204,
-      "price": 316.32,
+      "final_score": 0.6602,
+      "price": 316.33,
       "change_pct": 1.97,
       "sparkline": [],
       "headlines": [
@@ -33,12 +33,17 @@
       "ticker": "BRK-B",
       "rank": 2,
       "prob_up": 0.5925,
-      "sentiment_norm": 0.6586,
-      "final_score": 0.6123,
-      "price": 500.08,
-      "change_pct": -0.66,
+      "sentiment_norm": 0.6398,
+      "final_score": 0.6067,
+      "price": 500.15,
+      "change_pct": -0.55,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Warren Buffett\u2019s Berkshire Is Buying These 2 Homebuilding Stocks. Housing Market Recovery Coming?",
+          "url": "https://finance.yahoo.com/real-estate/articles/warren-buffett-berkshire-buying-2-192725571.html?.tsrc=rss",
+          "score": 0.4588
+        },
         {
           "title": "Dividend Aristocrat pays Warren Buffett's Berkshire $601M annually",
           "url": "https://www.thestreet.com/investing/stocks/chevron-cvx-dividend-warren-buffett-berkshire-601-million?.tsrc=rss",
@@ -48,49 +53,17 @@
           "title": "Could Nvidia Be the Next Big Tech Stock to Join Berkshire Hathaway's Portfolio?",
           "url": "https://www.fool.com/investing/2026/08/19/could-nvidia-be-the-next-big-tech-stock-to-join-be/?.tsrc=rss",
           "score": 0.296
-        },
-        {
-          "title": "Berkshire's Cash Pile Fell From $400 Billion to $365.5 Billion as Greg Abel Became a Net Buyer for the First Time in 3 Years. What Does That Signal for Investors?",
-          "url": "https://www.fool.com/investing/2026/08/19/berkshires-cash-pile-fell-from-400-billion-to-365/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "V",
-      "rank": 3,
-      "prob_up": 0.514,
-      "sentiment_norm": 0.6893,
-      "final_score": 0.5666,
-      "price": 366.71,
-      "change_pct": 0.57,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
-          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Multi Year Growth Runway Fuels Visa\u2019s (V) Bullish Case",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/multi-growth-runway-fuels-visa-114955075.html?.tsrc=rss",
-          "score": 0.6249
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Visa, Lam Research, Caterpillar, Q.E.P and Altigen",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-visa-085300521.html?.tsrc=rss",
-          "score": 0.5574
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 4,
+      "rank": 3,
       "prob_up": 0.5252,
-      "sentiment_norm": 0.6584,
-      "final_score": 0.5652,
-      "price": 357.45,
-      "change_pct": -1.6,
+      "sentiment_norm": 0.7645,
+      "final_score": 0.597,
+      "price": 357.42,
+      "change_pct": -1.61,
       "sparkline": [],
       "headlines": [
         {
@@ -111,13 +84,40 @@
       ]
     },
     {
+      "ticker": "V",
+      "rank": 4,
+      "prob_up": 0.5154,
+      "sentiment_norm": 0.6893,
+      "final_score": 0.5675,
+      "price": 366.27,
+      "change_pct": 0.45,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
+          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Multi Year Growth Runway Fuels Visa\u2019s (V) Bullish Case",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/multi-growth-runway-fuels-visa-114955075.html?.tsrc=rss",
+          "score": 0.6249
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights Visa, Lam Research, Caterpillar, Q.E.P and Altigen",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-visa-085300521.html?.tsrc=rss",
+          "score": 0.5574
+        }
+      ]
+    },
+    {
       "ticker": "HD",
       "rank": 5,
-      "prob_up": 0.5118,
+      "prob_up": 0.5085,
       "sentiment_norm": 0.6878,
-      "final_score": 0.5646,
-      "price": 344.99,
-      "change_pct": 1.88,
+      "final_score": 0.5623,
+      "price": 343.7,
+      "change_pct": 1.49,
       "sparkline": [],
       "headlines": [
         {
@@ -141,10 +141,10 @@
       "ticker": "JNJ",
       "rank": 6,
       "prob_up": 0.4659,
-      "sentiment_norm": 0.7576,
-      "final_score": 0.5534,
-      "price": 273.62,
-      "change_pct": 0.78,
+      "sentiment_norm": 0.7482,
+      "final_score": 0.5506,
+      "price": 273.0,
+      "change_pct": 0.59,
       "sparkline": [],
       "headlines": [
         {
@@ -165,40 +165,13 @@
       ]
     },
     {
-      "ticker": "MA",
-      "rank": 7,
-      "prob_up": 0.4805,
-      "sentiment_norm": 0.6819,
-      "final_score": 0.5409,
-      "price": 575.05,
-      "change_pct": 0.19,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
-          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Stable Growth Trajectory Positions Mastercard (MA) for Strong Returns",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stable-growth-trajectory-positions-mastercard-114803769.html?.tsrc=rss",
-          "score": 0.8625
-        },
-        {
-          "title": "Mastercard Stock Rises 2% as Investors Favor Payment Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-2-investors-195506730.html?.tsrc=rss",
-          "score": 0.8481
-        }
-      ]
-    },
-    {
       "ticker": "PG",
-      "rank": 8,
-      "prob_up": 0.4712,
+      "rank": 7,
+      "prob_up": 0.4844,
       "sentiment_norm": 0.7023,
-      "final_score": 0.5405,
-      "price": 144.72,
-      "change_pct": 0.82,
+      "final_score": 0.5497,
+      "price": 144.27,
+      "change_pct": 0.52,
       "sparkline": [],
       "headlines": [
         {
@@ -220,12 +193,12 @@
     },
     {
       "ticker": "COST",
-      "rank": 9,
+      "rank": 8,
       "prob_up": 0.5227,
       "sentiment_norm": 0.5795,
       "final_score": 0.5397,
-      "price": 958.06,
-      "change_pct": -0.56,
+      "price": 957.34,
+      "change_pct": -0.64,
       "sparkline": [],
       "headlines": [
         {
@@ -247,12 +220,12 @@
     },
     {
       "ticker": "XOM",
-      "rank": 10,
-      "prob_up": 0.4375,
+      "rank": 9,
+      "prob_up": 0.4481,
       "sentiment_norm": 0.7414,
-      "final_score": 0.5287,
-      "price": 165.16,
-      "change_pct": -0.37,
+      "final_score": 0.5361,
+      "price": 164.93,
+      "change_pct": -0.49,
       "sparkline": [],
       "headlines": [
         {
@@ -273,175 +246,40 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "rank": 11,
-      "prob_up": 0.5355,
-      "sentiment_norm": 0.4971,
-      "final_score": 0.524,
-      "price": 364.47,
-      "change_pct": -4.07,
+      "ticker": "MA",
+      "rank": 10,
+      "prob_up": 0.4714,
+      "sentiment_norm": 0.6819,
+      "final_score": 0.5346,
+      "price": 573.71,
+      "change_pct": -0.02,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Broadcom Falls 2% as Google Adds Marvell to Its AI Chip Bench",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-falls-2-google-adds-180130465.html?.tsrc=rss",
-          "score": 0.2716
-        },
-        {
-          "title": "Marvell Stock Jumps On Google Deal, Broadcom Slides",
-          "url": "https://finance.yahoo.com/m/077c9064-9b1b-3eaa-8900-3164d7bdf606/marvell-stock-jumps-on-google.html?.tsrc=rss",
+          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
+          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Inside Google\u2019s $12 Billion Stake in Marvell\u2014and Why It\u2019s Bad News for Broadcom.",
-          "url": "https://finance.yahoo.com/m/c9e178d9-39b6-3c81-b21e-f40a82bfbe4f/inside-google%E2%80%99s-%2412-billion.html?.tsrc=rss",
-          "score": -0.3182
-        }
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "rank": 12,
-      "prob_up": 0.4723,
-      "sentiment_norm": 0.5823,
-      "final_score": 0.5053,
-      "price": 1284.62,
-      "change_pct": 4.91,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Amplitude Therapeutics and Lilly Enter Strategic Collaboration to Develop Trans-Amplifying RNA Vaccines for Infectious Diseases",
-          "url": "https://finance.yahoo.com/healthcare/articles/amplitude-therapeutics-lilly-enter-strategic-193000813.html?.tsrc=rss",
-          "score": 0.4939
+          "title": "Stable Growth Trajectory Positions Mastercard (MA) for Strong Returns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stable-growth-trajectory-positions-mastercard-114803769.html?.tsrc=rss",
+          "score": 0.8625
         },
         {
-          "title": "Eli Lilly, Novo Nordisk and Merck: Buy, Sell or Hold?",
-          "url": "https://247wallst.com/investing/2026/08/19/eli-lilly-novo-nordisk-and-merck-buy-sell-or-hold/?.tsrc=rss",
-          "score": -0.5719
-        },
-        {
-          "title": "Stock Forecast: The Market is Sleeping on Eli Lilly\u2019s Next $1 Trillion Opportunity",
-          "url": "https://247wallst.com/investing/2026/08/19/stock-forecast-the-market-is-sleeping-on-eli-lillys-next-1-trillion-opportunity/?.tsrc=rss",
-          "score": 0.6369
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 13,
-      "prob_up": 0.4997,
-      "sentiment_norm": 0.4968,
-      "final_score": 0.4988,
-      "price": 114.42,
-      "change_pct": -0.92,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Walmart's sales growth expected to slow following thousands of price cuts",
-          "url": "https://finance.yahoo.com/markets/stocks/article/walmarts-sales-growth-expected-to-slow-following-thousands-of-price-cuts-182327744.html?.tsrc=rss",
-          "score": 0.1027
-        },
-        {
-          "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
-          "url": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html?.tsrc=rss",
-          "score": 0.296
-        },
-        {
-          "title": "Walmart Earnings: The Biggest And Most Influential Retail Report Looms",
-          "url": "https://finance.yahoo.com/m/4636436b-031c-3a60-8074-bdf83b8f6b03/walmart-earnings%3A-the-biggest.html?.tsrc=rss",
-          "score": 0.3804
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 14,
-      "prob_up": 0.5133,
-      "sentiment_norm": 0.4571,
-      "final_score": 0.4965,
-      "price": 547.81,
-      "change_pct": 0.58,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Meta Stock Rebounds as Investors Revisit 28% Revenue Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rebounds-investors-revisit-174136583.html?.tsrc=rss",
-          "score": -0.3818
-        },
-        {
-          "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
-          "url": "https://finance.yahoo.com/real-estate/articles/neighbors-1-5-billion-meta-163000936.html?.tsrc=rss",
-          "score": -0.7003
-        },
-        {
-          "title": "Prediction: The Child Safety Trial Will Have Minimal Impact on Meta Platforms Stock in the Long Run. Here's Why",
-          "url": "https://www.fool.com/investing/2026/08/19/prediction-the-child-safety-trial-will-have-minima/?.tsrc=rss",
-          "score": 0.1012
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 15,
-      "prob_up": 0.4228,
-      "sentiment_norm": 0.6644,
-      "final_score": 0.4953,
-      "price": 219.75,
-      "change_pct": 0.23,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Want to Generate Thousands of Dollars in Passive Income? This ETF Could Be Your Ticket",
-          "url": "https://www.fool.com/investing/2026/08/19/want-to-generate-thousands-of-dollars-in-passive-i/?.tsrc=rss",
-          "score": 0.5423
-        },
-        {
-          "title": "Is Nvidia Engaging in Circular Financing? Some Think So.",
-          "url": "https://www.fool.com/investing/2026/08/19/is-nvidia-engaging-in-circular-financing-some-thin/?.tsrc=rss",
-          "score": 0.34
-        },
-        {
-          "title": "Why Is NVDA The Discount Option Among Its Peers?",
-          "url": "https://www.trefis.com/articles/611930/why-is-nvda-the-discount-option-among-its-peers/2026-08-19?.tsrc=rss",
-          "score": 0.7579
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "rank": 16,
-      "prob_up": 0.4192,
-      "sentiment_norm": 0.6698,
-      "final_score": 0.4944,
-      "price": 266.02,
-      "change_pct": 2.51,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Prediction: This Will Be Amazon's Stock Price by the End of 2026",
-          "url": "https://www.fool.com/investing/2026/08/19/prediction-amazons-stock-price-end-of-2026/?.tsrc=rss",
-          "score": -0.1027
-        },
-        {
-          "title": "Amazon Stock Rises as AWS Growth Reclaims Attention",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-rises-aws-growth-174624803.html?.tsrc=rss",
-          "score": 0.6249
-        },
-        {
-          "title": "Amazon drone delivery is expanding. See in which cities, when",
-          "url": "https://www.usatoday.com/story/money/2026/08/19/amazon-prime-air-drone-delivery-coming-more-cities-2026/91371094007/?.tsrc=rss",
-          "score": 0.5719
+          "title": "Mastercard Stock Rises 2% as Investors Favor Payment Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-2-investors-195506730.html?.tsrc=rss",
+          "score": 0.8481
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "rank": 17,
-      "prob_up": 0.3776,
+      "rank": 11,
+      "prob_up": 0.4334,
       "sentiment_norm": 0.7509,
-      "final_score": 0.4896,
-      "price": 484.04,
-      "change_pct": 0.56,
+      "final_score": 0.5287,
+      "price": 484.22,
+      "change_pct": 0.59,
       "sparkline": [],
       "headlines": [
         {
@@ -462,13 +300,175 @@
       ]
     },
     {
+      "ticker": "WMT",
+      "rank": 12,
+      "prob_up": 0.5209,
+      "sentiment_norm": 0.4968,
+      "final_score": 0.5136,
+      "price": 114.22,
+      "change_pct": -1.09,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Walmart's sales growth expected to slow following thousands of price cuts",
+          "url": "https://finance.yahoo.com/markets/stocks/article/walmarts-sales-growth-expected-to-slow-following-thousands-of-price-cuts-182327744.html?.tsrc=rss",
+          "score": 0.1027
+        },
+        {
+          "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
+          "url": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html?.tsrc=rss",
+          "score": 0.296
+        },
+        {
+          "title": "Walmart Earnings: The Biggest And Most Influential Retail Report Looms",
+          "url": "https://finance.yahoo.com/m/4636436b-031c-3a60-8074-bdf83b8f6b03/walmart-earnings%3A-the-biggest.html?.tsrc=rss",
+          "score": 0.3804
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 13,
+      "prob_up": 0.4685,
+      "sentiment_norm": 0.5698,
+      "final_score": 0.4989,
+      "price": 1279.19,
+      "change_pct": 4.46,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Amplitude Therapeutics and Lilly Enter Strategic Collaboration to Develop Trans-Amplifying RNA Vaccines for Infectious Diseases",
+          "url": "https://finance.yahoo.com/healthcare/articles/amplitude-therapeutics-lilly-enter-strategic-193000813.html?.tsrc=rss",
+          "score": 0.4939
+        },
+        {
+          "title": "Eli Lilly, Novo Nordisk and Merck: Buy, Sell or Hold?",
+          "url": "https://247wallst.com/investing/2026/08/19/eli-lilly-novo-nordisk-and-merck-buy-sell-or-hold/?.tsrc=rss",
+          "score": -0.5719
+        },
+        {
+          "title": "Stock Forecast: The Market is Sleeping on Eli Lilly\u2019s Next $1 Trillion Opportunity",
+          "url": "https://247wallst.com/investing/2026/08/19/stock-forecast-the-market-is-sleeping-on-eli-lillys-next-1-trillion-opportunity/?.tsrc=rss",
+          "score": 0.6369
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "rank": 14,
+      "prob_up": 0.5164,
+      "sentiment_norm": 0.4571,
+      "final_score": 0.4986,
+      "price": 546.09,
+      "change_pct": 0.26,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Meta Stock Rebounds as Investors Revisit 28% Revenue Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rebounds-investors-revisit-174136583.html?.tsrc=rss",
+          "score": -0.3818
+        },
+        {
+          "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
+          "url": "https://finance.yahoo.com/real-estate/articles/neighbors-1-5-billion-meta-163000936.html?.tsrc=rss",
+          "score": -0.7003
+        },
+        {
+          "title": "Prediction: The Child Safety Trial Will Have Minimal Impact on Meta Platforms Stock in the Long Run. Here's Why",
+          "url": "https://www.fool.com/investing/2026/08/19/prediction-the-child-safety-trial-will-have-minima/?.tsrc=rss",
+          "score": 0.1012
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 15,
+      "prob_up": 0.4192,
+      "sentiment_norm": 0.6698,
+      "final_score": 0.4944,
+      "price": 265.7,
+      "change_pct": 2.39,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Prediction: This Will Be Amazon's Stock Price by the End of 2026",
+          "url": "https://www.fool.com/investing/2026/08/19/prediction-amazons-stock-price-end-of-2026/?.tsrc=rss",
+          "score": -0.1027
+        },
+        {
+          "title": "Amazon Stock Rises as AWS Growth Reclaims Attention",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-rises-aws-growth-174624803.html?.tsrc=rss",
+          "score": 0.6249
+        },
+        {
+          "title": "Amazon drone delivery is expanding. See in which cities, when",
+          "url": "https://www.usatoday.com/story/money/2026/08/19/amazon-prime-air-drone-delivery-coming-more-cities-2026/91371094007/?.tsrc=rss",
+          "score": 0.5719
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 16,
+      "prob_up": 0.4371,
+      "sentiment_norm": 0.5789,
+      "final_score": 0.4797,
+      "price": 217.24,
+      "change_pct": -0.92,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Want to Generate Thousands of Dollars in Passive Income? This ETF Could Be Your Ticket",
+          "url": "https://www.fool.com/investing/2026/08/19/want-to-generate-thousands-of-dollars-in-passive-i/?.tsrc=rss",
+          "score": 0.5423
+        },
+        {
+          "title": "Is Nvidia Engaging in Circular Financing? Some Think So.",
+          "url": "https://www.fool.com/investing/2026/08/19/is-nvidia-engaging-in-circular-financing-some-thin/?.tsrc=rss",
+          "score": 0.34
+        },
+        {
+          "title": "Aurora Snipes Back At Curaleaf\u2019s Hostile Bid",
+          "url": "https://app.moby.co/home/news/news-aurora-snipes-back-at-curaleafs-hostile-bid?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+          "score": -0.6369
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 17,
+      "prob_up": 0.4401,
+      "sentiment_norm": 0.4971,
+      "final_score": 0.4572,
+      "price": 361.4,
+      "change_pct": -4.88,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Marvell Stock Jumps On Google Deal, Broadcom Slides",
+          "url": "https://finance.yahoo.com/m/077c9064-9b1b-3eaa-8900-3164d7bdf606/marvell-stock-jumps-on-google.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Broadcom Falls 2% as Google Adds Marvell to Its AI Chip Bench",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-falls-2-google-adds-180130465.html?.tsrc=rss",
+          "score": 0.2716
+        },
+        {
+          "title": "Inside Google\u2019s $12 Billion Stake in Marvell\u2014and Why It\u2019s Bad News for Broadcom.",
+          "url": "https://finance.yahoo.com/m/c9e178d9-39b6-3c81-b21e-f40a82bfbe4f/inside-google%E2%80%99s-%2412-billion.html?.tsrc=rss",
+          "score": -0.3182
+        }
+      ]
+    },
+    {
       "ticker": "UNH",
       "rank": 18,
-      "prob_up": 0.4502,
+      "prob_up": 0.4174,
       "sentiment_norm": 0.5336,
-      "final_score": 0.4753,
-      "price": 388.33,
-      "change_pct": -1.41,
+      "final_score": 0.4523,
+      "price": 387.82,
+      "change_pct": -1.47,
       "sparkline": [],
       "headlines": [
         {
@@ -494,8 +494,8 @@
       "prob_up": 0.3009,
       "sentiment_norm": 0.6138,
       "final_score": 0.3947,
-      "price": 348.82,
-      "change_pct": 3.76,
+      "price": 349.67,
+      "change_pct": 4.01,
       "sparkline": [],
       "headlines": [
         {
@@ -521,8 +521,8 @@
       "prob_up": 0.2944,
       "sentiment_norm": 0.6283,
       "final_score": 0.3946,
-      "price": 344.64,
-      "change_pct": 0.16,
+      "price": 344.39,
+      "change_pct": 0.08,
       "sparkline": [],
       "headlines": [
         {
