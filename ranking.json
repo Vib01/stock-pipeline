@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-08-19T19:55:30Z",
-  "market_status": "open",
+  "last_updated": "2026-08-19T20:39:14Z",
+  "market_status": "closed",
   "rankings": [
     {
       "ticker": "AAPL",
       "rank": 1,
-      "prob_up": 0.6194,
-      "sentiment_norm": 0.7554,
-      "final_score": 0.6602,
-      "price": 316.33,
-      "change_pct": 1.97,
+      "prob_up": 0.5836,
+      "sentiment_norm": 0.7542,
+      "final_score": 0.6348,
+      "price": 316.83,
+      "change_pct": 2.13,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Higher Fees, Better Returns: The Case for Equal-Weighted ETFs",
+          "url": "https://finance.yahoo.com/m/5118b7e2-0b2c-37cf-9421-1a89ff5581c5/higher-fees%2C-better-returns%3A.html?.tsrc=rss",
+          "score": 0.1531
+        },
         {
           "title": "Ross Gerber Says 'Now Is a Good Time' to Buy iPhone 17 as Apple Prepares for Potential Price Hike With Next Model: 'If You're Looking\u2026'",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-says-now-good-180107771.html?.tsrc=rss",
@@ -21,22 +26,17 @@
           "title": "Apple stock stands out among Magnificent Seven on low AI spending",
           "url": "https://qz.com/apple-stock-magnificent-seven-ai-spending-market-edge-081926?.tsrc=rss",
           "score": 0.6124
-        },
-        {
-          "title": "Apple Stock Jumps 2.8% as Investors Rebuild Mega-Cap Exposure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-jumps-2-8-174910766.html?.tsrc=rss",
-          "score": -0.1027
         }
       ]
     },
     {
       "ticker": "BRK-B",
       "rank": 2,
-      "prob_up": 0.5925,
+      "prob_up": 0.5973,
       "sentiment_norm": 0.6398,
-      "final_score": 0.6067,
-      "price": 500.15,
-      "change_pct": -0.55,
+      "final_score": 0.61,
+      "price": 499.62,
+      "change_pct": -0.65,
       "sparkline": [],
       "headlines": [
         {
@@ -60,10 +60,10 @@
       "ticker": "JPM",
       "rank": 3,
       "prob_up": 0.5252,
-      "sentiment_norm": 0.7645,
-      "final_score": 0.597,
-      "price": 357.42,
-      "change_pct": -1.61,
+      "sentiment_norm": 0.7381,
+      "final_score": 0.5891,
+      "price": 357.26,
+      "change_pct": -1.65,
       "sparkline": [],
       "headlines": [
         {
@@ -86,13 +86,18 @@
     {
       "ticker": "V",
       "rank": 4,
-      "prob_up": 0.5154,
-      "sentiment_norm": 0.6893,
-      "final_score": 0.5675,
-      "price": 366.27,
-      "change_pct": 0.45,
+      "prob_up": 0.5346,
+      "sentiment_norm": 0.6734,
+      "final_score": 0.5762,
+      "price": 365.54,
+      "change_pct": 0.25,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "REPAY Joins Visa Platform Connect, Granting ISO and ISV Clients Next-Generation Payment Infrastructure",
+          "url": "https://finance.yahoo.com/technology/articles/repay-joins-visa-platform-connect-201500563.html?.tsrc=rss",
+          "score": 0.4588
+        },
         {
           "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
           "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
@@ -102,22 +107,17 @@
           "title": "Multi Year Growth Runway Fuels Visa\u2019s (V) Bullish Case",
           "url": "https://finance.yahoo.com/markets/stocks/articles/multi-growth-runway-fuels-visa-114955075.html?.tsrc=rss",
           "score": 0.6249
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Visa, Lam Research, Caterpillar, Q.E.P and Altigen",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-visa-085300521.html?.tsrc=rss",
-          "score": 0.5574
         }
       ]
     },
     {
       "ticker": "HD",
       "rank": 5,
-      "prob_up": 0.5085,
+      "prob_up": 0.5169,
       "sentiment_norm": 0.6878,
-      "final_score": 0.5623,
-      "price": 343.7,
-      "change_pct": 1.49,
+      "final_score": 0.5682,
+      "price": 344.3,
+      "change_pct": 1.67,
       "sparkline": [],
       "headlines": [
         {
@@ -141,12 +141,17 @@
       "ticker": "JNJ",
       "rank": 6,
       "prob_up": 0.4659,
-      "sentiment_norm": 0.7482,
-      "final_score": 0.5506,
-      "price": 273.0,
-      "change_pct": 0.59,
+      "sentiment_norm": 0.7434,
+      "final_score": 0.5492,
+      "price": 273.41,
+      "change_pct": 0.74,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Johnson & Johnson Stock Runs On A Calendar The Market Does Not Set",
+          "url": "https://www.trefis.com/articles/612016/johnson-johnson-stock-runs-on-a-calendar-the-market-does-not-set/2026-08-19?.tsrc=rss",
+          "score": 0.1531
+        },
         {
           "title": "Johnson & Johnson\u2019s Dividend Looks Well Positioned for the Long Term",
           "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-dividend-looks-well-013103856.html?.tsrc=rss",
@@ -156,22 +161,17 @@
           "title": "Johnson & Johnson Stock Jumps 3% as Healthcare Rotation Lifts Shares",
           "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-stock-jumps-3-200229652.html?.tsrc=rss",
           "score": 0.296
-        },
-        {
-          "title": "J&J's New Growth Powerhouses: Immunology and Neuroscience",
-          "url": "https://finance.yahoo.com/healthcare/articles/j-js-growth-powerhouses-immunology-125000822.html?.tsrc=rss",
-          "score": 0.6249
         }
       ]
     },
     {
       "ticker": "PG",
       "rank": 7,
-      "prob_up": 0.4844,
+      "prob_up": 0.4712,
       "sentiment_norm": 0.7023,
-      "final_score": 0.5497,
-      "price": 144.27,
-      "change_pct": 0.52,
+      "final_score": 0.5405,
+      "price": 144.38,
+      "change_pct": 0.59,
       "sparkline": [],
       "headlines": [
         {
@@ -192,13 +192,40 @@
       ]
     },
     {
-      "ticker": "COST",
+      "ticker": "WMT",
       "rank": 8,
+      "prob_up": 0.5099,
+      "sentiment_norm": 0.5948,
+      "final_score": 0.5354,
+      "price": 114.3,
+      "change_pct": -1.02,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Amazon Prime Air maybe coming to a city near you",
+          "url": "https://finance.yahoo.com/video/amazon-prime-air-maybe-coming-200757375.html?.tsrc=rss",
+          "score": 0.7003
+        },
+        {
+          "title": "Walmart's sales growth expected to slow following thousands of price cuts",
+          "url": "https://finance.yahoo.com/markets/stocks/article/walmarts-sales-growth-expected-to-slow-following-thousands-of-price-cuts-182327744.html?.tsrc=rss",
+          "score": 0.1027
+        },
+        {
+          "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
+          "url": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html?.tsrc=rss",
+          "score": 0.296
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "rank": 9,
       "prob_up": 0.5227,
-      "sentiment_norm": 0.5795,
-      "final_score": 0.5397,
-      "price": 957.34,
-      "change_pct": -0.64,
+      "sentiment_norm": 0.5621,
+      "final_score": 0.5345,
+      "price": 956.99,
+      "change_pct": -0.67,
       "sparkline": [],
       "headlines": [
         {
@@ -220,12 +247,12 @@
     },
     {
       "ticker": "XOM",
-      "rank": 9,
-      "prob_up": 0.4481,
+      "rank": 10,
+      "prob_up": 0.439,
       "sentiment_norm": 0.7414,
-      "final_score": 0.5361,
-      "price": 164.93,
-      "change_pct": -0.49,
+      "final_score": 0.5298,
+      "price": 164.77,
+      "change_pct": -0.59,
       "sparkline": [],
       "headlines": [
         {
@@ -247,12 +274,12 @@
     },
     {
       "ticker": "MA",
-      "rank": 10,
-      "prob_up": 0.4714,
+      "rank": 11,
+      "prob_up": 0.4298,
       "sentiment_norm": 0.6819,
-      "final_score": 0.5346,
-      "price": 573.71,
-      "change_pct": -0.02,
+      "final_score": 0.5054,
+      "price": 573.72,
+      "change_pct": -0.01,
       "sparkline": [],
       "headlines": [
         {
@@ -273,56 +300,29 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 11,
-      "prob_up": 0.4334,
-      "sentiment_norm": 0.7509,
-      "final_score": 0.5287,
-      "price": 484.22,
-      "change_pct": 0.59,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Microsoft China Is Moving On From Windows",
-          "url": "https://finance.yahoo.com/technology/articles/microsoft-china-moving-windows-181221506.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Microsoft Stock Rises as $678 Billion Backlog Supports AI Spending",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-rises-678-billion-174044835.html?.tsrc=rss",
-          "score": 0.5267
-        },
-        {
-          "title": "Why Is Microsoft (MSFT) Reworking AI Data Center Policy Across The US?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-microsoft-msft-reworking-ai-161431602.html?.tsrc=rss",
-          "score": 0.5719
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
+      "ticker": "AMZN",
       "rank": 12,
-      "prob_up": 0.5209,
-      "sentiment_norm": 0.4968,
-      "final_score": 0.5136,
-      "price": 114.22,
-      "change_pct": -1.09,
+      "prob_up": 0.4192,
+      "sentiment_norm": 0.6845,
+      "final_score": 0.4988,
+      "price": 265.84,
+      "change_pct": 2.44,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Walmart's sales growth expected to slow following thousands of price cuts",
-          "url": "https://finance.yahoo.com/markets/stocks/article/walmarts-sales-growth-expected-to-slow-following-thousands-of-price-cuts-182327744.html?.tsrc=rss",
-          "score": 0.1027
+          "title": "Amazon Prime Air maybe coming to a city near you",
+          "url": "https://finance.yahoo.com/video/amazon-prime-air-maybe-coming-200757375.html?.tsrc=rss",
+          "score": 0.7003
         },
         {
-          "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
-          "url": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html?.tsrc=rss",
-          "score": 0.296
+          "title": "Prediction: This Will Be Amazon's Stock Price by the End of 2026",
+          "url": "https://www.fool.com/investing/2026/08/19/prediction-amazons-stock-price-end-of-2026/?.tsrc=rss",
+          "score": -0.1027
         },
         {
-          "title": "Walmart Earnings: The Biggest And Most Influential Retail Report Looms",
-          "url": "https://finance.yahoo.com/m/4636436b-031c-3a60-8074-bdf83b8f6b03/walmart-earnings%3A-the-biggest.html?.tsrc=rss",
-          "score": 0.3804
+          "title": "Amazon Stock Rises as AWS Growth Reclaims Attention",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-rises-aws-growth-174624803.html?.tsrc=rss",
+          "score": 0.6249
         }
       ]
     },
@@ -330,10 +330,10 @@
       "ticker": "LLY",
       "rank": 13,
       "prob_up": 0.4685,
-      "sentiment_norm": 0.5698,
-      "final_score": 0.4989,
-      "price": 1279.19,
-      "change_pct": 4.46,
+      "sentiment_norm": 0.5615,
+      "final_score": 0.4964,
+      "price": 1280.34,
+      "change_pct": 4.56,
       "sparkline": [],
       "headlines": [
         {
@@ -354,13 +354,40 @@
       ]
     },
     {
-      "ticker": "META",
+      "ticker": "MSFT",
       "rank": 14,
+      "prob_up": 0.3776,
+      "sentiment_norm": 0.7591,
+      "final_score": 0.4921,
+      "price": 484.31,
+      "change_pct": 0.61,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Microsoft China Is Moving On From Windows",
+          "url": "https://finance.yahoo.com/technology/articles/microsoft-china-moving-windows-181221506.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Microsoft Stock Rises as $678 Billion Backlog Supports AI Spending",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-rises-678-billion-174044835.html?.tsrc=rss",
+          "score": 0.5267
+        },
+        {
+          "title": "Why Is Microsoft (MSFT) Reworking AI Data Center Policy Across The US?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-microsoft-msft-reworking-ai-161431602.html?.tsrc=rss",
+          "score": 0.5719
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "rank": 15,
       "prob_up": 0.5164,
-      "sentiment_norm": 0.4571,
-      "final_score": 0.4986,
-      "price": 546.09,
-      "change_pct": 0.26,
+      "sentiment_norm": 0.3935,
+      "final_score": 0.4795,
+      "price": 546.03,
+      "change_pct": 0.25,
       "sparkline": [],
       "headlines": [
         {
@@ -374,74 +401,20 @@
           "score": -0.7003
         },
         {
-          "title": "Prediction: The Child Safety Trial Will Have Minimal Impact on Meta Platforms Stock in the Long Run. Here's Why",
-          "url": "https://www.fool.com/investing/2026/08/19/prediction-the-child-safety-trial-will-have-minima/?.tsrc=rss",
-          "score": 0.1012
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "rank": 15,
-      "prob_up": 0.4192,
-      "sentiment_norm": 0.6698,
-      "final_score": 0.4944,
-      "price": 265.7,
-      "change_pct": 2.39,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Prediction: This Will Be Amazon's Stock Price by the End of 2026",
-          "url": "https://www.fool.com/investing/2026/08/19/prediction-amazons-stock-price-end-of-2026/?.tsrc=rss",
-          "score": -0.1027
-        },
-        {
-          "title": "Amazon Stock Rises as AWS Growth Reclaims Attention",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-rises-aws-growth-174624803.html?.tsrc=rss",
-          "score": 0.6249
-        },
-        {
-          "title": "Amazon drone delivery is expanding. See in which cities, when",
-          "url": "https://www.usatoday.com/story/money/2026/08/19/amazon-prime-air-drone-delivery-coming-more-cities-2026/91371094007/?.tsrc=rss",
-          "score": 0.5719
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 16,
-      "prob_up": 0.4371,
-      "sentiment_norm": 0.5789,
-      "final_score": 0.4797,
-      "price": 217.24,
-      "change_pct": -0.92,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Want to Generate Thousands of Dollars in Passive Income? This ETF Could Be Your Ticket",
-          "url": "https://www.fool.com/investing/2026/08/19/want-to-generate-thousands-of-dollars-in-passive-i/?.tsrc=rss",
-          "score": 0.5423
-        },
-        {
-          "title": "Is Nvidia Engaging in Circular Financing? Some Think So.",
-          "url": "https://www.fool.com/investing/2026/08/19/is-nvidia-engaging-in-circular-financing-some-thin/?.tsrc=rss",
-          "score": 0.34
-        },
-        {
-          "title": "Aurora Snipes Back At Curaleaf\u2019s Hostile Bid",
-          "url": "https://app.moby.co/home/news/news-aurora-snipes-back-at-curaleafs-hostile-bid?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-          "score": -0.6369
+          "title": "Meta sued for allegedly firing manager who refused to sign an \u2018inaccurate\u2019 immigration letter",
+          "url": "https://www.hrdive.com/news/meta-sued-for-allegedly-firing-manager-who-refused-to-sign-immigration-letter/828262/?.tsrc=rss",
+          "score": -0.7003
         }
       ]
     },
     {
       "ticker": "AVGO",
-      "rank": 17,
-      "prob_up": 0.4401,
-      "sentiment_norm": 0.4971,
-      "final_score": 0.4572,
-      "price": 361.4,
-      "change_pct": -4.88,
+      "rank": 16,
+      "prob_up": 0.4753,
+      "sentiment_norm": 0.483,
+      "final_score": 0.4776,
+      "price": 362.48,
+      "change_pct": -4.59,
       "sparkline": [],
       "headlines": [
         {
@@ -463,12 +436,12 @@
     },
     {
       "ticker": "UNH",
-      "rank": 18,
-      "prob_up": 0.4174,
+      "rank": 17,
+      "prob_up": 0.4502,
       "sentiment_norm": 0.5336,
-      "final_score": 0.4523,
-      "price": 387.82,
-      "change_pct": -1.47,
+      "final_score": 0.4753,
+      "price": 388.61,
+      "change_pct": -1.27,
       "sparkline": [],
       "headlines": [
         {
@@ -489,15 +462,47 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "rank": 19,
-      "prob_up": 0.3009,
-      "sentiment_norm": 0.6138,
-      "final_score": 0.3947,
-      "price": 349.67,
-      "change_pct": 4.01,
+      "ticker": "NVDA",
+      "rank": 18,
+      "prob_up": 0.4038,
+      "sentiment_norm": 0.605,
+      "final_score": 0.4641,
+      "price": 217.56,
+      "change_pct": -0.77,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Why Is Circle Internet Group Stock Up Today?",
+          "url": "https://www.fool.com/investing/2026/08/19/why-is-circle-internet-group-stock-up-today/?.tsrc=rss",
+          "score": 0.2023
+        },
+        {
+          "title": "Want to Generate Thousands of Dollars in Passive Income? This ETF Could Be Your Ticket",
+          "url": "https://www.fool.com/investing/2026/08/19/want-to-generate-thousands-of-dollars-in-passive-i/?.tsrc=rss",
+          "score": 0.5423
+        },
+        {
+          "title": "Is Nvidia Engaging in Circular Financing? Some Think So.",
+          "url": "https://www.fool.com/investing/2026/08/19/is-nvidia-engaging-in-circular-financing-some-thin/?.tsrc=rss",
+          "score": 0.34
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "rank": 19,
+      "prob_up": 0.3065,
+      "sentiment_norm": 0.6138,
+      "final_score": 0.3987,
+      "price": 351.12,
+      "change_pct": 4.44,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Why China\u2019s Unitree IPO Surge Is Good News for Tesla",
+          "url": "https://finance.yahoo.com/m/6f7254c2-f5d6-3b99-a092-0078481a7e29/why-china%E2%80%99s-unitree-ipo-surge.html?.tsrc=rss",
+          "score": 0.5994
+        },
         {
           "title": "Tesla Stock Surges 2.9% Despite Its 321-Times Earnings Valuation",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-surges-2-9-174820790.html?.tsrc=rss",
@@ -507,11 +512,6 @@
           "title": "Tesla Stock Jumps as Cybercab Launch Puts Robotaxi Plans in Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-cybercab-launch-172749081.html?.tsrc=rss",
           "score": 0.296
-        },
-        {
-          "title": "Tesla Climbs 3%, Rivian Jumps 4%: Why Are These EV Stocks Outperforming Ford and General Motors Today?",
-          "url": "https://247wallst.com/investing/2026/08/19/tesla-climbs-3-rivian-jumps-4-why-are-these-ev-stocks-outperforming-ford-and-general-motors-today/?.tsrc=rss",
-          "score": -0.1531
         }
       ]
     },
@@ -521,8 +521,8 @@
       "prob_up": 0.2944,
       "sentiment_norm": 0.6283,
       "final_score": 0.3946,
-      "price": 344.39,
-      "change_pct": 0.08,
+      "price": 344.72,
+      "change_pct": 0.18,
       "sparkline": [],
       "headlines": [
         {
