@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-08-20T14:48:14Z",
+  "last_updated": "2026-08-20T15:43:59Z",
   "market_status": "open",
   "rankings": [
     {
-      "ticker": "BRK-B",
+      "ticker": "META",
       "rank": 1,
-      "prob_up": 0.5973,
-      "sentiment_norm": 0.6962,
-      "final_score": 0.627,
-      "price": 499.67,
-      "change_pct": -0.14,
+      "prob_up": 0.5966,
+      "sentiment_norm": 0.635,
+      "final_score": 0.6081,
+      "price": 542.98,
+      "change_pct": -1.27,
       "sparkline": [],
       "headlines": [
         {
-          "title": "29.7% of Berkshire Hathaway's $356 Billion Portfolio Is Invested in 2 Artificial Intelligence Stocks",
-          "url": "https://www.fool.com/investing/2026/08/20/297-berkshire-hathaways-356-billion-2-ai-stocks/?.tsrc=rss",
-          "score": 0.4767
+          "title": "Meta Falls Far Behind Amazon, Alphabet, and Microsoft In AI",
+          "url": "https://247wallst.com/investing/2026/08/20/meta-falls-far-behind-amazon-alphabet-and-microsoft-in-ai/?.tsrc=rss",
+          "score": -0.7184
         },
         {
-          "title": "Buffett's Berkshire increases exposure to blue-chip housing stock",
-          "url": "https://www.thestreet.com/investing/stocks/len-warren-buffett-berkshire-lennar-stock-housing?.tsrc=rss",
+          "title": "Meta Quietly Becomes One of Microsoft's Biggest AI Customers",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-quietly-becomes-one-microsofts-141742063.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Warren Buffett\u2019s Berkshire Is Buying These 2 Homebuilding Stocks. Housing Market Recovery Coming?",
-          "url": "https://finance.yahoo.com/real-estate/articles/warren-buffett-berkshire-buying-2-192725571.html?.tsrc=rss",
-          "score": 0.4588
+          "title": "BNP Paribas Delivers Bullish Message on Meta Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-delivers-bullish-message-123021107.html?.tsrc=rss",
+          "score": 0.4703
         }
       ]
     },
     {
       "ticker": "AAPL",
       "rank": 2,
-      "prob_up": 0.5977,
+      "prob_up": 0.6024,
       "sentiment_norm": 0.6167,
-      "final_score": 0.6034,
-      "price": 316.73,
-      "change_pct": -0.11,
+      "final_score": 0.6067,
+      "price": 316.55,
+      "change_pct": -0.16,
       "sparkline": [],
       "headlines": [
         {
@@ -57,15 +57,47 @@
       ]
     },
     {
-      "ticker": "HD",
+      "ticker": "BRK-B",
       "rank": 3,
-      "prob_up": 0.56,
-      "sentiment_norm": 0.6754,
-      "final_score": 0.5946,
-      "price": 336.11,
+      "prob_up": 0.5925,
+      "sentiment_norm": 0.6055,
+      "final_score": 0.5964,
+      "price": 499.77,
+      "change_pct": -0.12,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Berkshire Is Betting on This Legacy Retail Stock",
+          "url": "https://www.fool.com/investing/2026/08/20/berkshire-is-betting-big-on-this-legacy-retail/?.tsrc=rss",
+          "score": -0.34
+        },
+        {
+          "title": "Berkshire Hathaway (BRK.A) Could Be 21% Undervalued As Buybacks And Stock Buying Ramp Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-could-21-151256314.html?.tsrc=rss",
+          "score": 0.5106
+        },
+        {
+          "title": "Warning: The Buffett Portfolio Your OMAH ETF Copies Is Disappearing One 13F at a Time",
+          "url": "https://247wallst.com/investing/etf/2026/08/20/warning-the-buffett-portfolio-your-omah-etf-copies-is-disappearing-one-13f-at-a-time/?.tsrc=rss",
+          "score": -0.34
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "rank": 4,
+      "prob_up": 0.5482,
+      "sentiment_norm": 0.6878,
+      "final_score": 0.5901,
+      "price": 336.09,
       "change_pct": -2.44,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Home Depot faces uphill battle amid a growing customer problem",
+          "url": "https://www.thestreet.com/retail/home-depot-sales-customers-cut-back-large-project-spending?.tsrc=rss",
+          "score": -0.1779
+        },
         {
           "title": "Home Depot is making a big bet on cautious consumers",
           "url": "https://www.thestreet.com/retail/home-depot-expands-express-delivery?.tsrc=rss",
@@ -75,22 +107,44 @@
           "title": "Home Depot offers nationwide express delivery from local stores",
           "url": "https://finance.yahoo.com/small-business/articles/home-depot-offers-nationwide-express-172936927.html?.tsrc=rss",
           "score": 0.4215
+        }
+      ]
+    },
+    {
+      "ticker": "V",
+      "rank": 5,
+      "prob_up": 0.5237,
+      "sentiment_norm": 0.6603,
+      "final_score": 0.5647,
+      "price": 368.49,
+      "change_pct": 0.68,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Visa (V), Why Is The Latest Update Drawing Attention?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-why-latest-drawing-111410491.html?.tsrc=rss",
+          "score": 0.2732
         },
         {
-          "title": "Home Depot Q2 Results Support Growth Ahead of Broader Home-Improvement Recovery, UBS Says",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-q2-results-support-155951108.html?.tsrc=rss",
-          "score": 0.8481
+          "title": "Visa, DOJ lawyers clash ahead of trial",
+          "url": "https://www.paymentsdive.com/news/visa-doj-lawyers-clash-ahead-of-trial/828378/?.tsrc=rss",
+          "score": -0.4939
+        },
+        {
+          "title": "REPAY Joins Visa Platform Connect, Granting ISO and ISV Clients Next-Generation Payment Infrastructure",
+          "url": "https://finance.yahoo.com/technology/articles/repay-joins-visa-platform-connect-201500563.html?.tsrc=rss",
+          "score": 0.4588
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 4,
-      "prob_up": 0.5371,
-      "sentiment_norm": 0.6593,
-      "final_score": 0.5738,
-      "price": 356.76,
-      "change_pct": -0.33,
+      "rank": 6,
+      "prob_up": 0.5209,
+      "sentiment_norm": 0.6644,
+      "final_score": 0.564,
+      "price": 354.06,
+      "change_pct": -1.09,
       "sparkline": [],
       "headlines": [
         {
@@ -111,42 +165,20 @@
       ]
     },
     {
-      "ticker": "V",
-      "rank": 5,
-      "prob_up": 0.514,
-      "sentiment_norm": 0.7088,
-      "final_score": 0.5724,
-      "price": 367.0,
-      "change_pct": 0.27,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Visa (V), Why Is The Latest Update Drawing Attention?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-why-latest-drawing-111410491.html?.tsrc=rss",
-          "score": 0.2732
-        },
-        {
-          "title": "REPAY Joins Visa Platform Connect, Granting ISO and ISV Clients Next-Generation Payment Infrastructure",
-          "url": "https://finance.yahoo.com/technology/articles/repay-joins-visa-platform-connect-201500563.html?.tsrc=rss",
-          "score": 0.4588
-        },
-        {
-          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
-          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "JNJ",
-      "rank": 6,
-      "prob_up": 0.4791,
-      "sentiment_norm": 0.7573,
-      "final_score": 0.5626,
-      "price": 270.24,
-      "change_pct": -1.36,
+      "rank": 7,
+      "prob_up": 0.483,
+      "sentiment_norm": 0.7011,
+      "final_score": 0.5484,
+      "price": 272.65,
+      "change_pct": -0.48,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Johnson & Johnson Just Sent Shareholders an Important 11-Word Message About Its Future",
+          "url": "https://www.fool.com/investing/2026/08/20/johnson-johnson-just-sent-shareholders-an-importan/?.tsrc=rss",
+          "score": -0.2263
+        },
         {
           "title": "Johnson & Johnson Stock Runs On A Calendar The Market Does Not Set",
           "url": "https://www.trefis.com/articles/612016/johnson-johnson-stock-runs-on-a-calendar-the-market-does-not-set/2026-08-19?.tsrc=rss",
@@ -156,65 +188,33 @@
           "title": "Johnson & Johnson\u2019s Dividend Looks Well Positioned for the Long Term",
           "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-dividend-looks-well-013103856.html?.tsrc=rss",
           "score": 0.7269
-        },
-        {
-          "title": "Johnson & Johnson Stock Jumps 3% as Healthcare Rotation Lifts Shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-stock-jumps-3-200229652.html?.tsrc=rss",
-          "score": 0.296
         }
       ]
     },
     {
-      "ticker": "META",
-      "rank": 7,
-      "prob_up": 0.5452,
-      "sentiment_norm": 0.5961,
-      "final_score": 0.5605,
-      "price": 545.9,
-      "change_pct": -0.74,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Meta Quietly Becomes One of Microsoft's Biggest AI Customers",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-quietly-becomes-one-microsofts-141742063.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "BNP Paribas Delivers Bullish Message on Meta Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-delivers-bullish-message-123021107.html?.tsrc=rss",
-          "score": 0.4703
-        },
-        {
-          "title": "Meta emerges as major Microsoft Azure AI customer",
-          "url": "https://investorshub.advfn.com/market-news/article/34711/meta-emerges-as-major-microsoft-azure-ai-customer?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
+      "ticker": "MA",
       "rank": 8,
-      "prob_up": 0.5326,
-      "sentiment_norm": 0.5605,
-      "final_score": 0.541,
-      "price": 365.78,
-      "change_pct": -0.01,
+      "prob_up": 0.4852,
+      "sentiment_norm": 0.6646,
+      "final_score": 0.539,
+      "price": 578.88,
+      "change_pct": 0.91,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Broadcom Holds Steady as ARK Buys the Dip, Intel Slips, AMD Eases After Google\u2019s Marvell Chip Deal",
-          "url": "https://247wallst.com/investing/2026/08/20/broadcom-holds-steady-as-ark-buys-the-dip-intel-slips-amd-eases-after-googles-marvell-chip-deal/?.tsrc=rss",
-          "score": 0.3182
+          "title": "How Mastercard CEO is preparing for a world where AI agents do the shopping",
+          "url": "https://finance.yahoo.com/markets/article/how-mastercard-ceo-is-preparing-for-a-world-where-ai-agents-do-the-shopping-153238803.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
-          "url": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-recovers-premarket-after-marvell-linked-selloff-cathie-wood-loads-up-on-the-dip/cZYIje7RJmk?.tsrc=rss",
-          "score": 0.296
+          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
+          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-220602333.html?.tsrc=rss",
-          "score": 0.4767
+          "title": "Stable Growth Trajectory Positions Mastercard (MA) for Strong Returns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stable-growth-trajectory-positions-mastercard-114803769.html?.tsrc=rss",
+          "score": 0.8625
         }
       ]
     },
@@ -222,10 +222,10 @@
       "ticker": "COST",
       "rank": 9,
       "prob_up": 0.522,
-      "sentiment_norm": 0.563,
-      "final_score": 0.5343,
-      "price": 937.05,
-      "change_pct": -2.19,
+      "sentiment_norm": 0.5657,
+      "final_score": 0.5351,
+      "price": 939.91,
+      "change_pct": -1.89,
       "sparkline": [],
       "headlines": [
         {
@@ -246,40 +246,13 @@
       ]
     },
     {
-      "ticker": "MA",
-      "rank": 10,
-      "prob_up": 0.4818,
-      "sentiment_norm": 0.6517,
-      "final_score": 0.5328,
-      "price": 576.11,
-      "change_pct": 0.43,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
-          "url": "https://www.electronicpaymentsinternational.com/news/rain-forms-agentic-payments-alliance-with-visa-mastercard-and-other-players/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Stable Growth Trajectory Positions Mastercard (MA) for Strong Returns",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stable-growth-trajectory-positions-mastercard-114803769.html?.tsrc=rss",
-          "score": 0.8625
-        },
-        {
-          "title": "Mastercard Stock Rises 2% as Investors Favor Payment Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-2-investors-195506730.html?.tsrc=rss",
-          "score": 0.8481
-        }
-      ]
-    },
-    {
       "ticker": "PG",
-      "rank": 11,
-      "prob_up": 0.4572,
+      "rank": 10,
+      "prob_up": 0.4564,
       "sentiment_norm": 0.7023,
-      "final_score": 0.5307,
-      "price": 143.0,
-      "change_pct": -1.03,
+      "final_score": 0.5301,
+      "price": 142.92,
+      "change_pct": -1.09,
       "sparkline": [],
       "headlines": [
         {
@@ -301,12 +274,12 @@
     },
     {
       "ticker": "XOM",
-      "rank": 12,
-      "prob_up": 0.4368,
-      "sentiment_norm": 0.7062,
-      "final_score": 0.5176,
-      "price": 167.96,
-      "change_pct": 2.02,
+      "rank": 11,
+      "prob_up": 0.455,
+      "sentiment_norm": 0.6874,
+      "final_score": 0.5248,
+      "price": 168.46,
+      "change_pct": 2.33,
       "sparkline": [],
       "headlines": [
         {
@@ -327,13 +300,40 @@
       ]
     },
     {
+      "ticker": "AVGO",
+      "rank": 12,
+      "prob_up": 0.4917,
+      "sentiment_norm": 0.5605,
+      "final_score": 0.5123,
+      "price": 363.53,
+      "change_pct": -0.62,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Broadcom Holds Steady as ARK Buys the Dip, Intel Slips, AMD Eases After Google\u2019s Marvell Chip Deal",
+          "url": "https://247wallst.com/investing/2026/08/20/broadcom-holds-steady-as-ark-buys-the-dip-intel-slips-amd-eases-after-googles-marvell-chip-deal/?.tsrc=rss",
+          "score": 0.3182
+        },
+        {
+          "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
+          "url": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-recovers-premarket-after-marvell-linked-selloff-cathie-wood-loads-up-on-the-dip/cZYIje7RJmk?.tsrc=rss",
+          "score": 0.296
+        },
+        {
+          "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-220602333.html?.tsrc=rss",
+          "score": 0.4767
+        }
+      ]
+    },
+    {
       "ticker": "LLY",
       "rank": 13,
-      "prob_up": 0.4765,
-      "sentiment_norm": 0.5893,
-      "final_score": 0.5103,
-      "price": 1261.83,
-      "change_pct": -1.3,
+      "prob_up": 0.4563,
+      "sentiment_norm": 0.6333,
+      "final_score": 0.5094,
+      "price": 1273.4,
+      "change_pct": -0.4,
       "sparkline": [],
       "headlines": [
         {
@@ -354,94 +354,94 @@
       ]
     },
     {
-      "ticker": "UNH",
+      "ticker": "WMT",
       "rank": 14,
-      "prob_up": 0.4502,
-      "sentiment_norm": 0.5862,
-      "final_score": 0.491,
-      "price": 388.98,
-      "change_pct": 0.08,
+      "prob_up": 0.4678,
+      "sentiment_norm": 0.5579,
+      "final_score": 0.4948,
+      "price": 103.12,
+      "change_pct": -10.12,
       "sparkline": [],
       "headlines": [
         {
-          "title": "The IRS is scrutinizing how UnitedHealth moved money through foreign subsidiaries\u2014and whether it underpaid taxes",
-          "url": "https://finance.yahoo.com/economy/policy/articles/irs-scrutinizing-unitedhealth-moved-money-070400880.html?.tsrc=rss",
-          "score": 0.2263
+          "title": "Walmart's CFO reveals what's winning over higher-income customers",
+          "url": "https://finance.yahoo.com/video/walmarts-cfo-reveals-whats-winning-152700812.html?.tsrc=rss",
+          "score": 0.7783
         },
         {
-          "title": "UnitedHealth Group (UNH) Hit With Investor Lawsuit Over Governance And Cybersecurity Claims",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-hit-investor-211015134.html?.tsrc=rss",
-          "score": -0.8062
+          "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html?.tsrc=rss",
+          "score": -0.4215
         },
         {
-          "title": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-095515447.html?.tsrc=rss",
-          "score": 0.3818
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "rank": 15,
-      "prob_up": 0.4467,
-      "sentiment_norm": 0.557,
-      "final_score": 0.4798,
-      "price": 261.33,
-      "change_pct": -1.98,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Amazon Drones Move To 500 Cities. It May Not Work",
-          "url": "https://247wallst.com/investing/2026/08/20/amazon-drones-move-to-500-cities-it-may-not-work/?.tsrc=rss",
-          "score": -0.7318
-        },
-        {
-          "title": "Good News For Amazon Stock Fans",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/good-news-amazon-stock-fans-122924505.html?.tsrc=rss",
-          "score": 0.6486
-        },
-        {
-          "title": "AI is becoming a financial engineering business",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-becoming-financial-engineering-business-110000729.html?.tsrc=rss",
-          "score": 0.0258
+          "title": "Top Midday Stories: Treasury Yields Back on the Rise; Walmart Shares Fall After Full-Year EPS Guidance Undershoots Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-treasury-yields-153556130.html?.tsrc=rss",
+          "score": 0.6808
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "rank": 16,
-      "prob_up": 0.3804,
-      "sentiment_norm": 0.6316,
-      "final_score": 0.4558,
-      "price": 218.14,
-      "change_pct": -0.31,
+      "rank": 15,
+      "prob_up": 0.4574,
+      "sentiment_norm": 0.5693,
+      "final_score": 0.4909,
+      "price": 216.12,
+      "change_pct": -1.23,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Walmart\u2019s Tariff Refund Couldn\u2019t Save a Soft Quarter",
-          "url": "https://app.moby.co/home/news/news-walmarts-tariff-refund-couldnt-save-a-soft-quarter?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-          "score": 0.3182
+          "title": "NVDA Stock Flattens As Retail Turns \u2018Extremely Bearish\u2019, But Wall Street Flags $20B CPU Opportunity Ahead of Earnings",
+          "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-flat-retail-bearish-wall-street-20b-cpu-opportunity-earnings/cZYIsgIRJZI?.tsrc=rss",
+          "score": 0.6956
         },
         {
-          "title": "Mark Cuban Makes Cryptic Prediction About \u201cChips As An Asset Class\u201d",
-          "url": "https://247wallst.com/investing/2026/08/20/mark-cuban-makes-cryptic-prediction-about-chips-as-an-asset-class/?.tsrc=rss",
-          "score": -0.3716
+          "title": "Nvidia's AI Demand, Rubin Ramp Support Strong Q2, RBC Says",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-apos-ai-demand-rubin-152158665.html?.tsrc=rss",
+          "score": 0.891
         },
         {
-          "title": "Nvidia's China H200 Return May Barely Move Revenue",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-china-h200-return-may-140815645.html?.tsrc=rss",
-          "score": 0.2732
+          "title": "How NVIDIA AI Infrastructure Financing Alliance At KKR (KKR) Has Changed Its Investment Story",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-infrastructure-financing-alliance-151217222.html?.tsrc=rss",
+          "score": 0.4019
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 16,
+      "prob_up": 0.4509,
+      "sentiment_norm": 0.5784,
+      "final_score": 0.4891,
+      "price": 260.71,
+      "change_pct": -2.21,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "What are paper gains & how can they inflate company earnings?",
+          "url": "https://www.thestreet.com/dictionary/paper-gains?.tsrc=rss",
+          "score": 0.8402
+        },
+        {
+          "title": "This Billionaire Was Recently Loading Up on \"Magnificent Seven\" Stocks",
+          "url": "https://www.fool.com/investing/2026/08/20/this-billionaire-was-loading-up-on-magnificent/?.tsrc=rss",
+          "score": 0.7783
+        },
+        {
+          "title": "Meta Falls Far Behind Amazon, Alphabet, and Microsoft In AI",
+          "url": "https://247wallst.com/investing/2026/08/20/meta-falls-far-behind-amazon-alphabet-and-microsoft-in-ai/?.tsrc=rss",
+          "score": -0.7184
         }
       ]
     },
     {
       "ticker": "GOOGL",
       "rank": 17,
-      "prob_up": 0.3816,
-      "sentiment_norm": 0.6281,
-      "final_score": 0.4556,
-      "price": 342.03,
-      "change_pct": -0.83,
+      "prob_up": 0.4205,
+      "sentiment_norm": 0.6423,
+      "final_score": 0.487,
+      "price": 339.01,
+      "change_pct": -1.71,
       "sparkline": [],
       "headlines": [
         {
@@ -462,83 +462,83 @@
       ]
     },
     {
-      "ticker": "TSLA",
+      "ticker": "UNH",
       "rank": 18,
-      "prob_up": 0.3336,
-      "sentiment_norm": 0.7195,
-      "final_score": 0.4494,
-      "price": 340.11,
-      "change_pct": -3.05,
+      "prob_up": 0.4174,
+      "sentiment_norm": 0.5693,
+      "final_score": 0.463,
+      "price": 387.2,
+      "change_pct": -0.38,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "The IRS is scrutinizing how UnitedHealth moved money through foreign subsidiaries\u2014and whether it underpaid taxes",
+          "url": "https://finance.yahoo.com/economy/policy/articles/irs-scrutinizing-unitedhealth-moved-money-070400880.html?.tsrc=rss",
+          "score": 0.2263
+        },
+        {
+          "title": "UnitedHealth Group (UNH) Hit With Investor Lawsuit Over Governance And Cybersecurity Claims",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-hit-investor-211015134.html?.tsrc=rss",
+          "score": -0.8062
+        },
+        {
+          "title": "Warning: The Buffett Portfolio Your OMAH ETF Copies Is Disappearing One 13F at a Time",
+          "url": "https://247wallst.com/investing/etf/2026/08/20/warning-the-buffett-portfolio-your-omah-etf-copies-is-disappearing-one-13f-at-a-time/?.tsrc=rss",
+          "score": -0.34
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "rank": 19,
+      "prob_up": 0.3259,
+      "sentiment_norm": 0.6922,
+      "final_score": 0.4358,
+      "price": 343.72,
+      "change_pct": -2.02,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Tesla Stock Shares Part Of The Market's Direction And Amplifies All Of It",
+          "url": "https://www.trefis.com/articles/612232/tesla-stock-shares-part-of-the-markets-direction-and-amplifies-all-of-it/2026-08-20?.tsrc=rss",
+          "score": 0.296
+        },
+        {
+          "title": "TSLA-Einride Deal for Tesla Semis: Should You Get Too Optimistic?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-einride-deal-tesla-semis-135200401.html?.tsrc=rss",
+          "score": 0.3506
+        },
         {
           "title": "Tesla 'Intentionally' Not Adding EVs To Robotaxi Fleet; Semi Truck Set For Europe",
           "url": "https://finance.yahoo.com/m/e720fb52-2557-3b07-baa0-e2e55eb262b8/tesla-%27intentionally%27-not.html?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platform\u2014FSD V15 a \u2018Step-Change\u2019 From Previous Versions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-says-tesla-confident-scaling-093841784.html?.tsrc=rss",
-          "score": 0.5719
-        },
-        {
-          "title": "Tesla Stock Revs Up On Cybercab Buzz: Analyst Sees \u2018Good Entry Point\u2019 As Robotaxis Drive 30% Of Bull Case",
-          "url": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-analyst-entry-point-robotaxis-bull-case/cZYIXPGRJm3?.tsrc=rss",
-          "score": 0.4939
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "rank": 19,
+      "rank": 20,
       "prob_up": 0.4334,
-      "sentiment_norm": 0.4387,
-      "final_score": 0.435,
-      "price": 480.93,
-      "change_pct": -0.81,
+      "sentiment_norm": 0.434,
+      "final_score": 0.4336,
+      "price": 481.12,
+      "change_pct": -0.77,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "North Launches North v3 to Help Companies Manage and Optimize Cloud, AI, and Data Spend in One Platform",
+          "url": "https://finance.yahoo.com/technology/ai/articles/north-launches-north-v3-help-150000960.html?.tsrc=rss",
+          "score": 0.7506
+        },
+        {
+          "title": "Meta Falls Far Behind Amazon, Alphabet, and Microsoft In AI",
+          "url": "https://247wallst.com/investing/2026/08/20/meta-falls-far-behind-amazon-alphabet-and-microsoft-in-ai/?.tsrc=rss",
+          "score": -0.7184
+        },
         {
           "title": "Meta Quietly Becomes One of Microsoft's Biggest AI Customers",
           "url": "https://finance.yahoo.com/technology/ai/articles/meta-quietly-becomes-one-microsofts-141742063.html?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "Meta emerges as major Microsoft Azure AI customer",
-          "url": "https://investorshub.advfn.com/market-news/article/34711/meta-emerges-as-major-microsoft-azure-ai-customer?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Market Chatter: Australia Passes Legislation Ordering Social Media to Pay Taxes on News Usage",
-          "url": "https://finance.yahoo.com/media-advertising/articles/market-chatter-australia-passes-legislation-090440303.html?.tsrc=rss",
-          "score": -0.1027
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 20,
-      "prob_up": 0.403,
-      "sentiment_norm": 0.3752,
-      "final_score": 0.3947,
-      "price": 103.69,
-      "change_pct": -9.62,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html?.tsrc=rss",
-          "score": -0.4215
-        },
-        {
-          "title": "Walmart\u2019s Tariff Refund Couldn\u2019t Save a Soft Quarter",
-          "url": "https://app.moby.co/home/news/news-walmarts-tariff-refund-couldnt-save-a-soft-quarter?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-          "score": 0.3182
-        },
-        {
-          "title": "Walmart says it is using $2.9 billion in tariff refunds to lower prices",
-          "url": "https://www.cbsnews.com/news/walmart-tariff-refunds-lower-prices/?.tsrc=rss",
-          "score": -0.296
         }
       ]
     }
