@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-20T16:46:37Z",
+  "last_updated": "2026-08-20T17:39:17Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "PG",
       "rank": 1,
-      "prob_up": 0.586,
+      "prob_up": 0.5421,
       "sentiment_norm": 0.7023,
-      "final_score": 0.6209,
-      "price": 143.27,
-      "change_pct": -0.84,
+      "final_score": 0.5901,
+      "price": 143.13,
+      "change_pct": -0.94,
       "sparkline": [],
       "headlines": [
         {
@@ -32,11 +32,11 @@
     {
       "ticker": "BRK-B",
       "rank": 2,
-      "prob_up": 0.5819,
+      "prob_up": 0.5704,
       "sentiment_norm": 0.6055,
-      "final_score": 0.5889,
-      "price": 498.92,
-      "change_pct": -0.29,
+      "final_score": 0.5809,
+      "price": 498.67,
+      "change_pct": -0.34,
       "sparkline": [],
       "headlines": [
         {
@@ -57,15 +57,47 @@
       ]
     },
     {
-      "ticker": "AAPL",
+      "ticker": "META",
       "rank": 3,
-      "prob_up": 0.5836,
-      "sentiment_norm": 0.5421,
-      "final_score": 0.5711,
-      "price": 317.4,
-      "change_pct": 0.1,
+      "prob_up": 0.5966,
+      "sentiment_norm": 0.5301,
+      "final_score": 0.5766,
+      "price": 541.95,
+      "change_pct": -1.46,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Meta faces risks whether it wins or loses major social media trial",
+          "url": "https://finance.yahoo.com/technology/article/meta-faces-risks-whether-it-wins-or-loses-major-social-media-trial-163725852.html?.tsrc=rss",
+          "score": 0.3384
+        },
+        {
+          "title": "BNP Paribas Has Surprising Message for Meta Stock Investors",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bnp-paribas-surprising-message-meta-170134383.html?.tsrc=rss",
+          "score": 0.5106
+        },
+        {
+          "title": "Australia Hits Meta, Google With 2.5% News Levy",
+          "url": "https://finance.yahoo.com/economy/policy/articles/australia-hits-meta-google-2-163633536.html?.tsrc=rss",
+          "score": -0.296
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 4,
+      "prob_up": 0.6024,
+      "sentiment_norm": 0.4865,
+      "final_score": 0.5676,
+      "price": 316.73,
+      "change_pct": -0.11,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Apple Holds Firm as Investors Seek Big Tech's Defensive Outlier",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-holds-firm-investors-seek-171642756.html?.tsrc=rss",
+          "score": -0.5106
+        },
         {
           "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-buy-auto-ai-150900208.html?.tsrc=rss",
@@ -75,22 +107,17 @@
           "title": "Prediction: Apple Is Entering Its Most Important Product Cycle in Years",
           "url": "https://247wallst.com/investing/2026/08/20/prediction-apple-is-entering-its-most-important-product-cycle-in-years/?.tsrc=rss",
           "score": -0.5868
-        },
-        {
-          "title": "QCOM Falls 30.6% in 3 Months as Handset Risks Challenge Auto Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-falls-30-6-3-143500229.html?.tsrc=rss",
-          "score": -0.1531
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 4,
-      "prob_up": 0.5333,
+      "rank": 5,
+      "prob_up": 0.5218,
       "sentiment_norm": 0.6585,
-      "final_score": 0.5709,
-      "price": 354.42,
-      "change_pct": -0.99,
+      "final_score": 0.5628,
+      "price": 353.36,
+      "change_pct": -1.28,
       "sparkline": [],
       "headlines": [
         {
@@ -111,40 +138,13 @@
       ]
     },
     {
-      "ticker": "HD",
-      "rank": 5,
-      "prob_up": 0.5195,
-      "sentiment_norm": 0.6849,
-      "final_score": 0.5692,
-      "price": 335.81,
-      "change_pct": -2.53,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Home Depot faces uphill battle amid a growing customer problem",
-          "url": "https://www.thestreet.com/retail/home-depot-sales-customers-cut-back-large-project-spending?.tsrc=rss",
-          "score": -0.1779
-        },
-        {
-          "title": "Home Depot Stock Jumps 2.8% as Earnings Beat Gains Traction",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-stock-jumps-2-173413469.html?.tsrc=rss",
-          "score": 0.6486
-        },
-        {
-          "title": "Home Depot is making a big bet on cautious consumers",
-          "url": "https://www.thestreet.com/retail/home-depot-expands-express-delivery?.tsrc=rss",
-          "score": 0.34
-        }
-      ]
-    },
-    {
       "ticker": "V",
       "rank": 6,
-      "prob_up": 0.5237,
+      "prob_up": 0.514,
       "sentiment_norm": 0.6603,
-      "final_score": 0.5647,
-      "price": 368.08,
-      "change_pct": 0.57,
+      "final_score": 0.5579,
+      "price": 366.83,
+      "change_pct": 0.23,
       "sparkline": [],
       "headlines": [
         {
@@ -165,29 +165,29 @@
       ]
     },
     {
-      "ticker": "META",
+      "ticker": "HD",
       "rank": 7,
-      "prob_up": 0.5681,
-      "sentiment_norm": 0.5168,
-      "final_score": 0.5527,
-      "price": 545.52,
-      "change_pct": -0.81,
+      "prob_up": 0.4918,
+      "sentiment_norm": 0.6986,
+      "final_score": 0.5538,
+      "price": 334.95,
+      "change_pct": -2.77,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Meta faces risks whether it wins or loses major social media trial",
-          "url": "https://finance.yahoo.com/technology/article/meta-faces-risks-whether-it-wins-or-loses-major-social-media-trial-163725852.html?.tsrc=rss",
-          "score": 0.3384
+          "title": "Home Depot faces uphill battle amid a growing customer problem",
+          "url": "https://www.thestreet.com/retail/home-depot-sales-customers-cut-back-large-project-spending?.tsrc=rss",
+          "score": -0.1779
         },
         {
-          "title": "Australia Hits Meta, Google With 2.5% News Levy",
-          "url": "https://finance.yahoo.com/economy/policy/articles/australia-hits-meta-google-2-163633536.html?.tsrc=rss",
-          "score": -0.296
+          "title": "Earnings Calendar and Analysis for This Week (August 17-21)",
+          "url": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks?.tsrc=rss",
+          "score": 0.2732
         },
         {
-          "title": "Update: Meta Glasses, Other Wearable Devices Restricted in UK Cinemas Over Piracy Concerns",
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-glasses-other-wearable-devices-155541430.html?.tsrc=rss",
-          "score": -0.3818
+          "title": "Home Depot Stock Jumps 2.8% as Earnings Beat Gains Traction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-stock-jumps-2-173413469.html?.tsrc=rss",
+          "score": 0.6486
         }
       ]
     },
@@ -195,10 +195,10 @@
       "ticker": "JNJ",
       "rank": 8,
       "prob_up": 0.4777,
-      "sentiment_norm": 0.7011,
-      "final_score": 0.5447,
-      "price": 270.46,
-      "change_pct": -1.28,
+      "sentiment_norm": 0.7075,
+      "final_score": 0.5466,
+      "price": 270.38,
+      "change_pct": -1.31,
       "sparkline": [],
       "headlines": [
         {
@@ -221,11 +221,11 @@
     {
       "ticker": "MA",
       "rank": 9,
-      "prob_up": 0.4852,
+      "prob_up": 0.4818,
       "sentiment_norm": 0.6646,
-      "final_score": 0.539,
-      "price": 578.62,
-      "change_pct": 0.87,
+      "final_score": 0.5366,
+      "price": 576.78,
+      "change_pct": 0.55,
       "sparkline": [],
       "headlines": [
         {
@@ -251,8 +251,8 @@
       "prob_up": 0.522,
       "sentiment_norm": 0.5481,
       "final_score": 0.5298,
-      "price": 941.08,
-      "change_pct": -1.77,
+      "price": 937.72,
+      "change_pct": -2.12,
       "sparkline": [],
       "headlines": [
         {
@@ -273,13 +273,40 @@
       ]
     },
     {
-      "ticker": "LLY",
+      "ticker": "AVGO",
       "rank": 11,
-      "prob_up": 0.4705,
-      "sentiment_norm": 0.6333,
-      "final_score": 0.5193,
-      "price": 1263.55,
-      "change_pct": -1.17,
+      "prob_up": 0.4917,
+      "sentiment_norm": 0.6114,
+      "final_score": 0.5276,
+      "price": 363.62,
+      "change_pct": -0.6,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Cathie Wood Puts $41 Million Behind Major Tech Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-puts-41-million-170356247.html?.tsrc=rss",
+          "score": 0.3182
+        },
+        {
+          "title": "Broadcom Holds Steady as ARK Buys the Dip, Intel Slips, AMD Eases After Google\u2019s Marvell Chip Deal",
+          "url": "https://247wallst.com/investing/2026/08/20/broadcom-holds-steady-as-ark-buys-the-dip-intel-slips-amd-eases-after-googles-marvell-chip-deal/?.tsrc=rss",
+          "score": 0.3182
+        },
+        {
+          "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
+          "url": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-recovers-premarket-after-marvell-linked-selloff-cathie-wood-loads-up-on-the-dip/cZYIje7RJmk?.tsrc=rss",
+          "score": 0.296
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 12,
+      "prob_up": 0.4765,
+      "sentiment_norm": 0.6321,
+      "final_score": 0.5232,
+      "price": 1260.19,
+      "change_pct": -1.43,
       "sparkline": [],
       "headlines": [
         {
@@ -300,40 +327,40 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "rank": 12,
-      "prob_up": 0.4917,
-      "sentiment_norm": 0.565,
-      "final_score": 0.5137,
-      "price": 363.7,
-      "change_pct": -0.57,
+      "ticker": "GOOGL",
+      "rank": 13,
+      "prob_up": 0.4511,
+      "sentiment_norm": 0.6423,
+      "final_score": 0.5084,
+      "price": 340.7,
+      "change_pct": -1.22,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Broadcom Holds Steady as ARK Buys the Dip, Intel Slips, AMD Eases After Google\u2019s Marvell Chip Deal",
-          "url": "https://247wallst.com/investing/2026/08/20/broadcom-holds-steady-as-ark-buys-the-dip-intel-slips-amd-eases-after-googles-marvell-chip-deal/?.tsrc=rss",
-          "score": 0.3182
+          "title": "Why tech stock bulls may not shake this AI problem",
+          "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html?.tsrc=rss",
+          "score": -0.418
         },
         {
-          "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
-          "url": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-recovers-premarket-after-marvell-linked-selloff-cathie-wood-loads-up-on-the-dip/cZYIje7RJmk?.tsrc=rss",
-          "score": 0.296
+          "title": "Alphabet Seeks $3.6 Billion in First Australian Bond Sale",
+          "url": "https://finance.yahoo.com/video/alphabet-seeks-3-6-billion-163642861.html?.tsrc=rss",
+          "score": -0.0772
         },
         {
-          "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-220602333.html?.tsrc=rss",
-          "score": 0.4767
+          "title": "AI hyperscalers or memory chips: Which is the better investment right now?",
+          "url": "https://finance.yahoo.com/video/ai-hyperscalers-memory-chips-better-142329824.html?.tsrc=rss",
+          "score": 0.7003
         }
       ]
     },
     {
       "ticker": "XOM",
-      "rank": 13,
+      "rank": 14,
       "prob_up": 0.4279,
       "sentiment_norm": 0.6803,
       "final_score": 0.5036,
-      "price": 167.54,
-      "change_pct": 1.77,
+      "price": 167.65,
+      "change_pct": 1.83,
       "sparkline": [],
       "headlines": [
         {
@@ -355,14 +382,19 @@
     },
     {
       "ticker": "MSFT",
-      "rank": 14,
+      "rank": 15,
       "prob_up": 0.4334,
-      "sentiment_norm": 0.5838,
-      "final_score": 0.4785,
-      "price": 483.32,
-      "change_pct": -0.32,
+      "sentiment_norm": 0.6155,
+      "final_score": 0.488,
+      "price": 481.95,
+      "change_pct": -0.6,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Microsoft Slips as 4.68% Yield Tests Its $678 Billion Backlog",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-slips-4-68-yield-171415879.html?.tsrc=rss",
+          "score": 0.5574
+        },
         {
           "title": "Australia Hits Meta, Google With 2.5% News Levy",
           "url": "https://finance.yahoo.com/economy/policy/articles/australia-hits-meta-google-2-163633536.html?.tsrc=rss",
@@ -372,103 +404,44 @@
           "title": "North Launches North v3 to Help Companies Manage and Optimize Cloud, AI, and Data Spend in One Platform",
           "url": "https://finance.yahoo.com/technology/ai/articles/north-launches-north-v3-help-150000960.html?.tsrc=rss",
           "score": 0.7506
-        },
-        {
-          "title": "Meta Falls Far Behind Amazon, Alphabet, and Microsoft In AI",
-          "url": "https://247wallst.com/investing/2026/08/20/meta-falls-far-behind-amazon-alphabet-and-microsoft-in-ai/?.tsrc=rss",
-          "score": -0.7184
         }
       ]
     },
     {
       "ticker": "AMZN",
-      "rank": 15,
-      "prob_up": 0.3898,
-      "sentiment_norm": 0.6487,
-      "final_score": 0.4674,
-      "price": 263.27,
-      "change_pct": -1.25,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "How paper gains can inflate company earnings: Amazon example",
-          "url": "https://www.thestreet.com/dictionary/paper-gains?.tsrc=rss",
-          "score": 0.8658
-        },
-        {
-          "title": "This Billionaire Was Recently Loading Up on \"Magnificent Seven\" Stocks",
-          "url": "https://www.fool.com/investing/2026/08/20/this-billionaire-was-loading-up-on-magnificent/?.tsrc=rss",
-          "score": 0.7783
-        },
-        {
-          "title": "Meta Falls Far Behind Amazon, Alphabet, and Microsoft In AI",
-          "url": "https://247wallst.com/investing/2026/08/20/meta-falls-far-behind-amazon-alphabet-and-microsoft-in-ai/?.tsrc=rss",
-          "score": -0.7184
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
       "rank": 16,
-      "prob_up": 0.3816,
-      "sentiment_norm": 0.6423,
-      "final_score": 0.4598,
-      "price": 342.03,
-      "change_pct": -0.83,
+      "prob_up": 0.4467,
+      "sentiment_norm": 0.5209,
+      "final_score": 0.4689,
+      "price": 261.5,
+      "change_pct": -1.91,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Why tech stock bulls may not shake this AI problem",
-          "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html?.tsrc=rss",
-          "score": -0.418
+          "title": "Amazon is bringing a multibillion-dollar robotics plant to Texas",
+          "url": "https://www.usatoday.com/story/news/state/texas/2026/08/20/amazon-austin-texas-workforce-job/91385126007/?.tsrc=rss",
+          "score": 0.1779
         },
         {
-          "title": "Alphabet Seeks $3.6 Billion in First Australian Bond Sale",
-          "url": "https://finance.yahoo.com/video/alphabet-seeks-3-6-billion-163642861.html?.tsrc=rss",
-          "score": -0.0772
-        },
-        {
-          "title": "AI hyperscalers or memory chips: Which is the better investment right now?",
-          "url": "https://finance.yahoo.com/video/ai-hyperscalers-memory-chips-better-142329824.html?.tsrc=rss",
-          "score": 0.7003
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 17,
-      "prob_up": 0.4359,
-      "sentiment_norm": 0.5055,
-      "final_score": 0.4568,
-      "price": 216.79,
-      "change_pct": -0.93,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Is AMD Catching Up With Nvidia? Here's the Best Stock to Buy Today.",
-          "url": "https://www.fool.com/investing/2026/08/20/is-amd-catching-nvidia-heres-the-best-stock-to-buy/?.tsrc=rss",
-          "score": 0.2144
-        },
-        {
-          "title": "This Dow Stock (and Soon-to-Be Dividend King) Recently Hit a 52-Week Low. Here's the Case for Buying It Anyway.",
-          "url": "https://www.fool.com/investing/2026/08/20/this-dow-stock-and-soon-to-be-dividend-king-recent/?.tsrc=rss",
-          "score": 0.0408
-        },
-        {
-          "title": "Nvidia's Blackwell Ultra Offers Upside, VR200 Ramps Boost H2 Momentum, Oppenheimer Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-apos-blackwell-ultra-offers-160558162.html?.tsrc=rss",
+          "title": "Amazon Quietly Builds Massive Automation Project",
+          "url": "https://finance.yahoo.com/technology/articles/amazon-quietly-builds-massive-automation-165734660.html?.tsrc=rss",
           "score": 0.4019
+        },
+        {
+          "title": "Amazon's AWS Backlog Just Hit $496 Billion: Is the Stock a Screaming Buy Under $270?",
+          "url": "https://www.fool.com/investing/2026/08/20/amazons-aws-backlog-just-hit-496-billion-is-the/?.tsrc=rss",
+          "score": -0.1298
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 18,
+      "rank": 17,
       "prob_up": 0.4174,
-      "sentiment_norm": 0.5454,
-      "final_score": 0.4558,
-      "price": 387.89,
-      "change_pct": -0.2,
+      "sentiment_norm": 0.5567,
+      "final_score": 0.4592,
+      "price": 385.88,
+      "change_pct": -0.72,
       "sparkline": [],
       "headlines": [
         {
@@ -489,13 +462,67 @@
       ]
     },
     {
-      "ticker": "TSLA",
+      "ticker": "NVDA",
+      "rank": 18,
+      "prob_up": 0.4359,
+      "sentiment_norm": 0.5081,
+      "final_score": 0.4576,
+      "price": 216.38,
+      "change_pct": -1.12,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "If You Like the Schwab U.S. Dividend Equity ETF, You'll Love This ETF to Pair With It.",
+          "url": "https://www.fool.com/investing/2026/08/20/like-schwab-us-dividend-equity-etf-love-this-etf/?.tsrc=rss",
+          "score": 0.7717
+        },
+        {
+          "title": "A Rare U.S. Sales Miss for Walmart Is Concerning for the Economy. But It Could Also Prove to Be a \"Bad News Is Good News\" Event for the Fed.",
+          "url": "https://www.fool.com/investing/2026/08/20/a-rare-u-s-sales-miss-for-walmart-is-concerning-for-the-economy-but-it-could-also-prove-to-be-a-bad-news-is-good-news-event-for-the-fed/?.tsrc=rss",
+          "score": -0.296
+        },
+        {
+          "title": "Amazon's AWS Backlog Just Hit $496 Billion: Is the Stock a Screaming Buy Under $270?",
+          "url": "https://www.fool.com/investing/2026/08/20/amazons-aws-backlog-just-hit-496-billion-is-the/?.tsrc=rss",
+          "score": -0.1298
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
       "rank": 19,
-      "prob_up": 0.3529,
-      "sentiment_norm": 0.6922,
-      "final_score": 0.4547,
-      "price": 345.28,
-      "change_pct": -1.57,
+      "prob_up": 0.4184,
+      "sentiment_norm": 0.4431,
+      "final_score": 0.4258,
+      "price": 103.97,
+      "change_pct": -9.38,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Walmart's CFO reveals what's winning over higher-income customers",
+          "url": "https://finance.yahoo.com/video/walmarts-cfo-reveals-whats-winning-152700812.html?.tsrc=rss",
+          "score": 0.7783
+        },
+        {
+          "title": "A Rare U.S. Sales Miss for Walmart Is Concerning for the Economy. But It Could Also Prove to Be a \"Bad News Is Good News\" Event for the Fed.",
+          "url": "https://www.fool.com/investing/2026/08/20/a-rare-u-s-sales-miss-for-walmart-is-concerning-for-the-economy-but-it-could-also-prove-to-be-a-bad-news-is-good-news-event-for-the-fed/?.tsrc=rss",
+          "score": -0.296
+        },
+        {
+          "title": "Walmart's 10% Plunge Weighs on All Three Major Indexes",
+          "url": "https://www.fool.com/investing/2026/08/20/walmart-plunge-weighs-on-all-three-major-indexes/?.tsrc=rss",
+          "score": -0.2755
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "rank": 20,
+      "prob_up": 0.3259,
+      "sentiment_norm": 0.6303,
+      "final_score": 0.4172,
+      "price": 341.92,
+      "change_pct": -2.53,
       "sparkline": [],
       "headlines": [
         {
@@ -512,33 +539,6 @@
           "title": "Tesla Stock Is at a \u2018Major Inflection\u2019 Point. Here\u2019s What Could Drive It.",
           "url": "https://finance.yahoo.com/m/cef0d07a-d709-3404-8bf9-722cc6739b65/tesla-stock-is-at-a-%E2%80%98major.html?.tsrc=rss",
           "score": 0.6597
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 20,
-      "prob_up": 0.4273,
-      "sentiment_norm": 0.5052,
-      "final_score": 0.4507,
-      "price": 104.36,
-      "change_pct": -9.04,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Walmart's CFO reveals what's winning over higher-income customers",
-          "url": "https://finance.yahoo.com/video/walmarts-cfo-reveals-whats-winning-152700812.html?.tsrc=rss",
-          "score": 0.7783
-        },
-        {
-          "title": "Walmart Just Gave Retail Stocks a Fresh Problem",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-gave-retail-stocks-164114949.html?.tsrc=rss",
-          "score": -0.1027
-        },
-        {
-          "title": "Walmart Stock Is Having Its Worst Day in Years. Here\u2019s What\u2019s to Blame.",
-          "url": "https://finance.yahoo.com/m/7d215250-250b-3919-94a4-a11b1970cd8d/walmart-stock-is-having-its.html?.tsrc=rss",
-          "score": -0.8271
         }
       ]
     }
