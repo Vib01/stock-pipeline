@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T20:35:43Z",
+  "last_updated": "2026-08-21T20:56:50Z",
   "market_status": "closed",
   "rankings": [
     {
@@ -114,8 +114,8 @@
       "ticker": "AVGO",
       "rank": 5,
       "prob_up": 0.4952,
-      "sentiment_norm": 0.6776,
-      "final_score": 0.55,
+      "sentiment_norm": 0.6669,
+      "final_score": 0.5467,
       "price": 368.45,
       "change_pct": 1.07,
       "sparkline": [],
@@ -246,35 +246,8 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 10,
-      "prob_up": 0.4855,
-      "sentiment_norm": 0.6357,
-      "final_score": 0.5306,
-      "price": 214.72,
-      "change_pct": -1.07,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
-          "url": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Jefferies Drops Hot Take on Nvidia Before Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-drops-hot-nvidia-earnings-201706386.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html?.tsrc=rss",
-          "score": 0.0258
-        }
-      ]
-    },
-    {
       "ticker": "JPM",
-      "rank": 11,
+      "rank": 10,
       "prob_up": 0.5178,
       "sentiment_norm": 0.5581,
       "final_score": 0.5299,
@@ -301,14 +274,19 @@
     },
     {
       "ticker": "UNH",
-      "rank": 12,
+      "rank": 11,
       "prob_up": 0.4763,
-      "sentiment_norm": 0.6475,
-      "final_score": 0.5277,
+      "sentiment_norm": 0.6,
+      "final_score": 0.5134,
       "price": 390.11,
       "change_pct": 1.51,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Mark Cuban: \u201cNo Chance\u201d Radiologists Get Replaced by AI. He Says the Real Target Is Elsewhere",
+          "url": "https://247wallst.com/investing/2026/08/21/mark-cuban-no-chance-radiologists-get-replaced-by-ai-he-says-the-real-target-is-elsewhere/?.tsrc=rss",
+          "score": -0.1335
+        },
         {
           "title": "Is UnitedHealth Finding a Better Path to Medicare Advantage Growth?",
           "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-finding-better-path-medicare-163200958.html?.tsrc=rss",
@@ -318,11 +296,33 @@
           "title": "The IRS is scrutinizing how UnitedHealth moved money through foreign subsidiaries\u2014and whether it underpaid taxes",
           "url": "https://finance.yahoo.com/economy/policy/articles/irs-scrutinizing-unitedhealth-moved-money-070400880.html?.tsrc=rss",
           "score": 0.2263
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 12,
+      "prob_up": 0.4855,
+      "sentiment_norm": 0.5528,
+      "final_score": 0.5057,
+      "price": 214.72,
+      "change_pct": -1.07,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
+          "url": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "UnitedHealth Group (UNH) Hit With Investor Lawsuit Over Governance And Cybersecurity Claims",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-hit-investor-211015134.html?.tsrc=rss",
-          "score": -0.8062
+          "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus",
+          "url": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures%3A-market.html?.tsrc=rss",
+          "score": -0.8979
+        },
+        {
+          "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html?.tsrc=rss",
+          "score": 0.6584
         }
       ]
     },
@@ -354,11 +354,38 @@
       ]
     },
     {
-      "ticker": "MA",
+      "ticker": "MSFT",
       "rank": 14,
+      "prob_up": 0.4334,
+      "sentiment_norm": 0.6508,
+      "final_score": 0.4986,
+      "price": 483.24,
+      "change_pct": 0.44,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Microsoft Just Won One of Its Biggest AI Customers",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-won-one-biggest-201645664.html?.tsrc=rss",
+          "score": 0.5719
+        },
+        {
+          "title": "Microsoft (MSFT)\u2019s Betting Big on Its Own AI Chips. Is It Already Too Late?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-betting-big-own-201414728.html?.tsrc=rss",
+          "score": 0.1779
+        },
+        {
+          "title": "Is Microsoft a Screaming Buy Under $500 Per Share?",
+          "url": "https://www.fool.com/investing/2026/08/21/is-microsoft-a-screaming-buy-under-500-per-share/?.tsrc=rss",
+          "score": -0.1431
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "rank": 15,
       "prob_up": 0.4325,
-      "sentiment_norm": 0.6675,
-      "final_score": 0.503,
+      "sentiment_norm": 0.6411,
+      "final_score": 0.4951,
       "price": 580.63,
       "change_pct": 1.07,
       "sparkline": [],
@@ -382,7 +409,7 @@
     },
     {
       "ticker": "XOM",
-      "rank": 15,
+      "rank": 16,
       "prob_up": 0.4375,
       "sentiment_norm": 0.6232,
       "final_score": 0.4932,
@@ -404,33 +431,6 @@
           "title": "This Oil Stock Beat Exxon and Chevron in 2026. Its Dividend Shrank",
           "url": "https://247wallst.com/investing/2026/08/21/this-oil-stock-beat-exxon-and-chevron-in-2026-its-dividend-shrank/?.tsrc=rss",
           "score": -0.3612
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "rank": 16,
-      "prob_up": 0.4334,
-      "sentiment_norm": 0.6179,
-      "final_score": 0.4888,
-      "price": 483.24,
-      "change_pct": 0.44,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Microsoft Just Won One of Its Biggest AI Customers",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-won-one-biggest-201645664.html?.tsrc=rss",
-          "score": 0.5719
-        },
-        {
-          "title": "Microsoft (MSFT)\u2019s Betting Big on Its Own AI Chips. Is It Already Too Late?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-betting-big-own-201414728.html?.tsrc=rss",
-          "score": 0.1779
-        },
-        {
-          "title": "Is Microsoft a Screaming Buy Under $500 Per Share?",
-          "url": "https://www.fool.com/investing/2026/08/21/is-microsoft-a-screaming-buy-under-500-per-share/?.tsrc=rss",
-          "score": -0.1431
         }
       ]
     },
