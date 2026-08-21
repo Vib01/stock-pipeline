@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-21T14:47:41Z",
+  "last_updated": "2026-08-21T15:43:32Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "AAPL",
       "rank": 1,
-      "prob_up": 0.5998,
-      "sentiment_norm": 0.6878,
-      "final_score": 0.6262,
-      "price": 308.49,
-      "change_pct": -1.16,
+      "prob_up": 0.6131,
+      "sentiment_norm": 0.6539,
+      "final_score": 0.6253,
+      "price": 311.33,
+      "change_pct": -0.25,
       "sparkline": [],
       "headlines": [
         {
@@ -18,14 +18,14 @@
           "score": 0.0772
         },
         {
+          "title": "Apple paid 40% of its global taxes to Ireland in last fiscal year",
+          "url": "https://finance.yahoo.com/economy/policy/articles/apple-paid-40-global-taxes-144940102.html?.tsrc=rss",
+          "score": -0.2023
+        },
+        {
           "title": "Wall Street Is Bullish on These 3 Tech Giants. Here\u2019s Where I\u2019d Put My Money",
           "url": "https://247wallst.com/investing/2026/08/21/wall-street-is-bullish-on-these-3-tech-giants-heres-where-id-put-my-money/?.tsrc=rss",
           "score": 0.8338
-        },
-        {
-          "title": "Apple Reportedly Lays Off Vision Pro Staff As Smart Glasses Take Priority \u2013 Ternus CEO Transition Nears",
-          "url": "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-lays-off-vision-pro-staff-as-smart-glasses-take-priority-ternus-ceo-transition-nears/cZYBKnuRJNT?.tsrc=rss",
-          "score": 0.6908
         }
       ]
     },
@@ -33,21 +33,21 @@
       "ticker": "META",
       "rank": 2,
       "prob_up": 0.6237,
-      "sentiment_norm": 0.4865,
-      "final_score": 0.5826,
-      "price": 550.29,
-      "change_pct": 0.75,
+      "sentiment_norm": 0.5009,
+      "final_score": 0.5869,
+      "price": 549.32,
+      "change_pct": 0.57,
       "sparkline": [],
       "headlines": [
         {
           "title": "Update: Market Chatter: Meta Platforms, Google, Snap See Teen Dismiss Lawsuit Ahead of October Trial",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-google-124949911.html?.tsrc=rss",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-google-153221403.html?.tsrc=rss",
           "score": -0.2263
         },
         {
-          "title": "Market Chatter: Meta Platforms, Google, Snap See Teen Dismiss Lawsuit Ahead of October Trial",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-google-081148927.html?.tsrc=rss",
-          "score": -0.2263
+          "title": "Uber Faces Nearly $1 Billion Fine Over Driver Suspensions",
+          "url": "https://finance.yahoo.com/technology/ai/articles/uber-faces-nearly-1-billion-152056575.html?.tsrc=rss",
+          "score": -0.296
         },
         {
           "title": "Sunrise Capital Investors Named No. 1155 on the 2026 Inc. 5000 List, the Most Prestigious Ranking of America's Fastest-Growing Private Companies",
@@ -59,11 +59,11 @@
     {
       "ticker": "HD",
       "rank": 3,
-      "prob_up": 0.5467,
+      "prob_up": 0.56,
       "sentiment_norm": 0.6443,
-      "final_score": 0.576,
-      "price": 336.77,
-      "change_pct": 0.54,
+      "final_score": 0.5853,
+      "price": 337.06,
+      "change_pct": 0.63,
       "sparkline": [],
       "headlines": [
         {
@@ -89,8 +89,8 @@
       "prob_up": 0.5704,
       "sentiment_norm": 0.5837,
       "final_score": 0.5744,
-      "price": 498.84,
-      "change_pct": 0.19,
+      "price": 498.14,
+      "change_pct": 0.05,
       "sparkline": [],
       "headlines": [
         {
@@ -111,40 +111,67 @@
       ]
     },
     {
-      "ticker": "V",
+      "ticker": "JPM",
       "rank": 5,
-      "prob_up": 0.5255,
-      "sentiment_norm": 0.617,
-      "final_score": 0.553,
-      "price": 370.48,
-      "change_pct": 1.28,
+      "prob_up": 0.5218,
+      "sentiment_norm": 0.6674,
+      "final_score": 0.5655,
+      "price": 352.96,
+      "change_pct": 0.09,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Rain\u2019s Agentic Payments Alliance Is Writing Agent Commerce Standards While Congress Stalls",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/rain-agentic-payments-alliance-writing-202436472.html?.tsrc=rss",
-          "score": 0.128
+          "title": "JPMorgan's Q2 Trading Revenues Surge 35%: Can the Momentum Continue?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-q2-trading-revenues-surge-134900185.html?.tsrc=rss",
+          "score": 0.2617
         },
         {
-          "title": "$98 billion In Payouts, A Lagging Stock: The V Trade-Off",
-          "url": "https://www.trefis.com/articles/612185/98-billion-in-payouts-a-lagging-stock-the-v-trade-off/2026-08-20?.tsrc=rss",
-          "score": -0.2732
+          "title": "JPMorgan says stronger AI revenue makes capex boom more economically viable",
+          "url": "https://investorshub.advfn.com/market-news/article/34805/jpmorgan-says-stronger-ai-revenue-makes-capex-boom-more-economically-viable?.tsrc=rss",
+          "score": 0.8625
         },
         {
-          "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
-          "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?.tsrc=rss",
-          "score": 0.6249
+          "title": "JPMorgan warns Treasury buybacks delay U.S. debt problem",
+          "url": "https://qz.com/jpmorgan-treasury-bond-buybacks-debt-warning-082126?.tsrc=rss",
+          "score": -0.8834
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 6,
+      "prob_up": 0.4949,
+      "sentiment_norm": 0.7268,
+      "final_score": 0.5645,
+      "price": 259.79,
+      "change_pct": -0.28,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Are Amazon drones about to take over the skies?",
+          "url": "https://finance.yahoo.com/video/amazon-drones-over-skies-140951380.html?.tsrc=rss",
+          "score": 0.7744
+        },
+        {
+          "title": "Is Amazon (AMZN) a Buy as Wall Street Analysts Look Optimistic?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-buy-wall-street-133003287.html?.tsrc=rss",
+          "score": 0.6966
+        },
+        {
+          "title": "Amazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61354241/anthropic-2-trillion-valuation-revenue?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
     {
       "ticker": "JNJ",
-      "rank": 6,
-      "prob_up": 0.48,
-      "sentiment_norm": 0.7177,
-      "final_score": 0.5513,
-      "price": 271.02,
-      "change_pct": 0.75,
+      "rank": 7,
+      "prob_up": 0.4822,
+      "sentiment_norm": 0.7457,
+      "final_score": 0.5612,
+      "price": 271.44,
+      "change_pct": 0.91,
       "sparkline": [],
       "headlines": [
         {
@@ -165,13 +192,40 @@
       ]
     },
     {
+      "ticker": "V",
+      "rank": 8,
+      "prob_up": 0.5156,
+      "sentiment_norm": 0.617,
+      "final_score": 0.546,
+      "price": 370.78,
+      "change_pct": 1.36,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Rain\u2019s Agentic Payments Alliance Is Writing Agent Commerce Standards While Congress Stalls",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/rain-agentic-payments-alliance-writing-202436472.html?.tsrc=rss",
+          "score": 0.128
+        },
+        {
+          "title": "$98 billion In Payouts, A Lagging Stock: The V Trade-Off",
+          "url": "https://www.trefis.com/articles/612185/98-billion-in-payouts-a-lagging-stock-the-v-trade-off/2026-08-20?.tsrc=rss",
+          "score": -0.2732
+        },
+        {
+          "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
+          "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?.tsrc=rss",
+          "score": 0.6249
+        }
+      ]
+    },
+    {
       "ticker": "PG",
-      "rank": 7,
-      "prob_up": 0.4848,
+      "rank": 9,
+      "prob_up": 0.4844,
       "sentiment_norm": 0.6781,
-      "final_score": 0.5428,
-      "price": 144.0,
-      "change_pct": 0.59,
+      "final_score": 0.5425,
+      "price": 144.35,
+      "change_pct": 0.84,
       "sparkline": [],
       "headlines": [
         {
@@ -192,69 +246,20 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 8,
-      "prob_up": 0.5063,
-      "sentiment_norm": 0.6127,
-      "final_score": 0.5382,
-      "price": 214.93,
-      "change_pct": -0.98,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "The Billionaire Investor Who Predicted Black Monday Was Recently Making Moves Around His Top 4 AI Stock Holdings",
-          "url": "https://www.fool.com/investing/2026/08/21/billionaire-investor-who-predicted-black-monday/?.tsrc=rss",
-          "score": 0.1027
-        },
-        {
-          "title": "The Trillion-Dollar AI Capex Gap: Why Too Much Hardware Could Be Nvidia\u2019s Trap and Microsoft\u2019s Opportunity",
-          "url": "https://finance.yahoo.com/technology/ai/articles/trillion-dollar-ai-capex-gap-140007152.html?.tsrc=rss",
-          "score": 0.128
-        },
-        {
-          "title": "Starcloud Raises $250 Million at $2.3 Billion Valuation to Scale AI with Orbital Data Centers",
-          "url": "https://finance.yahoo.com/technology/ai/articles/starcloud-raises-250-million-2-140000211.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "rank": 9,
-      "prob_up": 0.5063,
-      "sentiment_norm": 0.5747,
-      "final_score": 0.5268,
-      "price": 352.03,
-      "change_pct": -0.18,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "JPMorgan says stronger AI revenue makes capex boom more economically viable",
-          "url": "https://investorshub.advfn.com/market-news/article/34805/jpmorgan-says-stronger-ai-revenue-makes-capex-boom-more-economically-viable?.tsrc=rss",
-          "score": 0.8625
-        },
-        {
-          "title": "JPMorgan warns Treasury buybacks delay U.S. debt problem",
-          "url": "https://qz.com/jpmorgan-treasury-bond-buybacks-debt-warning-082126?.tsrc=rss",
-          "score": -0.8834
-        },
-        {
-          "title": "Stoke Therapeutics shares rise as JPMorgan starts coverage with Overweight rating",
-          "url": "https://investorshub.advfn.com/market-news/article/34770/stoke-therapeutics-shares-rise-as-jpmorgan-starts-coverage-with-overweight-rating?.tsrc=rss",
-          "score": 0.6808
-        }
-      ]
-    },
-    {
       "ticker": "LLY",
       "rank": 10,
       "prob_up": 0.4705,
-      "sentiment_norm": 0.6524,
-      "final_score": 0.5251,
-      "price": 1264.07,
-      "change_pct": 1.53,
+      "sentiment_norm": 0.6327,
+      "final_score": 0.5191,
+      "price": 1262.68,
+      "change_pct": 1.42,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next?",
+          "url": "https://www.fool.com/investing/2026/08/21/stock-split-watch-is-eli-lilly-lly-stock-next/?.tsrc=rss",
+          "score": 0.0992
+        },
         {
           "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Tops Buy Point",
           "url": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
@@ -264,22 +269,44 @@
           "title": "Shareholder pressures Capricor; Lilly dives deeper into vaccines",
           "url": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/?.tsrc=rss",
           "score": -0.3182
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "rank": 11,
+      "prob_up": 0.5394,
+      "sentiment_norm": 0.4585,
+      "final_score": 0.5151,
+      "price": 946.43,
+      "change_pct": 1.31,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "It's Been 26 Years Since Costco Split 2-for-1. Here's What $1,000 Invested the Day Before the Split Would Be Worth Today.",
+          "url": "https://www.fool.com/investing/2026/08/21/years-since-costco-stock-split-2-for-1-worth/?.tsrc=rss",
+          "score": 0.2263
         },
         {
-          "title": "There\u2019s a Black Market for Eli Lilly\u2019s Unapproved GLP-1 Drug. Here\u2019s Why That\u2019s Bullish",
-          "url": "https://www.fool.com/investing/2026/08/20/there-s-a-black-market-for-eli-lilly-s-unapproved-glp-1-drug-here-s-why-that-s-bullish/?.tsrc=rss",
-          "score": -0.5267
+          "title": "Here's Why Costco (COST) Fell More Than Broader Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-costco-cost-fell-214503723.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "1 High-Flying Stock to Consider Right Now and 2 We Find Risky",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-consider-145947080.html?.tsrc=rss",
+          "score": -0.296
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 11,
+      "rank": 12,
       "prob_up": 0.4767,
-      "sentiment_norm": 0.6101,
-      "final_score": 0.5167,
-      "price": 391.43,
-      "change_pct": 1.85,
+      "sentiment_norm": 0.5892,
+      "final_score": 0.5104,
+      "price": 391.68,
+      "change_pct": 1.92,
       "sparkline": [],
       "headlines": [
         {
@@ -301,12 +328,12 @@
     },
     {
       "ticker": "AVGO",
-      "rank": 12,
-      "prob_up": 0.5028,
-      "sentiment_norm": 0.5464,
-      "final_score": 0.5159,
-      "price": 368.19,
-      "change_pct": 1.0,
+      "rank": 13,
+      "prob_up": 0.4906,
+      "sentiment_norm": 0.5498,
+      "final_score": 0.5084,
+      "price": 368.9,
+      "change_pct": 1.19,
       "sparkline": [],
       "headlines": [
         {
@@ -327,121 +354,13 @@
       ]
     },
     {
-      "ticker": "MA",
-      "rank": 13,
-      "prob_up": 0.4436,
-      "sentiment_norm": 0.6603,
-      "final_score": 0.5086,
-      "price": 579.46,
-      "change_pct": 0.86,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Can Mastercard (MA) Stay Cheap As AI Payments Expand?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-stay-cheap-ai-221212356.html?.tsrc=rss",
-          "score": 0.802
-        },
-        {
-          "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
-          "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?.tsrc=rss",
-          "score": 0.6249
-        },
-        {
-          "title": "How Mastercard CEO is preparing for a world where AI agents do the shopping",
-          "url": "https://finance.yahoo.com/markets/article/how-mastercard-ceo-is-preparing-for-a-world-where-ai-agents-do-the-shopping-153238803.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 14,
-      "prob_up": 0.5082,
-      "sentiment_norm": 0.4718,
-      "final_score": 0.4973,
-      "price": 948.97,
-      "change_pct": 1.58,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "It's Been 26 Years Since Costco Split 2-for-1. Here's What $1,000 Invested the Day Before the Split Would Be Worth Today.",
-          "url": "https://www.fool.com/investing/2026/08/21/years-since-costco-stock-split-2-for-1-worth/?.tsrc=rss",
-          "score": 0.2263
-        },
-        {
-          "title": "Here's Why Costco (COST) Fell More Than Broader Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-costco-cost-fell-214503723.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Is The J. M. Smucker Positioned for a Beat in Q1 Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-positioned-beat-133700174.html?.tsrc=rss",
-          "score": 0.8462
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "rank": 15,
-      "prob_up": 0.4229,
-      "sentiment_norm": 0.6648,
-      "final_score": 0.4955,
-      "price": 259.52,
-      "change_pct": -0.38,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Are Amazon drones about to take over the skies?",
-          "url": "https://finance.yahoo.com/video/amazon-drones-over-skies-140951380.html?.tsrc=rss",
-          "score": 0.7744
-        },
-        {
-          "title": "Is Amazon (AMZN) a Buy as Wall Street Analysts Look Optimistic?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-buy-wall-street-133003287.html?.tsrc=rss",
-          "score": 0.6966
-        },
-        {
-          "title": "Amazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says",
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61354241/anthropic-2-trillion-valuation-revenue?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 16,
-      "prob_up": 0.4428,
-      "sentiment_norm": 0.6001,
-      "final_score": 0.49,
-      "price": 102.47,
-      "change_pct": -1.63,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "OnePay Expands Support for Apple Pay",
-          "url": "https://finance.yahoo.com/technology/articles/onepay-expands-support-apple-pay-143800196.html?.tsrc=rss",
-          "score": 0.9485
-        },
-        {
-          "title": "Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review",
-          "url": "https://finance.yahoo.com/m/51a6a63e-0e3f-3064-a3bf-86387678c0b3/stock-market-rally-buckles%3B.html?.tsrc=rss",
-          "score": -0.6597
-        },
-        {
-          "title": "Walmart Energizes 100th Store with EV Fast Charging in Monument, CO",
-          "url": "https://finance.yahoo.com/energy/articles/walmart-energizes-100th-store-ev-140000948.html?.tsrc=rss",
-          "score": 0.7783
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
-      "rank": 17,
-      "prob_up": 0.3918,
+      "rank": 14,
+      "prob_up": 0.4353,
       "sentiment_norm": 0.6676,
-      "final_score": 0.4746,
-      "price": 166.2,
-      "change_pct": -0.08,
+      "final_score": 0.505,
+      "price": 165.94,
+      "change_pct": -0.23,
       "sparkline": [],
       "headlines": [
         {
@@ -462,13 +381,94 @@
       ]
     },
     {
+      "ticker": "MA",
+      "rank": 15,
+      "prob_up": 0.4325,
+      "sentiment_norm": 0.6603,
+      "final_score": 0.5008,
+      "price": 579.77,
+      "change_pct": 0.92,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Can Mastercard (MA) Stay Cheap As AI Payments Expand?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-stay-cheap-ai-221212356.html?.tsrc=rss",
+          "score": 0.802
+        },
+        {
+          "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
+          "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?.tsrc=rss",
+          "score": 0.6249
+        },
+        {
+          "title": "How Mastercard CEO is preparing for a world where AI agents do the shopping",
+          "url": "https://finance.yahoo.com/markets/article/how-mastercard-ceo-is-preparing-for-a-world-where-ai-agents-do-the-shopping-153238803.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "rank": 16,
+      "prob_up": 0.4428,
+      "sentiment_norm": 0.6026,
+      "final_score": 0.4907,
+      "price": 102.68,
+      "change_pct": -1.43,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Goldman Resets Walmart Stock Target After Brutal Post-Earnings Selloff",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-resets-walmart-stock-target-151704156.html?.tsrc=rss",
+          "score": -0.7096
+        },
+        {
+          "title": "Walmart's Health, Wellness Weakness a Top-Line Issue, Profit Outlook Intact, RBC Says",
+          "url": "https://finance.yahoo.com/healthcare/articles/walmart-apos-health-wellness-weakness-151640132.html?.tsrc=rss",
+          "score": 0.7717
+        },
+        {
+          "title": "Walmart's Core US Business Growth Trajectory Under Scrutiny, UBS Says",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-apos-core-us-business-145837753.html?.tsrc=rss",
+          "score": 0.3818
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 17,
+      "prob_up": 0.4359,
+      "sentiment_norm": 0.6033,
+      "final_score": 0.4861,
+      "price": 216.6,
+      "change_pct": -0.21,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "AMD vs. Nvidia: Is AMD Finally Closing the AI Gap?",
+          "url": "https://247wallst.com/investing/2026/08/21/amd-vs-nvidia-is-amd-finally-closing-the-ai-gap/?.tsrc=rss",
+          "score": 0.7269
+        },
+        {
+          "title": "Nvidia Eyes Deal With $2.3 Billion AI Chip Rival",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-eyes-deal-2-3-145012820.html?.tsrc=rss",
+          "score": -0.2732
+        },
+        {
+          "title": "Marvell\u2019s $12.2 Billion Google Deal Changes the Bull Case for MRVL Stock",
+          "url": "https://247wallst.com/investing/2026/08/21/marvells-12-2-billion-google-deal-changes-the-bull-case-for-mrvl-stock/?.tsrc=rss",
+          "score": 0.5913
+        }
+      ]
+    },
+    {
       "ticker": "MSFT",
       "rank": 18,
       "prob_up": 0.3776,
-      "sentiment_norm": 0.6605,
-      "final_score": 0.4625,
-      "price": 483.3,
-      "change_pct": 0.46,
+      "sentiment_norm": 0.6308,
+      "final_score": 0.4536,
+      "price": 485.27,
+      "change_pct": 0.86,
       "sparkline": [],
       "headlines": [
         {
@@ -491,11 +491,11 @@
     {
       "ticker": "GOOGL",
       "rank": 19,
-      "prob_up": 0.3548,
-      "sentiment_norm": 0.6986,
-      "final_score": 0.458,
-      "price": 343.08,
-      "change_pct": 0.67,
+      "prob_up": 0.2803,
+      "sentiment_norm": 0.6855,
+      "final_score": 0.4019,
+      "price": 345.02,
+      "change_pct": 1.24,
       "sparkline": [],
       "headlines": [
         {
@@ -509,22 +509,27 @@
           "score": -0.0772
         },
         {
-          "title": "AI hyperscalers or memory chips: Which is the better investment right now?",
-          "url": "https://finance.yahoo.com/video/ai-hyperscalers-memory-chips-better-142329824.html?.tsrc=rss",
-          "score": 0.7003
+          "title": "Waymo is making its own AI chip for its robotaxi service",
+          "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html?.tsrc=rss",
+          "score": 0.7269
         }
       ]
     },
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.2649,
-      "sentiment_norm": 0.5798,
-      "final_score": 0.3594,
-      "price": 357.25,
-      "change_pct": 3.16,
+      "prob_up": 0.2201,
+      "sentiment_norm": 0.5779,
+      "final_score": 0.3275,
+      "price": 363.68,
+      "change_pct": 5.02,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Tesla Faces Its Biggest-Ever China Recall",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-biggest-ever-china-145418259.html?.tsrc=rss",
+          "score": 0.4215
+        },
         {
           "title": "Tesla Is Ready to Launch Its EV Semi Truck\u2014and the Stock Is Rising",
           "url": "https://finance.yahoo.com/m/26ebeaee-77d7-3708-9b59-b78129dac82e/tesla-is-ready-to-launch-its.html?.tsrc=rss",
@@ -534,11 +539,6 @@
           "title": "Tesla Recalls Nearly 3 Million EVs in China Over Door Releases That Could Trap Occupants",
           "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61353520/tesla-china-recall-door-releases?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
           "score": -0.8316
-        },
-        {
-          "title": "Tesla, Waymo, Uber Granted Las Vegas Robotaxi Permits",
-          "url": "https://finance.yahoo.com/m/43426290-3ecd-317e-a8fb-d8f722aaf64a/tesla%2C-waymo%2C-uber-granted.html?.tsrc=rss",
-          "score": 0.5413
         }
       ]
     }
