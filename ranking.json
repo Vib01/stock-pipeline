@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-21T19:33:21Z",
+  "last_updated": "2026-08-21T19:52:09Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "AAPL",
       "rank": 1,
       "prob_up": 0.6131,
-      "sentiment_norm": 0.7056,
-      "final_score": 0.6409,
-      "price": 309.89,
+      "sentiment_norm": 0.6378,
+      "final_score": 0.6205,
+      "price": 309.87,
       "change_pct": -0.71,
       "sparkline": [],
       "headlines": [
@@ -18,9 +18,9 @@
           "score": 0.7783
         },
         {
-          "title": "$32 million: The number incoming Apple CEO John Ternus has to beat to measure up to Tim Cook",
-          "url": "https://finance.yahoo.com/technology/article/32-million-the-number-incoming-apple-ceo-john-ternus-has-to-beat-to-measure-up-to-tim-cook-144626360.html?.tsrc=rss",
-          "score": 0.0772
+          "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194245037.html?.tsrc=rss",
+          "score": 0.0
         },
         {
           "title": "Apple reportedly cuts jobs in Siri and Vision Pro teams amid AI shift",
@@ -35,8 +35,8 @@
       "prob_up": 0.5792,
       "sentiment_norm": 0.6007,
       "final_score": 0.5857,
-      "price": 496.76,
-      "change_pct": -0.23,
+      "price": 496.2,
+      "change_pct": -0.34,
       "sparkline": [],
       "headlines": [
         {
@@ -57,67 +57,13 @@
       ]
     },
     {
-      "ticker": "PG",
-      "rank": 3,
-      "prob_up": 0.519,
-      "sentiment_norm": 0.7073,
-      "final_score": 0.5755,
-      "price": 144.79,
-      "change_pct": 1.15,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "The Best Dividend Stock for 2027 and Beyond: Procter & Gamble",
-          "url": "https://www.fool.com/investing/2026/08/21/the-best-dividend-stock-for-2027-and-beyond-procte/?.tsrc=rss",
-          "score": 0.6369
-        },
-        {
-          "title": "3 Reasons to Buy and Hold This Wide-Moat Dividend King's Stock Forever",
-          "url": "https://www.fool.com/investing/2026/08/19/3-reasons-to-buy-and-hold-this-wide-moat-dividend/?.tsrc=rss",
-          "score": 0.1027
-        },
-        {
-          "title": "Why Procter & Gamble Remains a Dividend Powerhouse After 70 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-procter-gamble-remains-dividend-010918881.html?.tsrc=rss",
-          "score": 0.3612
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 4,
-      "prob_up": 0.6237,
-      "sentiment_norm": 0.4498,
-      "final_score": 0.5715,
-      "price": 549.99,
-      "change_pct": 0.69,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Meta Fights FTC Bid To Revive Monopoly Charges",
-          "url": "https://www.mediapost.com/publications/article/417403/meta-fights-ftc-bid-to-revive-monopoly-charges.html?.tsrc=rss",
-          "score": 0.1779
-        },
-        {
-          "title": "Update: Market Chatter: Meta Platforms, Google, Snap See Teen Dismiss Lawsuit Ahead of October Trial",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-google-172351997.html?.tsrc=rss",
-          "score": -0.2263
-        },
-        {
-          "title": "Meta Platforms Stock Drops 17% YTD: Should You Buy, Sell or Hold it?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-drops-17-154600084.html?.tsrc=rss",
-          "score": -0.25
-        }
-      ]
-    },
-    {
       "ticker": "HD",
-      "rank": 5,
-      "prob_up": 0.5195,
+      "rank": 3,
+      "prob_up": 0.5467,
       "sentiment_norm": 0.6578,
-      "final_score": 0.561,
-      "price": 335.67,
-      "change_pct": 0.21,
+      "final_score": 0.58,
+      "price": 336.6,
+      "change_pct": 0.49,
       "sparkline": [],
       "headlines": [
         {
@@ -138,94 +84,40 @@
       ]
     },
     {
-      "ticker": "JNJ",
-      "rank": 6,
-      "prob_up": 0.4822,
-      "sentiment_norm": 0.7207,
-      "final_score": 0.5537,
-      "price": 271.57,
-      "change_pct": 0.96,
+      "ticker": "META",
+      "rank": 4,
+      "prob_up": 0.6237,
+      "sentiment_norm": 0.4647,
+      "final_score": 0.576,
+      "price": 550.76,
+      "change_pct": 0.83,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
-          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-174323348.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Meta Fights FTC Bid To Revive Monopoly Charges",
+          "url": "https://www.mediapost.com/publications/article/417403/meta-fights-ftc-bid-to-revive-monopoly-charges.html?.tsrc=rss",
+          "score": 0.1779
         },
         {
-          "title": "HALO Stock Rises 36% in a Month: Here's What You Should Know",
-          "url": "https://finance.yahoo.com/healthcare/articles/halo-stock-rises-36-month-162300468.html?.tsrc=rss",
-          "score": 0.8519
+          "title": "Update: Market Chatter: Meta Platforms, Google, Snap See Teen Dismiss Lawsuit Ahead of October Trial",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-google-172351997.html?.tsrc=rss",
+          "score": -0.2263
         },
         {
-          "title": "Johnson & Johnson Wins FDA 510(k) Clearance for MONARCH QUEST 3 Update",
-          "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-wins-fda-510-154300757.html?.tsrc=rss",
-          "score": 0.8126
-        }
-      ]
-    },
-    {
-      "ticker": "V",
-      "rank": 7,
-      "prob_up": 0.5204,
-      "sentiment_norm": 0.617,
-      "final_score": 0.5494,
-      "price": 370.45,
-      "change_pct": 1.27,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Rain\u2019s Agentic Payments Alliance Is Writing Agent Commerce Standards While Congress Stalls",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/rain-agentic-payments-alliance-writing-202436472.html?.tsrc=rss",
-          "score": 0.128
-        },
-        {
-          "title": "$98 billion In Payouts, A Lagging Stock: The V Trade-Off",
-          "url": "https://www.trefis.com/articles/612185/98-billion-in-payouts-a-lagging-stock-the-v-trade-off/2026-08-20?.tsrc=rss",
-          "score": -0.2732
-        },
-        {
-          "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
-          "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?.tsrc=rss",
-          "score": 0.6249
-        }
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "rank": 8,
-      "prob_up": 0.5071,
-      "sentiment_norm": 0.6433,
-      "final_score": 0.548,
-      "price": 1257.08,
-      "change_pct": 0.97,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Lilly's Multiple Assumes Less Growth Than You Think",
-          "url": "https://www.trefis.com/articles/612404/lillys-multiple-assumes-less-growth-than-you-think/2026-08-21?.tsrc=rss",
-          "score": 0.6142
-        },
-        {
-          "title": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next?",
-          "url": "https://www.fool.com/investing/2026/08/21/stock-split-watch-is-eli-lilly-lly-stock-next/?.tsrc=rss",
-          "score": 0.0992
-        },
-        {
-          "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Tops Buy Point",
-          "url": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
-          "score": 0.9866
+          "title": "Meta Platforms Stock Drops 17% YTD: Should You Buy, Sell or Hold it?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-drops-17-154600084.html?.tsrc=rss",
+          "score": -0.25
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 9,
-      "prob_up": 0.5063,
+      "rank": 5,
+      "prob_up": 0.5178,
       "sentiment_norm": 0.6439,
-      "final_score": 0.5476,
-      "price": 352.32,
-      "change_pct": -0.09,
+      "final_score": 0.5556,
+      "price": 351.54,
+      "change_pct": -0.31,
       "sparkline": [],
       "headlines": [
         {
@@ -247,12 +139,12 @@
     },
     {
       "ticker": "AVGO",
-      "rank": 10,
+      "rank": 6,
       "prob_up": 0.5028,
-      "sentiment_norm": 0.6278,
-      "final_score": 0.5403,
-      "price": 368.16,
-      "change_pct": 0.99,
+      "sentiment_norm": 0.6776,
+      "final_score": 0.5553,
+      "price": 367.81,
+      "change_pct": 0.89,
       "sparkline": [],
       "headlines": [
         {
@@ -273,65 +165,119 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 11,
-      "prob_up": 0.5063,
-      "sentiment_norm": 0.601,
-      "final_score": 0.5347,
-      "price": 214.97,
-      "change_pct": -0.96,
+      "ticker": "V",
+      "rank": 7,
+      "prob_up": 0.5212,
+      "sentiment_norm": 0.617,
+      "final_score": 0.55,
+      "price": 371.58,
+      "change_pct": 1.58,
       "sparkline": [],
       "headlines": [
         {
-          "title": "BMO Spots a Bigger Nvidia Story",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-spots-bigger-nvidia-story-182819406.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Rain\u2019s Agentic Payments Alliance Is Writing Agent Commerce Standards While Congress Stalls",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/rain-agentic-payments-alliance-writing-202436472.html?.tsrc=rss",
+          "score": 0.128
         },
         {
-          "title": "Nvidia Slips Despite New Bet on AI's Power Bottleneck",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-slips-despite-bet-ais-182439997.html?.tsrc=rss",
-          "score": 0.0
+          "title": "$98 billion In Payouts, A Lagging Stock: The V Trade-Off",
+          "url": "https://www.trefis.com/articles/612185/98-billion-in-payouts-a-lagging-stock-the-v-trade-off/2026-08-20?.tsrc=rss",
+          "score": -0.2732
         },
         {
-          "title": "Nvidia to Pay Poolside a $6 Billion License, Tap Startup\u2019s Staff",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html?.tsrc=rss",
+          "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
+          "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?.tsrc=rss",
           "score": 0.6249
         }
       ]
     },
     {
-      "ticker": "UNH",
-      "rank": 12,
-      "prob_up": 0.4763,
-      "sentiment_norm": 0.6475,
-      "final_score": 0.5277,
-      "price": 390.15,
-      "change_pct": 1.52,
+      "ticker": "JNJ",
+      "rank": 8,
+      "prob_up": 0.4765,
+      "sentiment_norm": 0.7207,
+      "final_score": 0.5498,
+      "price": 270.93,
+      "change_pct": 0.72,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Is UnitedHealth Finding a Better Path to Medicare Advantage Growth?",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-finding-better-path-medicare-163200958.html?.tsrc=rss",
-          "score": 0.9493
+          "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
+          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-174323348.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "The IRS is scrutinizing how UnitedHealth moved money through foreign subsidiaries\u2014and whether it underpaid taxes",
-          "url": "https://finance.yahoo.com/economy/policy/articles/irs-scrutinizing-unitedhealth-moved-money-070400880.html?.tsrc=rss",
-          "score": 0.2263
+          "title": "HALO Stock Rises 36% in a Month: Here's What You Should Know",
+          "url": "https://finance.yahoo.com/healthcare/articles/halo-stock-rises-36-month-162300468.html?.tsrc=rss",
+          "score": 0.8519
         },
         {
-          "title": "UnitedHealth Group (UNH) Hit With Investor Lawsuit Over Governance And Cybersecurity Claims",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-hit-investor-211015134.html?.tsrc=rss",
-          "score": -0.8062
+          "title": "Johnson & Johnson Wins FDA 510(k) Clearance for MONARCH QUEST 3 Update",
+          "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-wins-fda-510-154300757.html?.tsrc=rss",
+          "score": 0.8126
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 9,
+      "prob_up": 0.5071,
+      "sentiment_norm": 0.6433,
+      "final_score": 0.548,
+      "price": 1255.76,
+      "change_pct": 0.86,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Lilly's Multiple Assumes Less Growth Than You Think",
+          "url": "https://www.trefis.com/articles/612404/lillys-multiple-assumes-less-growth-than-you-think/2026-08-21?.tsrc=rss",
+          "score": 0.6142
+        },
+        {
+          "title": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next?",
+          "url": "https://www.fool.com/investing/2026/08/21/stock-split-watch-is-eli-lilly-lly-stock-next/?.tsrc=rss",
+          "score": 0.0992
+        },
+        {
+          "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Tops Buy Point",
+          "url": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
+          "score": 0.9866
+        }
+      ]
+    },
+    {
+      "ticker": "PG",
+      "rank": 10,
+      "prob_up": 0.4712,
+      "sentiment_norm": 0.7073,
+      "final_score": 0.542,
+      "price": 144.68,
+      "change_pct": 1.07,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "The Best Dividend Stock for 2027 and Beyond: Procter & Gamble",
+          "url": "https://www.fool.com/investing/2026/08/21/the-best-dividend-stock-for-2027-and-beyond-procte/?.tsrc=rss",
+          "score": 0.6369
+        },
+        {
+          "title": "3 Reasons to Buy and Hold This Wide-Moat Dividend King's Stock Forever",
+          "url": "https://www.fool.com/investing/2026/08/19/3-reasons-to-buy-and-hold-this-wide-moat-dividend/?.tsrc=rss",
+          "score": 0.1027
+        },
+        {
+          "title": "Why Procter & Gamble Remains a Dividend Powerhouse After 70 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-procter-gamble-remains-dividend-010918881.html?.tsrc=rss",
+          "score": 0.3612
         }
       ]
     },
     {
       "ticker": "XOM",
-      "rank": 13,
+      "rank": 11,
       "prob_up": 0.4375,
-      "sentiment_norm": 0.7316,
-      "final_score": 0.5258,
+      "sentiment_norm": 0.7788,
+      "final_score": 0.5399,
       "price": 165.04,
       "change_pct": -0.78,
       "sparkline": [],
@@ -354,12 +300,66 @@
       ]
     },
     {
+      "ticker": "UNH",
+      "rank": 12,
+      "prob_up": 0.4767,
+      "sentiment_norm": 0.6475,
+      "final_score": 0.528,
+      "price": 390.37,
+      "change_pct": 1.57,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Is UnitedHealth Finding a Better Path to Medicare Advantage Growth?",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-finding-better-path-medicare-163200958.html?.tsrc=rss",
+          "score": 0.9493
+        },
+        {
+          "title": "The IRS is scrutinizing how UnitedHealth moved money through foreign subsidiaries\u2014and whether it underpaid taxes",
+          "url": "https://finance.yahoo.com/economy/policy/articles/irs-scrutinizing-unitedhealth-moved-money-070400880.html?.tsrc=rss",
+          "score": 0.2263
+        },
+        {
+          "title": "UnitedHealth Group (UNH) Hit With Investor Lawsuit Over Governance And Cybersecurity Claims",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-hit-investor-211015134.html?.tsrc=rss",
+          "score": -0.8062
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 13,
+      "prob_up": 0.5063,
+      "sentiment_norm": 0.5559,
+      "final_score": 0.5212,
+      "price": 215.13,
+      "change_pct": -0.88,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk\u2019s NVIDIA (NVDA) Pledge Sinks the Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-posts-194827905.html?.tsrc=rss",
+          "score": 0.7615
+        },
+        {
+          "title": "Why Bitcoin Is Up Today",
+          "url": "https://www.fool.com/investing/2026/08/21/why-bitcoin-is-up-today/?.tsrc=rss",
+          "score": 0.4019
+        },
+        {
+          "title": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html?.tsrc=rss",
+          "score": -0.4215
+        }
+      ]
+    },
+    {
       "ticker": "COST",
       "rank": 14,
       "prob_up": 0.5124,
       "sentiment_norm": 0.4862,
       "final_score": 0.5045,
-      "price": 947.57,
+      "price": 947.55,
       "change_pct": 1.43,
       "sparkline": [],
       "headlines": [
@@ -386,8 +386,8 @@
       "prob_up": 0.4325,
       "sentiment_norm": 0.6675,
       "final_score": 0.503,
-      "price": 579.43,
-      "change_pct": 0.86,
+      "price": 580.53,
+      "change_pct": 1.05,
       "sparkline": [],
       "headlines": [
         {
@@ -413,8 +413,8 @@
       "prob_up": 0.4334,
       "sentiment_norm": 0.6515,
       "final_score": 0.4989,
-      "price": 483.01,
-      "change_pct": 0.39,
+      "price": 483.34,
+      "change_pct": 0.46,
       "sparkline": [],
       "headlines": [
         {
@@ -438,12 +438,17 @@
       "ticker": "AMZN",
       "rank": 17,
       "prob_up": 0.4229,
-      "sentiment_norm": 0.6232,
-      "final_score": 0.483,
+      "sentiment_norm": 0.6402,
+      "final_score": 0.4881,
       "price": 259.65,
       "change_pct": -0.33,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Elon Musk: \u201cStarlink Now Has 11k Satellites in Orbit.\u201d Amazon Hasn\u2019t Even Cracked 1,000.",
+          "url": "https://247wallst.com/investing/2026/08/21/elon-musk-starlink-now-has-11k-satellites-in-orbit-amazon-hasnt-even-cracked-1000/?.tsrc=rss",
+          "score": 0.09
+        },
         {
           "title": "Amazon Slips as Walmart Raises a Fresh Consumer Warning",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-slips-walmart-raises-fresh-185958464.html?.tsrc=rss",
@@ -453,11 +458,6 @@
           "title": "Amazon Stock: Cloud Takes The Spotlight While The Store Pays The Toll",
           "url": "https://www.trefis.com/articles/612402/amazon-stock-cloud-takes-the-spotlight-while-the-store-pays-the-toll/2026-08-21?.tsrc=rss",
           "score": 0.0772
-        },
-        {
-          "title": "Are Amazon drones about to take over the skies?",
-          "url": "https://finance.yahoo.com/video/amazon-drones-over-skies-140951380.html?.tsrc=rss",
-          "score": 0.7744
         }
       ]
     },
@@ -465,12 +465,17 @@
       "ticker": "WMT",
       "rank": 18,
       "prob_up": 0.4678,
-      "sentiment_norm": 0.4935,
-      "final_score": 0.4755,
-      "price": 103.31,
-      "change_pct": -0.83,
+      "sentiment_norm": 0.4788,
+      "final_score": 0.4711,
+      "price": 103.49,
+      "change_pct": -0.65,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Walmart Finally Gives In on Apple Pay and Google Pay",
+          "url": "https://finance.yahoo.com/media-advertising/articles/walmart-finally-gives-apple-pay-194228259.html?.tsrc=rss",
+          "score": -0.296
+        },
         {
           "title": "Walmart Falls Again as $89 Billion Selloff Deepens",
           "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-falls-again-89-billion-190210640.html?.tsrc=rss",
@@ -480,11 +485,6 @@
           "title": "WMT Stock Extends Declines After Seeing Worst Day In Four Years \u2014 But BofA, JPMorgan Insist On Buying",
           "url": "https://stocktwits.com/news-articles/markets/equity/wmt-stock-extends-declines-bofa-jp-morgan-insist-on-buying/cZY9TOcRJVR?.tsrc=rss",
           "score": 0.1655
-        },
-        {
-          "title": "Walmart Shares Extend Decline After Rare US Sales Miss",
-          "url": "https://finance.yahoo.com/video/walmart-shares-extend-decline-rare-170938435.html?.tsrc=rss",
-          "score": -0.4404
         }
       ]
     },
@@ -494,8 +494,8 @@
       "prob_up": 0.2759,
       "sentiment_norm": 0.7026,
       "final_score": 0.4039,
-      "price": 345.46,
-      "change_pct": 1.37,
+      "price": 345.8,
+      "change_pct": 1.47,
       "sparkline": [],
       "headlines": [
         {
@@ -519,10 +519,10 @@
       "ticker": "TSLA",
       "rank": 20,
       "prob_up": 0.2169,
-      "sentiment_norm": 0.7253,
+      "sentiment_norm": 0.7254,
       "final_score": 0.3694,
-      "price": 365.15,
-      "change_pct": 5.44,
+      "price": 364.55,
+      "change_pct": 5.27,
       "sparkline": [],
       "headlines": [
         {
