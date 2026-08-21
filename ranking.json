@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-21T18:51:22Z",
+  "last_updated": "2026-08-21T19:33:21Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "AAPL",
       "rank": 1,
-      "prob_up": 0.5998,
-      "sentiment_norm": 0.6854,
-      "final_score": 0.6255,
-      "price": 308.68,
-      "change_pct": -1.1,
+      "prob_up": 0.6131,
+      "sentiment_norm": 0.7056,
+      "final_score": 0.6409,
+      "price": 309.89,
+      "change_pct": -0.71,
       "sparkline": [],
       "headlines": [
         {
@@ -23,20 +23,20 @@
           "score": 0.0772
         },
         {
-          "title": "Apple Booked $6 Million of Profit Per Irish Employee",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-booked-6-million-profit-161942849.html?.tsrc=rss",
-          "score": 0.7003
+          "title": "Apple reportedly cuts jobs in Siri and Vision Pro teams amid AI shift",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-reportedly-cuts-jobs-siri-192838174.html?.tsrc=rss",
+          "score": 0.5994
         }
       ]
     },
     {
       "ticker": "BRK-B",
       "rank": 2,
-      "prob_up": 0.5678,
+      "prob_up": 0.5792,
       "sentiment_norm": 0.6007,
-      "final_score": 0.5777,
-      "price": 497.62,
-      "change_pct": -0.05,
+      "final_score": 0.5857,
+      "price": 496.76,
+      "change_pct": -0.23,
       "sparkline": [],
       "headlines": [
         {
@@ -57,94 +57,13 @@
       ]
     },
     {
-      "ticker": "META",
-      "rank": 3,
-      "prob_up": 0.6237,
-      "sentiment_norm": 0.4498,
-      "final_score": 0.5715,
-      "price": 550.45,
-      "change_pct": 0.78,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Meta Fights FTC Bid To Revive Monopoly Charges",
-          "url": "https://www.mediapost.com/publications/article/417403/meta-fights-ftc-bid-to-revive-monopoly-charges.html?.tsrc=rss",
-          "score": 0.1779
-        },
-        {
-          "title": "Update: Market Chatter: Meta Platforms, Google, Snap See Teen Dismiss Lawsuit Ahead of October Trial",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-google-172351997.html?.tsrc=rss",
-          "score": -0.2263
-        },
-        {
-          "title": "Meta Platforms Stock Drops 17% YTD: Should You Buy, Sell or Hold it?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-drops-17-154600084.html?.tsrc=rss",
-          "score": -0.25
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "rank": 4,
-      "prob_up": 0.5333,
-      "sentiment_norm": 0.6439,
-      "final_score": 0.5665,
-      "price": 351.93,
-      "change_pct": -0.2,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "WMT Stock Extends Declines After Seeing Worst Day In Four Years \u2014 But BofA, JPMorgan Insist On Buying",
-          "url": "https://stocktwits.com/news-articles/markets/equity/wmt-stock-extends-declines-bofa-jp-morgan-insist-on-buying/cZY9TOcRJVR?.tsrc=rss",
-          "score": 0.1655
-        },
-        {
-          "title": "JPMorgan's Q2 Trading Revenues Surge 35%: Can the Momentum Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-q2-trading-revenues-surge-134900185.html?.tsrc=rss",
-          "score": 0.2617
-        },
-        {
-          "title": "JPMorgan says stronger AI revenue makes capex boom more economically viable",
-          "url": "https://investorshub.advfn.com/market-news/article/34805/jpmorgan-says-stronger-ai-revenue-makes-capex-boom-more-economically-viable?.tsrc=rss",
-          "score": 0.8625
-        }
-      ]
-    },
-    {
-      "ticker": "HD",
-      "rank": 5,
-      "prob_up": 0.5195,
-      "sentiment_norm": 0.6578,
-      "final_score": 0.561,
-      "price": 336.09,
-      "change_pct": 0.34,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Cramer Targets Stanley Black & Decker as the Pick-and-Shovel Play on Home Renovation Boom",
-          "url": "https://247wallst.com/investing/2026/08/21/cramer-targets-stanley-black-decker-as-the-pick-and-shovel-play-on-home-renovation-boom/?.tsrc=rss",
-          "score": 0.5423
-        },
-        {
-          "title": "Bank of America resets Home Depot stock price forecast",
-          "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-home-depot-stock-price-forecast?.tsrc=rss",
-          "score": 0.4497
-        },
-        {
-          "title": "Atlanta Falcons Agree to Sell 10% Stake: Report",
-          "url": "https://finance.yahoo.com/m/09de698a-ae44-38b8-92ec-cc25cc9cf388/atlanta-falcons-agree-to-sell.html?.tsrc=rss",
-          "score": 0.5106
-        }
-      ]
-    },
-    {
       "ticker": "PG",
-      "rank": 6,
-      "prob_up": 0.4871,
-      "sentiment_norm": 0.7203,
-      "final_score": 0.5571,
-      "price": 145.02,
-      "change_pct": 1.31,
+      "rank": 3,
+      "prob_up": 0.519,
+      "sentiment_norm": 0.7073,
+      "final_score": 0.5755,
+      "price": 144.79,
+      "change_pct": 1.15,
       "sparkline": [],
       "headlines": [
         {
@@ -165,13 +84,67 @@
       ]
     },
     {
+      "ticker": "META",
+      "rank": 4,
+      "prob_up": 0.6237,
+      "sentiment_norm": 0.4498,
+      "final_score": 0.5715,
+      "price": 549.99,
+      "change_pct": 0.69,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Meta Fights FTC Bid To Revive Monopoly Charges",
+          "url": "https://www.mediapost.com/publications/article/417403/meta-fights-ftc-bid-to-revive-monopoly-charges.html?.tsrc=rss",
+          "score": 0.1779
+        },
+        {
+          "title": "Update: Market Chatter: Meta Platforms, Google, Snap See Teen Dismiss Lawsuit Ahead of October Trial",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-google-172351997.html?.tsrc=rss",
+          "score": -0.2263
+        },
+        {
+          "title": "Meta Platforms Stock Drops 17% YTD: Should You Buy, Sell or Hold it?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-drops-17-154600084.html?.tsrc=rss",
+          "score": -0.25
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "rank": 5,
+      "prob_up": 0.5195,
+      "sentiment_norm": 0.6578,
+      "final_score": 0.561,
+      "price": 335.67,
+      "change_pct": 0.21,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Cramer Targets Stanley Black & Decker as the Pick-and-Shovel Play on Home Renovation Boom",
+          "url": "https://247wallst.com/investing/2026/08/21/cramer-targets-stanley-black-decker-as-the-pick-and-shovel-play-on-home-renovation-boom/?.tsrc=rss",
+          "score": 0.5423
+        },
+        {
+          "title": "Bank of America resets Home Depot stock price forecast",
+          "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-home-depot-stock-price-forecast?.tsrc=rss",
+          "score": 0.4497
+        },
+        {
+          "title": "Atlanta Falcons Agree to Sell 10% Stake: Report",
+          "url": "https://finance.yahoo.com/m/09de698a-ae44-38b8-92ec-cc25cc9cf388/atlanta-falcons-agree-to-sell.html?.tsrc=rss",
+          "score": 0.5106
+        }
+      ]
+    },
+    {
       "ticker": "JNJ",
-      "rank": 7,
-      "prob_up": 0.48,
-      "sentiment_norm": 0.7327,
-      "final_score": 0.5558,
-      "price": 271.46,
-      "change_pct": 0.91,
+      "rank": 6,
+      "prob_up": 0.4822,
+      "sentiment_norm": 0.7207,
+      "final_score": 0.5537,
+      "price": 271.57,
+      "change_pct": 0.96,
       "sparkline": [],
       "headlines": [
         {
@@ -192,40 +165,13 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "rank": 8,
-      "prob_up": 0.5226,
-      "sentiment_norm": 0.6278,
-      "final_score": 0.5542,
-      "price": 366.72,
-      "change_pct": 0.6,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-friday-172901231.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Broadcom seeks up to $80 billion in debt for AI chip deal",
-          "url": "https://qz.com/broadcom-debt-financing-ai-chips-anthropic-082126?.tsrc=rss",
-          "score": 0.128
-        },
-        {
-          "title": "Broadcom\u2019s AI Boom: Is a 2x Stock Gain Still Within Reach?",
-          "url": "https://247wallst.com/investing/2026/08/21/broadcoms-ai-boom-is-a-2x-stock-gain-still-within-reach/?.tsrc=rss",
-          "score": 0.8834
-        }
-      ]
-    },
-    {
       "ticker": "V",
-      "rank": 9,
-      "prob_up": 0.5255,
+      "rank": 7,
+      "prob_up": 0.5204,
       "sentiment_norm": 0.617,
-      "final_score": 0.553,
-      "price": 369.85,
-      "change_pct": 1.11,
+      "final_score": 0.5494,
+      "price": 370.45,
+      "change_pct": 1.27,
       "sparkline": [],
       "headlines": [
         {
@@ -247,14 +193,19 @@
     },
     {
       "ticker": "LLY",
-      "rank": 10,
+      "rank": 8,
       "prob_up": 0.5071,
-      "sentiment_norm": 0.6227,
-      "final_score": 0.5418,
-      "price": 1258.22,
-      "change_pct": 1.06,
+      "sentiment_norm": 0.6433,
+      "final_score": 0.548,
+      "price": 1257.08,
+      "change_pct": 0.97,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Lilly's Multiple Assumes Less Growth Than You Think",
+          "url": "https://www.trefis.com/articles/612404/lillys-multiple-assumes-less-growth-than-you-think/2026-08-21?.tsrc=rss",
+          "score": 0.6142
+        },
         {
           "title": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next?",
           "url": "https://www.fool.com/investing/2026/08/21/stock-split-watch-is-eli-lilly-lly-stock-next/?.tsrc=rss",
@@ -264,22 +215,98 @@
           "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Tops Buy Point",
           "url": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
           "score": 0.9866
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "rank": 9,
+      "prob_up": 0.5063,
+      "sentiment_norm": 0.6439,
+      "final_score": 0.5476,
+      "price": 352.32,
+      "change_pct": -0.09,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "WMT Stock Extends Declines After Seeing Worst Day In Four Years \u2014 But BofA, JPMorgan Insist On Buying",
+          "url": "https://stocktwits.com/news-articles/markets/equity/wmt-stock-extends-declines-bofa-jp-morgan-insist-on-buying/cZY9TOcRJVR?.tsrc=rss",
+          "score": 0.1655
         },
         {
-          "title": "Shareholder pressures Capricor; Lilly dives deeper into vaccines",
-          "url": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/?.tsrc=rss",
-          "score": -0.3182
+          "title": "JPMorgan's Q2 Trading Revenues Surge 35%: Can the Momentum Continue?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-q2-trading-revenues-surge-134900185.html?.tsrc=rss",
+          "score": 0.2617
+        },
+        {
+          "title": "JPMorgan says stronger AI revenue makes capex boom more economically viable",
+          "url": "https://investorshub.advfn.com/market-news/article/34805/jpmorgan-says-stronger-ai-revenue-makes-capex-boom-more-economically-viable?.tsrc=rss",
+          "score": 0.8625
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 10,
+      "prob_up": 0.5028,
+      "sentiment_norm": 0.6278,
+      "final_score": 0.5403,
+      "price": 368.16,
+      "change_pct": 0.99,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-friday-172901231.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Broadcom seeks up to $80 billion in debt for AI chip deal",
+          "url": "https://qz.com/broadcom-debt-financing-ai-chips-anthropic-082126?.tsrc=rss",
+          "score": 0.128
+        },
+        {
+          "title": "Broadcom\u2019s AI Boom: Is a 2x Stock Gain Still Within Reach?",
+          "url": "https://247wallst.com/investing/2026/08/21/broadcoms-ai-boom-is-a-2x-stock-gain-still-within-reach/?.tsrc=rss",
+          "score": 0.8834
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 11,
+      "prob_up": 0.5063,
+      "sentiment_norm": 0.601,
+      "final_score": 0.5347,
+      "price": 214.97,
+      "change_pct": -0.96,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "BMO Spots a Bigger Nvidia Story",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-spots-bigger-nvidia-story-182819406.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Nvidia Slips Despite New Bet on AI's Power Bottleneck",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-slips-despite-bet-ais-182439997.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Nvidia to Pay Poolside a $6 Billion License, Tap Startup\u2019s Staff",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html?.tsrc=rss",
+          "score": 0.6249
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 11,
-      "prob_up": 0.4767,
+      "rank": 12,
+      "prob_up": 0.4763,
       "sentiment_norm": 0.6475,
-      "final_score": 0.528,
-      "price": 390.65,
-      "change_pct": 1.65,
+      "final_score": 0.5277,
+      "price": 390.15,
+      "change_pct": 1.52,
       "sparkline": [],
       "headlines": [
         {
@@ -301,12 +328,12 @@
     },
     {
       "ticker": "XOM",
-      "rank": 12,
+      "rank": 13,
       "prob_up": 0.4375,
       "sentiment_norm": 0.7316,
       "final_score": 0.5258,
-      "price": 165.51,
-      "change_pct": -0.49,
+      "price": 165.04,
+      "change_pct": -0.78,
       "sparkline": [],
       "headlines": [
         {
@@ -328,12 +355,12 @@
     },
     {
       "ticker": "COST",
-      "rank": 13,
-      "prob_up": 0.5394,
+      "rank": 14,
+      "prob_up": 0.5124,
       "sentiment_norm": 0.4862,
-      "final_score": 0.5234,
-      "price": 946.33,
-      "change_pct": 1.3,
+      "final_score": 0.5045,
+      "price": 947.57,
+      "change_pct": 1.43,
       "sparkline": [],
       "headlines": [
         {
@@ -354,40 +381,13 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 14,
-      "prob_up": 0.4334,
-      "sentiment_norm": 0.6915,
-      "final_score": 0.5108,
-      "price": 482.35,
-      "change_pct": 0.26,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Microsoft vs. Nvidia: Which AI Giant Is More Likely to Double Your Money?",
-          "url": "https://247wallst.com/investing/2026/08/21/microsoft-vs-nvidia-which-ai-giant-is-more-likely-to-double-your-money/?.tsrc=rss",
-          "score": 0.8834
-        },
-        {
-          "title": "IREN Jumps 6% but Then Gives Up Gains as Microsoft Accepts Horizon 1; TeraWulf Ticks Up, Cipher Digital Drops 5%",
-          "url": "https://247wallst.com/investing/2026/08/21/iren-jumps-6-but-then-gives-up-gains-as-microsoft-accepts-horizon-1-terawulf-ticks-up-cipher-digital-drops-5/?.tsrc=rss",
-          "score": 0.8765
-        },
-        {
-          "title": "Hyperscale Data Center Market Surges to $608.54 billion at a CAGR 24.6% by 2030 | Report by MarketsandMarkets\u2122",
-          "url": "https://finance.yahoo.com/technology/articles/hyperscale-data-center-market-surges-141500721.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
       "ticker": "MA",
       "rank": 15,
-      "prob_up": 0.4436,
+      "prob_up": 0.4325,
       "sentiment_norm": 0.6675,
-      "final_score": 0.5108,
-      "price": 579.41,
-      "change_pct": 0.85,
+      "final_score": 0.503,
+      "price": 579.43,
+      "change_pct": 0.86,
       "sparkline": [],
       "headlines": [
         {
@@ -408,15 +408,47 @@
       ]
     },
     {
-      "ticker": "AMZN",
+      "ticker": "MSFT",
       "rank": 16,
-      "prob_up": 0.4033,
-      "sentiment_norm": 0.7038,
-      "final_score": 0.4935,
-      "price": 258.96,
-      "change_pct": -0.6,
+      "prob_up": 0.4334,
+      "sentiment_norm": 0.6515,
+      "final_score": 0.4989,
+      "price": 483.01,
+      "change_pct": 0.39,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Is Microsoft a Screaming Buy Under $500 Per Share?",
+          "url": "https://www.fool.com/investing/2026/08/21/is-microsoft-a-screaming-buy-under-500-per-share/?.tsrc=rss",
+          "score": -0.1431
+        },
+        {
+          "title": "Microsoft Stock Gets Cheaper Only If The Forecast Arrives",
+          "url": "https://www.trefis.com/articles/612403/microsoft-stock-gets-cheaper-only-if-the-forecast-arrives/2026-08-21?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Microsoft vs. Nvidia: Which AI Giant Is More Likely to Double Your Money?",
+          "url": "https://247wallst.com/investing/2026/08/21/microsoft-vs-nvidia-which-ai-giant-is-more-likely-to-double-your-money/?.tsrc=rss",
+          "score": 0.8834
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 17,
+      "prob_up": 0.4229,
+      "sentiment_norm": 0.6232,
+      "final_score": 0.483,
+      "price": 259.65,
+      "change_pct": -0.33,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Amazon Slips as Walmart Raises a Fresh Consumer Warning",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-slips-walmart-raises-fresh-185958464.html?.tsrc=rss",
+          "score": -0.4215
+        },
         {
           "title": "Amazon Stock: Cloud Takes The Spotlight While The Store Pays The Toll",
           "url": "https://www.trefis.com/articles/612402/amazon-stock-cloud-takes-the-spotlight-while-the-store-pays-the-toll/2026-08-21?.tsrc=rss",
@@ -426,24 +458,24 @@
           "title": "Are Amazon drones about to take over the skies?",
           "url": "https://finance.yahoo.com/video/amazon-drones-over-skies-140951380.html?.tsrc=rss",
           "score": 0.7744
-        },
-        {
-          "title": "Marvell Stock Flashes Strong Signal Before Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-flashes-strong-signal-162453158.html?.tsrc=rss",
-          "score": 0.5106
         }
       ]
     },
     {
       "ticker": "WMT",
-      "rank": 17,
-      "prob_up": 0.4428,
-      "sentiment_norm": 0.6089,
-      "final_score": 0.4926,
-      "price": 102.86,
-      "change_pct": -1.26,
+      "rank": 18,
+      "prob_up": 0.4678,
+      "sentiment_norm": 0.4935,
+      "final_score": 0.4755,
+      "price": 103.31,
+      "change_pct": -0.83,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Walmart Falls Again as $89 Billion Selloff Deepens",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-falls-again-89-billion-190210640.html?.tsrc=rss",
+          "score": -0.7568
+        },
         {
           "title": "WMT Stock Extends Declines After Seeing Worst Day In Four Years \u2014 But BofA, JPMorgan Insist On Buying",
           "url": "https://stocktwits.com/news-articles/markets/equity/wmt-stock-extends-declines-bofa-jp-morgan-insist-on-buying/cZY9TOcRJVR?.tsrc=rss",
@@ -453,49 +485,17 @@
           "title": "Walmart Shares Extend Decline After Rare US Sales Miss",
           "url": "https://finance.yahoo.com/video/walmart-shares-extend-decline-rare-170938435.html?.tsrc=rss",
           "score": -0.4404
-        },
-        {
-          "title": "Walmart to Offer Apple Pay in Push for Contactless Payments",
-          "url": "https://finance.yahoo.com/media-advertising/articles/walmart-offer-apple-pay-push-161551690.html?.tsrc=rss",
-          "score": -0.2023
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 18,
-      "prob_up": 0.4436,
-      "sentiment_norm": 0.5819,
-      "final_score": 0.4851,
-      "price": 215.34,
-      "change_pct": -0.79,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "BMO Spots a Bigger Nvidia Story",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-spots-bigger-nvidia-story-182819406.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Nvidia Slips Despite New Bet on AI's Power Bottleneck",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-slips-despite-bet-ais-182439997.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Jensen Huang Thinks This Chip Stock Could Hit $1 Trillion. Google Just Gave Him Ammunition",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-thinks-chip-stock-174546833.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "GOOGL",
       "rank": 19,
-      "prob_up": 0.2944,
+      "prob_up": 0.2759,
       "sentiment_norm": 0.7026,
-      "final_score": 0.4169,
-      "price": 345.24,
-      "change_pct": 1.3,
+      "final_score": 0.4039,
+      "price": 345.46,
+      "change_pct": 1.37,
       "sparkline": [],
       "headlines": [
         {
@@ -519,12 +519,17 @@
       "ticker": "TSLA",
       "rank": 20,
       "prob_up": 0.2169,
-      "sentiment_norm": 0.6456,
-      "final_score": 0.3455,
-      "price": 364.76,
-      "change_pct": 5.33,
+      "sentiment_norm": 0.7253,
+      "final_score": 0.3694,
+      "price": 365.15,
+      "change_pct": 5.44,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Tesla vs. SpaceX: Which Musk Stock Offers the Better Bet on the Future?",
+          "url": "https://247wallst.com/investing/2026/08/21/tesla-vs-spacex-which-musk-stock-offers-the-better-bet-on-the-future/?.tsrc=rss",
+          "score": 0.765
+        },
         {
           "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-3-6-semi-182220329.html?.tsrc=rss",
@@ -534,11 +539,6 @@
           "title": "Cathie Wood's Ark Invest Held $1.16 Billion of Tesla Stock as of the End of the Second Quarter, Even as It Trails Every Other \"Magnificent Seven\" Stock in 2026. Is Her Conviction Still Justified?",
           "url": "https://www.fool.com/investing/2026/08/21/cathie-woods-ark-invest-held-116-billion-of-tesla/?.tsrc=rss",
           "score": 0.765
-        },
-        {
-          "title": "Tesla Stock Jumps as $300,000 Semi Truck Targets Europe",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-300-000-161855959.html?.tsrc=rss",
-          "score": 0.4019
         }
       ]
     }
