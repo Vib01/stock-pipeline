@@ -1,123 +1,42 @@
 {
-  "last_updated": "2026-08-24T13:58:09Z",
+  "last_updated": "2026-08-24T14:54:05Z",
   "market_status": "open",
   "rankings": [
     {
-      "ticker": "META",
-      "rank": 1,
-      "prob_up": 0.6237,
-      "sentiment_norm": 0.5866,
-      "final_score": 0.6126,
-      "price": 549.89,
-      "change_pct": -0.55,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Two Legendary Investors Just Bought Meta Platforms Stock. Is It Time for You to Buy?",
-          "url": "https://www.fool.com/investing/2026/08/24/two-legendary-investors-just-bought-meta-platforms/?.tsrc=rss",
-          "score": 0.4215
-        },
-        {
-          "title": "Gary Black Sees META Stock Underperform S&P 500 As $1.4 Trillion \u2018Tobacco-Like\u2019 Legal Overhang Looms",
-          "url": "https://stocktwits.com/news-articles/markets/equity/meta-stock-gary-black-1-4-trillion-tobacco-legal-overhang-sp-500/cZYKWq6RJnr?.tsrc=rss",
-          "score": 0.3612
-        },
-        {
-          "title": "Trump June stock disclosure: 1,000+ trades worth up to $263M",
-          "url": "https://qz.com/trump-june-financial-disclosure-stock-trades-082426?.tsrc=rss",
-          "score": 0.4767
-        }
-      ]
-    },
-    {
       "ticker": "AAPL",
-      "rank": 2,
-      "prob_up": 0.6131,
-      "sentiment_norm": 0.5935,
-      "final_score": 0.6072,
-      "price": 311.4,
-      "change_pct": 0.55,
+      "rank": 1,
+      "prob_up": 0.6059,
+      "sentiment_norm": 0.5751,
+      "final_score": 0.5966,
+      "price": 312.8,
+      "change_pct": 1.0,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Analyst calls MU, SNDK pre-market drop on CXMT Apple report an overreaction",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-calls-mu-sndk-pre-131247307.html?.tsrc=rss",
-          "score": -0.872
+          "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Tech Hit With Micron, Nvidia Drops (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/1a58dcaa-61d6-34aa-8999-e800df60b02d/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Apple vs. Adobe: Seasonal Peaks vs. Steady Growth in Revenue",
-          "url": "https://www.fool.com/coverage/charts/2026/08/24/apple-vs-adobe-seasonal-peaks-vs-steady-growth-in-revenue/?.tsrc=rss",
-          "score": 0.7845
+          "title": "Nvidia Sinks: Earnings Apprehension Or AI Trade Unwind? Is Nvidia A Buy Now?",
+          "url": "https://finance.yahoo.com/m/74c4fa99-ef9c-3a69-aaea-6c394f975642/nvidia-sinks%3A-earnings.html?.tsrc=rss",
+          "score": -0.5362
         },
         {
-          "title": "Apple (AAPL) Cuts 200 Jobs In Siri And Vision Pro To Refocus On AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-cuts-200-jobs-110937428.html?.tsrc=rss",
-          "score": 0.7964
-        }
-      ]
-    },
-    {
-      "ticker": "JNJ",
-      "rank": 3,
-      "prob_up": 0.4863,
-      "sentiment_norm": 0.7843,
-      "final_score": 0.5757,
-      "price": 271.36,
-      "change_pct": 0.13,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Pfizer vs. Johnson & Johnson: Which Pharma Giant Is Better Prepared for Its Patent Cliff?",
-          "url": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-johnson-johnson-pharma-004627834.html?.tsrc=rss",
-          "score": 0.7346
-        },
-        {
-          "title": "Is Johnson & Johnson\u2019s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-5-5-billion-230104916.html?.tsrc=rss",
-          "score": -0.6124
-        },
-        {
-          "title": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
-          "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html?.tsrc=rss",
-          "score": 0.8399
-        }
-      ]
-    },
-    {
-      "ticker": "HD",
-      "rank": 4,
-      "prob_up": 0.5471,
-      "sentiment_norm": 0.6411,
-      "final_score": 0.5753,
-      "price": 340.08,
-      "change_pct": 1.24,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Jim Cramer Doesn\u2019t Think Home Depot Is Expensive Enough To Be Avoided",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doesn-t-think-000711550.html?.tsrc=rss",
-          "score": 0.0772
-        },
-        {
-          "title": "Bill Gates makes $180 million bet on backbone of America's economy",
-          "url": "https://www.thestreet.com/investing/stocks/fdxf-fedex-freight-holding-company-bill-gates-opens-180-million-fedex-freight-bet-in-latest-13f-filing-alongside-home-depot?.tsrc=rss",
-          "score": 0.5106
-        },
-        {
-          "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh.",
-          "url": "https://www.fool.com/investing/2026/08/22/this-sp-500-stock-pays-a-267-dividend-yield-and-ha/?.tsrc=rss",
-          "score": 0.6654
+          "title": "Why Micron Stock Dropped This Morning",
+          "url": "https://www.fool.com/investing/2026/08/24/why-micron-stock-dropped-this-morning/?.tsrc=rss",
+          "score": -0.0516
         }
       ]
     },
     {
       "ticker": "COST",
-      "rank": 5,
-      "prob_up": 0.5227,
-      "sentiment_norm": 0.6536,
-      "final_score": 0.562,
-      "price": 959.02,
-      "change_pct": 1.21,
+      "rank": 2,
+      "prob_up": 0.5142,
+      "sentiment_norm": 0.7204,
+      "final_score": 0.5761,
+      "price": 962.88,
+      "change_pct": 1.61,
       "sparkline": [],
       "headlines": [
         {
@@ -138,44 +57,76 @@
       ]
     },
     {
-      "ticker": "UNH",
-      "rank": 6,
-      "prob_up": 0.5543,
-      "sentiment_norm": 0.578,
-      "final_score": 0.5614,
-      "price": 396.5,
-      "change_pct": 1.61,
+      "ticker": "JNJ",
+      "rank": 3,
+      "prob_up": 0.4777,
+      "sentiment_norm": 0.7768,
+      "final_score": 0.5674,
+      "price": 270.92,
+      "change_pct": -0.03,
       "sparkline": [],
       "headlines": [
         {
-          "title": "What Does UnitedHealth Group (UNH) IRS Tax Scrutiny Mean For Investors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-unitedhealth-group-unh-irs-220902043.html?.tsrc=rss",
-          "score": 0.0
+          "title": "J&J's Strong Pipeline Momentum Offers Multiple Growth Catalysts Ahead",
+          "url": "https://finance.yahoo.com/healthcare/articles/j-js-strong-pipeline-momentum-143800135.html?.tsrc=rss",
+          "score": 0.886
         },
         {
-          "title": "Is The Pullback In UNH Stock A Glitch Or A Warning?",
-          "url": "https://www.trefis.com/articles/612361/is-the-pullback-in-unh-stock-a-glitch-or-a-warning/2026-08-21?.tsrc=rss",
-          "score": -0.34
+          "title": "Pfizer vs. Johnson & Johnson: Which Pharma Giant Is Better Prepared for Its Patent Cliff?",
+          "url": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-johnson-johnson-pharma-004627834.html?.tsrc=rss",
+          "score": 0.7346
         },
         {
-          "title": "Mark Cuban: \u201cNo Chance\u201d Radiologists Get Replaced by AI. He Says the Real Target Is Elsewhere",
-          "url": "https://247wallst.com/investing/2026/08/21/mark-cuban-no-chance-radiologists-get-replaced-by-ai-he-says-the-real-target-is-elsewhere/?.tsrc=rss",
-          "score": -0.1335
+          "title": "Is Johnson & Johnson\u2019s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-5-5-billion-230104916.html?.tsrc=rss",
+          "score": -0.6124
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "rank": 4,
+      "prob_up": 0.5282,
+      "sentiment_norm": 0.6411,
+      "final_score": 0.562,
+      "price": 337.81,
+      "change_pct": 0.57,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Jim Cramer Doesn\u2019t Think Home Depot Is Expensive Enough To Be Avoided",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doesn-t-think-000711550.html?.tsrc=rss",
+          "score": 0.0772
+        },
+        {
+          "title": "Bill Gates makes $180 million bet on backbone of America's economy",
+          "url": "https://www.thestreet.com/investing/stocks/fdxf-fedex-freight-holding-company-bill-gates-opens-180-million-fedex-freight-bet-in-latest-13f-filing-alongside-home-depot?.tsrc=rss",
+          "score": 0.5106
+        },
+        {
+          "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh.",
+          "url": "https://www.fool.com/investing/2026/08/22/this-sp-500-stock-pays-a-267-dividend-yield-and-ha/?.tsrc=rss",
+          "score": 0.6654
         }
       ]
     },
     {
       "ticker": "BRK-B",
-      "rank": 7,
-      "prob_up": 0.5205,
-      "sentiment_norm": 0.6558,
-      "final_score": 0.5611,
-      "price": 502.86,
-      "change_pct": 1.32,
+      "rank": 5,
+      "prob_up": 0.5106,
+      "sentiment_norm": 0.6662,
+      "final_score": 0.5573,
+      "price": 502.39,
+      "change_pct": 1.23,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Fidelity's Magellan Fund Manager Peter Lynch Was a Stock-Picking Rockstar in the 1980s, Averaging an Annual Return of 29%. Could His Top Rule Then Work for You Now?",
+          "title": "Warren Buffett Called Airlines the \u201cWorst Sort of Business.\u201d His Successor Just Built a $5.4 Billion Position Anyway.",
+          "url": "https://247wallst.com/investing/2026/08/24/warren-buffett-called-airlines-the-worst-sort-of-business-his-successor-just-built-a-5-4-billion-position-anyway/?.tsrc=rss",
+          "score": 0.7184
+        },
+        {
+          "title": "Fidelity's Magellan Fund Manager Peter Lynch Was a Stock-Picking Rock Star in the 1980s, Averaging an Annual Return of 29%. Could His Top Rule Then Work for You Now?",
           "url": "https://www.fool.com/investing/2026/08/24/fidelitys-magellan-fund-manager-peter-lynch-was-a/?.tsrc=rss",
           "score": 0.2023
         },
@@ -183,22 +134,44 @@
           "title": "Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.",
           "url": "https://www.fool.com/investing/2026/08/23/warren-greg-abel-just-spent-23-billion-on-9-stocks/?.tsrc=rss",
           "score": 0.6369
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "rank": 6,
+      "prob_up": 0.5606,
+      "sentiment_norm": 0.496,
+      "final_score": 0.5412,
+      "price": 552.86,
+      "change_pct": -0.02,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Two Legendary Investors Just Bought Meta Platforms Stock. Is It Time for You to Buy?",
+          "url": "https://www.fool.com/investing/2026/08/24/two-legendary-investors-just-bought-meta-platforms/?.tsrc=rss",
+          "score": 0.4215
         },
         {
-          "title": "Berkshire CEO Greg Abel Is Sitting on Nearly $400 Billion in Cash. Here's How His Deal-Making Approach Differs From Warren Buffett's.",
-          "url": "https://www.fool.com/investing/2026/08/23/berkshire-ceo-greg-abel-is-sitting-on-nearly-400-b/?.tsrc=rss",
-          "score": 0.0
+          "title": "Gary Black Sees META Stock Underperform S&P 500 As $1.4 Trillion \u2018Tobacco-Like\u2019 Legal Overhang Looms",
+          "url": "https://stocktwits.com/news-articles/markets/equity/meta-stock-gary-black-1-4-trillion-tobacco-legal-overhang-sp-500/cZYKWq6RJnr?.tsrc=rss",
+          "score": 0.3612
+        },
+        {
+          "title": "Trump June stock disclosure: 1,000+ trades worth up to $263M",
+          "url": "https://qz.com/trump-june-financial-disclosure-stock-trades-082426?.tsrc=rss",
+          "score": 0.4767
         }
       ]
     },
     {
       "ticker": "JPM",
-      "rank": 8,
-      "prob_up": 0.5371,
+      "rank": 7,
+      "prob_up": 0.5252,
       "sentiment_norm": 0.5545,
-      "final_score": 0.5424,
-      "price": 356.77,
-      "change_pct": 1.36,
+      "final_score": 0.534,
+      "price": 357.21,
+      "change_pct": 1.48,
       "sparkline": [],
       "headlines": [
         {
@@ -219,40 +192,13 @@
       ]
     },
     {
-      "ticker": "LLY",
-      "rank": 9,
-      "prob_up": 0.4822,
-      "sentiment_norm": 0.6553,
-      "final_score": 0.5341,
-      "price": 1246.97,
-      "change_pct": -0.57,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Roche and Eli Lilly Win FDA Clearance for Alzheimer\u2019s Blood Test",
-          "url": "https://investorshub.advfn.com/market-news/article/34920/roche-and-eli-lilly-win-fda-clearance-for-alzheimers-blood-test?.tsrc=rss",
-          "score": 0.7579
-        },
-        {
-          "title": "Lilly's GLP-1 pill hits UK pharmacies as US battle with Novo intensifies",
-          "url": "https://www.proactiveinvestors.com/companies/news/1097473/lilly-s-glp-1-pill-hits-uk-pharmacies-as-us-battle-with-novo-intensifies-1097473.html?.tsrc=rss",
-          "score": -0.0516
-        },
-        {
-          "title": "Eli Lilly Launches Foundayo Weight-Loss Pill in UK",
-          "url": "https://investorshub.advfn.com/market-news/article/34893/eli-lilly-launches-foundayo-weight-loss-pill-in-uk?.tsrc=rss",
-          "score": 0.128
-        }
-      ]
-    },
-    {
       "ticker": "V",
-      "rank": 10,
+      "rank": 8,
       "prob_up": 0.526,
       "sentiment_norm": 0.539,
       "final_score": 0.5299,
-      "price": 380.14,
-      "change_pct": 2.39,
+      "price": 380.49,
+      "change_pct": 2.49,
       "sparkline": [],
       "headlines": [
         {
@@ -273,13 +219,40 @@
       ]
     },
     {
+      "ticker": "LLY",
+      "rank": 9,
+      "prob_up": 0.4979,
+      "sentiment_norm": 0.5765,
+      "final_score": 0.5215,
+      "price": 1236.64,
+      "change_pct": -1.4,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Roche and Eli Lilly Win FDA Clearance for Alzheimer\u2019s Blood Test",
+          "url": "https://investorshub.advfn.com/market-news/article/34920/roche-and-eli-lilly-win-fda-clearance-for-alzheimers-blood-test?.tsrc=rss",
+          "score": 0.7579
+        },
+        {
+          "title": "Lilly's GLP-1 pill hits UK pharmacies as US battle with Novo intensifies",
+          "url": "https://www.proactiveinvestors.com/companies/news/1097473/lilly-s-glp-1-pill-hits-uk-pharmacies-as-us-battle-with-novo-intensifies-1097473.html?.tsrc=rss",
+          "score": -0.0516
+        },
+        {
+          "title": "Eli Lilly Launches Foundayo Weight-Loss Pill in UK",
+          "url": "https://investorshub.advfn.com/market-news/article/34893/eli-lilly-launches-foundayo-weight-loss-pill-in-uk?.tsrc=rss",
+          "score": 0.128
+        }
+      ]
+    },
+    {
       "ticker": "PG",
-      "rank": 11,
+      "rank": 10,
       "prob_up": 0.4635,
-      "sentiment_norm": 0.645,
-      "final_score": 0.518,
-      "price": 146.15,
-      "change_pct": 0.88,
+      "sentiment_norm": 0.6366,
+      "final_score": 0.5155,
+      "price": 146.21,
+      "change_pct": 0.92,
       "sparkline": [],
       "headlines": [
         {
@@ -301,12 +274,12 @@
     },
     {
       "ticker": "MA",
-      "rank": 12,
+      "rank": 11,
       "prob_up": 0.4733,
       "sentiment_norm": 0.6066,
       "final_score": 0.5133,
-      "price": 597.39,
-      "change_pct": 2.99,
+      "price": 596.7,
+      "change_pct": 2.87,
       "sparkline": [],
       "headlines": [
         {
@@ -328,12 +301,12 @@
     },
     {
       "ticker": "XOM",
-      "rank": 13,
-      "prob_up": 0.439,
+      "rank": 12,
+      "prob_up": 0.4426,
       "sentiment_norm": 0.6669,
-      "final_score": 0.5074,
-      "price": 164.41,
-      "change_pct": -0.48,
+      "final_score": 0.5099,
+      "price": 163.44,
+      "change_pct": -1.07,
       "sparkline": [],
       "headlines": [
         {
@@ -354,15 +327,47 @@
       ]
     },
     {
+      "ticker": "UNH",
+      "rank": 13,
+      "prob_up": 0.4779,
+      "sentiment_norm": 0.578,
+      "final_score": 0.5079,
+      "price": 394.36,
+      "change_pct": 1.07,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "What Does UnitedHealth Group (UNH) IRS Tax Scrutiny Mean For Investors?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-unitedhealth-group-unh-irs-220902043.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Is The Pullback In UNH Stock A Glitch Or A Warning?",
+          "url": "https://www.trefis.com/articles/612361/is-the-pullback-in-unh-stock-a-glitch-or-a-warning/2026-08-21?.tsrc=rss",
+          "score": -0.34
+        },
+        {
+          "title": "Mark Cuban: \u201cNo Chance\u201d Radiologists Get Replaced by AI. He Says the Real Target Is Elsewhere",
+          "url": "https://247wallst.com/investing/2026/08/21/mark-cuban-no-chance-radiologists-get-replaced-by-ai-he-says-the-real-target-is-elsewhere/?.tsrc=rss",
+          "score": -0.1335
+        }
+      ]
+    },
+    {
       "ticker": "AVGO",
       "rank": 14,
       "prob_up": 0.4327,
-      "sentiment_norm": 0.601,
-      "final_score": 0.4832,
-      "price": 363.16,
-      "change_pct": -1.58,
+      "sentiment_norm": 0.5452,
+      "final_score": 0.4665,
+      "price": 363.13,
+      "change_pct": -1.59,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Broadcom\u2019s $60 Billion AI Debt Deal Hides a $370 Billion Question Nobody on Wall Street Wants to Answer",
+          "url": "https://247wallst.com/investing/2026/08/24/broadcoms-60-billion-ai-debt-deal-hides-a-370-billion-question-nobody-on-wall-street-wants-to-answer/?.tsrc=rss",
+          "score": -0.6059
+        },
         {
           "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
           "url": "https://247wallst.com/investing/2026/08/24/the-ai-opportunity-qualcomm-investors-may-be-underestimating/?.tsrc=rss",
@@ -372,38 +377,33 @@
           "title": "The Big Difference Between Broadcom and Marvell Technology",
           "url": "https://247wallst.com/investing/2026/08/24/the-big-difference-between-broadcom-and-marvell-technology/?.tsrc=rss",
           "score": -0.1128
-        },
-        {
-          "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom",
-          "url": "https://www.fool.com/investing/2026/08/24/beyond-nvidia-amd-and-broadcom-why-this-chip-stock/?.tsrc=rss",
-          "score": 0.7783
         }
       ]
     },
     {
-      "ticker": "AMZN",
+      "ticker": "WMT",
       "rank": 15,
-      "prob_up": 0.4467,
-      "sentiment_norm": 0.5566,
-      "final_score": 0.4797,
-      "price": 261.59,
-      "change_pct": 0.79,
+      "prob_up": 0.4273,
+      "sentiment_norm": 0.5393,
+      "final_score": 0.4609,
+      "price": 104.45,
+      "change_pct": 0.75,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Amazon\u2019s AWS Could Compound to $222 Billion by 2027. TD Cowen Says That\u2019s 11% More Than Anyone Expects",
-          "url": "https://247wallst.com/investing/2026/08/24/amazons-aws-could-compound-to-222-billion-by-2027-td-cowen-says-thats-11-more-than-anyone-expects/?.tsrc=rss",
-          "score": -0.34
+          "title": "Three Cracks in Consumer Spending Reveal Why Walmart Had Its Worst Day Since 2022 Despite an Earnings Beat",
+          "url": "https://247wallst.com/investing/2026/08/24/three-cracks-in-consumer-spending-reveal-why-walmart-had-its-worst-day-since-2022-despite-an-earnings-beat/?.tsrc=rss",
+          "score": -0.886
         },
         {
-          "title": "Jeff Bezos' Amazon Just Raised Its AI Spending Target to $220 Billion for 2026. Here's What That Capex Hike Means for Investors.",
-          "url": "https://www.fool.com/investing/2026/08/24/jeff-bezos-amazon-just-raised-its-ai-spending-to-2/?.tsrc=rss",
-          "score": -0.4215
+          "title": "Can Walmart's Tap to Pay Push Strengthen Customer Engagement?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmarts-tap-pay-push-strengthen-142500838.html?.tsrc=rss",
+          "score": 0.836
         },
         {
-          "title": "Huge News For Amazon Stock Fans",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/huge-news-amazon-stock-fans-123857659.html?.tsrc=rss",
-          "score": -0.128
+          "title": "Walmart Has Too Many Stores",
+          "url": "https://247wallst.com/investing/2026/08/24/walmart-has-too-many-stores/?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
@@ -411,91 +411,91 @@
       "ticker": "NVDA",
       "rank": 16,
       "prob_up": 0.4478,
-      "sentiment_norm": 0.5057,
-      "final_score": 0.4652,
-      "price": 209.62,
-      "change_pct": -2.67,
+      "sentiment_norm": 0.4813,
+      "final_score": 0.4579,
+      "price": 209.77,
+      "change_pct": -2.6,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today (Aug. 24, 2026): Nasdaq slides on Iran sanctions, U.S.-Canada tariff threats",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-24-2026?.tsrc=rss",
-          "score": -0.4215
+          "title": "Micron's Big AI Test Is Coming This Week",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microns-big-ai-test-coming-144549533.html?.tsrc=rss",
+          "score": -0.6124
         },
         {
-          "title": "U.S. Stocks Set for Cautious Open Ahead of Nvidia Earnings and Jackson Hole: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-          "url": "https://investorshub.advfn.com/market-news/article/34924/u-s-stocks-set-for-cautious-open-ahead-of-nvidia-earnings-and-jackson-hole-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
-          "score": -0.4019
+          "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
+          "url": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/?.tsrc=rss",
+          "score": -0.1027
         },
         {
-          "title": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61380830/nvidia-ai-server-prices-micron?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-          "score": 0.5859
+          "title": "Super Micro Sinks 7% as Taiwan Indicts Employees Over Illegal AI Server Exports to China, Dell Slips",
+          "url": "https://247wallst.com/investing/2026/08/24/super-micro-sinks-7-as-taiwan-indicts-employees-over-illegal-ai-server-exports-to-china-dell-slips/?.tsrc=rss",
+          "score": 0.4215
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 17,
+      "prob_up": 0.3841,
+      "sentiment_norm": 0.6018,
+      "final_score": 0.4494,
+      "price": 262.11,
+      "change_pct": 0.99,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Billionaire Stanley Druckenmiller Bought Amazon and Alphabet in Q2. But His Single Biggest Holding Is Neither of Them -- and It's Not Nvidia Either.",
+          "url": "https://www.fool.com/investing/2026/08/24/billionaire-stanley-druckenmiller-bought-amazon-an/?.tsrc=rss",
+          "score": 0.5994
+        },
+        {
+          "title": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/buy-3-pure-play-server-140000913.html?.tsrc=rss",
+          "score": 0.4588
+        },
+        {
+          "title": "Amazon\u2019s AWS Could Compound to $222 Billion by 2027. TD Cowen Says That\u2019s 11% More Than Anyone Expects",
+          "url": "https://247wallst.com/investing/2026/08/24/amazons-aws-could-compound-to-222-billion-by-2027-td-cowen-says-thats-11-more-than-anyone-expects/?.tsrc=rss",
+          "score": -0.34
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "rank": 17,
+      "rank": 18,
       "prob_up": 0.3776,
-      "sentiment_norm": 0.6486,
-      "final_score": 0.4589,
-      "price": 486.21,
-      "change_pct": 0.54,
+      "sentiment_norm": 0.6069,
+      "final_score": 0.4464,
+      "price": 487.2,
+      "change_pct": 0.74,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Nvidia Could Drop 20% On Poor Earnings",
+          "url": "https://247wallst.com/investing/2026/08/24/nvidia-could-drop-20-on-poor-earnings/?.tsrc=rss",
+          "score": -0.6757
+        },
+        {
+          "title": "Cosmos Launches Six Pre-Built Power BI Report Packs for Microsoft Dynamics 365 Business Central",
+          "url": "https://finance.yahoo.com/technology/articles/cosmos-launches-six-pre-built-140600101.html?.tsrc=rss",
+          "score": 0.2732
+        },
         {
           "title": "Forget the S&P 500: Microsoft Remains One of the Best Stocks to Own",
           "url": "https://www.fool.com/investing/2026/08/24/forget-the-sp-500-microsoft-remains-one-of-the-bes/?.tsrc=rss",
           "score": 0.5106
-        },
-        {
-          "title": "This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That",
-          "url": "https://247wallst.com/investing/2026/08/23/this-company-just-paid-out-6-8-billion-its-ai-bill-was-4x-that/?.tsrc=rss",
-          "score": 0.1779
-        },
-        {
-          "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html?.tsrc=rss",
-          "score": -0.1027
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 18,
-      "prob_up": 0.4273,
-      "sentiment_norm": 0.4953,
-      "final_score": 0.4477,
-      "price": 104.75,
-      "change_pct": 1.04,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Walmart\u2019s AI Bet Is Working: Sparky Users Spend 40% More as CEO Says AI Will Reshape \u2018Nearly Every Part of Our Business\u2019",
-          "url": "https://finance.yahoo.com/technology/ai/articles/walmart-ai-bet-working-sparky-110112843.html?.tsrc=rss",
-          "score": 0.5859
-        },
-        {
-          "title": "Walmart enables Tap to Pay at select stores",
-          "url": "https://www.electronicpaymentsinternational.com/news/walmart-enables-tap-to-pay-at-select-stores/?.tsrc=rss",
-          "score": 0.2263
-        },
-        {
-          "title": "Zacks Investment Ideas feature highlights: Target and Walmart",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-102600200.html?.tsrc=rss",
-          "score": 0.0
         }
       ]
     },
     {
       "ticker": "GOOGL",
       "rank": 19,
-      "prob_up": 0.2994,
+      "prob_up": 0.3173,
       "sentiment_norm": 0.6572,
-      "final_score": 0.4067,
-      "price": 347.69,
-      "change_pct": 0.75,
+      "final_score": 0.4193,
+      "price": 349.93,
+      "change_pct": 1.4,
       "sparkline": [],
       "headlines": [
         {
@@ -504,8 +504,8 @@
           "score": -0.418
         },
         {
-          "title": "Tesla Cybercab to launch Sept. 3rd as robotaxi bet ramps up",
-          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3rd-as-robotaxi-bet-ramps-up-135557945.html?.tsrc=rss",
+          "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
+          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html?.tsrc=rss",
           "score": 0.3818
         },
         {
@@ -518,27 +518,27 @@
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.2956,
-      "sentiment_norm": 0.636,
-      "final_score": 0.3977,
-      "price": 354.05,
-      "change_pct": -2.71,
+      "prob_up": 0.2649,
+      "sentiment_norm": 0.6804,
+      "final_score": 0.3895,
+      "price": 357.76,
+      "change_pct": -1.7,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Tesla Cybercab to launch Sept. 3rd as robotaxi bet ramps up",
-          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3rd-as-robotaxi-bet-ramps-up-135557945.html?.tsrc=rss",
+          "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
+          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html?.tsrc=rss",
           "score": 0.3818
         },
         {
-          "title": "XPeng Stock Drops on Disappointing Earnings. It Continues to Chase Tesla.",
-          "url": "https://finance.yahoo.com/m/900dbac3-6b58-3e33-a421-0c84bedc41b5/xpeng-stock-drops-on.html?.tsrc=rss",
-          "score": -0.7783
+          "title": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips",
+          "url": "https://247wallst.com/investing/2026/08/24/xpeng-sinks-7-as-q2-miss-overshadows-6-3b-robotics-valuation-nio-drops-4-tesla-slips/?.tsrc=rss",
+          "score": 0.4019
         },
         {
-          "title": "Amazon Could Be Worth More Than Tesla and SpaceX Combined by 2030. Here's the Math.",
-          "url": "https://www.fool.com/investing/2026/08/24/amazon-could-be-worth-more-than-tesla-and-spacex-c/?.tsrc=rss",
-          "score": 0.7841
+          "title": "Why Tesla\u2019s Nevada Robo-Taxi Approval Can\u2019t Save the Stock",
+          "url": "https://finance.yahoo.com/m/424e2b84-3200-3aca-a6cf-afc9951f03e2/why-tesla%E2%80%99s-nevada-robo-taxi.html?.tsrc=rss",
+          "score": 0.8555
         }
       ]
     }
