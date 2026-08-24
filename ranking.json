@@ -1,44 +1,22 @@
 {
-  "last_updated": "2026-08-24T15:51:12Z",
+  "last_updated": "2026-08-24T16:50:57Z",
   "market_status": "open",
   "rankings": [
     {
-      "ticker": "AAPL",
-      "rank": 1,
-      "prob_up": 0.6131,
-      "sentiment_norm": 0.5435,
-      "final_score": 0.5922,
-      "price": 311.9,
-      "change_pct": 0.71,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
-          "url": "https://247wallst.com/investing/2026/08/24/memory-stocks-slide-on-report-apple-may-source-chinese-chips-sandisk-down-9-micron-and-western-digital-down-7/?.tsrc=rss",
-          "score": -0.631
-        },
-        {
-          "title": "Nvidia Sinks: Earnings Apprehension Or AI Trade Unwind? Is Nvidia A Buy Now?",
-          "url": "https://finance.yahoo.com/m/74c4fa99-ef9c-3a69-aaea-6c394f975642/nvidia-sinks%3A-earnings.html?.tsrc=rss",
-          "score": -0.5362
-        },
-        {
-          "title": "Why Micron Stock Dropped This Morning",
-          "url": "https://www.fool.com/investing/2026/08/24/why-micron-stock-dropped-this-morning/?.tsrc=rss",
-          "score": -0.0516
-        }
-      ]
-    },
-    {
       "ticker": "COST",
-      "rank": 2,
-      "prob_up": 0.5017,
-      "sentiment_norm": 0.753,
-      "final_score": 0.5771,
-      "price": 966.6,
-      "change_pct": 2.01,
+      "rank": 1,
+      "prob_up": 0.5393,
+      "sentiment_norm": 0.7625,
+      "final_score": 0.6062,
+      "price": 968.92,
+      "change_pct": 2.25,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Will Costco's AI Search Growth Become a Meaningful Sales Catalyst?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/costcos-ai-search-growth-become-153700298.html?.tsrc=rss",
+          "score": 0.7579
+        },
         {
           "title": "Michael Burry Says LULU Stock Is \u2018Screaming Cheap\u2019 While Apple Shares Are \u2018Permacostly\u2019 Like Costco",
           "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-lulu-stock-is-screaming-cheap-while-apple-shares-are-permacostly-like-costco/cZYKXPVRJn8?.tsrc=rss",
@@ -48,22 +26,44 @@
           "title": "The Ultimate Growth Stock to Buy With $10,000 Right Now",
           "url": "https://www.fool.com/investing/2026/08/23/the-ultimate-growth-stock-to-buy-with-10000-right/?.tsrc=rss",
           "score": 0.7845
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 2,
+      "prob_up": 0.6014,
+      "sentiment_norm": 0.5878,
+      "final_score": 0.5974,
+      "price": 313.17,
+      "change_pct": 1.12,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Apple Just Became Wall Street\u2019s Favorite Mag 7 Stock for a Surprising Reason",
+          "url": "https://247wallst.com/investing/2026/08/24/apple-just-became-wall-streets-favorite-mag-7-stock-for-a-surprising-reason/?.tsrc=rss",
+          "score": 0.886
         },
         {
-          "title": "Is Costco Wholesale (COST) Fully Valued On Its New Medicare Push?",
-          "url": "https://finance.yahoo.com/healthcare/articles/costco-wholesale-cost-fully-valued-231122544.html?.tsrc=rss",
-          "score": 0.6361
+          "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
+          "url": "https://247wallst.com/investing/2026/08/24/memory-stocks-slide-on-report-apple-may-source-chinese-chips-sandisk-down-9-micron-and-western-digital-down-7/?.tsrc=rss",
+          "score": -0.631
+        },
+        {
+          "title": "Nvidia Sinks: Earnings Apprehension Or AI Trade Unwind? Is Nvidia A Buy Now?",
+          "url": "https://finance.yahoo.com/m/74c4fa99-ef9c-3a69-aaea-6c394f975642/nvidia-sinks%3A-earnings.html?.tsrc=rss",
+          "score": -0.5362
         }
       ]
     },
     {
       "ticker": "HD",
       "rank": 3,
-      "prob_up": 0.5467,
-      "sentiment_norm": 0.6411,
-      "final_score": 0.575,
-      "price": 336.56,
-      "change_pct": 0.19,
+      "prob_up": 0.5195,
+      "sentiment_norm": 0.6867,
+      "final_score": 0.5697,
+      "price": 335.82,
+      "change_pct": -0.03,
       "sparkline": [],
       "headlines": [
         {
@@ -84,40 +84,13 @@
       ]
     },
     {
-      "ticker": "JNJ",
-      "rank": 4,
-      "prob_up": 0.4708,
-      "sentiment_norm": 0.7768,
-      "final_score": 0.5626,
-      "price": 273.31,
-      "change_pct": 0.85,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "J&J's Strong Pipeline Momentum Offers Multiple Growth Catalysts Ahead",
-          "url": "https://finance.yahoo.com/healthcare/articles/j-js-strong-pipeline-momentum-143800135.html?.tsrc=rss",
-          "score": 0.886
-        },
-        {
-          "title": "Pfizer vs. Johnson & Johnson: Which Pharma Giant Is Better Prepared for Its Patent Cliff?",
-          "url": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-johnson-johnson-pharma-004627834.html?.tsrc=rss",
-          "score": 0.7346
-        },
-        {
-          "title": "Is Johnson & Johnson\u2019s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-5-5-billion-230104916.html?.tsrc=rss",
-          "score": -0.6124
-        }
-      ]
-    },
-    {
       "ticker": "BRK-B",
-      "rank": 5,
+      "rank": 4,
       "prob_up": 0.5139,
       "sentiment_norm": 0.6662,
       "final_score": 0.5596,
-      "price": 501.46,
-      "change_pct": 1.04,
+      "price": 501.29,
+      "change_pct": 1.01,
       "sparkline": [],
       "headlines": [
         {
@@ -139,12 +112,12 @@
     },
     {
       "ticker": "V",
-      "rank": 6,
-      "prob_up": 0.5351,
+      "rank": 5,
+      "prob_up": 0.526,
       "sentiment_norm": 0.6061,
-      "final_score": 0.5564,
-      "price": 380.9,
-      "change_pct": 2.6,
+      "final_score": 0.55,
+      "price": 379.77,
+      "change_pct": 2.29,
       "sparkline": [],
       "headlines": [
         {
@@ -165,42 +138,20 @@
       ]
     },
     {
-      "ticker": "UNH",
-      "rank": 7,
-      "prob_up": 0.5348,
-      "sentiment_norm": 0.578,
-      "final_score": 0.5478,
-      "price": 396.33,
-      "change_pct": 1.57,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "What Does UnitedHealth Group (UNH) IRS Tax Scrutiny Mean For Investors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-unitedhealth-group-unh-irs-220902043.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Is The Pullback In UNH Stock A Glitch Or A Warning?",
-          "url": "https://www.trefis.com/articles/612361/is-the-pullback-in-unh-stock-a-glitch-or-a-warning/2026-08-21?.tsrc=rss",
-          "score": -0.34
-        },
-        {
-          "title": "Mark Cuban: \u201cNo Chance\u201d Radiologists Get Replaced by AI. He Says the Real Target Is Elsewhere",
-          "url": "https://247wallst.com/investing/2026/08/21/mark-cuban-no-chance-radiologists-get-replaced-by-ai-he-says-the-real-target-is-elsewhere/?.tsrc=rss",
-          "score": -0.1335
-        }
-      ]
-    },
-    {
       "ticker": "META",
-      "rank": 8,
+      "rank": 6,
       "prob_up": 0.5434,
-      "sentiment_norm": 0.5418,
-      "final_score": 0.5429,
-      "price": 555.32,
-      "change_pct": 0.43,
+      "sentiment_norm": 0.5583,
+      "final_score": 0.5478,
+      "price": 557.36,
+      "change_pct": 0.8,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "META Rides on Ad Growth: Can It Stay Ahead of RDDT and SNAP?",
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-rides-ad-growth-stay-162300906.html?.tsrc=rss",
+          "score": 0.8555
+        },
         {
           "title": "Two Legendary Investors Just Bought Meta Platforms Stock. Is It Time for You to Buy?",
           "url": "https://www.fool.com/investing/2026/08/24/two-legendary-investors-just-bought-meta-platforms/?.tsrc=rss",
@@ -210,49 +161,17 @@
           "title": "Former OpenAI researcher Luke Metz joins Meta's Superintelligence Labs under Alexandr Wang",
           "url": "https://www.proactiveinvestors.com/companies/news/1097489/former-openai-researcher-luke-metz-joins-meta-s-superintelligence-labs-under-alexandr-wang-1097489.html?.tsrc=rss",
           "score": 0.6597
-        },
-        {
-          "title": "Gary Black Sees META Stock Underperform S&P 500 As $1.4 Trillion \u2018Tobacco-Like\u2019 Legal Overhang Looms",
-          "url": "https://stocktwits.com/news-articles/markets/equity/meta-stock-gary-black-1-4-trillion-tobacco-legal-overhang-sp-500/cZYKWq6RJnr?.tsrc=rss",
-          "score": 0.3612
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "rank": 9,
-      "prob_up": 0.491,
-      "sentiment_norm": 0.6572,
-      "final_score": 0.5409,
-      "price": 351.36,
-      "change_pct": 1.81,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Why tech stock bulls may not shake this AI problem",
-          "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html?.tsrc=rss",
-          "score": -0.418
-        },
-        {
-          "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
-          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html?.tsrc=rss",
-          "score": 0.3818
-        },
-        {
-          "title": "Anthropic's IPO could come sooner than you think \u2014 likely beating OpenAI to the punch",
-          "url": "https://finance.yahoo.com/video/anthropics-ipo-could-come-sooner-195110660.html?.tsrc=rss",
-          "score": -0.7184
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 10,
-      "prob_up": 0.4854,
+      "rank": 7,
+      "prob_up": 0.4937,
       "sentiment_norm": 0.6366,
-      "final_score": 0.5307,
-      "price": 145.84,
-      "change_pct": 0.66,
+      "final_score": 0.5365,
+      "price": 145.73,
+      "change_pct": 0.59,
       "sparkline": [],
       "headlines": [
         {
@@ -273,13 +192,40 @@
       ]
     },
     {
+      "ticker": "JNJ",
+      "rank": 8,
+      "prob_up": 0.4708,
+      "sentiment_norm": 0.6723,
+      "final_score": 0.5312,
+      "price": 273.51,
+      "change_pct": 0.93,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Louisiana Jury Issues $10 Million Verdict in Talc-Related Mesothelioma Case Against Johnson & Johnson",
+          "url": "https://finance.yahoo.com/healthcare/articles/louisiana-jury-issues-10-million-162000356.html?.tsrc=rss",
+          "score": 0.0772
+        },
+        {
+          "title": "J&J's Strong Pipeline Momentum Offers Multiple Growth Catalysts Ahead",
+          "url": "https://finance.yahoo.com/healthcare/articles/j-js-strong-pipeline-momentum-143800135.html?.tsrc=rss",
+          "score": 0.886
+        },
+        {
+          "title": "Pfizer vs. Johnson & Johnson: Which Pharma Giant Is Better Prepared for Its Patent Cliff?",
+          "url": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-johnson-johnson-pharma-004627834.html?.tsrc=rss",
+          "score": 0.7346
+        }
+      ]
+    },
+    {
       "ticker": "XOM",
-      "rank": 11,
+      "rank": 9,
       "prob_up": 0.4403,
       "sentiment_norm": 0.735,
       "final_score": 0.5287,
-      "price": 162.5,
-      "change_pct": -1.63,
+      "price": 162.63,
+      "change_pct": -1.56,
       "sparkline": [],
       "headlines": [
         {
@@ -300,13 +246,40 @@
       ]
     },
     {
+      "ticker": "WMT",
+      "rank": 10,
+      "prob_up": 0.5186,
+      "sentiment_norm": 0.5491,
+      "final_score": 0.5278,
+      "price": 105.24,
+      "change_pct": 1.51,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Walmart Just Cratered Almost 10% in a Week. This Retail CEO Says the Holidays Will Prove Everyone Wrong.",
+          "url": "https://247wallst.com/investing/2026/08/24/walmart-just-cratered-almost-10-in-a-week-this-retail-ceo-says-the-holidays-will-prove-everyone-wrong/?.tsrc=rss",
+          "score": -0.1779
+        },
+        {
+          "title": "Three Cracks in Consumer Spending Reveal Why Walmart Had Its Worst Day Since 2022 Despite an Earnings Beat",
+          "url": "https://247wallst.com/investing/2026/08/24/three-cracks-in-consumer-spending-reveal-why-walmart-had-its-worst-day-since-2022-despite-an-earnings-beat/?.tsrc=rss",
+          "score": -0.886
+        },
+        {
+          "title": "Can Walmart's Tap to Pay Push Strengthen Customer Engagement?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmarts-tap-pay-push-strengthen-142500838.html?.tsrc=rss",
+          "score": 0.836
+        }
+      ]
+    },
+    {
       "ticker": "JPM",
-      "rank": 12,
+      "rank": 11,
       "prob_up": 0.5371,
       "sentiment_norm": 0.4931,
       "final_score": 0.5239,
-      "price": 356.74,
-      "change_pct": 1.35,
+      "price": 355.74,
+      "change_pct": 1.07,
       "sparkline": [],
       "headlines": [
         {
@@ -328,14 +301,19 @@
     },
     {
       "ticker": "LLY",
-      "rank": 13,
-      "prob_up": 0.4816,
-      "sentiment_norm": 0.5679,
-      "final_score": 0.5075,
-      "price": 1239.91,
-      "change_pct": -1.14,
+      "rank": 12,
+      "prob_up": 0.4822,
+      "sentiment_norm": 0.5816,
+      "final_score": 0.512,
+      "price": 1243.87,
+      "change_pct": -0.82,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Eli Lilly Has a $100 Billion Revenue Story in the Making, 18% Upside Ahead",
+          "url": "https://247wallst.com/investing/2026/08/24/eli-lilly-has-a-100-billion-revenue-story-in-the-making/?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Can Eli Lilly Keep The Margin You Are Now Paying For?",
           "url": "https://www.trefis.com/articles/612586/can-eli-lilly-keep-the-margin-you-are-now-paying-for/2026-08-24?.tsrc=rss",
@@ -345,51 +323,24 @@
           "title": "Roche and Eli Lilly Win FDA Clearance for Alzheimer\u2019s Blood Test",
           "url": "https://investorshub.advfn.com/market-news/article/34920/roche-and-eli-lilly-win-fda-clearance-for-alzheimers-blood-test?.tsrc=rss",
           "score": 0.7579
-        },
-        {
-          "title": "Lilly's GLP-1 pill hits UK pharmacies as US battle with Novo intensifies",
-          "url": "https://www.proactiveinvestors.com/companies/news/1097473/lilly-s-glp-1-pill-hits-uk-pharmacies-as-us-battle-with-novo-intensifies-1097473.html?.tsrc=rss",
-          "score": -0.0516
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 14,
-      "prob_up": 0.4478,
-      "sentiment_norm": 0.6421,
-      "final_score": 0.5061,
-      "price": 210.3,
-      "change_pct": -2.36,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Nvidia Poised to Report Fiscal Q2 Beat, Wedbush Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-poised-report-fiscal-q2-154229663.html?.tsrc=rss",
-          "score": 0.25
-        },
-        {
-          "title": "Nvidia Makes Waves With Poolside Deal, AI Investments",
-          "url": "https://finance.yahoo.com/m/627f948b-5a8e-395c-81a5-a5080e2ef4bb/nvidia-makes-waves-with.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "1 New Way to Invest in Cryptocurrency That Could Turn Your Crypto Portfolio Around in 2026",
-          "url": "https://www.fool.com/investing/2026/08/24/1-new-way-to-invest-in-cryptocurrency-that-could-h/?.tsrc=rss",
-          "score": 0.4019
         }
       ]
     },
     {
       "ticker": "MA",
-      "rank": 15,
+      "rank": 13,
       "prob_up": 0.455,
-      "sentiment_norm": 0.6066,
-      "final_score": 0.5005,
-      "price": 596.06,
-      "change_pct": 2.76,
+      "sentiment_norm": 0.6131,
+      "final_score": 0.5024,
+      "price": 595.76,
+      "change_pct": 2.71,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Mastercard Jumps as Cross-Border Growth Crushes Consumer Fears",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-jumps-cross-border-growth-114933663.html?.tsrc=rss",
+          "score": -0.128
+        },
         {
           "title": "Cybercrime to become world's 3rd largest economy: Mastercard CEO",
           "url": "https://finance.yahoo.com/video/cybercrime-become-worlds-3rd-largest-120000307.html?.tsrc=rss",
@@ -399,103 +350,71 @@
           "title": "Can Mastercard (MA) Stay Cheap As AI Payments Expand?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-stay-cheap-ai-221212356.html?.tsrc=rss",
           "score": 0.802
-        },
-        {
-          "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
-          "url": "https://www.fool.com/investing/2026/08/20/billionaire-bill-ackman-just-sold-25-of-his-stake/?.tsrc=rss",
-          "score": 0.6249
         }
       ]
     },
     {
-      "ticker": "WMT",
-      "rank": 16,
-      "prob_up": 0.4273,
-      "sentiment_norm": 0.5675,
-      "final_score": 0.4694,
-      "price": 104.73,
-      "change_pct": 1.02,
+      "ticker": "UNH",
+      "rank": 14,
+      "prob_up": 0.4621,
+      "sentiment_norm": 0.584,
+      "final_score": 0.4987,
+      "price": 398.39,
+      "change_pct": 2.1,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Three Cracks in Consumer Spending Reveal Why Walmart Had Its Worst Day Since 2022 Despite an Earnings Beat",
-          "url": "https://247wallst.com/investing/2026/08/24/three-cracks-in-consumer-spending-reveal-why-walmart-had-its-worst-day-since-2022-despite-an-earnings-beat/?.tsrc=rss",
-          "score": -0.886
-        },
-        {
-          "title": "Can Walmart's Tap to Pay Push Strengthen Customer Engagement?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmarts-tap-pay-push-strengthen-142500838.html?.tsrc=rss",
-          "score": 0.836
-        },
-        {
-          "title": "Walmart Has Too Many Stores",
-          "url": "https://247wallst.com/investing/2026/08/24/walmart-has-too-many-stores/?.tsrc=rss",
+          "title": "What Does UnitedHealth Group (UNH) IRS Tax Scrutiny Mean For Investors?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-unitedhealth-group-unh-irs-220902043.html?.tsrc=rss",
           "score": 0.0
+        },
+        {
+          "title": "Is The Pullback In UNH Stock A Glitch Or A Warning?",
+          "url": "https://www.trefis.com/articles/612361/is-the-pullback-in-unh-stock-a-glitch-or-a-warning/2026-08-21?.tsrc=rss",
+          "score": -0.34
+        },
+        {
+          "title": "Mark Cuban: \u201cNo Chance\u201d Radiologists Get Replaced by AI. He Says the Real Target Is Elsewhere",
+          "url": "https://247wallst.com/investing/2026/08/21/mark-cuban-no-chance-radiologists-get-replaced-by-ai-he-says-the-real-target-is-elsewhere/?.tsrc=rss",
+          "score": -0.1335
         }
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 17,
-      "prob_up": 0.3866,
-      "sentiment_norm": 0.6321,
-      "final_score": 0.4603,
-      "price": 262.74,
-      "change_pct": 1.23,
+      "ticker": "GOOGL",
+      "rank": 15,
+      "prob_up": 0.4208,
+      "sentiment_norm": 0.6572,
+      "final_score": 0.4917,
+      "price": 351.35,
+      "change_pct": 1.81,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Swatch watches come in fun, unique styles starting at $65 at Amazon",
-          "url": "https://www.thestreet.com/shopping/swatch-watch-roundup-amazon-sale?.tsrc=rss",
-          "score": 0.6124
+          "title": "Why tech stock bulls may not shake this AI problem",
+          "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html?.tsrc=rss",
+          "score": -0.418
         },
         {
-          "title": "Amazon vs. Alibaba: Which AI and E-Commerce Stock Is the Better Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-vs-alibaba-ai-e-151900585.html?.tsrc=rss",
-          "score": 0.8316
+          "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
+          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html?.tsrc=rss",
+          "score": 0.3818
         },
         {
-          "title": "Amazon's Robotaxi Bet Is Finally Coming for Waymo",
-          "url": "https://finance.yahoo.com/technology/articles/amazons-robotaxi-bet-finally-coming-151219948.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "rank": 18,
-      "prob_up": 0.3776,
-      "sentiment_norm": 0.6525,
-      "final_score": 0.4601,
-      "price": 489.4,
-      "change_pct": 1.2,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "This Tech Stock Is Being Highly Overlooked in the AI Race",
-          "url": "https://247wallst.com/investing/2026/08/24/this-tech-stock-is-being-highly-overlooked-in-the-ai-race/?.tsrc=rss",
-          "score": 0.2263
-        },
-        {
-          "title": "Nvidia Could Drop 20% On Poor Earnings",
-          "url": "https://247wallst.com/investing/2026/08/24/nvidia-could-drop-20-on-poor-earnings/?.tsrc=rss",
-          "score": -0.6757
-        },
-        {
-          "title": "Cosmos Launches Six Pre-Built Power BI Report Packs for Microsoft Dynamics 365 Business Central",
-          "url": "https://finance.yahoo.com/technology/articles/cosmos-launches-six-pre-built-140600101.html?.tsrc=rss",
-          "score": 0.2732
+          "title": "Anthropic's IPO could come sooner than you think \u2014 likely beating OpenAI to the punch",
+          "url": "https://finance.yahoo.com/video/anthropics-ipo-could-come-sooner-195110660.html?.tsrc=rss",
+          "score": -0.7184
         }
       ]
     },
     {
       "ticker": "AVGO",
-      "rank": 19,
-      "prob_up": 0.4334,
-      "sentiment_norm": 0.5129,
-      "final_score": 0.4572,
-      "price": 361.85,
-      "change_pct": -1.94,
+      "rank": 16,
+      "prob_up": 0.4563,
+      "sentiment_norm": 0.5591,
+      "final_score": 0.4871,
+      "price": 361.2,
+      "change_pct": -2.11,
       "sparkline": [],
       "headlines": [
         {
@@ -516,13 +435,94 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "rank": 17,
+      "prob_up": 0.4478,
+      "sentiment_norm": 0.5598,
+      "final_score": 0.4814,
+      "price": 210.15,
+      "change_pct": -2.43,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Analyst rethinks Nvidia stock ahead of earnings",
+          "url": "https://www.thestreet.com/investing/stocks/citi-nvidia-stock-maintains-buy-300-target-ahead-of-earnings?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "NVDA Stock Dips Despite SpaceXAI Deal: Analyst Flags 5 Catalysts Going Into Q2 Earnings",
+          "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-dips-despite-space-xai-deal-analyst-flags-5-catalysts-going-into-q2-earnings/cZYKNKtRJFE?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Nvidia's Longest Losing Streak Since 2022 Is Dragging on the Nasdaq",
+          "url": "https://finance.yahoo.com/m/03843569-e5c6-39d4-845c-9cc0a7350f7a/nvidia%27s-longest-losing.html?.tsrc=rss",
+          "score": -0.0516
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 18,
+      "prob_up": 0.3898,
+      "sentiment_norm": 0.658,
+      "final_score": 0.4702,
+      "price": 263.12,
+      "change_pct": 1.38,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Anthropic Wants to Beat SpaceX\u2019s IPO, and It Could Reprice Every AI Stock You Own",
+          "url": "https://247wallst.com/investing/2026/08/24/anthropic-wants-to-beat-spacexs-ipo-and-it-could-reprice-every-ai-stock-you-own/?.tsrc=rss",
+          "score": 0.1779
+        },
+        {
+          "title": "Swatch watches come in fun, unique styles starting at $65 at Amazon",
+          "url": "https://www.thestreet.com/shopping/swatch-watch-roundup-amazon-sale?.tsrc=rss",
+          "score": 0.6124
+        },
+        {
+          "title": "Amazon vs. Alibaba: Which AI and E-Commerce Stock Is the Better Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-vs-alibaba-ai-e-151900585.html?.tsrc=rss",
+          "score": 0.8316
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "rank": 19,
+      "prob_up": 0.3776,
+      "sentiment_norm": 0.6181,
+      "final_score": 0.4498,
+      "price": 488.79,
+      "change_pct": 1.07,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Can NOW's Tech Mahindra Deal Boost Its AI Edge Over CRM & MSFT?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nows-tech-mahindra-deal-boost-161200830.html?.tsrc=rss",
+          "score": 0.7717
+        },
+        {
+          "title": "Microsoft Stock in 2027: My Prediction Is That It Still Beats the Market",
+          "url": "https://www.fool.com/investing/2026/08/24/microsoft-stock-in-2027-my-prediction-is-it-still/?.tsrc=rss",
+          "score": 0.6597
+        },
+        {
+          "title": "Microsoft Stock's Upside Now Runs Through Its Data Center Build",
+          "url": "https://www.trefis.com/articles/612590/microsoft-stocks-upside-now-runs-through-its-data-center-build/2026-08-24?.tsrc=rss",
+          "score": -0.128
+        }
+      ]
+    },
+    {
       "ticker": "TSLA",
       "rank": 20,
       "prob_up": 0.2956,
-      "sentiment_norm": 0.703,
-      "final_score": 0.4178,
-      "price": 356.57,
-      "change_pct": -2.02,
+      "sentiment_norm": 0.7082,
+      "final_score": 0.4194,
+      "price": 354.87,
+      "change_pct": -2.49,
       "sparkline": [],
       "headlines": [
         {
