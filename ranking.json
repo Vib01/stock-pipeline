@@ -1,15 +1,42 @@
 {
-  "last_updated": "2026-08-25T19:40:43Z",
-  "market_status": "open",
+  "last_updated": "2026-08-25T20:40:04Z",
+  "market_status": "closed",
   "rankings": [
     {
-      "ticker": "COST",
+      "ticker": "AAPL",
       "rank": 1,
-      "prob_up": 0.5156,
+      "prob_up": 0.6131,
+      "sentiment_norm": 0.5493,
+      "final_score": 0.5939,
+      "price": 309.9,
+      "change_pct": -0.24,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Cramer Warns iPhone Prices Will Rise Without Chinese Memory \u2014 Here\u2019s Why Apple Can\u2019t Wait for U.S. Production",
+          "url": "https://247wallst.com/investing/2026/08/25/cramer-warns-iphone-prices-will-rise-without-chinese-memory-heres-why-apple-cant-wait-for-u-s-production/?.tsrc=rss",
+          "score": -0.25
+        },
+        {
+          "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
+          "score": 0.4215
+        },
+        {
+          "title": "Clark Howard Warned Apple Traps You in Forever Leases and Now Three New Macs Just Landed",
+          "url": "https://247wallst.com/personal-finance/2026/08/25/clark-howard-warned-apple-traps-you-in-forever-leases-and-now-three-new-macs-just-landed/?.tsrc=rss",
+          "score": -0.2732
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "rank": 2,
+      "prob_up": 0.5227,
       "sentiment_norm": 0.7462,
-      "final_score": 0.5848,
-      "price": 961.4,
-      "change_pct": -0.82,
+      "final_score": 0.5897,
+      "price": 960.01,
+      "change_pct": -0.97,
       "sparkline": [],
       "headlines": [
         {
@@ -31,93 +58,39 @@
     },
     {
       "ticker": "BRK-B",
-      "rank": 2,
-      "prob_up": 0.5227,
-      "sentiment_norm": 0.719,
-      "final_score": 0.5816,
-      "price": 503.89,
-      "change_pct": -0.06,
+      "rank": 3,
+      "prob_up": 0.5434,
+      "sentiment_norm": 0.6849,
+      "final_score": 0.5859,
+      "price": 504.32,
+      "change_pct": 0.02,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Top Stock Reports for Berkshire Hathaway, Roche & RTX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-201400047.html?.tsrc=rss",
+          "score": 0.3182
+        },
+        {
+          "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
+          "score": 0.4215
+        },
         {
           "title": "Berkshire Hathaway Bought $10 Billion of Alphabet Straight From the Company, Bypassing the Open Market",
           "url": "https://www.fool.com/investing/2026/08/25/berkshire-hathaway-bought-10-billion-of-alphabet/?.tsrc=rss",
           "score": 0.2263
-        },
-        {
-          "title": "Tokio Marine nears Suncorp takeover bid \u2013 report",
-          "url": "https://www.lifeinsuranceinternational.com/news/tokio-marine-nears-suncorp-takeover-bid/?.tsrc=rss",
-          "score": 0.3182
-        },
-        {
-          "title": "Warren Buffett Continues to Load Up on Alphabet, and This 1 Number Is the Big Reason Why",
-          "url": "https://www.fool.com/investing/2026/08/25/warren-buffett-continues-to-load-up-on-alphabet-an/?.tsrc=rss",
-          "score": 0.7003
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 3,
-      "prob_up": 0.5186,
-      "sentiment_norm": 0.7259,
-      "final_score": 0.5808,
-      "price": 105.46,
-      "change_pct": -0.74,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Walmart Keeps Cratering: 45% Gains Are Expected From A Respected Wall Street Pro",
-          "url": "https://247wallst.com/investing/2026/08/25/walmart-keeps-cratering-45-gains-are-expected-from-a-respected-wall-street-pro/?.tsrc=rss",
-          "score": 0.6705
-        },
-        {
-          "title": "Walmart says its AI assistant, Sparky, is leading to customers spending 40% more than those who shop without it",
-          "url": "https://finance.yahoo.com/technology/ai/articles/walmart-says-ai-assistant-sparky-163000558.html?.tsrc=rss",
-          "score": 0.8225
-        },
-        {
-          "title": "Core Compounders Should Do This With Walmart",
-          "url": "https://247wallst.com/investing/2026/08/25/core-compounders-should-do-this-with-walmart/?.tsrc=rss",
-          "score": 0.4176
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 4,
-      "prob_up": 0.5998,
-      "sentiment_norm": 0.5329,
-      "final_score": 0.5798,
-      "price": 308.92,
-      "change_pct": -0.56,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Clark Howard Warned Apple Traps You in Forever Leases and Now Three New Macs Just Landed",
-          "url": "https://247wallst.com/personal-finance/2026/08/25/clark-howard-warned-apple-traps-you-in-forever-leases-and-now-three-new-macs-just-landed/?.tsrc=rss",
-          "score": -0.2732
-        },
-        {
-          "title": "Apple Launches Mac Studio Featuring New Chips Built for AI Workloads. Here\u2019s What Apple\u2019s Capital-Light AI Strategy Means for Investors.",
-          "url": "https://www.fool.com/investing/2026/08/25/apple-launches-mac-studio-featuring-new-chips-built-for-ai-workloads-heres-what-apples-capital-light-ai-strategy-means-for-investors/?.tsrc=rss",
-          "score": 0.7184
-        },
-        {
-          "title": "Apple Just Massively Raised Stakes in AI PC Race",
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-just-massively-raised-stakes-175952492.html?.tsrc=rss",
-          "score": 0.3818
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 5,
-      "prob_up": 0.5348,
+      "rank": 4,
+      "prob_up": 0.5543,
       "sentiment_norm": 0.6349,
-      "final_score": 0.5648,
-      "price": 396.4,
-      "change_pct": -0.71,
+      "final_score": 0.5785,
+      "price": 396.59,
+      "change_pct": -0.66,
       "sparkline": [],
       "headlines": [
         {
@@ -138,12 +111,66 @@
       ]
     },
     {
-      "ticker": "HD",
+      "ticker": "WMT",
+      "rank": 5,
+      "prob_up": 0.5186,
+      "sentiment_norm": 0.6763,
+      "final_score": 0.5659,
+      "price": 105.38,
+      "change_pct": -0.82,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Walmart Falls as 37-Times Valuation Meets Weak Traffic",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-falls-37-times-valuation-194414845.html?.tsrc=rss",
+          "score": -0.631
+        },
+        {
+          "title": "Walmart Keeps Cratering: 45% Gains Are Expected From A Respected Wall Street Pro",
+          "url": "https://247wallst.com/investing/2026/08/25/walmart-keeps-cratering-45-gains-are-expected-from-a-respected-wall-street-pro/?.tsrc=rss",
+          "score": 0.6705
+        },
+        {
+          "title": "Walmart says its AI assistant, Sparky, is leading to customers spending 40% more than those who shop without it",
+          "url": "https://finance.yahoo.com/technology/ai/articles/walmart-says-ai-assistant-sparky-163000558.html?.tsrc=rss",
+          "score": 0.8225
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
       "rank": 6,
+      "prob_up": 0.5471,
+      "sentiment_norm": 0.5848,
+      "final_score": 0.5584,
+      "price": 213.05,
+      "change_pct": 2.04,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "The story that Nvidia's margins, balance sheet tell going into Q2 earnings",
+          "url": "https://finance.yahoo.com/video/story-nvidias-margins-balance-sheet-200000914.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "1 High-Yield Dividend Stock Worth Loading Up On Right Now",
+          "url": "https://www.fool.com/investing/2026/08/25/1-high-yield-dividend-stock-worth-loading-up-on-ri/?.tsrc=rss",
+          "score": 0.2263
+        },
+        {
+          "title": "Why Rezolve AI Stock Rocketed Higher Today",
+          "url": "https://www.fool.com/investing/2026/08/25/why-rezolve-ai-stock-rocketed-higher-today/?.tsrc=rss",
+          "score": 0.5719
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "rank": 7,
       "prob_up": 0.5282,
       "sentiment_norm": 0.6164,
       "final_score": 0.5546,
-      "price": 337.87,
+      "price": 337.88,
       "change_pct": 0.09,
       "sparkline": [],
       "headlines": [
@@ -165,69 +192,47 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 7,
-      "prob_up": 0.5515,
-      "sentiment_norm": 0.5044,
-      "final_score": 0.5374,
-      "price": 212.53,
-      "change_pct": 1.79,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
-          "url": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html?.tsrc=rss",
-          "score": 0.1779
-        },
-        {
-          "title": "Nvidia Jumps 2.4% as $352 Target Raises Tomorrow's Stakes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jumps-2-4-352-192812721.html?.tsrc=rss",
-          "score": -0.0516
-        },
-        {
-          "title": "Nvidia Stock Could Swing 6% After Q2 Earnings",
-          "url": "https://finance.yahoo.com/markets/options/articles/nvidia-stock-could-swing-6-192524688.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
+      "ticker": "META",
       "rank": 8,
-      "prob_up": 0.4949,
-      "sentiment_norm": 0.6064,
-      "final_score": 0.5283,
-      "price": 260.52,
-      "change_pct": -0.79,
+      "prob_up": 0.5098,
+      "sentiment_norm": 0.6471,
+      "final_score": 0.551,
+      "price": 570.05,
+      "change_pct": 1.76,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Anthropic Has a New Problem Before IPO",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-problem-ipo-192337187.html?.tsrc=rss",
-          "score": -0.4019
+          "title": "Reddit (RDDT) Stock Is Up, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-stock-know-202244215.html?.tsrc=rss",
+          "score": 0.296
         },
         {
-          "title": "Amazon Slips as $220 Billion AI Bill Returns",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amazon-slips-220-billion-ai-173419499.html?.tsrc=rss",
-          "score": 0.7391
+          "title": "Meta's Next AI Bet Could Arrive Sooner Than Expected",
+          "url": "https://finance.yahoo.com/technology/ai/articles/metas-next-ai-bet-could-195838334.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Prediction: Amazon Stock Could Be the Sleeper Winner of the AI Boom",
-          "url": "https://247wallst.com/investing/2026/08/25/prediction-amazon-stock-could-be-the-sleeper-winner-of-the-ai-boom/?.tsrc=rss",
-          "score": 0.8519
+          "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
+          "score": 0.4215
         }
       ]
     },
     {
       "ticker": "AVGO",
       "rank": 9,
-      "prob_up": 0.4769,
-      "sentiment_norm": 0.648,
-      "final_score": 0.5282,
-      "price": 355.83,
-      "change_pct": -0.78,
+      "prob_up": 0.4916,
+      "sentiment_norm": 0.6487,
+      "final_score": 0.5388,
+      "price": 356.74,
+      "change_pct": -0.53,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
+          "score": 0.4215
+        },
         {
           "title": "Broadcom Stabilizes as Google Turns Custom Chips Into a Contest",
           "url": "https://finance.yahoo.com/technology/articles/broadcom-stabilizes-google-turns-custom-181929334.html?.tsrc=rss",
@@ -237,11 +242,6 @@
           "title": "Broadcom (AVGO) Debuts VMware Cloud Foundation 9.1 In Managed Multitenant Cloud",
           "url": "https://finance.yahoo.com/technology/articles/broadcom-avgo-debuts-vmware-cloud-170916891.html?.tsrc=rss",
           "score": 0.128
-        },
-        {
-          "title": "Broadcom Vs. Micron: Why They\u2019re So Strong as Capital Shifts to Inference and Agentic AI",
-          "url": "https://247wallst.com/investing/2026/08/25/broadcom-vs-micron-why-theyre-so-strong-as-capital-shifts-to-inference-and-agentic-ai/?.tsrc=rss",
-          "score": 0.6418
         }
       ]
     },
@@ -249,12 +249,17 @@
       "ticker": "JPM",
       "rank": 10,
       "prob_up": 0.5371,
-      "sentiment_norm": 0.4829,
-      "final_score": 0.5209,
-      "price": 356.66,
-      "change_pct": 0.04,
+      "sentiment_norm": 0.5407,
+      "final_score": 0.5382,
+      "price": 356.69,
+      "change_pct": 0.05,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
+          "score": 0.4215
+        },
         {
           "title": "JPMorgan compares Bessent's $4B bond buyback to 'paying your mortgage with your credit card' as U.S. debt hits $40T",
           "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-compares-bessents-4b-bond-152000324.html?.tsrc=rss",
@@ -264,22 +269,71 @@
           "title": "JPMorgan predicts booming humanoid robot demand in U.S. manufacturing",
           "url": "https://qz.com/jpmorgan-humanoid-robot-demand-us-manufacturing-082526?.tsrc=rss",
           "score": -0.4588
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 11,
+      "prob_up": 0.4509,
+      "sentiment_norm": 0.6765,
+      "final_score": 0.5186,
+      "price": 261.06,
+      "change_pct": -0.59,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
+          "score": 0.4215
         },
         {
-          "title": "Should JPMorgan Diversified Return U.S. Mid Cap Equity ETF (JPME) Be on Your Investing Radar?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-diversified-return-u-mid-102002819.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Anthropic Has a New Problem Before IPO",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-problem-ipo-192337187.html?.tsrc=rss",
+          "score": -0.4019
+        },
+        {
+          "title": "Amazon Slips as $220 Billion AI Bill Returns",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amazon-slips-220-billion-ai-173419499.html?.tsrc=rss",
+          "score": 0.7391
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "rank": 12,
+      "prob_up": 0.4889,
+      "sentiment_norm": 0.5751,
+      "final_score": 0.5148,
+      "price": 599.37,
+      "change_pct": 0.13,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Visa or Mastercard: One Stock Will Outpace the Other at Record Highs \u2014 Here\u2019s Our Pick",
+          "url": "https://247wallst.com/investing/2026/08/25/visa-or-mastercard-one-stock-will-outpace-the-other-at-record-highs-heres-our-pick/?.tsrc=rss",
+          "score": 0.872
+        },
+        {
+          "title": "Who Can Power Visa\u2019s $7B Stablecoin Machine After BVNK?",
+          "url": "https://coingape.com/block-of-fame/pulse/who-can-power-visas-7b-stablecoin-machine-after-bvnk/?.tsrc=rss",
+          "score": 0.539
+        },
+        {
+          "title": "MA Showered Owners With Cash. The Stock Still Lagged The Market",
+          "url": "https://www.trefis.com/articles/612763/ma-showered-owners-with-cash-the-stock-still-lagged-the-market/2026-08-25?.tsrc=rss",
+          "score": -0.296
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 11,
+      "rank": 13,
       "prob_up": 0.4871,
       "sentiment_norm": 0.5759,
       "final_score": 0.5138,
-      "price": 145.18,
-      "change_pct": -0.83,
+      "price": 145.4,
+      "change_pct": -0.68,
       "sparkline": [],
       "headlines": [
         {
@@ -301,12 +355,12 @@
     },
     {
       "ticker": "JNJ",
-      "rank": 12,
-      "prob_up": 0.483,
+      "rank": 14,
+      "prob_up": 0.4721,
       "sentiment_norm": 0.5803,
-      "final_score": 0.5122,
-      "price": 272.92,
-      "change_pct": -0.22,
+      "final_score": 0.5045,
+      "price": 273.14,
+      "change_pct": -0.14,
       "sparkline": [],
       "headlines": [
         {
@@ -327,96 +381,20 @@
       ]
     },
     {
-      "ticker": "MA",
-      "rank": 13,
-      "prob_up": 0.4733,
-      "sentiment_norm": 0.5751,
-      "final_score": 0.5039,
-      "price": 597.8,
-      "change_pct": -0.13,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Visa or Mastercard: One Stock Will Outpace the Other at Record Highs \u2014 Here\u2019s Our Pick",
-          "url": "https://247wallst.com/investing/2026/08/25/visa-or-mastercard-one-stock-will-outpace-the-other-at-record-highs-heres-our-pick/?.tsrc=rss",
-          "score": 0.872
-        },
-        {
-          "title": "Who Can Power Visa\u2019s $7B Stablecoin Machine After BVNK?",
-          "url": "https://coingape.com/block-of-fame/pulse/who-can-power-visas-7b-stablecoin-machine-after-bvnk/?.tsrc=rss",
-          "score": 0.539
-        },
-        {
-          "title": "MA Showered Owners With Cash. The Stock Still Lagged The Market",
-          "url": "https://www.trefis.com/articles/612763/ma-showered-owners-with-cash-the-stock-still-lagged-the-market/2026-08-25?.tsrc=rss",
-          "score": -0.296
-        }
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "rank": 14,
-      "prob_up": 0.4392,
-      "sentiment_norm": 0.623,
-      "final_score": 0.4943,
-      "price": 161.27,
-      "change_pct": -1.7,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "XOM vs EPD: Which Stock Offers the Better Growth Opportunity?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-vs-epd-stock-offers-164500335.html?.tsrc=rss",
-          "score": 0.9287
-        },
-        {
-          "title": "Levi Strauss & Co., Ford, ExxonMobil, PSEG, eBay Named Among Newsweek\u2019s America\u2019s Greatest Companies 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/levi-strauss-co-ford-exxonmobil-160400115.html?.tsrc=rss",
-          "score": 0.9601
-        },
-        {
-          "title": "Zacks Market Edge Highlights:  ExxonMobil, TotalEnergies, Chevron",
-          "url": "https://finance.yahoo.com/energy/articles/zacks-market-edge-highlights-exxonmobil-075900813.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 15,
-      "prob_up": 0.4551,
-      "sentiment_norm": 0.5756,
-      "final_score": 0.4913,
-      "price": 568.58,
-      "change_pct": 1.5,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Evercore: META Could Surge Over 50% on $22B AI Opportunity",
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61420256/meta-stock-ai-compute-22-billion?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-          "score": -0.0772
-        },
-        {
-          "title": "Instagram head Adam Mosseri to testify at Meta child social media addiction trial",
-          "url": "https://finance.yahoo.com/media-advertising/articles/instagram-head-adam-mosseri-testify-155540254.html?.tsrc=rss",
-          "score": 0.2263
-        },
-        {
-          "title": "What Is Meta (META) Really Building With Its $50 Billion AI Push?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-really-building-50-150802696.html?.tsrc=rss",
-          "score": 0.6705
-        }
-      ]
-    },
-    {
       "ticker": "LLY",
-      "rank": 16,
+      "rank": 15,
       "prob_up": 0.4979,
-      "sentiment_norm": 0.4456,
-      "final_score": 0.4822,
-      "price": 1235.26,
-      "change_pct": -1.1,
+      "sentiment_norm": 0.424,
+      "final_score": 0.4757,
+      "price": 1233.66,
+      "change_pct": -1.23,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "2 Stocks That Could Capitalize on the GLP-1 Boom",
+          "url": "https://www.fool.com/investing/2026/08/25/2-stocks-that-could-capitalize-on-the-glp-1-boom/?.tsrc=rss",
+          "score": 0.1927
+        },
         {
           "title": "Lilly Gains as Foundayo Crosses the Atlantic Without a Needle",
           "url": "https://finance.yahoo.com/healthcare/articles/lilly-gains-foundayo-crosses-atlantic-193758106.html?.tsrc=rss",
@@ -426,22 +404,44 @@
           "title": "Eli Lilly vs Novo Nordisk: One Winner in The Weight-Loss Drug Gold Rush",
           "url": "https://247wallst.com/investing/2026/08/25/eli-lilly-vs-novo-nordisk-one-winner-in-the-weight-loss-drug-gold-rush/?.tsrc=rss",
           "score": -0.0644
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "rank": 16,
+      "prob_up": 0.4392,
+      "sentiment_norm": 0.5319,
+      "final_score": 0.467,
+      "price": 160.64,
+      "change_pct": -2.08,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Exxon Falls as Oil Erases the Iran Premium",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-falls-oil-erases-iran-194926639.html?.tsrc=rss",
+          "score": -0.5106
         },
         {
-          "title": "Eli Lilly Stock Raised Its Forecast, So Why Is The Market Shrugging?",
-          "url": "https://www.trefis.com/articles/612540/eli-lilly-stock-raised-its-forecast-so-why-is-the-market-shrugging/2026-08-24?.tsrc=rss",
-          "score": 0.0
+          "title": "XOM vs EPD: Which Stock Offers the Better Growth Opportunity?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-vs-epd-stock-offers-164500335.html?.tsrc=rss",
+          "score": 0.9287
+        },
+        {
+          "title": "Levi Strauss & Co., Ford, ExxonMobil, PSEG, eBay Named Among Newsweek\u2019s America\u2019s Greatest Companies 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/levi-strauss-co-ford-exxonmobil-160400115.html?.tsrc=rss",
+          "score": 0.9601
         }
       ]
     },
     {
       "ticker": "V",
       "rank": 17,
-      "prob_up": 0.4358,
+      "prob_up": 0.423,
       "sentiment_norm": 0.5457,
-      "final_score": 0.4688,
-      "price": 382.92,
-      "change_pct": -0.19,
+      "final_score": 0.4598,
+      "price": 384.14,
+      "change_pct": 0.13,
       "sparkline": [],
       "headlines": [
         {
@@ -465,37 +465,37 @@
       "ticker": "MSFT",
       "rank": 18,
       "prob_up": 0.3776,
-      "sentiment_norm": 0.6072,
-      "final_score": 0.4465,
-      "price": 490.92,
-      "change_pct": 0.75,
+      "sentiment_norm": 0.6407,
+      "final_score": 0.4566,
+      "price": 491.71,
+      "change_pct": 0.91,
       "sparkline": [],
       "headlines": [
         {
-          "title": "EVA Air Collaborates with AIT Worldwide Logistics, Microsoft and Formosa Petrochemical Corporation to Deliver 15,000 Metric Tons of Scope 3 Emissions Reductions",
-          "url": "https://finance.yahoo.com/energy/articles/eva-air-collaborates-ait-worldwide-184500223.html?.tsrc=rss",
-          "score": 0.0
+          "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html?.tsrc=rss",
+          "score": 0.4215
         },
         {
-          "title": "Liminal Named No. 564 on the 2026 Inc. 5000 List: the Most Prestigious Ranking of America\u2019s Fastest-Growing Private Companies",
-          "url": "https://finance.yahoo.com/small-business/articles/liminal-named-no-564-2026-181500011.html?.tsrc=rss",
-          "score": 0.624
+          "title": "Xendoo Named No. 3828 on the 2026 Inc. 5000 List, the Most Prestigious Ranking of America\u2019s Fastest-Growing Private Companies",
+          "url": "https://finance.yahoo.com/small-business/articles/xendoo-named-no-3828-2026-194900707.html?.tsrc=rss",
+          "score": 0.7713
         },
         {
-          "title": "Rosenblatt Resets Marvell Stock Target Before Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-resets-marvell-stock-target-175738750.html?.tsrc=rss",
-          "score": 0.3818
+          "title": "Microsoft Just Ripped 28% in a Month. What Would It Take to Get MSFT Stock Up to $600?",
+          "url": "https://247wallst.com/investing/2026/08/25/microsoft-just-ripped-28-in-a-month-what-would-it-take-to-get-msft-stock-up-to-600/?.tsrc=rss",
+          "score": 0.2732
         }
       ]
     },
     {
       "ticker": "TSLA",
       "rank": 19,
-      "prob_up": 0.2956,
-      "sentiment_norm": 0.5934,
-      "final_score": 0.385,
-      "price": 351.91,
-      "change_pct": 0.74,
+      "prob_up": 0.3065,
+      "sentiment_norm": 0.5915,
+      "final_score": 0.392,
+      "price": 350.25,
+      "change_pct": 0.26,
       "sparkline": [],
       "headlines": [
         {
@@ -504,14 +504,14 @@
           "score": 0.2732
         },
         {
-          "title": "Oppenheimer initiates Kodiak AI stock with outperform rating",
-          "url": "https://qz.com/oppenheimer-kodiak-ai-stock-outperform-rating-082526?.tsrc=rss",
-          "score": 0.5859
+          "title": "Nevada Just Raised Tesla's Las Vegas Robotaxi Cap From 10 Vehicles to 5,000",
+          "url": "https://www.fool.com/investing/2026/08/25/nevada-just-raised-tesla-s-las-vegas-robotaxi-cap-from-10-vehicles-to-5-000/?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Tesla\u2019s Cybertruck Price Increase Shows  Cost Trumps Demand",
-          "url": "https://finance.yahoo.com/m/b43da373-61f0-3ff3-88d4-c0efff240eb8/tesla%E2%80%99s-cybertruck-price.html?.tsrc=rss",
-          "score": 0.7184
+          "title": "Tesla Rises as 2.98 Million-Car Recall Tests China",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-rises-2-98-million-194544517.html?.tsrc=rss",
+          "score": 0.0772
         }
       ]
     },
@@ -519,10 +519,10 @@
       "ticker": "GOOGL",
       "rank": 20,
       "prob_up": 0.2883,
-      "sentiment_norm": 0.5582,
-      "final_score": 0.3692,
-      "price": 346.92,
-      "change_pct": -0.3,
+      "sentiment_norm": 0.521,
+      "final_score": 0.3581,
+      "price": 346.96,
+      "change_pct": -0.28,
       "sparkline": [],
       "headlines": [
         {
