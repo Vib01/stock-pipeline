@@ -1,69 +1,15 @@
 {
-  "last_updated": "2026-08-25T14:57:32Z",
+  "last_updated": "2026-08-25T15:54:25Z",
   "market_status": "open",
   "rankings": [
     {
-      "ticker": "AAPL",
-      "rank": 1,
-      "prob_up": 0.5943,
-      "sentiment_norm": 0.6716,
-      "final_score": 0.6175,
-      "price": 309.3,
-      "change_pct": -0.44,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Apple launches new Mac Mini and Mac Studio desktops aimed at AI developers",
-          "url": "https://finance.yahoo.com/technology/article/apple-launches-new-mac-mini-and-mac-studio-desktops-aimed-at-ai-developers-130000077.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Apple to Launch New Mac Mini Computers With M6, M5 Pro Chips",
-          "url": "https://finance.yahoo.com/technology/articles/apple-launch-mac-mini-computers-132442905.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Apple's Next Mac Mini Could Arrive Sooner Than Expected",
-          "url": "https://finance.yahoo.com/technology/articles/apples-next-mac-mini-could-131828532.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 2,
-      "prob_up": 0.5496,
-      "sentiment_norm": 0.6268,
-      "final_score": 0.5727,
-      "price": 564.17,
-      "change_pct": 0.71,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Why Meta Stock Is Up Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-stock-today-144132115.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Nvidia Vs. Meta Platforms: Why Wall Street Expects Their Q3 Performance to Lead The Magnificent Seven",
-          "url": "https://247wallst.com/investing/2026/08/25/nvidia-vs-meta-platforms-why-wall-street-expects-their-q3-performance-to-lead-the-magnificent-seven/?.tsrc=rss",
-          "score": 0.3506
-        },
-        {
-          "title": "Meta\u2019s Hatch Agent Platform and Watermelon Model Signal a Consumer AI Monetization Push",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-hatch-agent-platform-watermelon-113350203.html?.tsrc=rss",
-          "score": 0.0498
-        }
-      ]
-    },
-    {
       "ticker": "COST",
-      "rank": 3,
-      "prob_up": 0.496,
+      "rank": 1,
+      "prob_up": 0.5142,
       "sentiment_norm": 0.7462,
-      "final_score": 0.5711,
-      "price": 964.17,
-      "change_pct": -0.54,
+      "final_score": 0.5838,
+      "price": 963.5,
+      "change_pct": -0.61,
       "sparkline": [],
       "headlines": [
         {
@@ -84,67 +30,13 @@
       ]
     },
     {
-      "ticker": "UNH",
-      "rank": 4,
-      "prob_up": 0.5543,
-      "sentiment_norm": 0.5981,
-      "final_score": 0.5674,
-      "price": 396.55,
-      "change_pct": -0.67,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Zacks Industry Outlook UnitedHealth, The Cigna, Humana, Centene and Molina",
-          "url": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-unitedhealth-cigna-083600628.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "UnitedHealth Stock's Biggest Risk Sits In The Commercial Book",
-          "url": "https://www.trefis.com/articles/612596/unitedhealth-stocks-biggest-risk-sits-in-the-commercial-book/2026-08-24?.tsrc=rss",
-          "score": 0.1154
-        },
-        {
-          "title": "What Does UnitedHealth Group (UNH) IRS Tax Scrutiny Mean For Investors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-unitedhealth-group-unh-irs-220902043.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "BRK-B",
-      "rank": 5,
-      "prob_up": 0.5128,
-      "sentiment_norm": 0.6798,
-      "final_score": 0.5629,
-      "price": 502.54,
-      "change_pct": -0.33,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Berkshire Hathaway Bought $10 Billion of Alphabet Straight From the Company, Bypassing the Open Market",
-          "url": "https://www.fool.com/investing/2026/08/25/berkshire-hathaway-bought-10-billion-of-alphabet/?.tsrc=rss",
-          "score": 0.2263
-        },
-        {
-          "title": "Tokio Marine nears Suncorp takeover bid \u2013 report",
-          "url": "https://www.lifeinsuranceinternational.com/news/tokio-marine-nears-suncorp-takeover-bid/?.tsrc=rss",
-          "score": 0.3182
-        },
-        {
-          "title": "Warren Buffett Continues to Load Up on Alphabet, and This 1 Number Is the Big Reason Why",
-          "url": "https://www.fool.com/investing/2026/08/25/warren-buffett-continues-to-load-up-on-alphabet-an/?.tsrc=rss",
-          "score": 0.7003
-        }
-      ]
-    },
-    {
       "ticker": "HD",
-      "rank": 6,
-      "prob_up": 0.492,
+      "rank": 2,
+      "prob_up": 0.56,
       "sentiment_norm": 0.6303,
-      "final_score": 0.5335,
-      "price": 335.3,
-      "change_pct": -0.67,
+      "final_score": 0.5811,
+      "price": 336.91,
+      "change_pct": -0.19,
       "sparkline": [],
       "headlines": [
         {
@@ -165,13 +57,175 @@
       ]
     },
     {
-      "ticker": "AVGO",
+      "ticker": "AAPL",
+      "rank": 3,
+      "prob_up": 0.5943,
+      "sentiment_norm": 0.5334,
+      "final_score": 0.576,
+      "price": 309.57,
+      "change_pct": -0.35,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Apple launches new Mac Mini and Mac Studio desktops aimed at AI developers",
+          "url": "https://finance.yahoo.com/technology/article/apple-launches-new-mac-mini-and-mac-studio-desktops-aimed-at-ai-developers-130000077.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Apple at $310: Little Room to Grow But Still a Buy",
+          "url": "https://247wallst.com/investing/2026/08/25/apple-at-310-little-room-to-grow-but-still-a-buy/?.tsrc=rss",
+          "score": -0.9136
+        },
+        {
+          "title": "Apple to Launch New Mac Mini Computers With M6, M5 Pro Chips",
+          "url": "https://finance.yahoo.com/technology/articles/apple-launch-mac-mini-computers-132442905.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "rank": 4,
+      "prob_up": 0.5227,
+      "sentiment_norm": 0.6988,
+      "final_score": 0.5756,
+      "price": 503.26,
+      "change_pct": -0.19,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Berkshire Hathaway Bought $10 Billion of Alphabet Straight From the Company, Bypassing the Open Market",
+          "url": "https://www.fool.com/investing/2026/08/25/berkshire-hathaway-bought-10-billion-of-alphabet/?.tsrc=rss",
+          "score": 0.2263
+        },
+        {
+          "title": "Tokio Marine nears Suncorp takeover bid \u2013 report",
+          "url": "https://www.lifeinsuranceinternational.com/news/tokio-marine-nears-suncorp-takeover-bid/?.tsrc=rss",
+          "score": 0.3182
+        },
+        {
+          "title": "Warren Buffett Continues to Load Up on Alphabet, and This 1 Number Is the Big Reason Why",
+          "url": "https://www.fool.com/investing/2026/08/25/warren-buffett-continues-to-load-up-on-alphabet-an/?.tsrc=rss",
+          "score": 0.7003
+        }
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "rank": 5,
+      "prob_up": 0.5543,
+      "sentiment_norm": 0.5981,
+      "final_score": 0.5674,
+      "price": 397.42,
+      "change_pct": -0.45,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Zacks Industry Outlook UnitedHealth, The Cigna, Humana, Centene and Molina",
+          "url": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-unitedhealth-cigna-083600628.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "UnitedHealth Stock's Biggest Risk Sits In The Commercial Book",
+          "url": "https://www.trefis.com/articles/612596/unitedhealth-stocks-biggest-risk-sits-in-the-commercial-book/2026-08-24?.tsrc=rss",
+          "score": 0.1154
+        },
+        {
+          "title": "What Does UnitedHealth Group (UNH) IRS Tax Scrutiny Mean For Investors?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-unitedhealth-group-unh-irs-220902043.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 6,
+      "prob_up": 0.4654,
+      "sentiment_norm": 0.7525,
+      "final_score": 0.5515,
+      "price": 211.12,
+      "change_pct": 1.11,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Aptiv Accelerating Production-Ready Physical AI with Support for NVIDIA Jetson Orin Nano 2",
+          "url": "https://finance.yahoo.com/technology/ai/articles/aptiv-accelerating-production-ready-physical-153000947.html?.tsrc=rss",
+          "score": 0.8834
+        },
+        {
+          "title": "Lumentum's 1.6T & 200G Ramp Faces Cisco & NVIDIA Competition",
+          "url": "https://finance.yahoo.com/technology/articles/lumentums-1-6t-200g-ramp-151300512.html?.tsrc=rss",
+          "score": 0.7506
+        },
+        {
+          "title": "Stock Market Today: Nasdaq Holds Support Amid Surprise Economic Data; Nvidia Reverses Higher (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/de79ffd0-f04e-3c28-992c-6801c26cfde3/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+          "score": 0.5423
+        }
+      ]
+    },
+    {
+      "ticker": "V",
       "rank": 7,
-      "prob_up": 0.4712,
+      "prob_up": 0.5211,
+      "sentiment_norm": 0.6069,
+      "final_score": 0.5468,
+      "price": 382.01,
+      "change_pct": -0.42,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Visa or Mastercard: One Stock Will Outpace the Other at Record Highs \u2014 Here\u2019s Our Pick",
+          "url": "https://247wallst.com/investing/2026/08/25/visa-or-mastercard-one-stock-will-outpace-the-other-at-record-highs-heres-our-pick/?.tsrc=rss",
+          "score": 0.872
+        },
+        {
+          "title": "Who Can Power Visa\u2019s $7B Stablecoin Machine After BVNK?",
+          "url": "https://coingape.com/block-of-fame/pulse/who-can-power-visas-7b-stablecoin-machine-after-bvnk/?.tsrc=rss",
+          "score": 0.539
+        },
+        {
+          "title": "Visa and Mastercard stocks close at record highs in August 2026",
+          "url": "https://qz.com/visa-mastercard-stock-record-close-consumer-spending-082526?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "rank": 8,
+      "prob_up": 0.4866,
+      "sentiment_norm": 0.6588,
+      "final_score": 0.5383,
+      "price": 565.99,
+      "change_pct": 1.03,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "What Is Meta (META) Really Building With Its $50 Billion AI Push?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-really-building-50-150802696.html?.tsrc=rss",
+          "score": 0.6705
+        },
+        {
+          "title": "Mark Zuckerberg Says Personal AI Will Be the Future. Here Are 2 Stocks That Could Benefit",
+          "url": "https://www.fool.com/investing/2026/08/25/mark-zuckerberg-says-personal-ai-will-be-the-future-here-are-2-stocks-that-could-benefit/?.tsrc=rss",
+          "score": 0.7003
+        },
+        {
+          "title": "Why Meta Stock Is Up Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-stock-today-144132115.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 9,
+      "prob_up": 0.4529,
       "sentiment_norm": 0.6764,
-      "final_score": 0.5327,
-      "price": 359.64,
-      "change_pct": 0.28,
+      "final_score": 0.5199,
+      "price": 360.66,
+      "change_pct": 0.57,
       "sparkline": [],
       "headlines": [
         {
@@ -192,40 +246,40 @@
       ]
     },
     {
-      "ticker": "V",
-      "rank": 8,
-      "prob_up": 0.5211,
-      "sentiment_norm": 0.5168,
-      "final_score": 0.5198,
-      "price": 381.45,
-      "change_pct": -0.57,
+      "ticker": "JPM",
+      "rank": 10,
+      "prob_up": 0.5371,
+      "sentiment_norm": 0.4769,
+      "final_score": 0.5191,
+      "price": 355.45,
+      "change_pct": -0.3,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Who Can Power Visa\u2019s $7B Stablecoin Machine After BVNK?",
-          "url": "https://coingape.com/block-of-fame/pulse/who-can-power-visas-7b-stablecoin-machine-after-bvnk/?.tsrc=rss",
-          "score": 0.539
+          "title": "JPMorgan compares Bessent's $4B bond buyback to 'paying your mortgage with your credit card' as U.S. debt hits $40T",
+          "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-compares-bessents-4b-bond-152000324.html?.tsrc=rss",
+          "score": -0.1779
         },
         {
-          "title": "Visa and Mastercard stocks close at record highs in August 2026",
-          "url": "https://qz.com/visa-mastercard-stock-record-close-consumer-spending-082526?.tsrc=rss",
-          "score": 0.0
+          "title": "Goldman Sachs, Citi, JPMorgan Face Subpoenas Over AI Hedge Fund: Reports",
+          "url": "https://finance.yahoo.com/m/0a66018c-5b86-3d23-abc5-2f6b63a98203/goldman-sachs%2C-citi%2C-jpmorgan.html?.tsrc=rss",
+          "score": -0.2732
         },
         {
-          "title": "payabl. integrates Visa RDR to resolve disputes before chargebacks",
-          "url": "https://www.electronicpaymentsinternational.com/news/payabl-integrates-visa-rdr/?.tsrc=rss",
-          "score": 0.2732
+          "title": "JPMorgan predicts booming humanoid robot demand in U.S. manufacturing",
+          "url": "https://qz.com/jpmorgan-humanoid-robot-demand-us-manufacturing-082526?.tsrc=rss",
+          "score": -0.4588
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 9,
-      "prob_up": 0.4937,
+      "rank": 11,
+      "prob_up": 0.4871,
       "sentiment_norm": 0.5759,
-      "final_score": 0.5184,
-      "price": 145.54,
-      "change_pct": -0.59,
+      "final_score": 0.5138,
+      "price": 145.33,
+      "change_pct": -0.73,
       "sparkline": [],
       "headlines": [
         {
@@ -247,12 +301,12 @@
     },
     {
       "ticker": "WMT",
-      "rank": 10,
+      "rank": 12,
       "prob_up": 0.4273,
       "sentiment_norm": 0.7055,
       "final_score": 0.5108,
-      "price": 104.73,
-      "change_pct": -1.43,
+      "price": 104.68,
+      "change_pct": -1.48,
       "sparkline": [],
       "headlines": [
         {
@@ -273,67 +327,67 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 11,
-      "prob_up": 0.4949,
-      "sentiment_norm": 0.5433,
-      "final_score": 0.5094,
-      "price": 260.73,
-      "change_pct": -0.71,
+      "ticker": "JNJ",
+      "rank": 13,
+      "prob_up": 0.4863,
+      "sentiment_norm": 0.5454,
+      "final_score": 0.504,
+      "price": 272.45,
+      "change_pct": -0.39,
       "sparkline": [],
       "headlines": [
         {
-          "title": "New HarrisX and Allison Worldwide Study Reveals Gen Alpha Teens Emerge as the CMOs of the American Household \u2013 While Moms Remain the Chief Household Officers",
-          "url": "https://finance.yahoo.com/media-advertising/articles/harrisx-allison-worldwide-study-reveals-133000674.html?.tsrc=rss",
-          "score": 0.0
+          "title": "5 Dividend Aristocrats Boomers Should Own for Life",
+          "url": "https://247wallst.com/investing/2026/08/25/5-dividend-aristocrats-boomers-should-own-for-life/?.tsrc=rss",
+          "score": 0.2263
         },
         {
-          "title": "Jim Cramer says data center backlash favors big tech hyperscalers",
-          "url": "https://qz.com/cramer-data-center-political-backlash-hyperscalers-082526?.tsrc=rss",
-          "score": -0.4767
+          "title": "Does Louisiana\u2019s US$10 Million Talc Verdict Shift the Legal Risk Bull Case For Johnson & Johnson (JNJ)?",
+          "url": "https://finance.yahoo.com/healthcare/articles/does-louisiana-us-10-million-011035581.html?.tsrc=rss",
+          "score": -0.5719
         },
         {
-          "title": "Andy Jassy Believes AWS Can Hit $1 Trillion in Revenue. Here's When the Math Says It Might Happen.",
-          "url": "https://www.fool.com/investing/2026/08/25/andy-jassy-believes-aws-can-hit-1-trillion-in-reve/?.tsrc=rss",
-          "score": 0.7269
+          "title": "Johnson & Johnson Rises 1.3% as Investors Seek Stability",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-rises-1-3-191853863.html?.tsrc=rss",
+          "score": -0.1779
         }
       ]
     },
     {
-      "ticker": "JPM",
-      "rank": 12,
-      "prob_up": 0.5209,
-      "sentiment_norm": 0.4721,
-      "final_score": 0.5062,
-      "price": 354.14,
-      "change_pct": -0.66,
+      "ticker": "MA",
+      "rank": 14,
+      "prob_up": 0.4733,
+      "sentiment_norm": 0.5751,
+      "final_score": 0.5039,
+      "price": 596.32,
+      "change_pct": -0.38,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Goldman Sachs, Citi, JPMorgan Face Subpoenas Over AI Hedge Fund: Reports",
-          "url": "https://finance.yahoo.com/m/0a66018c-5b86-3d23-abc5-2f6b63a98203/goldman-sachs%2C-citi%2C-jpmorgan.html?.tsrc=rss",
-          "score": -0.2732
+          "title": "Visa or Mastercard: One Stock Will Outpace the Other at Record Highs \u2014 Here\u2019s Our Pick",
+          "url": "https://247wallst.com/investing/2026/08/25/visa-or-mastercard-one-stock-will-outpace-the-other-at-record-highs-heres-our-pick/?.tsrc=rss",
+          "score": 0.872
         },
         {
-          "title": "JPMorgan predicts booming humanoid robot demand in U.S. manufacturing",
-          "url": "https://qz.com/jpmorgan-humanoid-robot-demand-us-manufacturing-082526?.tsrc=rss",
-          "score": -0.4588
+          "title": "Who Can Power Visa\u2019s $7B Stablecoin Machine After BVNK?",
+          "url": "https://coingape.com/block-of-fame/pulse/who-can-power-visas-7b-stablecoin-machine-after-bvnk/?.tsrc=rss",
+          "score": 0.539
         },
         {
-          "title": "Should JPMorgan Diversified Return U.S. Mid Cap Equity ETF (JPME) Be on Your Investing Radar?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-diversified-return-u-mid-102002819.html?.tsrc=rss",
-          "score": 0.0
+          "title": "MA Showered Owners With Cash. The Stock Still Lagged The Market",
+          "url": "https://www.trefis.com/articles/612763/ma-showered-owners-with-cash-the-stock-still-lagged-the-market/2026-08-25?.tsrc=rss",
+          "score": -0.296
         }
       ]
     },
     {
       "ticker": "LLY",
-      "rank": 13,
+      "rank": 15,
       "prob_up": 0.5071,
       "sentiment_norm": 0.4747,
       "final_score": 0.4974,
-      "price": 1255.06,
-      "change_pct": 0.49,
+      "price": 1255.77,
+      "change_pct": 0.54,
       "sparkline": [],
       "headlines": [
         {
@@ -355,12 +409,12 @@
     },
     {
       "ticker": "XOM",
-      "rank": 14,
+      "rank": 16,
       "prob_up": 0.4464,
-      "sentiment_norm": 0.5924,
-      "final_score": 0.4902,
-      "price": 161.53,
-      "change_pct": -1.54,
+      "sentiment_norm": 0.5956,
+      "final_score": 0.4912,
+      "price": 161.7,
+      "change_pct": -1.44,
       "sparkline": [],
       "headlines": [
         {
@@ -381,83 +435,29 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 15,
-      "prob_up": 0.4654,
-      "sentiment_norm": 0.5395,
-      "final_score": 0.4876,
-      "price": 211.06,
-      "change_pct": 1.08,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "SpaceX orbital data center launch moved up to 2027, Musk says",
-          "url": "https://finance.yahoo.com/markets/stocks/article/spacex-orbital-data-center-launch-moved-up-to-2027-musk-says-142539276.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off.",
-          "url": "https://www.fool.com/investing/2026/08/25/jensen-huang-told-investors-in-seoul-to-buy-at-a-d/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Kalshi's Nvidia Compute Markets Hit $4.4M: Is AI Compute the 'New Oil'?",
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61411352/kalshi-nvidia-compute-markets?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "rank": 16,
-      "prob_up": 0.4733,
-      "sentiment_norm": 0.5121,
-      "final_score": 0.485,
-      "price": 597.36,
-      "change_pct": -0.2,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Who Can Power Visa\u2019s $7B Stablecoin Machine After BVNK?",
-          "url": "https://coingape.com/block-of-fame/pulse/who-can-power-visas-7b-stablecoin-machine-after-bvnk/?.tsrc=rss",
-          "score": 0.539
-        },
-        {
-          "title": "MA Showered Owners With Cash. The Stock Still Lagged The Market",
-          "url": "https://www.trefis.com/articles/612763/ma-showered-owners-with-cash-the-stock-still-lagged-the-market/2026-08-25?.tsrc=rss",
-          "score": -0.296
-        },
-        {
-          "title": "Visa and Mastercard stocks close at record highs in August 2026",
-          "url": "https://qz.com/visa-mastercard-stock-record-close-consumer-spending-082526?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "JNJ",
+      "ticker": "AMZN",
       "rank": 17,
-      "prob_up": 0.4721,
-      "sentiment_norm": 0.5091,
-      "final_score": 0.4832,
-      "price": 273.07,
-      "change_pct": -0.16,
+      "prob_up": 0.4949,
+      "sentiment_norm": 0.4487,
+      "final_score": 0.481,
+      "price": 261.03,
+      "change_pct": -0.6,
       "sparkline": [],
       "headlines": [
         {
-          "title": "5 Dividend Aristocrats Boomers Should Own for Life",
-          "url": "https://247wallst.com/investing/2026/08/25/5-dividend-aristocrats-boomers-should-own-for-life/?.tsrc=rss",
-          "score": 0.2263
+          "title": "New HarrisX and Allison Worldwide Study Reveals Gen Alpha Teens Emerge as the CMOs of the American Household \u2013 While Moms Remain the Chief Household Officers",
+          "url": "https://finance.yahoo.com/media-advertising/articles/harrisx-allison-worldwide-study-reveals-133000674.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Does Louisiana\u2019s US$10 Million Talc Verdict Shift the Legal Risk Bull Case For Johnson & Johnson (JNJ)?",
-          "url": "https://finance.yahoo.com/healthcare/articles/does-louisiana-us-10-million-011035581.html?.tsrc=rss",
-          "score": -0.5719
+          "title": "Jim Cramer says data center backlash favors big tech hyperscalers",
+          "url": "https://qz.com/cramer-data-center-political-backlash-hyperscalers-082526?.tsrc=rss",
+          "score": -0.4767
         },
         {
-          "title": "Johnson & Johnson Rises 1.3% as Investors Seek Stability",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-rises-1-3-191853863.html?.tsrc=rss",
-          "score": -0.1779
+          "title": "Can X-Energy's Xe-100 Capture the Growing Demand for Reliable AI Power?",
+          "url": "https://finance.yahoo.com/energy/articles/x-energys-xe-100-capture-142400972.html?.tsrc=rss",
+          "score": 0.25
         }
       ]
     },
@@ -465,10 +465,10 @@
       "ticker": "MSFT",
       "rank": 18,
       "prob_up": 0.3776,
-      "sentiment_norm": 0.6325,
-      "final_score": 0.4541,
-      "price": 488.73,
-      "change_pct": 0.3,
+      "sentiment_norm": 0.608,
+      "final_score": 0.4468,
+      "price": 489.57,
+      "change_pct": 0.47,
       "sparkline": [],
       "headlines": [
         {
@@ -494,8 +494,8 @@
       "prob_up": 0.2965,
       "sentiment_norm": 0.6217,
       "final_score": 0.3941,
-      "price": 346.24,
-      "change_pct": -0.49,
+      "price": 346.48,
+      "change_pct": -0.42,
       "sparkline": [],
       "headlines": [
         {
@@ -518,11 +518,11 @@
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.3065,
-      "sentiment_norm": 0.5329,
-      "final_score": 0.3744,
-      "price": 350.06,
-      "change_pct": 0.21,
+      "prob_up": 0.2956,
+      "sentiment_norm": 0.5373,
+      "final_score": 0.3681,
+      "price": 353.35,
+      "change_pct": 1.15,
       "sparkline": [],
       "headlines": [
         {
@@ -531,14 +531,14 @@
           "score": 0.0
         },
         {
-          "title": "2 S&P 500 Stocks with Exciting Potential and 1 We Brush Off",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-exciting-133444284.html?.tsrc=rss",
-          "score": 0.25
+          "title": "Why Tesla Is Raising Prices on the Cybertruck\u2014Even as Sales Slow Down",
+          "url": "https://finance.yahoo.com/m/b43da373-61f0-3ff3-88d4-c0efff240eb8/why-tesla-is-raising-prices.html?.tsrc=rss",
+          "score": 0.6369
         },
         {
-          "title": "Forget EV Sales: This Is the Number That Could Decide Tesla\u2019s Future",
-          "url": "https://247wallst.com/investing/2026/08/25/forget-ev-sales-this-is-the-number-that-could-decide-teslas-future/?.tsrc=rss",
-          "score": -0.2023
+          "title": "Tesla Raises Prices on Cybertruck Almost No One Will Buy",
+          "url": "https://247wallst.com/investing/2026/08/25/tesla-raises-prices-on-cybertruck-almost-no-one-will-buy/?.tsrc=rss",
+          "score": -0.5118
         }
       ]
     }
