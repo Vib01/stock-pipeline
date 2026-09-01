@@ -1,10 +1,37 @@
 {
-  "last_updated": "2026-09-01T22:05:24Z",
+  "last_updated": "2026-09-01T22:48:19Z",
   "market_status": "closed",
   "rankings": [
     {
-      "ticker": "UNH",
+      "ticker": "META",
       "rank": 1,
+      "prob_up": 0.5589,
+      "sentiment_norm": 0.6777,
+      "final_score": 0.5946,
+      "price": 578.54,
+      "change_pct": 1.14,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Meta May Overtake Google Search This Year. That Makes Its AI Capex Harder to Dismiss",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-may-overtake-google-search-214953946.html?.tsrc=rss",
+          "score": 0.128
+        },
+        {
+          "title": "These ETFs Generate the Most Revenue",
+          "url": "http://www.etf.com/sections/features/these-etfs-generate-most-revenue?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+          "score": 0.5984
+        },
+        {
+          "title": "Google prepares Gemini 3.8 Flash to narrow AI coding gap, WSJ reports",
+          "url": "https://finance.yahoo.com/technology/ai/articles/google-prepares-gemini-3-8-222338004.html?.tsrc=rss",
+          "score": 0.2263
+        }
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "rank": 2,
       "prob_up": 0.5348,
       "sentiment_norm": 0.7039,
       "final_score": 0.5856,
@@ -31,7 +58,7 @@
     },
     {
       "ticker": "COST",
-      "rank": 2,
+      "rank": 3,
       "prob_up": 0.522,
       "sentiment_norm": 0.7269,
       "final_score": 0.5835,
@@ -57,62 +84,8 @@
       ]
     },
     {
-      "ticker": "META",
-      "rank": 3,
-      "prob_up": 0.5589,
-      "sentiment_norm": 0.6292,
-      "final_score": 0.58,
-      "price": 578.54,
-      "change_pct": 1.14,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Meta May Overtake Google Search This Year. That Makes Its AI Capex Harder to Dismiss",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-may-overtake-google-search-214953946.html?.tsrc=rss",
-          "score": 0.128
-        },
-        {
-          "title": "Highland Opportunities and Income Fund Announces the Regular Monthly Distribution",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/highland-opportunities-income-fund-announces-220000900.html?.tsrc=rss",
-          "score": 0.7506
-        },
-        {
-          "title": "PIMCO Closed-End Funds Declare Monthly Common Share Distributions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pimco-closed-end-funds-declare-215300289.html?.tsrc=rss",
-          "score": 0.5267
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "rank": 4,
-      "prob_up": 0.5292,
-      "sentiment_norm": 0.6706,
-      "final_score": 0.5716,
-      "price": 354.95,
-      "change_pct": -0.34,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "JPMorgan Rises as 10-Year Treasury Yield Hits 4.8%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-rises-10-treasury-yield-201208997.html?.tsrc=rss",
-          "score": 0.5859
-        },
-        {
-          "title": "Vivmark a potential \u2018blue chip\u2019 stock for investors: JPM analyst",
-          "url": "https://www.multifamilydive.com/news/wall-street-analysts-reits-vivmark-/829374/?.tsrc=rss",
-          "score": 0.9042
-        },
-        {
-          "title": "Why JPM thinks rising bond yields won\u2019t derail the equity rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-jpm-thinks-rising-bond-145432879.html?.tsrc=rss",
-          "score": -0.69
-        }
-      ]
-    },
-    {
       "ticker": "BRK-B",
-      "rank": 5,
+      "rank": 4,
       "prob_up": 0.5106,
       "sentiment_norm": 0.7104,
       "final_score": 0.5706,
@@ -138,11 +111,38 @@
       ]
     },
     {
+      "ticker": "JPM",
+      "rank": 5,
+      "prob_up": 0.5292,
+      "sentiment_norm": 0.622,
+      "final_score": 0.557,
+      "price": 354.95,
+      "change_pct": -0.34,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "JPMorgan Rises as 10-Year Treasury Yield Hits 4.8%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-rises-10-treasury-yield-201208997.html?.tsrc=rss",
+          "score": 0.5859
+        },
+        {
+          "title": "Vivmark a potential \u2018blue chip\u2019 stock for investors: JPM analyst",
+          "url": "https://www.multifamilydive.com/news/wall-street-analysts-reits-vivmark-/829374/?.tsrc=rss",
+          "score": 0.9042
+        },
+        {
+          "title": "Why JPM thinks rising bond yields won\u2019t derail the equity rally",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-jpm-thinks-rising-bond-145432879.html?.tsrc=rss",
+          "score": -0.69
+        }
+      ]
+    },
+    {
       "ticker": "V",
       "rank": 6,
       "prob_up": 0.5021,
-      "sentiment_norm": 0.6853,
-      "final_score": 0.557,
+      "sentiment_norm": 0.6708,
+      "final_score": 0.5527,
       "price": 372.67,
       "change_pct": -1.78,
       "sparkline": [],
@@ -165,35 +165,8 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "rank": 7,
-      "prob_up": 0.4906,
-      "sentiment_norm": 0.6918,
-      "final_score": 0.551,
-      "price": 369.68,
-      "change_pct": -0.44,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Two Stocks That Will Benefit From OpenAI Announcement",
-          "url": "https://247wallst.com/videos/two-stocks-that-will-benefit-from-openai-announcement/?.tsrc=rss",
-          "score": 0.4588
-        },
-        {
-          "title": "Broadcom Faces Crucial Earnings Test After AI Chip Sales Surge 143%",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-faces-crucial-earnings-test-195219708.html?.tsrc=rss",
-          "score": 0.8625
-        },
-        {
-          "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-boosts-vmware-ai-push-175900642.html?.tsrc=rss",
-          "score": 0.6124
-        }
-      ]
-    },
-    {
       "ticker": "HD",
-      "rank": 8,
+      "rank": 7,
       "prob_up": 0.4836,
       "sentiment_norm": 0.7007,
       "final_score": 0.5488,
@@ -220,7 +193,7 @@
     },
     {
       "ticker": "MA",
-      "rank": 9,
+      "rank": 8,
       "prob_up": 0.4693,
       "sentiment_norm": 0.6791,
       "final_score": 0.5322,
@@ -247,7 +220,7 @@
     },
     {
       "ticker": "PG",
-      "rank": 10,
+      "rank": 9,
       "prob_up": 0.4638,
       "sentiment_norm": 0.6916,
       "final_score": 0.5322,
@@ -273,8 +246,62 @@
       ]
     },
     {
-      "ticker": "LLY",
+      "ticker": "AVGO",
+      "rank": 10,
+      "prob_up": 0.4906,
+      "sentiment_norm": 0.6282,
+      "final_score": 0.5319,
+      "price": 369.68,
+      "change_pct": -0.44,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Broadcom's earnings loom, but this reveal came first",
+          "url": "https://www.thestreet.com/investing/broadcom-q3-earnings-ai-strategy?.tsrc=rss",
+          "score": -0.0772
+        },
+        {
+          "title": "28 Analysts Share Their Broadcom Stock Forecast Before Q3 Earnings",
+          "url": "https://beincrypto.com/broadcom-stock-forecast-q3-earnings-analysis/?.tsrc=rss",
+          "score": -0.2617
+        },
+        {
+          "title": "Two Stocks That Will Benefit From OpenAI Announcement",
+          "url": "https://247wallst.com/videos/two-stocks-that-will-benefit-from-openai-announcement/?.tsrc=rss",
+          "score": 0.4588
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
       "rank": 11,
+      "prob_up": 0.4754,
+      "sentiment_norm": 0.6515,
+      "final_score": 0.5282,
+      "price": 335.02,
+      "change_pct": -1.35,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
+          "url": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html?.tsrc=rss",
+          "score": 0.2023
+        },
+        {
+          "title": "Are you willing to pay $2,000 for an iPhone? These customers may.",
+          "url": "https://finance.yahoo.com/video/willing-pay-2-000-iphone-203311978.html?.tsrc=rss",
+          "score": -0.1027
+        },
+        {
+          "title": "Two deals, one Nvidia strategy: What's behind the chip giant's recent partnerships",
+          "url": "https://finance.yahoo.com/video/two-deals-one-nvidia-strategy-193213308.html?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 12,
       "prob_up": 0.5021,
       "sentiment_norm": 0.5629,
       "final_score": 0.5203,
@@ -301,7 +328,7 @@
     },
     {
       "ticker": "XOM",
-      "rank": 12,
+      "rank": 13,
       "prob_up": 0.439,
       "sentiment_norm": 0.7072,
       "final_score": 0.5195,
@@ -327,11 +354,38 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "rank": 14,
+      "prob_up": 0.4371,
+      "sentiment_norm": 0.6345,
+      "final_score": 0.4963,
+      "price": 217.44,
+      "change_pct": -1.28,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Nvidia Shareholders Should Brace Themselves for 1 Particular Thing in the Months to Come. Here\u2019s What It Means for the Long-term Picture.",
+          "url": "https://www.fool.com/investing/2026/09/01/nvidia-shareholders-should-brace-themselves-for-1-particular-thing-in-the-months-to-come-here-s-what-it-means-for-the-long-term-picture/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Target Is Up 70% This Year but Still Down 33% From Its Peak. Here's Whether the Recovery Has Further to Run.",
+          "url": "https://www.fool.com/investing/2026/09/01/target-is-up-70-this-year-but-still-down-33-from/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "CEO Michael Dell Just Delivered Fantastic News for Dell Shareholders",
+          "url": "https://www.fool.com/investing/2026/09/01/ceo-michael-dell-just-delivered-fantastic-news-for-dell-shareholders/?.tsrc=rss",
+          "score": 0.8016
+        }
+      ]
+    },
+    {
       "ticker": "AAPL",
-      "rank": 13,
+      "rank": 15,
       "prob_up": 0.4845,
-      "sentiment_norm": 0.5978,
-      "final_score": 0.5185,
+      "sentiment_norm": 0.5223,
+      "final_score": 0.4958,
       "price": 325.13,
       "change_pct": 2.56,
       "sparkline": [],
@@ -347,63 +401,9 @@
           "score": -0.1027
         },
         {
-          "title": "Apple outlines Ternus, Cook compensation in CEO transition",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-outlines-ternus-cook-compensation-212632700.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "rank": 14,
-      "prob_up": 0.4754,
-      "sentiment_norm": 0.5944,
-      "final_score": 0.5111,
-      "price": 335.02,
-      "change_pct": -1.35,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Stocks could pull back in September \u2014 here\u2019s what Joe Tigay is buying",
-          "url": "https://www.thestreet.com/video/stocks-could-pull-back-in-september-here-is-what-joe-tigay-is-buying?.tsrc=rss",
-          "score": -0.5859
-        },
-        {
-          "title": "Was the market's reaction to Alphabet\u2019s earnings overblown?",
-          "url": "https://finance.yahoo.com/video/markets-reaction-alphabet-earnings-overblown-144415674.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
-          "url": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html?.tsrc=rss",
-          "score": 0.2023
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 15,
-      "prob_up": 0.4371,
-      "sentiment_norm": 0.6016,
-      "final_score": 0.4865,
-      "price": 217.44,
-      "change_pct": -1.28,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
-          "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek?.tsrc=rss",
-          "score": 0.3182
-        },
-        {
-          "title": "Nvidia Just Broke the Stock Market (Again)",
-          "url": "https://247wallst.com/videos/nvidia-just-broke-the-stock-market-again/?.tsrc=rss",
-          "score": 0.3612
-        },
-        {
-          "title": "Two Stocks That Will Benefit From OpenAI Announcement",
-          "url": "https://247wallst.com/videos/two-stocks-that-will-benefit-from-openai-announcement/?.tsrc=rss",
-          "score": 0.4588
+          "title": "John Ternus Takes Over Apple with Just Eight Days Until His First Big Test",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/john-ternus-takes-over-apple-223105669.html?.tsrc=rss",
+          "score": 0.7906
         }
       ]
     },
@@ -438,35 +438,62 @@
       "ticker": "MSFT",
       "rank": 17,
       "prob_up": 0.3662,
-      "sentiment_norm": 0.6444,
-      "final_score": 0.4497,
+      "sentiment_norm": 0.6853,
+      "final_score": 0.4619,
       "price": 501.02,
       "change_pct": -1.32,
       "sparkline": [],
       "headlines": [
         {
-          "title": "REZOLVE AI PLC Q2 2026 Earnings Call Summary",
-          "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-rezolve-ai-plc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+          "title": "MDB Stock Dives After-Hours Despite Raised Full-Year Forecast \u2014 What\u2019s Driving The Selloff?",
+          "url": "https://stocktwits.com/news-articles/markets/equity/mdb-stock-dives-after-hours-despite-raised-full-year-forecast-what-s-driving-the-selloff/cZsoy15RJMu?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Software Stocks Just Did Something They've Done Only Three Times Before",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/software-stocks-just-did-something-194325770.html?.tsrc=rss",
+          "title": "MongoDB Inc. Q2 2027 Earnings: Recap of $MDB Earnings, Forecast",
+          "url": "https://www.thestreet.com/latest-news/mongodb-inc-mdb-q2-2027-earnings-forecast?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "MongoDB Earnings Beat Estimates But Stock Tumbles",
-          "url": "https://finance.yahoo.com/m/4a46f633-55df-3545-b1a2-ed6e731870ec/mongodb-earnings-beat.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Box (BOX) Q2 2027 Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/box-box-q2-2027-earnings-call-transcript/?.tsrc=rss",
+          "score": 0.25
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 18,
+      "prob_up": 0.4017,
+      "sentiment_norm": 0.5911,
+      "final_score": 0.4585,
+      "price": 254.92,
+      "change_pct": -2.03,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "AMAZON TEAMSTERS AT DJT6 TO LAUNCH UNFAIR LABOR PRACTICE STRIKE",
+          "url": "https://finance.yahoo.com/small-business/articles/amazon-teamsters-djt6-launch-unfair-222800527.html?.tsrc=rss",
+          "score": -0.8143
+        },
+        {
+          "title": "FTC alleges Amazon overcharged advertisers for years",
+          "url": "https://www.usatoday.com/story/money/personal-finance/income/2026/09/01/ftc-sues-amazon-over-alleged-hidden-ad-surcharges/91565438007/?.tsrc=rss",
+          "score": 0.0772
+        },
+        {
+          "title": "Amazon's $69 Billion Ad Machine Just Ran Into a $20 Billion Problem",
+          "url": "https://finance.yahoo.com/media-advertising/articles/amazons-69-billion-ad-machine-203515971.html?.tsrc=rss",
+          "score": -0.7351
         }
       ]
     },
     {
       "ticker": "WMT",
-      "rank": 18,
+      "rank": 19,
       "prob_up": 0.363,
-      "sentiment_norm": 0.6179,
-      "final_score": 0.4395,
+      "sentiment_norm": 0.5597,
+      "final_score": 0.422,
       "price": 105.92,
       "change_pct": 1.07,
       "sparkline": [],
@@ -489,42 +516,20 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 19,
-      "prob_up": 0.4017,
-      "sentiment_norm": 0.4908,
-      "final_score": 0.4284,
-      "price": 254.92,
-      "change_pct": -2.03,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "FTC alleges Amazon overcharged advertisers for years",
-          "url": "https://www.usatoday.com/story/money/personal-finance/income/2026/09/01/ftc-sues-amazon-over-alleged-hidden-ad-surcharges/91565438007/?.tsrc=rss",
-          "score": 0.0772
-        },
-        {
-          "title": "Amazon's $69 Billion Ad Machine Just Ran Into a $20 Billion Problem",
-          "url": "https://finance.yahoo.com/media-advertising/articles/amazons-69-billion-ad-machine-203515971.html?.tsrc=rss",
-          "score": -0.7351
-        },
-        {
-          "title": "Amazon Stock Drops 4.6% as FTC Alleges More Than $20 Billion in Ad Overcharges",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-drops-4-6-194624177.html?.tsrc=rss",
-          "score": -0.0516
-        }
-      ]
-    },
-    {
       "ticker": "TSLA",
       "rank": 20,
       "prob_up": 0.2956,
-      "sentiment_norm": 0.5218,
-      "final_score": 0.3635,
+      "sentiment_norm": 0.602,
+      "final_score": 0.3875,
       "price": 356.09,
       "change_pct": -3.08,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Tesla stock investors stand to gain from U.S. power grid",
+          "url": "https://www.thestreet.com/investing/stocks/tesla-stock-investors-gain-from-executive-order-securing-us-power-grid?.tsrc=rss",
+          "score": 0.8126
+        },
         {
           "title": "Tesla, Apple, Nvidia, Medtronic, Alumis, Robinhood, Fervo, and More Stocks That Explain Today\u2019s Market",
           "url": "https://finance.yahoo.com/m/f25073b8-cd7e-34f5-9321-76bd88931527/tesla%2C-apple%2C-nvidia%2C.html?.tsrc=rss",
@@ -534,11 +539,6 @@
           "title": "Tesla's French Registrations Nearly Quadrupled While Norway Fell 79%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-french-registrations-nearly-quadrupled-201908359.html?.tsrc=rss",
           "score": 0.34
-        },
-        {
-          "title": "Tesla Cybercab Hype Is Out of Control\u2014but Can It Save the Stock?",
-          "url": "https://finance.yahoo.com/m/8fd387a4-d1cd-3362-9057-587a32af840a/tesla-cybercab-hype-is-out-of.html?.tsrc=rss",
-          "score": 0.8625
         }
       ]
     }
