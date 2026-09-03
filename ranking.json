@@ -1,42 +1,15 @@
 {
-  "last_updated": "2026-09-03T16:19:54Z",
+  "last_updated": "2026-09-03T17:01:25Z",
   "market_status": "open",
   "rankings": [
     {
-      "ticker": "UNH",
-      "rank": 1,
-      "prob_up": 0.6151,
-      "sentiment_norm": 0.7339,
-      "final_score": 0.6508,
-      "price": 403.4,
-      "change_pct": 1.03,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Is UnitedHealth Finally Turning the Corner After a Tough 2025?",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-finally-turning-corner-tough-155000227.html?.tsrc=rss",
-          "score": 0.5859
-        },
-        {
-          "title": "Is UnitedHealth Group (UNH) Finally Turning the Corner Under Stephen Hemsley?",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-finally-turning-145043391.html?.tsrc=rss",
-          "score": 0.8316
-        },
-        {
-          "title": "UnitedHealth\u2019s Policy Change Opens a New Chapter for its Insurance Business",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-policy-change-opens-chapter-013625996.html?.tsrc=rss",
-          "score": 0.4939
-        }
-      ]
-    },
-    {
       "ticker": "JPM",
-      "rank": 2,
-      "prob_up": 0.589,
+      "rank": 1,
+      "prob_up": 0.6029,
       "sentiment_norm": 0.766,
-      "final_score": 0.6421,
-      "price": 360.84,
-      "change_pct": 1.27,
+      "final_score": 0.6518,
+      "price": 361.42,
+      "change_pct": 1.44,
       "sparkline": [],
       "headlines": [
         {
@@ -57,13 +30,40 @@
       ]
     },
     {
+      "ticker": "UNH",
+      "rank": 2,
+      "prob_up": 0.5274,
+      "sentiment_norm": 0.7339,
+      "final_score": 0.5893,
+      "price": 404.28,
+      "change_pct": 1.25,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Is UnitedHealth Finally Turning the Corner After a Tough 2025?",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-finally-turning-corner-tough-155000227.html?.tsrc=rss",
+          "score": 0.5859
+        },
+        {
+          "title": "Is UnitedHealth Group (UNH) Finally Turning the Corner Under Stephen Hemsley?",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-finally-turning-145043391.html?.tsrc=rss",
+          "score": 0.8316
+        },
+        {
+          "title": "UnitedHealth\u2019s Policy Change Opens a New Chapter for its Insurance Business",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-policy-change-opens-chapter-013625996.html?.tsrc=rss",
+          "score": 0.4939
+        }
+      ]
+    },
+    {
       "ticker": "LLY",
       "rank": 3,
-      "prob_up": 0.5283,
-      "sentiment_norm": 0.7369,
-      "final_score": 0.5909,
-      "price": 1155.57,
-      "change_pct": -0.55,
+      "prob_up": 0.4968,
+      "sentiment_norm": 0.7492,
+      "final_score": 0.5726,
+      "price": 1157.1,
+      "change_pct": -0.42,
       "sparkline": [],
       "headlines": [
         {
@@ -86,11 +86,11 @@
     {
       "ticker": "V",
       "rank": 4,
-      "prob_up": 0.573,
+      "prob_up": 0.564,
       "sentiment_norm": 0.5826,
-      "final_score": 0.5759,
-      "price": 378.24,
-      "change_pct": -0.12,
+      "final_score": 0.5696,
+      "price": 377.85,
+      "change_pct": -0.22,
       "sparkline": [],
       "headlines": [
         {
@@ -111,40 +111,13 @@
       ]
     },
     {
-      "ticker": "MA",
-      "rank": 5,
-      "prob_up": 0.4933,
-      "sentiment_norm": 0.6686,
-      "final_score": 0.5459,
-      "price": 585.92,
-      "change_pct": -0.5,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Mastercard (MA) Stays Resilient with AI Integration and Payment Duopoly",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-stays-resilient-ai-145603430.html?.tsrc=rss",
-          "score": 0.8316
-        },
-        {
-          "title": "Mastercard Start Path Launches Inaugural Agentic Commerce Cohort",
-          "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-start-path-launches-inaugural-131043302.html?.tsrc=rss",
-          "score": 0.802
-        },
-        {
-          "title": "Visa, Mastercard, and Fiserv Just Joined a Group Writing the Rules for AI Agent Payments",
-          "url": "https://www.fool.com/investing/2026/08/31/visa-mastercard-and-fiserv-just-joined-a-group-wri/?.tsrc=rss",
-          "score": 0.1779
-        }
-      ]
-    },
-    {
       "ticker": "PG",
-      "rank": 6,
-      "prob_up": 0.5187,
+      "rank": 5,
+      "prob_up": 0.5297,
       "sentiment_norm": 0.5887,
-      "final_score": 0.5397,
-      "price": 147.44,
-      "change_pct": 0.06,
+      "final_score": 0.5474,
+      "price": 147.84,
+      "change_pct": 0.33,
       "sparkline": [],
       "headlines": [
         {
@@ -165,94 +138,40 @@
       ]
     },
     {
-      "ticker": "COST",
-      "rank": 7,
-      "prob_up": 0.4885,
-      "sentiment_norm": 0.6392,
-      "final_score": 0.5337,
-      "price": 926.96,
-      "change_pct": -0.2,
+      "ticker": "MA",
+      "rank": 6,
+      "prob_up": 0.4933,
+      "sentiment_norm": 0.6686,
+      "final_score": 0.5459,
+      "price": 584.76,
+      "change_pct": -0.7,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Costco shuts down key service without notice",
-          "url": "https://www.thestreet.com/retail/costco-shuts-down-a-key-service-with-no-notice?.tsrc=rss",
-          "score": 0.4215
+          "title": "Mastercard (MA) Stays Resilient with AI Integration and Payment Duopoly",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-stays-resilient-ai-145603430.html?.tsrc=rss",
+          "score": 0.8316
         },
         {
-          "title": "Costco will soon do something it does just 7 times a year",
-          "url": "https://www.thestreet.com/retail/costco-will-soon-do-something-it-does-just-7-times-a-year?.tsrc=rss",
-          "score": 0.3291
+          "title": "Mastercard Start Path Launches Inaugural Agentic Commerce Cohort",
+          "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-start-path-launches-inaugural-131043302.html?.tsrc=rss",
+          "score": 0.802
         },
         {
-          "title": "Costco Is Closing In on $300 Billion. Wall Street Still Sees More Upside",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-closing-300-billion-wall-134906892.html?.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "HD",
-      "rank": 8,
-      "prob_up": 0.4983,
-      "sentiment_norm": 0.601,
-      "final_score": 0.5291,
-      "price": 318.87,
-      "change_pct": -0.17,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "107-year-old Home Depot rival closing 25% of its stores",
-          "url": "https://www.thestreet.com/retail/107-year-old-home-depot-rival-earl-may-closing-25-of-its-stores?.tsrc=rss",
-          "score": -0.3818
-        },
-        {
-          "title": "Americans Stop Moving as Mortgage Lock-In Persists: Home Depot Sees 'No Sign' of Housing Turnaround",
-          "url": "https://finance.yahoo.com/real-estate/articles/americans-stop-moving-mortgage-lock-153106072.html?.tsrc=rss",
-          "score": -0.5719
-        },
-        {
-          "title": "Home Depot Bear Put Spread Could\u00a0Return 181% in 45 Days",
-          "url": "https://www.barchart.com/story/news/4395536/home-depot-bear-put-spread-could-return-181-in-45-days?.tsrc=rss",
-          "score": 0.296
-        }
-      ]
-    },
-    {
-      "ticker": "JNJ",
-      "rank": 9,
-      "prob_up": 0.4732,
-      "sentiment_norm": 0.6242,
-      "final_score": 0.5185,
-      "price": 278.21,
-      "change_pct": 0.91,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Is Johnson & Johnson Stock Priced For More Growth Than It Has Guided?",
-          "url": "https://www.trefis.com/articles/614111/is-johnson-johnson-stock-priced-for-more-growth-than-it-has-guided/2026-09-03?.tsrc=rss",
-          "score": 0.7574
-        },
-        {
-          "title": "Sector Update: Healthcare Stocks Advance Wednesday Afternoon",
-          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-wednesday-173822708.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "J&J Jumps as UBS Lifts Its Target to $320",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/j-j-jumps-ubs-lifts-164253043.html?.tsrc=rss",
-          "score": 0.3818
+          "title": "Visa, Mastercard, and Fiserv Just Joined a Group Writing the Rules for AI Agent Payments",
+          "url": "https://www.fool.com/investing/2026/08/31/visa-mastercard-and-fiserv-just-joined-a-group-wri/?.tsrc=rss",
+          "score": 0.1779
         }
       ]
     },
     {
       "ticker": "BRK-B",
-      "rank": 10,
-      "prob_up": 0.4922,
+      "rank": 7,
+      "prob_up": 0.5348,
       "sentiment_norm": 0.5474,
-      "final_score": 0.5088,
-      "price": 507.66,
-      "change_pct": 0.23,
+      "final_score": 0.5385,
+      "price": 508.7,
+      "change_pct": 0.43,
       "sparkline": [],
       "headlines": [
         {
@@ -273,40 +192,40 @@
       ]
     },
     {
-      "ticker": "WMT",
-      "rank": 11,
-      "prob_up": 0.4789,
-      "sentiment_norm": 0.5514,
-      "final_score": 0.5007,
-      "price": 109.03,
-      "change_pct": 2.86,
+      "ticker": "JNJ",
+      "rank": 8,
+      "prob_up": 0.467,
+      "sentiment_norm": 0.703,
+      "final_score": 0.5378,
+      "price": 277.88,
+      "change_pct": 0.79,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Walmart Just Found a New Use for Its Delivery Network",
-          "url": "https://finance.yahoo.com/small-business/articles/walmart-just-found-delivery-network-154017703.html?.tsrc=rss",
+          "title": "Is Johnson & Johnson Stock Priced For More Growth Than It Has Guided?",
+          "url": "https://www.trefis.com/articles/614111/is-johnson-johnson-stock-priced-for-more-growth-than-it-has-guided/2026-09-03?.tsrc=rss",
+          "score": 0.7574
+        },
+        {
+          "title": "Sector Update: Healthcare Stocks Advance Wednesday Afternoon",
+          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-wednesday-173822708.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Walmart Enters a Bigger Food Delivery Fight. Why DoorDash and Uber Eats Should Worry",
-          "url": "https://finance.yahoo.com/media-advertising/articles/walmart-enters-bigger-food-delivery-135016896.html?.tsrc=rss",
-          "score": -0.6969
-        },
-        {
-          "title": "Customers can soon get Dunkin\u2019 delivered, from Walmart",
-          "url": "https://www.nrn.com/marketing-branding/customers-can-soon-get-dunkin-delivered-from-walmart?.tsrc=rss",
-          "score": 0.0
+          "title": "J&J Jumps as UBS Lifts Its Target to $320",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/j-j-jumps-ubs-lifts-164253043.html?.tsrc=rss",
+          "score": 0.3818
         }
       ]
     },
     {
       "ticker": "META",
-      "rank": 12,
-      "prob_up": 0.4521,
+      "rank": 9,
+      "prob_up": 0.5067,
       "sentiment_norm": 0.6018,
-      "final_score": 0.497,
-      "price": 615.57,
-      "change_pct": 2.94,
+      "final_score": 0.5352,
+      "price": 613.95,
+      "change_pct": 2.67,
       "sparkline": [],
       "headlines": [
         {
@@ -327,13 +246,40 @@
       ]
     },
     {
+      "ticker": "COST",
+      "rank": 10,
+      "prob_up": 0.4902,
+      "sentiment_norm": 0.6219,
+      "final_score": 0.5297,
+      "price": 928.29,
+      "change_pct": -0.06,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Costco (COST) Drawn Into Expanded DOJ Beef Pricing Antitrust Probe",
+          "url": "https://finance.yahoo.com/economy/policy/articles/costco-cost-drawn-expanded-doj-161552688.html?.tsrc=rss",
+          "score": 0.5267
+        },
+        {
+          "title": "Costco shuts down key service without notice",
+          "url": "https://www.thestreet.com/retail/costco-shuts-down-a-key-service-with-no-notice?.tsrc=rss",
+          "score": 0.4215
+        },
+        {
+          "title": "Costco will soon do something it does just 7 times a year",
+          "url": "https://www.thestreet.com/retail/costco-will-soon-do-something-it-does-just-7-times-a-year?.tsrc=rss",
+          "score": 0.3291
+        }
+      ]
+    },
+    {
       "ticker": "AVGO",
-      "rank": 13,
-      "prob_up": 0.4336,
-      "sentiment_norm": 0.6362,
-      "final_score": 0.4944,
-      "price": 352.97,
-      "change_pct": -3.09,
+      "rank": 11,
+      "prob_up": 0.4769,
+      "sentiment_norm": 0.5883,
+      "final_score": 0.5103,
+      "price": 356.39,
+      "change_pct": -2.15,
       "sparkline": [],
       "headlines": [
         {
@@ -347,20 +293,74 @@
           "score": 0.1027
         },
         {
-          "title": "Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html?.tsrc=rss",
-          "score": 0.5574
+          "title": "Cramer Warns Broadcom\u2019s $30 Billion AI Bet Depends on a Stock You Cannot Buy",
+          "url": "https://247wallst.com/investing/2026/09/03/cramer-warns-broadcoms-30-billion-ai-bet-depends-on-a-stock-you-cannot-buy/?.tsrc=rss",
+          "score": -0.4019
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "rank": 12,
+      "prob_up": 0.4652,
+      "sentiment_norm": 0.601,
+      "final_score": 0.5059,
+      "price": 318.5,
+      "change_pct": -0.28,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "107-year-old Home Depot rival closing 25% of its stores",
+          "url": "https://www.thestreet.com/retail/107-year-old-home-depot-rival-earl-may-closing-25-of-its-stores?.tsrc=rss",
+          "score": -0.3818
+        },
+        {
+          "title": "Americans Stop Moving as Mortgage Lock-In Persists: Home Depot Sees 'No Sign' of Housing Turnaround",
+          "url": "https://finance.yahoo.com/real-estate/articles/americans-stop-moving-mortgage-lock-153106072.html?.tsrc=rss",
+          "score": -0.5719
+        },
+        {
+          "title": "Home Depot Bear Put Spread Could\u00a0Return 181% in 45 Days",
+          "url": "https://www.barchart.com/story/news/4395536/home-depot-bear-put-spread-could-return-181-in-45-days?.tsrc=rss",
+          "score": 0.296
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "rank": 13,
+      "prob_up": 0.4789,
+      "sentiment_norm": 0.5514,
+      "final_score": 0.5007,
+      "price": 109.21,
+      "change_pct": 3.03,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Walmart Just Found a New Use for Its Delivery Network",
+          "url": "https://finance.yahoo.com/small-business/articles/walmart-just-found-delivery-network-154017703.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Walmart Enters a Bigger Food Delivery Fight. Why DoorDash and Uber Eats Should Worry",
+          "url": "https://finance.yahoo.com/media-advertising/articles/walmart-enters-bigger-food-delivery-135016896.html?.tsrc=rss",
+          "score": -0.6969
+        },
+        {
+          "title": "Customers can soon get Dunkin\u2019 delivered, from Walmart",
+          "url": "https://www.nrn.com/marketing-branding/customers-can-soon-get-dunkin-delivered-from-walmart?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
     {
       "ticker": "AMZN",
       "rank": 14,
-      "prob_up": 0.4057,
-      "sentiment_norm": 0.6929,
-      "final_score": 0.4919,
-      "price": 258.81,
-      "change_pct": 0.94,
+      "prob_up": 0.421,
+      "sentiment_norm": 0.6745,
+      "final_score": 0.497,
+      "price": 258.36,
+      "change_pct": 0.76,
       "sparkline": [],
       "headlines": [
         {
@@ -369,9 +369,9 @@
           "score": 0.9136
         },
         {
-          "title": "Stock Market Today: Dow Pops 600 Points On This Signal From Fed; Microsoft, Amazon, Nvidia Gain (Live Coverage)",
+          "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
           "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
-          "score": 0.8271
+          "score": 0.4588
         },
         {
           "title": "This Is The Biggest Reason I Keep Accumulating Amazon Stock After Jumping 10% This Year",
@@ -381,40 +381,13 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 15,
-      "prob_up": 0.3712,
-      "sentiment_norm": 0.7687,
-      "final_score": 0.4904,
-      "price": 227.92,
-      "change_pct": 1.14,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Nvidia's Hugging Face deal is 'less' about profit & 'more' about building out the AI ecosystem",
-          "url": "https://finance.yahoo.com/video/nvidias-hugging-face-deal-less-152723977.html?.tsrc=rss",
-          "score": 0.8891
-        },
-        {
-          "title": "Nvidia Agrees to Buy Hugging Face in $12.93 Billion Deal",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-agrees-buy-hugging-face-161429777.html?.tsrc=rss",
-          "score": 0.91
-        },
-        {
-          "title": "Stock Market Today: Dow Pops 600 Points On This Signal From Fed; Microsoft, Amazon, Nvidia Gain (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
-          "score": 0.8271
-        }
-      ]
-    },
-    {
       "ticker": "AAPL",
-      "rank": 16,
-      "prob_up": 0.4808,
+      "rank": 15,
+      "prob_up": 0.4753,
       "sentiment_norm": 0.436,
-      "final_score": 0.4673,
-      "price": 329.62,
-      "change_pct": 1.5,
+      "final_score": 0.4635,
+      "price": 328.8,
+      "change_pct": 1.25,
       "sparkline": [],
       "headlines": [
         {
@@ -435,40 +408,13 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "rank": 17,
-      "prob_up": 0.3816,
-      "sentiment_norm": 0.6606,
-      "final_score": 0.4653,
-      "price": 341.61,
-      "change_pct": 1.03,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Workato and Lenovo Announce Strategic Collaboration to Expand Lenovo Qira's Cross-App Capabilities",
-          "url": "https://finance.yahoo.com/technology/ai/articles/workato-lenovo-announce-strategic-collaboration-160300502.html?.tsrc=rss",
-          "score": 0.8555
-        },
-        {
-          "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High?",
-          "url": "https://247wallst.com/investing/2026/09/03/meta-stock-has-a-new-ai-catalyst-is-meta-headed-back-toward-its-all-time-high/?.tsrc=rss",
-          "score": 0.5859
-        },
-        {
-          "title": "Stock Market Today: Dow Pops 600 Points On This Signal From Fed; Microsoft, Amazon, Nvidia Gain (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
-          "score": 0.8271
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
-      "rank": 18,
+      "rank": 16,
       "prob_up": 0.41,
       "sentiment_norm": 0.5795,
       "final_score": 0.4609,
-      "price": 163.79,
-      "change_pct": -0.42,
+      "price": 163.69,
+      "change_pct": -0.48,
       "sparkline": [],
       "headlines": [
         {
@@ -489,19 +435,73 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 19,
-      "prob_up": 0.3568,
-      "sentiment_norm": 0.5848,
-      "final_score": 0.4252,
-      "price": 513.38,
-      "change_pct": 3.14,
+      "ticker": "GOOGL",
+      "rank": 17,
+      "prob_up": 0.3816,
+      "sentiment_norm": 0.6179,
+      "final_score": 0.4525,
+      "price": 341.71,
+      "change_pct": 1.06,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Pops 600 Points On This Signal From Fed; Microsoft, Amazon, Nvidia Gain (Live Coverage)",
+          "title": "Armadin Names Frank Verdecanna Chief Financial Officer",
+          "url": "https://finance.yahoo.com/technology/ai/articles/armadin-names-frank-verdecanna-chief-165300972.html?.tsrc=rss",
+          "score": 0.6705
+        },
+        {
+          "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
           "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
-          "score": 0.8271
+          "score": 0.4588
+        },
+        {
+          "title": "Google won\u2019t have to sell off ad exchange in ad-tech monopoly case",
+          "url": "https://www.marketingbrew.com/stories/google-ad-tech-adx-monopoly-ruling-behavioral-remedies?utm_source=&utm_medium=syndication&utm_campaign=feed&.tsrc=rss",
+          "score": -0.3197
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 18,
+      "prob_up": 0.3436,
+      "sentiment_norm": 0.6599,
+      "final_score": 0.4385,
+      "price": 227.63,
+      "change_pct": 1.01,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Stock Market Midday, Sept. 3: Stocks Rally as Treasury Yields Fall, Broadcom Falls Despite Earnings Beat",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-midday-sept-3-stocks-rally-as-treasury-yields-fall-broadcom-falls-despite-earnings-beat/?.tsrc=rss",
+          "score": 0.2023
+        },
+        {
+          "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
+          "score": 0.4588
+        },
+        {
+          "title": "Nvidia Confirms $12.9B Hugging Face Deal as Huang Lauds 'Growth Driver'",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61610151/nvidia-hugging-face-12-9-billion-deal?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+          "score": 0.8934
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "rank": 19,
+      "prob_up": 0.3568,
+      "sentiment_norm": 0.5886,
+      "final_score": 0.4263,
+      "price": 510.4,
+      "change_pct": 2.54,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
+          "score": 0.4588
         },
         {
           "title": "Microsoft's AI Shake-Up Changes What Investors See",
@@ -518,13 +518,18 @@
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.2592,
-      "sentiment_norm": 0.6137,
-      "final_score": 0.3655,
-      "price": 382.95,
-      "change_pct": 7.31,
+      "prob_up": 0.2524,
+      "sentiment_norm": 0.599,
+      "final_score": 0.3564,
+      "price": 381.8,
+      "change_pct": 6.99,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Bull vs. Bear: Here's My Take on Tesla's Robotaxi Rollout",
+          "url": "https://www.fool.com/investing/2026/09/03/bull-vs-bear-heres-my-take-tesla-robotaxi-rollout/?.tsrc=rss",
+          "score": -0.4455
+        },
         {
           "title": "Ford's $30,000 EV Is Chasing a Sales Milestone Only Tesla Has Reached",
           "url": "https://finance.yahoo.com/technology/articles/fords-30-000-ev-chasing-154228221.html?.tsrc=rss",
@@ -534,11 +539,6 @@
           "title": "Tesla keeps hyping robotaxis as its future. But it\u2019s trailing rival Waymo in a field yet to prove profitable",
           "url": "https://www.cnn.com/2026/09/03/business/tesla-robotaxi-cybercab-self-driving-cars?.tsrc=rss",
           "score": 0.7774
-        },
-        {
-          "title": "Nvidia, Broadcom, Tesla, HPE, Ultragenyx, Snowflake, Robinhood, Ciena, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://finance.yahoo.com/m/0b3fcc3d-5a85-3973-848b-d06d66f580ce/nvidia%2C-broadcom%2C-tesla%2C-hpe%2C.html?.tsrc=rss",
-          "score": 0.5574
         }
       ]
     }
