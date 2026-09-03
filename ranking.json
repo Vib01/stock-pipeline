@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-09-03T17:01:25Z",
+  "last_updated": "2026-09-03T19:44:53Z",
   "market_status": "open",
   "rankings": [
     {
       "ticker": "JPM",
       "rank": 1,
-      "prob_up": 0.6029,
-      "sentiment_norm": 0.766,
-      "final_score": 0.6518,
-      "price": 361.42,
-      "change_pct": 1.44,
+      "prob_up": 0.5272,
+      "sentiment_norm": 0.7634,
+      "final_score": 0.5981,
+      "price": 362.55,
+      "change_pct": 1.75,
       "sparkline": [],
       "headlines": [
         {
@@ -30,67 +30,40 @@
       ]
     },
     {
-      "ticker": "UNH",
-      "rank": 2,
-      "prob_up": 0.5274,
-      "sentiment_norm": 0.7339,
-      "final_score": 0.5893,
-      "price": 404.28,
-      "change_pct": 1.25,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Is UnitedHealth Finally Turning the Corner After a Tough 2025?",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-finally-turning-corner-tough-155000227.html?.tsrc=rss",
-          "score": 0.5859
-        },
-        {
-          "title": "Is UnitedHealth Group (UNH) Finally Turning the Corner Under Stephen Hemsley?",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-finally-turning-145043391.html?.tsrc=rss",
-          "score": 0.8316
-        },
-        {
-          "title": "UnitedHealth\u2019s Policy Change Opens a New Chapter for its Insurance Business",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-policy-change-opens-chapter-013625996.html?.tsrc=rss",
-          "score": 0.4939
-        }
-      ]
-    },
-    {
       "ticker": "LLY",
-      "rank": 3,
+      "rank": 2,
       "prob_up": 0.4968,
-      "sentiment_norm": 0.7492,
-      "final_score": 0.5726,
-      "price": 1157.1,
-      "change_pct": -0.42,
+      "sentiment_norm": 0.7737,
+      "final_score": 0.5799,
+      "price": 1157.5,
+      "change_pct": -0.39,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Great News for Eli Lilly Stock Investors",
+          "url": "https://www.fool.com/investing/2026/09/03/great-news-for-eli-lilly-stock-investors/?.tsrc=rss",
+          "score": 0.4404
+        },
+        {
+          "title": "What Does Eli Lilly (LLY) Gain From Its $2.88 Billion Immunology Deal?",
+          "url": "https://finance.yahoo.com/healthcare/articles/does-eli-lilly-lly-gain-170600149.html?.tsrc=rss",
+          "score": 0.7964
+        },
         {
           "title": "Nxera Pharma to Receive $8.6 Million Milestone Payment from Centessa Pharmaceuticals Following Late-stage Development Progress",
           "url": "https://finance.yahoo.com/healthcare/articles/nxera-pharma-receive-8-6-063400099.html?.tsrc=rss",
           "score": 0.2263
-        },
-        {
-          "title": "Eli Lilly Just Announced a Major Acquisition. Here's What It Means.",
-          "url": "https://www.fool.com/investing/2026/09/02/eli-lilly-just-announced-a-major-acquisition-heres/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Lilly\u2019s Record Stock Price Is Hiding an Even Bigger Opportunity",
-          "url": "https://247wallst.com/investing/2026/09/02/lillys-record-stock-price-is-hiding-an-even-bigger-opportunity/?.tsrc=rss",
-          "score": 0.6705
         }
       ]
     },
     {
       "ticker": "V",
-      "rank": 4,
-      "prob_up": 0.564,
+      "rank": 3,
+      "prob_up": 0.5619,
       "sentiment_norm": 0.5826,
-      "final_score": 0.5696,
-      "price": 377.85,
-      "change_pct": -0.22,
+      "final_score": 0.5681,
+      "price": 378.96,
+      "change_pct": 0.07,
       "sparkline": [],
       "headlines": [
         {
@@ -111,40 +84,13 @@
       ]
     },
     {
-      "ticker": "PG",
-      "rank": 5,
-      "prob_up": 0.5297,
-      "sentiment_norm": 0.5887,
-      "final_score": 0.5474,
-      "price": 147.84,
-      "change_pct": 0.33,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "P&G to Webcast Fireside Chat From the Barclays Global Consumer Staples Conference, September 10",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-g-webcast-fireside-chat-120000118.html?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Procter & Gamble Fabric & Home Care Trends Mixed: Is Growth Ahead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-fabric-home-care-140600898.html?.tsrc=rss",
-          "score": 0.9698
-        },
-        {
-          "title": "Layoff plans trended down in August, and fewer companies are blaming AI",
-          "url": "https://finance.yahoo.com/economy/article/layoff-plans-trended-down-in-august-and-fewer-companies-are-blaming-ai-093000703.html?.tsrc=rss",
-          "score": -0.5848
-        }
-      ]
-    },
-    {
       "ticker": "MA",
-      "rank": 6,
+      "rank": 4,
       "prob_up": 0.4933,
       "sentiment_norm": 0.6686,
       "final_score": 0.5459,
-      "price": 584.76,
-      "change_pct": -0.7,
+      "price": 584.85,
+      "change_pct": -0.68,
       "sparkline": [],
       "headlines": [
         {
@@ -165,35 +111,35 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 7,
-      "prob_up": 0.5348,
-      "sentiment_norm": 0.5474,
-      "final_score": 0.5385,
-      "price": 508.7,
-      "change_pct": 0.43,
+      "ticker": "PG",
+      "rank": 5,
+      "prob_up": 0.5187,
+      "sentiment_norm": 0.6031,
+      "final_score": 0.544,
+      "price": 147.02,
+      "change_pct": -0.22,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Trump Warned Towns They\u2019d End Up Poor Without Data Centers but Berkshire\u2019s CEO Sees a Revolt Growing",
-          "url": "https://247wallst.com/investing/2026/09/03/trump-warned-towns-theyd-end-up-poor-without-data-centers-but-berkshires-ceo-sees-a-revolt-growing/?.tsrc=rss",
-          "score": -0.2846
+          "title": "Procter & Gamble (PG) Stock Could Be 25% Undervalued On Cash Flow",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-pg-stock-could-190527487.html?.tsrc=rss",
+          "score": 0.2883
         },
         {
-          "title": "Berkshire Hathaway\u2019s New CEO Warns Energy Will Be the Biggest Constraint on AI Data Centers",
-          "url": "https://247wallst.com/investing/2026/09/03/berkshire-hathaways-new-ceo-warns-energy-will-be-the-biggest-constraint-on-ai-data-centers/?.tsrc=rss",
-          "score": 0.1779
+          "title": "P&G to Webcast Fireside Chat From the Barclays Global Consumer Staples Conference, September 10",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-g-webcast-fireside-chat-120000118.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Warren Buffett and Greg Abel Are Bullish on 4 Contrarian Stocks That All Pay Dividends",
-          "url": "https://247wallst.com/investing/2026/09/03/warren-buffett-and-greg-abel-are-bullish-on-4-contrarian-stocks-that-all-pay-dividends/?.tsrc=rss",
-          "score": 0.5106
+          "title": "Procter & Gamble Fabric & Home Care Trends Mixed: Is Growth Ahead?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-fabric-home-care-140600898.html?.tsrc=rss",
+          "score": 0.9698
         }
       ]
     },
     {
       "ticker": "JNJ",
-      "rank": 8,
+      "rank": 6,
       "prob_up": 0.467,
       "sentiment_norm": 0.703,
       "final_score": 0.5378,
@@ -219,40 +165,67 @@
       ]
     },
     {
-      "ticker": "META",
-      "rank": 9,
-      "prob_up": 0.5067,
-      "sentiment_norm": 0.6018,
-      "final_score": 0.5352,
-      "price": 613.95,
-      "change_pct": 2.67,
+      "ticker": "UNH",
+      "rank": 7,
+      "prob_up": 0.4379,
+      "sentiment_norm": 0.7662,
+      "final_score": 0.5364,
+      "price": 400.9,
+      "change_pct": 0.4,
       "sparkline": [],
       "headlines": [
         {
-          "title": "For all their talk about AI, few companies are quantifying gains",
-          "url": "https://finance.yahoo.com/technology/article/for-all-their-talk-about-ai-few-companies-are-quantifying-gains-122132208.html?.tsrc=rss",
-          "score": 0.34
+          "title": "3 Sector Stocks to Gain From as Oil, Rates and Jobs Shape September",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-sector-stocks-gain-oil-190000500.html?.tsrc=rss",
+          "score": 0.8271
         },
         {
-          "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High?",
-          "url": "https://247wallst.com/investing/2026/09/03/meta-stock-has-a-new-ai-catalyst-is-meta-headed-back-toward-its-all-time-high/?.tsrc=rss",
+          "title": "UnitedHealth Stock Recovered Before Its Margins Did",
+          "url": "https://www.trefis.com/articles/614234/unitedhealth-stock-recovered-before-its-margins-did/2026-09-03?.tsrc=rss",
+          "score": 0.8555
+        },
+        {
+          "title": "Is UnitedHealth Finally Turning the Corner After a Tough 2025?",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-finally-turning-corner-tough-155000227.html?.tsrc=rss",
           "score": 0.5859
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "rank": 8,
+      "prob_up": 0.4916,
+      "sentiment_norm": 0.6301,
+      "final_score": 0.5332,
+      "price": 358.42,
+      "change_pct": -1.6,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Broadcom's 2028 AI revenue outlook is what's really 'important'",
+          "url": "https://finance.yahoo.com/video/broadcoms-2028-ai-revenue-outlook-160000306.html?.tsrc=rss",
+          "score": 0.5095
         },
         {
-          "title": "Meta says new Muse Spark 1.3 model rivals Anthropic, OpenAI offerings",
-          "url": "https://www.proactiveinvestors.com/companies/news/1098067/meta-says-new-muse-spark-1-3-model-rivals-anthropic-openai-offerings-1098067.html?.tsrc=rss",
-          "score": 0.6597
+          "title": "Broadcom Delivered Bullish AI Commentary on Fiscal 2027, 2028 Revenue Outlook, Demand Visibility, UBS Says",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-delivered-bullish-ai-commentary-191506275.html?.tsrc=rss",
+          "score": 0.3818
+        },
+        {
+          "title": "Kyndryl Holdings (KD) Expands Broadcom Alliance, Is The Stock Still Undervalued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-holdings-kd-expands-broadcom-190613663.html?.tsrc=rss",
+          "score": 0.4215
         }
       ]
     },
     {
       "ticker": "COST",
-      "rank": 10,
-      "prob_up": 0.4902,
+      "rank": 9,
+      "prob_up": 0.4776,
       "sentiment_norm": 0.6219,
-      "final_score": 0.5297,
-      "price": 928.29,
-      "change_pct": -0.06,
+      "final_score": 0.5209,
+      "price": 925.96,
+      "change_pct": -0.31,
       "sparkline": [],
       "headlines": [
         {
@@ -273,67 +246,40 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "rank": 11,
-      "prob_up": 0.4769,
-      "sentiment_norm": 0.5883,
-      "final_score": 0.5103,
-      "price": 356.39,
-      "change_pct": -2.15,
+      "ticker": "BRK-B",
+      "rank": 10,
+      "prob_up": 0.5044,
+      "sentiment_norm": 0.5537,
+      "final_score": 0.5192,
+      "price": 507.88,
+      "change_pct": 0.27,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Broadcom's 2028 AI revenue outlook is what's really 'important'",
-          "url": "https://finance.yahoo.com/video/broadcoms-2028-ai-revenue-outlook-160000306.html?.tsrc=rss",
-          "score": 0.5095
+          "title": "Greg Abel Bought $39.4 Billion of Stocks in 6 Months, Up From the $7.1 Billion Berkshire Purchased a Year Earlier Under Warren Buffett",
+          "url": "https://www.fool.com/investing/2026/09/03/greg-abel-stocks-2026-berkshire-warren-buffett/?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Are investors underappreciating Broadcom's strong performance?",
-          "url": "https://finance.yahoo.com/video/investors-underappreciating-broadcoms-strong-performance-142402034.html?.tsrc=rss",
-          "score": 0.1027
+          "title": "Trump Warned Towns They\u2019d End Up Poor Without Data Centers but Berkshire\u2019s CEO Sees a Revolt Growing",
+          "url": "https://247wallst.com/investing/2026/09/03/trump-warned-towns-theyd-end-up-poor-without-data-centers-but-berkshires-ceo-sees-a-revolt-growing/?.tsrc=rss",
+          "score": -0.2846
         },
         {
-          "title": "Cramer Warns Broadcom\u2019s $30 Billion AI Bet Depends on a Stock You Cannot Buy",
-          "url": "https://247wallst.com/investing/2026/09/03/cramer-warns-broadcoms-30-billion-ai-bet-depends-on-a-stock-you-cannot-buy/?.tsrc=rss",
-          "score": -0.4019
-        }
-      ]
-    },
-    {
-      "ticker": "HD",
-      "rank": 12,
-      "prob_up": 0.4652,
-      "sentiment_norm": 0.601,
-      "final_score": 0.5059,
-      "price": 318.5,
-      "change_pct": -0.28,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "107-year-old Home Depot rival closing 25% of its stores",
-          "url": "https://www.thestreet.com/retail/107-year-old-home-depot-rival-earl-may-closing-25-of-its-stores?.tsrc=rss",
-          "score": -0.3818
-        },
-        {
-          "title": "Americans Stop Moving as Mortgage Lock-In Persists: Home Depot Sees 'No Sign' of Housing Turnaround",
-          "url": "https://finance.yahoo.com/real-estate/articles/americans-stop-moving-mortgage-lock-153106072.html?.tsrc=rss",
-          "score": -0.5719
-        },
-        {
-          "title": "Home Depot Bear Put Spread Could\u00a0Return 181% in 45 Days",
-          "url": "https://www.barchart.com/story/news/4395536/home-depot-bear-put-spread-could-return-181-in-45-days?.tsrc=rss",
-          "score": 0.296
+          "title": "Berkshire Hathaway\u2019s New CEO Warns Energy Will Be the Biggest Constraint on AI Data Centers",
+          "url": "https://247wallst.com/investing/2026/09/03/berkshire-hathaways-new-ceo-warns-energy-will-be-the-biggest-constraint-on-ai-data-centers/?.tsrc=rss",
+          "score": 0.1779
         }
       ]
     },
     {
       "ticker": "WMT",
-      "rank": 13,
-      "prob_up": 0.4789,
+      "rank": 11,
+      "prob_up": 0.4976,
       "sentiment_norm": 0.5514,
-      "final_score": 0.5007,
-      "price": 109.21,
-      "change_pct": 3.03,
+      "final_score": 0.5137,
+      "price": 108.67,
+      "change_pct": 2.52,
       "sparkline": [],
       "headlines": [
         {
@@ -354,67 +300,67 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 14,
-      "prob_up": 0.421,
-      "sentiment_norm": 0.6745,
-      "final_score": 0.497,
-      "price": 258.36,
-      "change_pct": 0.76,
+      "ticker": "META",
+      "rank": 12,
+      "prob_up": 0.4712,
+      "sentiment_norm": 0.5827,
+      "final_score": 0.5046,
+      "price": 613.33,
+      "change_pct": 2.57,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Whole Foods CEO bets on smaller stores and the latest Amazon tech to win over shoppers",
-          "url": "https://finance.yahoo.com/markets/article/whole-foods-ceo-bets-on-smaller-stores-and-the-latest-amazon-tech-to-win-over-shoppers-140631065.html?.tsrc=rss",
-          "score": 0.9136
+          "title": "Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI",
+          "url": "https://247wallst.com/investing/2026/09/03/meta-rises-4-as-muse-spark-1-3-claims-parity-with-anthropic-and-openai/?.tsrc=rss",
+          "score": -0.5994
         },
         {
-          "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
-          "score": 0.4588
+          "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High?",
+          "url": "https://247wallst.com/investing/2026/09/03/meta-stock-has-a-new-ai-catalyst-is-meta-headed-back-toward-its-all-time-high/?.tsrc=rss",
+          "score": 0.5859
         },
         {
-          "title": "This Is The Biggest Reason I Keep Accumulating Amazon Stock After Jumping 10% This Year",
-          "url": "https://247wallst.com/investing/2026/09/03/this-is-the-biggest-reason-i-keep-accumulating-amazon-stock-after-jumping-10-this-year/?.tsrc=rss",
-          "score": 0.7346
+          "title": "Meta says new Muse Spark 1.3 model rivals Anthropic, OpenAI offerings",
+          "url": "https://www.proactiveinvestors.com/companies/news/1098067/meta-says-new-muse-spark-1-3-model-rivals-anthropic-openai-offerings-1098067.html?.tsrc=rss",
+          "score": 0.6597
         }
       ]
     },
     {
-      "ticker": "AAPL",
-      "rank": 15,
-      "prob_up": 0.4753,
-      "sentiment_norm": 0.436,
-      "final_score": 0.4635,
-      "price": 328.8,
-      "change_pct": 1.25,
+      "ticker": "NVDA",
+      "rank": 13,
+      "prob_up": 0.4066,
+      "sentiment_norm": 0.668,
+      "final_score": 0.485,
+      "price": 228.98,
+      "change_pct": 1.61,
       "sparkline": [],
       "headlines": [
         {
-          "title": "How Apple's John Ternus inherited a 'reckoning' with China",
-          "url": "https://finance.yahoo.com/video/apples-john-ternus-inherited-reckoning-120000967.html?.tsrc=rss",
-          "score": -0.3182
+          "title": "Stock Market Today: Dow Pops On Fed Official's Dovish Rates View; Nvidia Hovers In Buy Zone (Live Coverage)",
+          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
+          "score": 0.5574
         },
         {
-          "title": "Jefferies Revamps Apple Stock Target On Setback",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-revamps-apple-stock-target-154746604.html?.tsrc=rss",
-          "score": -0.3182
+          "title": "Hugging Face, the French start-up that became AI's warehouse",
+          "url": "https://finance.yahoo.com/technology/ai/articles/hugging-face-french-start-became-182056998.html?.tsrc=rss",
+          "score": 0.9382
         },
         {
-          "title": "Apple's App Rules Just Picked Up a $2.7 Billion Legal Risk",
-          "url": "https://finance.yahoo.com/technology/articles/apples-app-rules-just-picked-135122478.html?.tsrc=rss",
-          "score": -0.5994
+          "title": "Better Small Modular Reactor Stock to Buy After the Sell-Off: Oklo vs. NuScale Power",
+          "url": "https://www.fool.com/investing/2026/09/03/better-small-modular-reactor-stock-to-buy-after/?.tsrc=rss",
+          "score": 0.6705
         }
       ]
     },
     {
       "ticker": "XOM",
-      "rank": 16,
-      "prob_up": 0.41,
+      "rank": 14,
+      "prob_up": 0.4403,
       "sentiment_norm": 0.5795,
-      "final_score": 0.4609,
-      "price": 163.69,
-      "change_pct": -0.48,
+      "final_score": 0.482,
+      "price": 162.73,
+      "change_pct": -1.06,
       "sparkline": [],
       "headlines": [
         {
@@ -435,56 +381,110 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "rank": 17,
-      "prob_up": 0.3816,
-      "sentiment_norm": 0.6179,
-      "final_score": 0.4525,
-      "price": 341.71,
-      "change_pct": 1.06,
+      "ticker": "HD",
+      "rank": 15,
+      "prob_up": 0.423,
+      "sentiment_norm": 0.601,
+      "final_score": 0.4764,
+      "price": 317.94,
+      "change_pct": -0.46,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Armadin Names Frank Verdecanna Chief Financial Officer",
-          "url": "https://finance.yahoo.com/technology/ai/articles/armadin-names-frank-verdecanna-chief-165300972.html?.tsrc=rss",
-          "score": 0.6705
+          "title": "107-year-old Home Depot rival closing 25% of its stores",
+          "url": "https://www.thestreet.com/retail/107-year-old-home-depot-rival-earl-may-closing-25-of-its-stores?.tsrc=rss",
+          "score": -0.3818
         },
         {
-          "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
-          "score": 0.4588
+          "title": "Americans Stop Moving as Mortgage Lock-In Persists: Home Depot Sees 'No Sign' of Housing Turnaround",
+          "url": "https://finance.yahoo.com/real-estate/articles/americans-stop-moving-mortgage-lock-153106072.html?.tsrc=rss",
+          "score": -0.5719
         },
         {
-          "title": "Google won\u2019t have to sell off ad exchange in ad-tech monopoly case",
-          "url": "https://www.marketingbrew.com/stories/google-ad-tech-adx-monopoly-ruling-behavioral-remedies?utm_source=&utm_medium=syndication&utm_campaign=feed&.tsrc=rss",
-          "score": -0.3197
+          "title": "Home Depot Bear Put Spread Could\u00a0Return 181% in 45 Days",
+          "url": "https://www.barchart.com/story/news/4395536/home-depot-bear-put-spread-could-return-181-in-45-days?.tsrc=rss",
+          "score": 0.296
         }
       ]
     },
     {
-      "ticker": "NVDA",
-      "rank": 18,
-      "prob_up": 0.3436,
-      "sentiment_norm": 0.6599,
-      "final_score": 0.4385,
-      "price": 227.63,
-      "change_pct": 1.01,
+      "ticker": "GOOGL",
+      "rank": 16,
+      "prob_up": 0.3548,
+      "sentiment_norm": 0.7324,
+      "final_score": 0.4681,
+      "price": 343.45,
+      "change_pct": 1.57,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Midday, Sept. 3: Stocks Rally as Treasury Yields Fall, Broadcom Falls Despite Earnings Beat",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-midday-sept-3-stocks-rally-as-treasury-yields-fall-broadcom-falls-despite-earnings-beat/?.tsrc=rss",
-          "score": 0.2023
+          "title": "The Market Marked ZM Down. The Numbers Push Back",
+          "url": "https://www.trefis.com/articles/614044/the-market-marked-zm-down-the-numbers-push-back-2/2026-09-03?.tsrc=rss",
+          "score": 0.1531
         },
         {
-          "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
-          "score": 0.4588
+          "title": "Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI",
+          "url": "https://247wallst.com/investing/2026/09/03/meta-rises-4-as-muse-spark-1-3-claims-parity-with-anthropic-and-openai/?.tsrc=rss",
+          "score": -0.5994
         },
         {
-          "title": "Nvidia Confirms $12.9B Hugging Face Deal as Huang Lauds 'Growth Driver'",
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61610151/nvidia-hugging-face-12-9-billion-deal?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-          "score": 0.8934
+          "title": "PG&E, Google, Rewiring America Launch VPP in California",
+          "url": "https://www.powermag.com/pge-google-rewiring-america-launch-vpp-in-california/?.tsrc=rss",
+          "score": 0.9416
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 17,
+      "prob_up": 0.4739,
+      "sentiment_norm": 0.4486,
+      "final_score": 0.4663,
+      "price": 327.73,
+      "change_pct": 0.92,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "How Apple's John Ternus inherited a 'reckoning' with China",
+          "url": "https://finance.yahoo.com/video/apples-john-ternus-inherited-reckoning-120000967.html?.tsrc=rss",
+          "score": -0.3182
+        },
+        {
+          "title": "Apple (AAPL) Faces Mixed Outlook Ahead of Foldable iPhone Launch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-mixed-outlook-182923490.html?.tsrc=rss",
+          "score": 0.4767
+        },
+        {
+          "title": "Apple faces \u00a32 bn lawsuit in UK over app privacy feature",
+          "url": "https://finance.yahoo.com/media-advertising/articles/apple-faces-2-bn-lawsuit-174755792.html?.tsrc=rss",
+          "score": -0.7003
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 18,
+      "prob_up": 0.4033,
+      "sentiment_norm": 0.5887,
+      "final_score": 0.4589,
+      "price": 258.9,
+      "change_pct": 0.98,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market",
+          "url": "https://finance.yahoo.com/m/eb1a9fe2-30d9-3982-8a86-be70b9cefe37/microsoft%2C-amazon-and-8-more.html?.tsrc=rss",
+          "score": 0.8519
+        },
+        {
+          "title": "This Is The Biggest Reason I Keep Accumulating Amazon Stock After Jumping 10% This Year",
+          "url": "https://247wallst.com/investing/2026/09/03/this-is-the-biggest-reason-i-keep-accumulating-amazon-stock-after-jumping-10-this-year/?.tsrc=rss",
+          "score": 0.7346
+        },
+        {
+          "title": "CharterUP Appoints Joshua Trott as Chief Revenue Officer and Kristin Lavigne as General Manager of Marketplace",
+          "url": "https://finance.yahoo.com/technology/ai/articles/charterup-appoints-joshua-trott-chief-150000439.html?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
@@ -492,15 +492,15 @@
       "ticker": "MSFT",
       "rank": 19,
       "prob_up": 0.3568,
-      "sentiment_norm": 0.5886,
-      "final_score": 0.4263,
-      "price": 510.4,
-      "change_pct": 2.54,
+      "sentiment_norm": 0.6583,
+      "final_score": 0.4473,
+      "price": 510.48,
+      "change_pct": 2.56,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/9ebcfa1b-fe54-35b4-80f4-a19bd972d821/stock-market-today%3A-dow-pops.html?.tsrc=rss",
+          "title": "Canva\u2019s productivity push is starting to gain traction\u2014and in Southeast Asia, it\u2019s happening on phones",
+          "url": "https://finance.yahoo.com/technology/ai/articles/canva-productivity-push-starting-gain-160000599.html?.tsrc=rss",
           "score": 0.4588
         },
         {
@@ -509,36 +509,36 @@
           "score": 0.0
         },
         {
-          "title": "Microsoft Spotlights AI and Cloud With New Reporting Structure. It\u2019s a Big Deal.",
-          "url": "https://finance.yahoo.com/m/dae46d8f-56a0-342a-97b8-ecd1fb2d2201/microsoft-spotlights-ai-and.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market",
+          "url": "https://finance.yahoo.com/m/eb1a9fe2-30d9-3982-8a86-be70b9cefe37/microsoft%2C-amazon-and-8-more.html?.tsrc=rss",
+          "score": 0.8519
         }
       ]
     },
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.2524,
-      "sentiment_norm": 0.599,
-      "final_score": 0.3564,
-      "price": 381.8,
-      "change_pct": 6.99,
+      "prob_up": 0.2669,
+      "sentiment_norm": 0.6092,
+      "final_score": 0.3696,
+      "price": 379.18,
+      "change_pct": 6.26,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Bull vs. Bear: Here's My Take on Tesla's Robotaxi Rollout",
-          "url": "https://www.fool.com/investing/2026/09/03/bull-vs-bear-heres-my-take-tesla-robotaxi-rollout/?.tsrc=rss",
-          "score": -0.4455
+          "title": "Tesla Is Now Up 18% in a Month: Take Profits, or Buy More?",
+          "url": "https://247wallst.com/investing/2026/09/03/tesla-is-now-up-18-in-a-month-take-profits-or-buy-more/?.tsrc=rss",
+          "score": -0.0387
         },
         {
-          "title": "Ford's $30,000 EV Is Chasing a Sales Milestone Only Tesla Has Reached",
-          "url": "https://finance.yahoo.com/technology/articles/fords-30-000-ev-chasing-154228221.html?.tsrc=rss",
-          "score": 0.128
+          "title": "Market Indexes Rally as Tesla and Goldman Sachs Take the Wheel",
+          "url": "https://www.fool.com/investing/2026/09/03/market-indexes-rally-with-tesla-and-goldman-sachs/?.tsrc=rss",
+          "score": 0.5267
         },
         {
-          "title": "Tesla keeps hyping robotaxis as its future. But it\u2019s trailing rival Waymo in a field yet to prove profitable",
-          "url": "https://www.cnn.com/2026/09/03/business/tesla-robotaxi-cybercab-self-driving-cars?.tsrc=rss",
-          "score": 0.7774
+          "title": "TSLA Stock Up 7% Ahead Of Cybercab Launch Event \u2014 Fund Manager Sees Selloff Ahead, Citing Past Patterns",
+          "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-up-7-ahead-of-cybercab-launch-event-fund-manager-sees-selloff-ahead-citing-past-patterns/cZsuI4zRJvq?.tsrc=rss",
+          "score": 0.3818
         }
       ]
     }
