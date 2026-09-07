@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T17:34:44Z",
+  "last_updated": "2026-09-07T18:14:11Z",
   "market_status": "open",
   "rankings": [
     {
@@ -84,8 +84,35 @@
       ]
     },
     {
-      "ticker": "JNJ",
+      "ticker": "AAPL",
       "rank": 4,
+      "prob_up": 0.602,
+      "sentiment_norm": 0.5273,
+      "final_score": 0.5796,
+      "price": 319.97,
+      "change_pct": -2.34,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Apple Faces Its Biggest iPhone Test in Years -- Morgan Stanley Sees $14B Foldable Opportunity",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-biggest-iphone-test-174840294.html?.tsrc=rss",
+          "score": 0.6808
+        },
+        {
+          "title": "Is Adobe's Stock Heading for $300?",
+          "url": "https://www.fool.com/investing/2026/09/07/is-adobe-s-stock-heading-for-300/?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Apple Just Made a Move Most Investors Overlooked. This Is Why I Keep Buying The Stock",
+          "url": "https://247wallst.com/investing/2026/09/07/apple-just-made-a-move-most-investors-overlooked-this-is-why-i-keep-buying-the-stock/?.tsrc=rss",
+          "score": -0.4902
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "rank": 5,
       "prob_up": 0.4851,
       "sentiment_norm": 0.7631,
       "final_score": 0.5685,
@@ -107,33 +134,6 @@
           "title": "3 Dividend Kings Built to Keep Raising Your Income When Rates Rise",
           "url": "https://247wallst.com/investing/2026/09/05/3-dividend-kings-built-to-keep-raising-your-income-when-rates-rise/?.tsrc=rss",
           "score": 0.5903
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 5,
-      "prob_up": 0.602,
-      "sentiment_norm": 0.475,
-      "final_score": 0.5639,
-      "price": 319.97,
-      "change_pct": -2.34,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Is Adobe's Stock Heading for $300?",
-          "url": "https://www.fool.com/investing/2026/09/07/is-adobe-s-stock-heading-for-300/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Apple Just Made a Move Most Investors Overlooked. This Is Why I Keep Buying The Stock",
-          "url": "https://247wallst.com/investing/2026/09/07/apple-just-made-a-move-most-investors-overlooked-this-is-why-i-keep-buying-the-stock/?.tsrc=rss",
-          "score": -0.4902
-        },
-        {
-          "title": "Why Apple May Be the Safest AI Stock Nobody Calls an AI Stock",
-          "url": "https://247wallst.com/investing/2026/09/07/why-apple-may-be-the-safest-ai-stock-nobody-calls-an-ai-stock/?.tsrc=rss",
-          "score": 0.7615
         }
       ]
     },
@@ -354,29 +354,29 @@
       ]
     },
     {
-      "ticker": "NVDA",
+      "ticker": "XOM",
       "rank": 14,
-      "prob_up": 0.4368,
-      "sentiment_norm": 0.6501,
-      "final_score": 0.5008,
-      "price": 230.36,
-      "change_pct": 0.32,
+      "prob_up": 0.4454,
+      "sentiment_norm": 0.6015,
+      "final_score": 0.4922,
+      "price": 159.47,
+      "change_pct": -1.82,
       "sparkline": [],
       "headlines": [
         {
-          "title": "AI Is Moving Into Everyday Business \u2014 These 5 Stocks Sit Squarely in the Path of the Surge",
-          "url": "https://247wallst.com/investing/2026/09/07/ai-is-moving-into-everyday-business-these-5-stocks-sit-squarely-in-the-path-of-the-surge/?.tsrc=rss",
-          "score": 0.6249
+          "title": "TotalEnergies Cuts Papua LNG Cost to $14 Billion, Exxon to Become Operator",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-cuts-papua-lng-cost-083000825.html?.tsrc=rss",
+          "score": -0.296
         },
         {
-          "title": "Nvidia Is No Longer Just a Chip Company. It\u2019s the Infrastructure Platform for All of AI",
-          "url": "https://247wallst.com/investing/2026/09/07/nvidia-is-no-longer-just-a-chip-company-its-the-infrastructure-platform-for-all-of-ai/?.tsrc=rss",
-          "score": -0.5719
+          "title": "Santos Boosts Papua LNG Stake as ExxonMobil Takes Operatorship",
+          "url": "https://finance.yahoo.com/energy/articles/santos-boosts-papua-lng-stake-082000701.html?.tsrc=rss",
+          "score": 0.3182
         },
         {
-          "title": "Jensen Huang Declares \u201cAGI Has Arrived\u201d \u2014 Powered by 100,000+ Nvidia Grace Blackwell GPUs",
-          "url": "https://247wallst.com/investing/2026/09/07/jensen-huang-declares-agi-has-arrived-powered-by-100000-nvidia-grace-blackwell-gpus/?.tsrc=rss",
-          "score": -0.0516
+          "title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
+          "url": "https://finance.yahoo.com/energy/articles/oil-majors-seek-bigger-bargaining-210000743.html?.tsrc=rss",
+          "score": -0.1027
         }
       ]
     },
@@ -408,29 +408,29 @@
       ]
     },
     {
-      "ticker": "XOM",
+      "ticker": "NVDA",
       "rank": 16,
-      "prob_up": 0.4454,
-      "sentiment_norm": 0.5383,
-      "final_score": 0.4733,
-      "price": 159.47,
-      "change_pct": -1.82,
+      "prob_up": 0.4368,
+      "sentiment_norm": 0.6068,
+      "final_score": 0.4878,
+      "price": 230.36,
+      "change_pct": 0.32,
       "sparkline": [],
       "headlines": [
         {
-          "title": "TotalEnergies Cuts Papua LNG Cost to $14 Billion, Exxon to Become Operator",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-cuts-papua-lng-cost-083000825.html?.tsrc=rss",
-          "score": -0.296
+          "title": "AI Is Moving Into Everyday Business \u2014 These 5 Stocks Sit Squarely in the Path of the Surge",
+          "url": "https://247wallst.com/investing/2026/09/07/ai-is-moving-into-everyday-business-these-5-stocks-sit-squarely-in-the-path-of-the-surge/?.tsrc=rss",
+          "score": 0.6249
         },
         {
-          "title": "Santos Boosts Papua LNG Stake as ExxonMobil Takes Operatorship",
-          "url": "https://finance.yahoo.com/energy/articles/santos-boosts-papua-lng-stake-082000701.html?.tsrc=rss",
-          "score": 0.3182
+          "title": "Nvidia Is No Longer Just a Chip Company. It\u2019s the Infrastructure Platform for All of AI",
+          "url": "https://247wallst.com/investing/2026/09/07/nvidia-is-no-longer-just-a-chip-company-its-the-infrastructure-platform-for-all-of-ai/?.tsrc=rss",
+          "score": -0.5719
         },
         {
-          "title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
-          "url": "https://finance.yahoo.com/energy/articles/oil-majors-seek-bigger-bargaining-210000743.html?.tsrc=rss",
-          "score": -0.1027
+          "title": "Jensen Huang Declares \u201cAGI Has Arrived\u201d \u2014 Powered by 100,000+ Nvidia Grace Blackwell GPUs",
+          "url": "https://247wallst.com/investing/2026/09/07/jensen-huang-declares-agi-has-arrived-powered-by-100000-nvidia-grace-blackwell-gpus/?.tsrc=rss",
+          "score": -0.0516
         }
       ]
     },
@@ -438,8 +438,8 @@
       "ticker": "GOOGL",
       "rank": 17,
       "prob_up": 0.4268,
-      "sentiment_norm": 0.5775,
-      "final_score": 0.472,
+      "sentiment_norm": 0.5635,
+      "final_score": 0.4678,
       "price": 338.46,
       "change_pct": -1.3,
       "sparkline": [],
@@ -450,14 +450,14 @@
           "score": 0.1779
         },
         {
+          "title": "Google-Backed Pixxel Raises $100 Million in India's Biggest Space-Tech Round",
+          "url": "https://finance.yahoo.com/technology/articles/google-backed-pixxel-raises-100-174102678.html?.tsrc=rss",
+          "score": 0.1027
+        },
+        {
           "title": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jabil-rises-36-2-date-152000660.html?.tsrc=rss",
           "score": -0.0387
-        },
-        {
-          "title": "Microsoft Stock Is Building a Trillion-Dollar AI Opportunity. Is $600 Next?",
-          "url": "https://247wallst.com/investing/2026/09/07/microsoft-stock-is-building-a-trillion-dollar-ai-opportunity-is-600-next/?.tsrc=rss",
-          "score": 0.4767
         }
       ]
     },
@@ -519,26 +519,26 @@
       "ticker": "TSLA",
       "rank": 20,
       "prob_up": 0.2956,
-      "sentiment_norm": 0.5731,
-      "final_score": 0.3789,
+      "sentiment_norm": 0.57,
+      "final_score": 0.3779,
       "price": 354.08,
       "change_pct": -5.49,
       "sparkline": [],
       "headlines": [
         {
+          "title": "Is Tesla Stock Under $360 a Share an Obvious Buy in September?",
+          "url": "https://www.fool.com/investing/2026/09/07/is-tesla-stock-under-360-a-share-an-obvious-buy-in/?.tsrc=rss",
+          "score": -0.0387
+        },
+        {
+          "title": "Billionaire has 5-word response to Elon Musk's Tesla chart",
+          "url": "https://www.thestreet.com/crypto/markets/billionaire-has-5-word-response-to-elon-musks-tesla-chart?.tsrc=rss",
+          "score": 0.5719
+        },
+        {
           "title": "Elon Musk Owns 28% of Tesla, a Stake Worth Nearly $350 Billion. Here's Why His Ownership Level Matters for Shareholders.",
           "url": "https://www.fool.com/investing/2026/09/07/elon-musk-owns-tesla-stake-worth-billion-stock/?.tsrc=rss",
           "score": 0.25
-        },
-        {
-          "title": "Tesla Stock Is Tumbling -- Robotaxi Hopes Hit a Major Roadblock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-tumbling-robotaxi-hopes-154916600.html?.tsrc=rss",
-          "score": 0.4215
-        },
-        {
-          "title": "Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It",
-          "url": "https://247wallst.com/investing/2026/09/07/tesla-says-this-time-is-different-wall-street-is-split-on-whether-to-believe-it/?.tsrc=rss",
-          "score": 0.4386
         }
       ]
     }
