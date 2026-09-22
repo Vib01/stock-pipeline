@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-09-22T17:37:31Z",
-  "market_status": "open",
+  "last_updated": "2026-09-22T20:28:24Z",
+  "market_status": "closed",
   "rankings": [
     {
       "ticker": "COST",
       "rank": 1,
       "prob_up": 0.591,
-      "sentiment_norm": 0.7019,
-      "final_score": 0.6243,
-      "price": 898.94,
-      "change_pct": 0.1,
+      "sentiment_norm": 0.6817,
+      "final_score": 0.6182,
+      "price": 899.41,
+      "change_pct": 0.16,
       "sparkline": [],
       "headlines": [
         {
@@ -35,8 +35,8 @@
       "prob_up": 0.5707,
       "sentiment_norm": 0.6637,
       "final_score": 0.5986,
-      "price": 340.43,
-      "change_pct": -3.28,
+      "price": 340.0,
+      "change_pct": -3.4,
       "sparkline": [],
       "headlines": [
         {
@@ -60,12 +60,17 @@
       "ticker": "UNH",
       "rank": 3,
       "prob_up": 0.5321,
-      "sentiment_norm": 0.7347,
-      "final_score": 0.5929,
-      "price": 373.78,
-      "change_pct": -0.88,
+      "sentiment_norm": 0.7224,
+      "final_score": 0.5892,
+      "price": 372.95,
+      "change_pct": -1.1,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Can UNH Stock Keep Growing Earnings While Its Sales Stall?",
+          "url": "https://www.trefis.com/articles/616139/can-unh-stock-keep-growing-earnings-while-its-sales-stall/2026-09-22?.tsrc=rss",
+          "score": 0.5859
+        },
         {
           "title": "Should You Buy UnitedHealth Group Stock Before Oct. 13?",
           "url": "https://www.fool.com/investing/2026/09/21/should-you-buy-unitedhealth-group-stock-before-oct-13/?.tsrc=rss",
@@ -75,22 +80,44 @@
           "title": "Is UnitedHealth (UNH) a Buy as Wall Street Analysts Look Optimistic?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-unh-buy-wall-street-133002792.html?.tsrc=rss",
           "score": 0.5204
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "rank": 4,
+      "prob_up": 0.5435,
+      "sentiment_norm": 0.6526,
+      "final_score": 0.5763,
+      "price": 110.12,
+      "change_pct": 2.49,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Walmart\u2019s new pricing patents spark fears of surveillance: \u2018Are they going to charge you a different price if they know who you are?\u2019",
+          "url": "https://finance.yahoo.com/media-advertising/articles/walmart-pricing-patents-spark-fears-161239305.html?.tsrc=rss",
+          "score": -0.5719
         },
         {
-          "title": "3 Health Care Stocks Built For Higher Rates",
-          "url": "https://finance.yahoo.com/healthcare/articles/3-health-care-stocks-built-071343646.html?.tsrc=rss",
-          "score": 0.9114
+          "title": "Walmart, Target and Costco Forecast: Retail Stocks Face Key Tests",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-costco-forecast-retail-134747501.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Edible Garden Secures New Walmart Distribution Center Award, Expanding Fresh Herb Distribution in the Upper Midwest",
+          "url": "https://finance.yahoo.com/small-business/articles/edible-garden-secures-walmart-distribution-110700860.html?.tsrc=rss",
+          "score": 0.9501
         }
       ]
     },
     {
       "ticker": "JNJ",
-      "rank": 4,
-      "prob_up": 0.4874,
+      "rank": 5,
+      "prob_up": 0.4806,
       "sentiment_norm": 0.7823,
-      "final_score": 0.5759,
-      "price": 268.41,
-      "change_pct": -0.39,
+      "final_score": 0.5711,
+      "price": 269.19,
+      "change_pct": -0.1,
       "sparkline": [],
       "headlines": [
         {
@@ -112,14 +139,19 @@
     },
     {
       "ticker": "BRK-B",
-      "rank": 5,
-      "prob_up": 0.5434,
+      "rank": 6,
+      "prob_up": 0.5227,
       "sentiment_norm": 0.6373,
-      "final_score": 0.5716,
-      "price": 504.15,
-      "change_pct": 0.26,
+      "final_score": 0.5571,
+      "price": 503.49,
+      "change_pct": 0.13,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Berkshire Hathaway Doubles Down on Housing Stock",
+          "url": "https://finance.yahoo.com/real-estate/articles/berkshire-hathaway-doubles-down-housing-174247019.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Stock Market Midday, Sept. 22: Means Markets Muted Despite Tech Gains as Geopolitics Dominates",
           "url": "https://www.fool.com/coverage/stock-market-today/2026/09/22/stock-market-midday-sept-22-means-markets-muted-despite-tech-gains-as-geopolitics-dominates/?.tsrc=rss",
@@ -129,49 +161,44 @@
           "title": "Berkshire Hathaway Raises Stake In This Ramshackle Homebuilder",
           "url": "https://finance.yahoo.com/m/316dd6b4-a7be-3d21-acc3-51f14f58a6ea/berkshire-hathaway-raises.html?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "What Makes Berkshire Hathaway (BRK-B) a Strong Investment?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-berkshire-hathaway-brk-b-151101032.html?.tsrc=rss",
-          "score": 0.5106
         }
       ]
     },
     {
-      "ticker": "WMT",
-      "rank": 6,
-      "prob_up": 0.5157,
-      "sentiment_norm": 0.659,
-      "final_score": 0.5587,
-      "price": 109.87,
-      "change_pct": 2.26,
+      "ticker": "AVGO",
+      "rank": 7,
+      "prob_up": 0.5355,
+      "sentiment_norm": 0.597,
+      "final_score": 0.554,
+      "price": 364.54,
+      "change_pct": 0.01,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Edible Garden Secures New Walmart Distribution Center Award, Expanding Fresh Herb Distribution in the Upper Midwest",
-          "url": "https://finance.yahoo.com/small-business/articles/edible-garden-secures-walmart-distribution-110700860.html?.tsrc=rss",
-          "score": 0.9501
+          "title": "Price Prediction: Marvell, AMD & Broadcom- Our Bold Price Predictions for 2027",
+          "url": "https://247wallst.com/investing/2026/09/22/price-prediction-marvell-amd-broadcom-our-bold-price-predictions-for-2027/?.tsrc=rss",
+          "score": 0.7579
         },
         {
-          "title": "Walmart Gains as Sparky Draws an FTC Probe Request",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-gains-sparky-draws-ftc-183952575.html?.tsrc=rss",
-          "score": 0.0387
+          "title": "Company News for Sep 22, 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-22-2026-134400361.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Takeaways for banks from Walmart's about-face on Apple and Google wallets",
-          "url": "https://www.americanbanker.com/payments/news/takeaways-for-banks-from-walmarts-about-face-on-apple-and-google-wallets?.tsrc=rss",
-          "score": -0.25
+          "title": "Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030",
+          "url": "https://www.fool.com/investing/2026/09/22/prediction-broadcom-will-be-a-usd3-trillion-company-by-the-end-of-2030/?.tsrc=rss",
+          "score": -0.4168
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 7,
-      "prob_up": 0.5297,
+      "rank": 8,
+      "prob_up": 0.5168,
       "sentiment_norm": 0.625,
-      "final_score": 0.5583,
-      "price": 147.74,
-      "change_pct": 1.14,
+      "final_score": 0.5492,
+      "price": 148.22,
+      "change_pct": 1.46,
       "sparkline": [],
       "headlines": [
         {
@@ -192,13 +219,40 @@
       ]
     },
     {
+      "ticker": "V",
+      "rank": 9,
+      "prob_up": 0.5213,
+      "sentiment_norm": 0.605,
+      "final_score": 0.5464,
+      "price": 362.04,
+      "change_pct": -2.14,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Circle and Binance Trade Transactional Friction for Long-Term Alignment",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/circle-binance-trade-transactional-friction-185413613.html?.tsrc=rss",
+          "score": 0.5267
+        },
+        {
+          "title": "Can Visa Stock Keep Climbing After The World Cup?",
+          "url": "https://www.trefis.com/articles/616164/can-visa-stock-keep-climbing-after-the-world-cup/2026-09-22?.tsrc=rss",
+          "score": 0.4404
+        },
+        {
+          "title": "Merchants call card-fee pact unconstitutional",
+          "url": "https://www.paymentsdive.com/news/merchants-call-card-fee-pact-unconstitutional/830998/?.tsrc=rss",
+          "score": -0.6908
+        }
+      ]
+    },
+    {
       "ticker": "LLY",
-      "rank": 8,
-      "prob_up": 0.5066,
-      "sentiment_norm": 0.6419,
-      "final_score": 0.5472,
-      "price": 1168.62,
-      "change_pct": 0.25,
+      "rank": 10,
+      "prob_up": 0.4903,
+      "sentiment_norm": 0.6298,
+      "final_score": 0.5322,
+      "price": 1170.14,
+      "change_pct": 0.38,
       "sparkline": [],
       "headlines": [
         {
@@ -220,12 +274,12 @@
     },
     {
       "ticker": "MA",
-      "rank": 9,
-      "prob_up": 0.5301,
-      "sentiment_norm": 0.5701,
-      "final_score": 0.5421,
-      "price": 559.35,
-      "change_pct": -1.35,
+      "rank": 11,
+      "prob_up": 0.5152,
+      "sentiment_norm": 0.5584,
+      "final_score": 0.5282,
+      "price": 555.89,
+      "change_pct": -1.96,
       "sparkline": [],
       "headlines": [
         {
@@ -246,67 +300,121 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "rank": 10,
-      "prob_up": 0.4416,
-      "sentiment_norm": 0.7469,
-      "final_score": 0.5332,
-      "price": 253.85,
-      "change_pct": -2.04,
+      "ticker": "AAPL",
+      "rank": 12,
+      "prob_up": 0.4756,
+      "sentiment_norm": 0.5075,
+      "final_score": 0.4852,
+      "price": 339.75,
+      "change_pct": 0.31,
       "sparkline": [],
       "headlines": [
         {
-          "title": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
-          "url": "https://finance.yahoo.com/m/b7e39602-4753-3756-96cf-3ef92d59f4ed/as-amazon-stock-prospers%2C.html?.tsrc=rss",
-          "score": 0.7717
+          "title": "Apple doesn't need to be in first place for AI. Here's why.",
+          "url": "https://finance.yahoo.com/video/apple-doesnt-first-place-ai-175401878.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Amazon asks Meta to remove it from the Muse AI agent experience",
-          "url": "https://www.retaildive.com/news/amazon-meta-muse-ai-agent-shopping-experience/831018/?.tsrc=rss",
+          "title": "Apple Takes Aim at Nvidia\u2019s AI Economics: New Macs Have \u2018No Cost per Token,\u2019 Hardware Chief Says",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61932828/apple-macs-ai-no-cost-per-token-nvidia?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
           "score": -0.128
         },
         {
-          "title": "FAO Schwarz opens Amazon storefront",
-          "url": "https://www.retaildive.com/news/fao-schwarz-opens-amazon-storefront/830992/?.tsrc=rss",
-          "score": 0.4215
+          "title": "Apple\u2019s New CEO Is Already Being Pressured to Drop the Chinese Chip Deal Tim Cook Fought to Keep",
+          "url": "https://247wallst.com/investing/2026/09/22/apples-new-ceo-is-already-being-pressured-to-drop-the-chinese-chip-deal-tim-cook-fought-to-keep/?.tsrc=rss",
+          "score": -0.9413
         }
       ]
     },
     {
-      "ticker": "V",
-      "rank": 11,
-      "prob_up": 0.5213,
-      "sentiment_norm": 0.5537,
-      "final_score": 0.531,
-      "price": 363.45,
-      "change_pct": -1.75,
+      "ticker": "NVDA",
+      "rank": 13,
+      "prob_up": 0.4066,
+      "sentiment_norm": 0.6521,
+      "final_score": 0.4802,
+      "price": 228.87,
+      "change_pct": 0.7,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Can Visa Stock Keep Climbing After The World Cup?",
-          "url": "https://www.trefis.com/articles/616164/can-visa-stock-keep-climbing-after-the-world-cup/2026-09-22?.tsrc=rss",
-          "score": 0.4404
+          "title": "Americans Stopped Drinking Wine. California Lost Legacy Vineyards.",
+          "url": "https://app.moby.co/home/news/news-americans-stopped-drinking-wine-california-lost-legacy-vineyards?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+          "score": -0.4939
         },
         {
-          "title": "Merchants call card-fee pact unconstitutional",
-          "url": "https://www.paymentsdive.com/news/merchants-call-card-fee-pact-unconstitutional/830998/?.tsrc=rss",
-          "score": -0.6908
+          "title": "3 Big Tech Stocks With the Most Upside Right Now",
+          "url": "https://247wallst.com/investing/2026/09/22/3-big-tech-stocks-with-the-most-upside-right-now/?.tsrc=rss",
+          "score": 0.3919
         },
         {
-          "title": "Visa Settled $20B in Stablecoins. Now It\u2019s Running the Blockchain.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/visa-settled-20b-stablecoins-now-105108793.html?.tsrc=rss",
+          "title": "Is NVIDIA Funding Its Own Stock Rally?",
+          "url": "https://www.trefis.com/articles/616156/is-nvidia-funding-its-own-stock-rally/2026-09-22?.tsrc=rss",
+          "score": 0.7289
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "rank": 14,
+      "prob_up": 0.4233,
+      "sentiment_norm": 0.5879,
+      "final_score": 0.4727,
+      "price": 736.59,
+      "change_pct": -0.46,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Should investors play AI bottlenecks over social media stocks?",
+          "url": "https://finance.yahoo.com/video/investors-play-ai-bottlenecks-over-173922161.html?.tsrc=rss",
+          "score": 0.4137
+        },
+        {
+          "title": "Shopify Just Gave Meta's AI Agent a Major Boost",
+          "url": "https://finance.yahoo.com/technology/ai/articles/shopify-just-gave-metas-ai-185623345.html?.tsrc=rss",
+          "score": 0.4351
+        },
+        {
+          "title": "Wall Street Reprices Meta as Muse Outpaces ChatGPT's Start",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-reprices-meta-muse-183329649.html?.tsrc=rss",
           "score": 0.0
         }
       ]
     },
     {
+      "ticker": "AMZN",
+      "rank": 15,
+      "prob_up": 0.4017,
+      "sentiment_norm": 0.6137,
+      "final_score": 0.4653,
+      "price": 254.98,
+      "change_pct": -1.61,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Shopify Just Gave Meta's AI Agent a Major Boost",
+          "url": "https://finance.yahoo.com/technology/ai/articles/shopify-just-gave-metas-ai-185623345.html?.tsrc=rss",
+          "score": 0.4351
+        },
+        {
+          "title": "Meta Platforms Just Hit an Amazon Roadblock",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-hit-amazon-180758747.html?.tsrc=rss",
+          "score": -0.2263
+        },
+        {
+          "title": "Sector Update: Tech Stocks Higher in Afternoon Trading",
+          "url": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-higher-afternoon-173912528.html?.tsrc=rss",
+          "score": 0.25
+        }
+      ]
+    },
+    {
       "ticker": "GOOGL",
-      "rank": 12,
-      "prob_up": 0.491,
-      "sentiment_norm": 0.6011,
-      "final_score": 0.5241,
-      "price": 351.58,
-      "change_pct": -1.3,
+      "rank": 16,
+      "prob_up": 0.4208,
+      "sentiment_norm": 0.5436,
+      "final_score": 0.4577,
+      "price": 351.16,
+      "change_pct": -1.41,
       "sparkline": [],
       "headlines": [
         {
@@ -315,133 +423,25 @@
           "score": 0.3818
         },
         {
-          "title": "Meta Platforms Jumps 33% in a Month: Should You Buy or Hold the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-jumps-33-month-151800580.html?.tsrc=rss",
-          "score": -0.714
+          "title": "Dell Falls 2.5% as $1,199 Googlebook Tests PC Margin",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-falls-2-5-1-192803149.html?.tsrc=rss",
+          "score": 0.2732
         },
         {
-          "title": "ScamAdviser Showcases Agentic AI Safeguards at GASA Global Anti-Scam Summit America 2026",
-          "url": "https://finance.yahoo.com/technology/ai/articles/scamadviser-showcases-agentic-ai-safeguards-170000959.html?.tsrc=rss",
-          "score": 0.4939
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "rank": 13,
-      "prob_up": 0.4917,
-      "sentiment_norm": 0.5909,
-      "final_score": 0.5215,
-      "price": 363.71,
-      "change_pct": -0.22,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Price Prediction: Marvell, AMD & Broadcom- Our Bold Price Predictions for 2027",
-          "url": "https://247wallst.com/investing/2026/09/22/price-prediction-marvell-amd-broadcom-our-bold-price-predictions-for-2027/?.tsrc=rss",
-          "score": 0.7579
-        },
-        {
-          "title": "Company News for Sep 22, 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-22-2026-134400361.html?.tsrc=rss",
+          "title": "Bill Ackman ditches a major AI stock after just one quarter",
+          "url": "https://www.thestreet.com/investing/stocks/ackman-pershing-square-exit-alphabet-meta-stake?.tsrc=rss",
           "score": 0.0
-        },
-        {
-          "title": "Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030",
-          "url": "https://www.fool.com/investing/2026/09/22/prediction-broadcom-will-be-a-usd3-trillion-company-by-the-end-of-2030/?.tsrc=rss",
-          "score": -0.4168
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 14,
-      "prob_up": 0.3679,
-      "sentiment_norm": 0.7287,
-      "final_score": 0.4762,
-      "price": 742.04,
-      "change_pct": 0.27,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Meta has 'enormous advantage' in rally sparked by new Muse AI",
-          "url": "https://finance.yahoo.com/video/meta-enormous-advantage-rally-sparked-170402510.html?.tsrc=rss",
-          "score": 0.7902
-        },
-        {
-          "title": "SPCX Stock Gains 1% \u2014 SpaceXAI's Grok AI Agent Tops 400K Users As Meta's Muse Gains Popularity",
-          "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-gains-1-space-xai-s-grok-ai-agent-tops-400-k-users-as-meta-s-muse-gains-popularity/cZMPMFdRB7T?.tsrc=rss",
-          "score": 0.9231
-        },
-        {
-          "title": "Why Shopify Stock, Twilio Are Rising On Meta's Muse Rollout",
-          "url": "https://finance.yahoo.com/m/f3b3cc09-e37e-3019-9d9e-60f625cbd9d2/why-shopify-stock%2C-twilio-are.html?.tsrc=rss",
-          "score": 0.5859
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "rank": 15,
-      "prob_up": 0.4566,
-      "sentiment_norm": 0.511,
-      "final_score": 0.4729,
-      "price": 341.42,
-      "change_pct": 0.8,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "The Magnificent 7 are back: Meta\u2019s AI bet leads the charge",
-          "url": "https://finance.yahoo.com/video/magnificent-7-back-meta-ai-140300865.html?.tsrc=rss",
-          "score": 0.9201
-        },
-        {
-          "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html?.tsrc=rss",
-          "score": 0.4019
-        },
-        {
-          "title": "Stock Market Today: Dow Skids As Trump Threatens Iran; Apple Nears Buy Point (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/0143595d-3423-3fca-8750-9ab0a98fa022/stock-market-today%3A-dow-skids.html?.tsrc=rss",
-          "score": -0.7783
-        }
-      ]
-    },
-    {
-      "ticker": "HD",
-      "rank": 16,
-      "prob_up": 0.4106,
-      "sentiment_norm": 0.5987,
-      "final_score": 0.467,
-      "price": 303.7,
-      "change_pct": 2.05,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "His Bet On Home Depot Made Ken Langone A Billionaire. Now He Sees Eli Lilly Stock Hitting $2,000",
-          "url": "https://247wallst.com/investing/2026/09/22/his-bet-on-home-depot-made-ken-langone-a-billionaire-now-he-sees-eli-lilly-stock-hitting-2000/?.tsrc=rss",
-          "score": 0.6369
-        },
-        {
-          "title": "Is Home Depot Winning Bigger Projects Through Pro Investments?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-winning-bigger-projects-134300508.html?.tsrc=rss",
-          "score": 0.9136
-        },
-        {
-          "title": "Home Depot CFO issues chilling alarm over \u2018frozen\u2019 US housing market \u2014 crucial metric plunges to historic low",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html?.tsrc=rss",
-          "score": -0.5574
         }
       ]
     },
     {
       "ticker": "XOM",
       "rank": 17,
-      "prob_up": 0.4392,
+      "prob_up": 0.4319,
       "sentiment_norm": 0.5045,
-      "final_score": 0.4588,
-      "price": 159.71,
-      "change_pct": 0.82,
+      "final_score": 0.4537,
+      "price": 158.71,
+      "change_pct": 0.19,
       "sparkline": [],
       "headlines": [
         {
@@ -464,13 +464,18 @@
     {
       "ticker": "TSLA",
       "rank": 18,
-      "prob_up": 0.366,
-      "sentiment_norm": 0.6243,
-      "final_score": 0.4435,
-      "price": 378.19,
-      "change_pct": 0.78,
+      "prob_up": 0.3623,
+      "sentiment_norm": 0.6536,
+      "final_score": 0.4497,
+      "price": 378.9,
+      "change_pct": 0.96,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
+          "url": "https://finance.yahoo.com/video/teslas-evaluation-based-pure-faith-181659153.html?.tsrc=rss",
+          "score": 0.9413
+        },
         {
           "title": "How to organize AI governance: Is it a job for the pope?",
           "url": "https://finance.yahoo.com/video/organize-ai-governance-job-pope-172335778.html?.tsrc=rss",
@@ -480,38 +485,33 @@
           "title": "As Trump and Xi meet, TD Cowen says the auto stock sell-off on Chinese car fears is 'overdone'",
           "url": "https://finance.yahoo.com/economy/policy/article/as-trump-and-xi-meet-td-cowen-says-the-auto-stock-sell-off-on-chinese-car-fears-is-overdone-164016607.html?.tsrc=rss",
           "score": -0.5168
-        },
-        {
-          "title": "Elon Musk's X adds Bitcoin trading links as crypto push expands",
-          "url": "https://www.thestreet.com/crypto/markets/elon-musks-x-adds-bitcoin-trading-links-as-crypto-push-expands?.tsrc=rss",
-          "score": 0.1027
         }
       ]
     },
     {
-      "ticker": "NVDA",
+      "ticker": "HD",
       "rank": 19,
-      "prob_up": 0.4066,
-      "sentiment_norm": 0.5078,
-      "final_score": 0.4369,
-      "price": 229.16,
-      "change_pct": 0.82,
+      "prob_up": 0.3514,
+      "sentiment_norm": 0.5383,
+      "final_score": 0.4075,
+      "price": 305.35,
+      "change_pct": 2.6,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Why Shopify Stock Rocketed Higher Today",
-          "url": "https://www.fool.com/investing/2026/09/22/why-shopify-stock-rocketed-higher-today/?.tsrc=rss",
-          "score": 0.0
+          "title": "His Bet On Home Depot Made Ken Langone A Billionaire. Now He Sees Eli Lilly Stock Hitting $2,000",
+          "url": "https://247wallst.com/investing/2026/09/22/his-bet-on-home-depot-made-ken-langone-a-billionaire-now-he-sees-eli-lilly-stock-hitting-2000/?.tsrc=rss",
+          "score": 0.6369
         },
         {
-          "title": "3 High-Yielding Dividend Stocks That Are No-Brainer Buys for Retirees and Risk-Averse Investors",
-          "url": "https://www.fool.com/investing/2026/09/22/3-high-yielding-dividend-stocks-that-are-no-brainer-buys-for-retirees-and-risk-averse-investors/?.tsrc=rss",
-          "score": 0.0
+          "title": "Is Home Depot Winning Bigger Projects Through Pro Investments?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-winning-bigger-projects-134300508.html?.tsrc=rss",
+          "score": 0.9136
         },
         {
-          "title": "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever.",
-          "url": "https://www.fool.com/investing/2026/09/22/realty-income-has-outperformed-the-s-and-p-500-in-11-of-13-stock-market-corrections-since-1994-here-s-why-i-d-hold-it-forever/?.tsrc=rss",
-          "score": 0.0
+          "title": "Home Depot CFO issues chilling alarm over \u2018frozen\u2019 US housing market \u2014 crucial metric plunges to historic low",
+          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html?.tsrc=rss",
+          "score": -0.5574
         }
       ]
     },
@@ -519,26 +519,26 @@
       "ticker": "MSFT",
       "rank": 20,
       "prob_up": 0.3455,
-      "sentiment_norm": 0.5376,
-      "final_score": 0.4031,
-      "price": 496.5,
-      "change_pct": -1.0,
+      "sentiment_norm": 0.5371,
+      "final_score": 0.403,
+      "price": 498.0,
+      "change_pct": -0.7,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Big Short Investor Issues AI Warning: \u201870% of AI Revenue Is Just Two Companies, And One of Them I Think Is in Trouble\u2019",
-          "url": "https://247wallst.com/investing/2026/09/22/big-short-investor-issues-ai-warning-70-of-ai-revenue-is-just-two-companies-and-one-of-them-i-think-is-in-trouble/?.tsrc=rss",
-          "score": -0.6808
+          "title": "Microsoft Azure, M365 Commercial Can Sustain Acceleration in Fiscal 2027 Despite Some Risks, Oppenheimer Says",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-azure-m365-commercial-sustain-185544407.html?.tsrc=rss",
+          "score": 0.2057
         },
         {
-          "title": "MSFT Layoffs: Microsoft Cuts 268 Xbox Jobs As Gaming Reset Deepens",
-          "url": "https://stocktwits.com/news-articles/markets/equity/msft-layoffs-microsoft-cuts-xbox-jobs/cZMPtYuRBeC?.tsrc=rss",
-          "score": -0.296
+          "title": "Microsoft (MSFT) Raises Its Dividend 8%. Does AI Spending Change the Investment Case?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-raises-dividend-8-183008175.html?.tsrc=rss",
+          "score": 0.8658
         },
         {
-          "title": "Microsoft Scores Positive Reviews On AI Momentum",
-          "url": "https://finance.yahoo.com/m/afb0b9bd-68e7-3d1f-9cd0-7e8a6616602b/microsoft-scores-positive.html?.tsrc=rss",
-          "score": 0.802
+          "title": "BNP Paribas Spots What Could Move Microsoft Stock Next",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-spots-could-move-180623944.html?.tsrc=rss",
+          "score": 0.4939
         }
       ]
     }
