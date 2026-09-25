@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-09-25T17:54:56Z",
-  "market_status": "open",
+  "last_updated": "2026-09-25T21:29:04Z",
+  "market_status": "closed",
   "rankings": [
     {
       "ticker": "HD",
       "rank": 1,
       "prob_up": 0.7592,
-      "sentiment_norm": 0.5572,
-      "final_score": 0.6986,
-      "price": 294.18,
-      "change_pct": 0.59,
+      "sentiment_norm": 0.5752,
+      "final_score": 0.704,
+      "price": 293.2,
+      "change_pct": 0.26,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Is Home Depot's Next Big Thing Already In Its Stores?",
+          "url": "https://www.trefis.com/articles/616649/is-home-depots-next-big-thing-already-in-its-stores/2026-09-25?.tsrc=rss",
+          "score": 0.3612
+        },
         {
           "title": "Home Depot vs. Floor & Decor: Which Stock Looks More Attractive?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-vs-floor-decor-134300014.html?.tsrc=rss",
@@ -21,49 +26,17 @@
           "title": "Home Depot (HD) Stock Could Be 7% Overvalued Following Gig Delivery Cost Questions",
           "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-stock-could-201646568.html?.tsrc=rss",
           "score": 0.6597
-        },
-        {
-          "title": "Can Home Depot's Pro Expansion Offset Today's Frozen Housing Market?",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depots-pro-expansion-offset-165800333.html?.tsrc=rss",
-          "score": -0.431
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "rank": 2,
-      "prob_up": 0.5695,
-      "sentiment_norm": 0.7734,
-      "final_score": 0.6307,
-      "price": 341.4,
-      "change_pct": 0.84,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "J.P. Morgan says $115B could flow into India's stock market as investors rush to hedge the crowded AI trade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-says-115b-150000887.html?.tsrc=rss",
-          "score": 0.7351
-        },
-        {
-          "title": "GENI Stock: JPMorgan Sees Nearly 40% Upside, Cites Prediction Markets \u2018Optionality\u2019",
-          "url": "https://stocktwits.com/news-articles/markets/equity/geni-stock-jpmorgan-8-price-target-prediction-markets/cZMO4KcRBas?.tsrc=rss",
-          "score": 0.9186
-        },
-        {
-          "title": "JPMorgan sends strong message to Meta stock investors",
-          "url": "https://www.thestreet.com/investing/stocks/jpmorgan-sends-strong-message-to-meta-stock-investors?.tsrc=rss",
-          "score": 0.5106
         }
       ]
     },
     {
       "ticker": "UNH",
-      "rank": 3,
+      "rank": 2,
       "prob_up": 0.6044,
       "sentiment_norm": 0.6612,
       "final_score": 0.6214,
-      "price": 377.33,
-      "change_pct": 0.69,
+      "price": 376.59,
+      "change_pct": 0.49,
       "sparkline": [],
       "headlines": [
         {
@@ -84,96 +57,47 @@
       ]
     },
     {
-      "ticker": "BRK-B",
-      "rank": 4,
-      "prob_up": 0.5274,
-      "sentiment_norm": 0.701,
-      "final_score": 0.5795,
-      "price": 504.83,
-      "change_pct": -0.17,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Is Berkshire Hathaway Stock a Buy, Hold, or Sell Above $500?",
-          "url": "https://247wallst.com/investing/2026/09/25/is-berkshire-hathaway-stock-a-buy-hold-or-sell-above-500/?.tsrc=rss",
-          "score": 0.6597
-        },
-        {
-          "title": "Can AI Upstart Lemonade Topple Berkshire Hathaway?",
-          "url": "https://www.fool.com/coverage/better-buy/2026/09/25/can-ai-upstart-lemonade-topple-berkshire-hathaway/?.tsrc=rss",
-          "score": 0.296
-        },
-        {
-          "title": "Berkshire Hathaway Just Bought $212 Million of This Beaten Down Stock in 3 Days, and Its Stake Has Increased 81% This Quarter",
-          "url": "https://www.fool.com/investing/2026/09/25/berkshire-just-bought-212-million-of-stock/?.tsrc=rss",
-          "score": -0.6059
-        }
-      ]
-    },
-    {
       "ticker": "LLY",
-      "rank": 5,
-      "prob_up": 0.4903,
-      "sentiment_norm": 0.7467,
-      "final_score": 0.5672,
-      "price": 1172.71,
-      "change_pct": -0.78,
+      "rank": 3,
+      "prob_up": 0.5718,
+      "sentiment_norm": 0.7028,
+      "final_score": 0.6111,
+      "price": 1183.46,
+      "change_pct": 0.13,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "How to make sense of 7% mortgage rates and Oracle's AI data center disruption",
+          "url": "https://finance.yahoo.com/video/sense-7-mortgage-rates-oracles-190311760.html?.tsrc=rss",
+          "score": -0.0258
+        },
+        {
+          "title": "Sector Update: Healthcare Stocks Edge Higher in Afternoon Trading",
+          "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-edge-higher-175730205.html?.tsrc=rss",
+          "score": 0.0
+        },
         {
           "title": "Is LLY Stock Cheaper Than It Looks?",
           "url": "https://www.trefis.com/articles/616604/is-lly-stock-cheaper-than-it-looks/2026-09-25?.tsrc=rss",
           "score": 0.296
-        },
-        {
-          "title": "Update: Nektar Wins $90 Million Jury Verdict Against Eli Lilly Over Rezpegaldesleukin Deal",
-          "url": "https://finance.yahoo.com/healthcare/articles/nektar-wins-90-million-jury-144643105.html?.tsrc=rss",
-          "score": 0.6486
-        },
-        {
-          "title": "Eli Lilly Did Breach Implied Covenant of Good Faith With Nektar Therapeutics, Jury Funds",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-did-breach-implied-144222874.html?.tsrc=rss",
-          "score": 0.936
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 6,
-      "prob_up": 0.4817,
-      "sentiment_norm": 0.7569,
-      "final_score": 0.5643,
-      "price": 922.96,
-      "change_pct": 2.77,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Musk\u2019s \u2018Zuckerberg moment,\u2019 mortgage rates, and Google\u2019s space bet",
-          "url": "https://finance.yahoo.com/video/musk-zuckerberg-moment-mortgage-rates-153258991.html?.tsrc=rss",
-          "score": 0.4588
-        },
-        {
-          "title": "Costco is getting squeezed by the AI boom",
-          "url": "https://finance.yahoo.com/markets/article/costco-is-getting-squeezed-by-the-ai-boom-133927696.html?.tsrc=rss",
-          "score": -0.1326
-        },
-        {
-          "title": "Costco tops Q4 estimates, boosted by tariff refunds",
-          "url": "https://finance.yahoo.com/video/costco-tops-q4-estimates-boosted-by-tariff-refunds-131941959.html?.tsrc=rss",
-          "score": 0.8074
         }
       ]
     },
     {
       "ticker": "V",
-      "rank": 7,
+      "rank": 4,
       "prob_up": 0.514,
-      "sentiment_norm": 0.6557,
-      "final_score": 0.5565,
-      "price": 367.43,
-      "change_pct": -0.07,
+      "sentiment_norm": 0.6859,
+      "final_score": 0.5655,
+      "price": 367.38,
+      "change_pct": -0.08,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "MVB Bank Announces Strategic Partnership With DingoBlu Financial",
+          "url": "https://finance.yahoo.com/technology/articles/mvb-bank-announces-strategic-partnership-203000471.html?.tsrc=rss",
+          "score": 0.2023
+        },
         {
           "title": "How Has Visa's Growth Story Changed?",
           "url": "https://www.trefis.com/articles/616635/how-has-visas-growth-story-changed/2026-09-25?.tsrc=rss",
@@ -183,22 +107,44 @@
           "title": "Visa Share Rises as Payment Networks Standardize AI-Agent Identity",
           "url": "https://finance.yahoo.com/technology/ai/articles/visa-share-rises-payment-networks-192129440.html?.tsrc=rss",
           "score": 0.5859
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "rank": 5,
+      "prob_up": 0.4875,
+      "sentiment_norm": 0.7285,
+      "final_score": 0.5598,
+      "price": 343.06,
+      "change_pct": 1.33,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "JPMorgan Chase (JPM) Stock Could Be Undervalued Based On Capital Returns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-stock-could-201236935.html?.tsrc=rss",
+          "score": 0.6249
         },
         {
-          "title": "Moov adds P2P competition",
-          "url": "https://www.paymentsdive.com/news/moov-adds-p2p-competition/831268/?.tsrc=rss",
-          "score": -0.3089
+          "title": "J.P. Morgan Loses Fight to Overturn $4.25 Million Award to Advisor Fired Over Super Bowl Platter",
+          "url": "https://finance.yahoo.com/m/bb72aa38-8c5c-3625-bbe4-eeb641ce1809/j.p.-morgan-loses-fight-to.html?.tsrc=rss",
+          "score": -0.5267
+        },
+        {
+          "title": "J.P. Morgan says $115B could flow into India's stock market as investors rush to hedge the crowded AI trade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-says-115b-150000887.html?.tsrc=rss",
+          "score": 0.7351
         }
       ]
     },
     {
       "ticker": "WMT",
-      "rank": 8,
+      "rank": 6,
       "prob_up": 0.507,
-      "sentiment_norm": 0.661,
-      "final_score": 0.5532,
-      "price": 107.97,
-      "change_pct": 0.48,
+      "sentiment_norm": 0.6645,
+      "final_score": 0.5542,
+      "price": 107.98,
+      "change_pct": 0.49,
       "sparkline": [],
       "headlines": [
         {
@@ -207,25 +153,52 @@
           "score": 0.4215
         },
         {
-          "title": "Walmart hit by retail theft, gift card scam",
-          "url": "https://www.thestreet.com/retail/gift-card-scam-hits-walmart-target-cvs-and-walgreens?.tsrc=rss",
-          "score": 0.2023
-        },
-        {
           "title": "ALDI makes new move to win shoppers from Walmart and Kroger",
           "url": "https://www.thestreet.com/retail/aldi-ready-made-meals-walmart-kroger-competition?.tsrc=rss",
           "score": 0.296
+        },
+        {
+          "title": "Walmart and Sam's Club Partnership Helps Strengthen Food Access Across North Texas",
+          "url": "https://finance.yahoo.com/healthcare/articles/walmart-sams-club-partnership-helps-141800372.html?.tsrc=rss",
+          "score": 0.7579
+        }
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "rank": 7,
+      "prob_up": 0.5307,
+      "sentiment_norm": 0.5807,
+      "final_score": 0.5457,
+      "price": 505.48,
+      "change_pct": -0.04,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Warren Buffett turned a 'death march' into $1 trillion Berkshire Hathaway; at 96, he is handing the chairman's seat to his son",
+          "url": "https://www.thestreet.com/investing/warren-buffett-berkshire-chairman-emeritus-howard-succession?.tsrc=rss",
+          "score": -0.5994
+        },
+        {
+          "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman After Warning U.S. Dollar Is \u2018Going to Hell\u2019",
+          "url": "https://firstformoney.com/warren-buffett-steps-down-as-berkshire-hathaway-chairman-after-warning-u-s-dollar-is-going-to-hell/?.tsrc=rss",
+          "score": -0.5719
+        },
+        {
+          "title": "Is Berkshire Hathaway Stock a Buy, Hold, or Sell Above $500?",
+          "url": "https://247wallst.com/investing/2026/09/25/is-berkshire-hathaway-stock-a-buy-hold-or-sell-above-500/?.tsrc=rss",
+          "score": 0.6597
         }
       ]
     },
     {
       "ticker": "AVGO",
-      "rank": 9,
+      "rank": 8,
       "prob_up": 0.4336,
-      "sentiment_norm": 0.7827,
-      "final_score": 0.5383,
-      "price": 352.89,
-      "change_pct": 0.82,
+      "sentiment_norm": 0.7778,
+      "final_score": 0.5369,
+      "price": 352.81,
+      "change_pct": 0.79,
       "sparkline": [],
       "headlines": [
         {
@@ -246,40 +219,40 @@
       ]
     },
     {
-      "ticker": "JNJ",
-      "rank": 10,
-      "prob_up": 0.4791,
-      "sentiment_norm": 0.6223,
-      "final_score": 0.5221,
-      "price": 269.9,
-      "change_pct": -0.22,
+      "ticker": "COST",
+      "rank": 9,
+      "prob_up": 0.4817,
+      "sentiment_norm": 0.6463,
+      "final_score": 0.5311,
+      "price": 922.77,
+      "change_pct": 2.74,
       "sparkline": [],
       "headlines": [
         {
-          "title": "ABBV vs. JNJ: One of These Dividend Aristocrats Will Crush the Other Over the Next Decade",
-          "url": "https://247wallst.com/investing/2026/09/25/abbv-vs-jnj-one-of-these-dividend-aristocrats-will-crush-the-other-over-the-next-decade/?.tsrc=rss",
-          "score": -0.0772
+          "title": "How Costco is keeping shoppers coming back as K-shaped economy widens",
+          "url": "https://finance.yahoo.com/video/costco-keeping-shoppers-coming-back-201100532.html?.tsrc=rss",
+          "score": 0.7845
         },
         {
-          "title": "The 1 Number That Decides Whether a Dividend Lasts Your Whole Retirement",
-          "url": "https://247wallst.com/investing/2026/09/25/the-1-number-that-decides-whether-a-dividend-lasts-your-whole-retirement/?.tsrc=rss",
-          "score": 0.1805
+          "title": "Musk\u2019s \u2018Zuckerberg moment,\u2019 mortgage rates, and Google\u2019s space bet",
+          "url": "https://finance.yahoo.com/video/musk-zuckerberg-moment-mortgage-rates-153258991.html?.tsrc=rss",
+          "score": 0.4588
         },
         {
-          "title": "Johnson & Johnson says Tremfya eases spinal pain in Phase 4 psoriatic arthritis study",
-          "url": "https://www.proactiveinvestors.com/companies/news/1099148/johnson-johnson-says-tremfya-eases-spinal-pain-in-phase-4-psoriatic-arthritis-study-1099148.html?.tsrc=rss",
-          "score": 0.5106
+          "title": "Sector Update: Consumer Stocks Advance Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-afternoon-193943724.html?.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 11,
-      "prob_up": 0.4534,
+      "rank": 10,
+      "prob_up": 0.4635,
       "sentiment_norm": 0.6703,
-      "final_score": 0.5184,
-      "price": 146.11,
-      "change_pct": 0.14,
+      "final_score": 0.5256,
+      "price": 146.23,
+      "change_pct": 0.23,
       "sparkline": [],
       "headlines": [
         {
@@ -300,13 +273,40 @@
       ]
     },
     {
+      "ticker": "JNJ",
+      "rank": 11,
+      "prob_up": 0.48,
+      "sentiment_norm": 0.6223,
+      "final_score": 0.5227,
+      "price": 271.22,
+      "change_pct": 0.27,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "ABBV vs. JNJ: One of These Dividend Aristocrats Will Crush the Other Over the Next Decade",
+          "url": "https://247wallst.com/investing/2026/09/25/abbv-vs-jnj-one-of-these-dividend-aristocrats-will-crush-the-other-over-the-next-decade/?.tsrc=rss",
+          "score": -0.0772
+        },
+        {
+          "title": "The 1 Number That Decides Whether a Dividend Lasts Your Whole Retirement",
+          "url": "https://247wallst.com/investing/2026/09/25/the-1-number-that-decides-whether-a-dividend-lasts-your-whole-retirement/?.tsrc=rss",
+          "score": 0.1805
+        },
+        {
+          "title": "Johnson & Johnson says Tremfya eases spinal pain in Phase 4 psoriatic arthritis study",
+          "url": "https://www.proactiveinvestors.com/companies/news/1099148/johnson-johnson-says-tremfya-eases-spinal-pain-in-phase-4-psoriatic-arthritis-study-1099148.html?.tsrc=rss",
+          "score": 0.5106
+        }
+      ]
+    },
+    {
       "ticker": "MA",
       "rank": 12,
       "prob_up": 0.4718,
-      "sentiment_norm": 0.619,
-      "final_score": 0.516,
-      "price": 567.55,
-      "change_pct": 0.26,
+      "sentiment_norm": 0.6143,
+      "final_score": 0.5146,
+      "price": 567.65,
+      "change_pct": 0.28,
       "sparkline": [],
       "headlines": [
         {
@@ -327,13 +327,40 @@
       ]
     },
     {
-      "ticker": "AMZN",
+      "ticker": "NVDA",
       "rank": 13,
+      "prob_up": 0.389,
+      "sentiment_norm": 0.7726,
+      "final_score": 0.5041,
+      "price": 225.07,
+      "change_pct": 0.56,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
+          "url": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html?.tsrc=rss",
+          "score": 0.9686
+        },
+        {
+          "title": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://finance.yahoo.com/m/77968dfd-ed12-3ec3-9346-140e927860cc/microsoft%2C-meta%2C-akamai%2C.html?.tsrc=rss",
+          "score": 0.7501
+        },
+        {
+          "title": "Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026",
+          "url": "https://www.fool.com/investing/2026/09/25/meet-the-magnificent-semiconductor-stock-crushing/?.tsrc=rss",
+          "score": 0.6361
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "rank": 14,
       "prob_up": 0.4323,
-      "sentiment_norm": 0.6404,
-      "final_score": 0.4947,
-      "price": 249.9,
-      "change_pct": 0.4,
+      "sentiment_norm": 0.644,
+      "final_score": 0.4958,
+      "price": 249.67,
+      "change_pct": 0.31,
       "sparkline": [],
       "headlines": [
         {
@@ -342,81 +369,86 @@
           "score": 0.25
         },
         {
+          "title": "Amazon Stocks Move Lower as Anthropic Commits $11.6 Billion Elsewhere",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-move-lower-anthropic-181534479.html?.tsrc=rss",
+          "score": 0.5423
+        },
+        {
           "title": "Should SpaceX Investors Be Worried About Competition From Amazon?",
           "url": "https://www.fool.com/investing/2026/09/25/should-spacex-investors-be-worried-about-competition-from-amazon/?.tsrc=rss",
           "score": -0.4404
-        },
-        {
-          "title": "Amazon Wouldn\u2019t Be Doing What It\u2019s Doing if AI Capex Was Going to Fail",
-          "url": "https://247wallst.com/investing/2026/09/25/amazon-wouldnt-be-doing-what-its-doing-if-ai-capex-was-going-to-fail/?.tsrc=rss",
-          "score": -0.5209
         }
       ]
     },
     {
       "ticker": "AAPL",
-      "rank": 14,
-      "prob_up": 0.4742,
-      "sentiment_norm": 0.4943,
-      "final_score": 0.4803,
-      "price": 339.86,
-      "change_pct": 1.18,
+      "rank": 15,
+      "prob_up": 0.4544,
+      "sentiment_norm": 0.5442,
+      "final_score": 0.4813,
+      "price": 341.07,
+      "change_pct": 1.54,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
-          "url": "https://247wallst.com/investing/2026/09/25/qualcomm-rallies-6-as-buyers-reverse-apple-renewal-selloff-apple-stock-ticks-up/?.tsrc=rss",
-          "score": -0.4497
+          "title": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
+          "url": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html?.tsrc=rss",
+          "score": 0.9686
         },
         {
-          "title": "Apple Stock Gains as Macs Attack the Token Meter",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-gains-macs-attack-165956709.html?.tsrc=rss",
-          "score": -0.4215
-        },
-        {
-          "title": "Apple Stock Outlook: Our Target Leaves Wall Street Behind",
-          "url": "https://247wallst.com/investing/2026/09/25/apple-price-prediction-our-target-sits-above-wall-streets/?.tsrc=rss",
+          "title": "Deer Park Town Center Trades For $125M, Suburban Retail Buying Spree Rolls On",
+          "url": "https://www.bisnow.com/news/chicago/retail/deer-park-town-center-trades-for-125m-in-yet-another-suburban-chicago-retail-deal?.tsrc=rss",
           "score": 0.0
+        },
+        {
+          "title": "Apple Just Gained 10% in a Month. What Will It Take for AAPL Stock to Finally Hit $350?",
+          "url": "https://247wallst.com/investing/2026/09/25/apple-just-gained-10-in-a-month-what-will-it-take-for-aapl-stock-to-finally-hit-350/?.tsrc=rss",
+          "score": 0.594
         }
       ]
     },
     {
       "ticker": "META",
-      "rank": 15,
+      "rank": 16,
       "prob_up": 0.4156,
-      "sentiment_norm": 0.5914,
-      "final_score": 0.4683,
-      "price": 750.0,
-      "change_pct": -3.35,
+      "sentiment_norm": 0.6275,
+      "final_score": 0.4792,
+      "price": 751.66,
+      "change_pct": -3.14,
       "sparkline": [],
       "headlines": [
         {
-          "title": "This Meta stock stat doesn't make sense after the Muse mic drop",
-          "url": "https://finance.yahoo.com/technology/article/this-meta-stock-stat-doesnt-make-sense-after-the-muse-mic-drop-160000647.html?.tsrc=rss",
-          "score": -0.2732
+          "title": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://finance.yahoo.com/m/77968dfd-ed12-3ec3-9346-140e927860cc/microsoft%2C-meta%2C-akamai%2C.html?.tsrc=rss",
+          "score": 0.7501
         },
         {
-          "title": "Meta Drops 2.8% as Muse Escapes the Smartphone",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-drops-2-8-muse-164656555.html?.tsrc=rss",
-          "score": 0.128
+          "title": "Market Chatter: Meta Platforms Loses New Mexico Jury Trial Over Cambridge Analytica Data Scandal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-loses-201559546.html?.tsrc=rss",
+          "score": -0.7579
         },
         {
-          "title": "Twilio Stock Drops After HSBC Delivers Stark Warning on Meta's Muse AI",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-stock-drops-hsbc-delivers-162526748.html?.tsrc=rss",
-          "score": -0.5574
+          "title": "How Meta\u2019s Muse Saved the Market\u2014While Savaging These Stocks",
+          "url": "https://finance.yahoo.com/m/895d7a4d-fcea-3113-bc24-edcffda5358b/how-meta%E2%80%99s-muse-saved-the.html?.tsrc=rss",
+          "score": 0.4215
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "rank": 16,
+      "rank": 17,
       "prob_up": 0.3568,
-      "sentiment_norm": 0.6659,
-      "final_score": 0.4495,
-      "price": 516.81,
-      "change_pct": 4.24,
+      "sentiment_norm": 0.6953,
+      "final_score": 0.4584,
+      "price": 516.17,
+      "change_pct": 4.11,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "What's different about Microsoft's Copilot AI reboot",
+          "url": "https://finance.yahoo.com/video/whats-different-microsofts-copilot-ai-195423063.html?.tsrc=rss",
+          "score": 0.128
+        },
         {
           "title": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
           "url": "https://finance.yahoo.com/markets/stocks/article/microsoft-ceo-we-have-to-earn-that-permission-to-build-data-centers-from-communities-172505836.html?.tsrc=rss",
@@ -426,24 +458,51 @@
           "title": "Microsoft CEO Satya Nadella on AI: 'Trust is going to be the biggest issue for us'",
           "url": "https://finance.yahoo.com/technology/article/microsoft-ceo-satya-nadella-on-ai-trust-is-going-to-be-the-biggest-issue-for-us-163733897.html?.tsrc=rss",
           "score": 0.765
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "rank": 18,
+      "prob_up": 0.3548,
+      "sentiment_norm": 0.6765,
+      "final_score": 0.4513,
+      "price": 343.92,
+      "change_pct": 0.74,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Quantum Selloff: Should Investors Consider These 3 Hyperscalers?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-selloff-investors-consider-3-180000449.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella",
-          "url": "https://finance.yahoo.com/video/the-830-trump-xi-summit-takeaways-an-interview-with-microsoft-ceo-satya-nadella-150434766.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Alphabet vs. Apple: Which Consumer AI Tech Stock Has an Edge Now?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-vs-apple-consumer-ai-170200892.html?.tsrc=rss",
+          "score": 0.7096
+        },
+        {
+          "title": "Weekly Wrap: The Crypto Rally Continues",
+          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-the-crypto-rally-continues-7146?.tsrc=rss",
+          "score": 0.5267
         }
       ]
     },
     {
       "ticker": "XOM",
-      "rank": 17,
+      "rank": 19,
       "prob_up": 0.4392,
-      "sentiment_norm": 0.4644,
-      "final_score": 0.4467,
-      "price": 160.2,
-      "change_pct": -1.2,
+      "sentiment_norm": 0.4397,
+      "final_score": 0.4393,
+      "price": 160.59,
+      "change_pct": -0.96,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "What Happens To ExxonMobil Stock If Refining Profits Fade?",
+          "url": "https://www.trefis.com/articles/616653/what-happens-to-exxonmobil-stock-if-refining-profits-fade/2026-09-25?.tsrc=rss",
+          "score": -0.4939
+        },
         {
           "title": "Vietnam\u2019s BSR inks crude oil supply agreement with ExxonMobil",
           "url": "https://www.offshore-technology.com/news/bsr-crude-supply-agreement-exxonmobil/?.tsrc=rss",
@@ -453,92 +512,33 @@
           "title": "Shale Tycoon Claims Exxon CEO \u2018Betrayed\u2019 Him in $60 Billion Deal",
           "url": "https://finance.yahoo.com/energy/articles/shale-tycoon-claims-exxon-ceo-124336695.html?.tsrc=rss",
           "score": -0.6442
-        },
-        {
-          "title": "If Hormuz Stays Shut, How High Can Exxon Go?",
-          "url": "https://247wallst.com/investing/2026/09/23/if-hormuz-stays-shut-how-high-can-exxon-go/?.tsrc=rss",
-          "score": -0.6908
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "rank": 18,
-      "prob_up": 0.3548,
-      "sentiment_norm": 0.6294,
-      "final_score": 0.4372,
-      "price": 343.96,
-      "change_pct": 0.76,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Serve Robotics Targets a $450B Market: How Big Is Its Growth Runway?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-targets-450b-market-150200683.html?.tsrc=rss",
-          "score": 0.8074
-        },
-        {
-          "title": "Dell Stock Jumps 3.5% as Gemini Enters the XPS Franchise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-jumps-3-5-175202479.html?.tsrc=rss",
-          "score": 0.128
-        },
-        {
-          "title": "Why this early Uber investor would short OpenAI",
-          "url": "https://finance.yahoo.com/markets/stocks/article/why-this-early-uber-investor-would-short-openai-173506483.html?.tsrc=rss",
-          "score": 0.3182
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "rank": 19,
-      "prob_up": 0.374,
-      "sentiment_norm": 0.5307,
-      "final_score": 0.421,
-      "price": 224.7,
-      "change_pct": 0.39,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Where Will Nvidia Be in 5 Years?",
-          "url": "https://www.fool.com/investing/2026/09/25/where-will-nvidia-be-in-5-years/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Micron Q1 2026 earnings: Nvidia chip launch benefit may be delayed",
-          "url": "https://qz.com/micron-nvidia-chip-launch-november-quarter-092526?.tsrc=rss",
-          "score": 0.7615
-        },
-        {
-          "title": "Nvidia Stock Moves Lower as Einride Scales Physical AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-moves-lower-einride-170112548.html?.tsrc=rss",
-          "score": -0.1531
         }
       ]
     },
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.2897,
-      "sentiment_norm": 0.6366,
-      "final_score": 0.3938,
-      "price": 373.33,
-      "change_pct": -1.31,
+      "prob_up": 0.3178,
+      "sentiment_norm": 0.6616,
+      "final_score": 0.4209,
+      "price": 372.11,
+      "change_pct": -1.63,
       "sparkline": [],
       "headlines": [
+        {
+          "title": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
+          "url": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html?.tsrc=rss",
+          "score": 0.9686
+        },
         {
           "title": "Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets",
           "url": "https://finance.yahoo.com/markets/stocks/article/tesla-semi-diesels-surge-gives-the-electric-truck-an-opening-as-high-prices-improve-the-math-for-fleets-161104233.html?.tsrc=rss",
           "score": 0.4404
         },
         {
-          "title": "Musk\u2019s \u2018Zuckerberg moment,\u2019 mortgage rates, and Google\u2019s space bet",
-          "url": "https://finance.yahoo.com/video/musk-zuckerberg-moment-mortgage-rates-153258991.html?.tsrc=rss",
-          "score": 0.4588
-        },
-        {
-          "title": "Why Elon Musk could be the next tech leader to have a 'Mark Zuckerberg moment'",
-          "url": "https://finance.yahoo.com/video/why-elon-musk-could-next-150606664.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Stock Market Today, Sept. 25: Tesla Stock Under Pressure Despite Plans to Ramp Semi Truck Production",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/09/25/stock-market-today-sept-25-tesla-stock-under-pressure-despite-plans-to-ramp-semi-truck-production/?.tsrc=rss",
+          "score": -0.4019
         }
       ]
     }
