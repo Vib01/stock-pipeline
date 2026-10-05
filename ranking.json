@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T20:53:10Z",
+  "last_updated": "2026-10-05T21:10:14Z",
   "market_status": "closed",
   "rankings": [
     {
@@ -87,16 +87,16 @@
       "ticker": "V",
       "rank": 4,
       "prob_up": 0.5255,
-      "sentiment_norm": 0.7062,
-      "final_score": 0.5797,
+      "sentiment_norm": 0.7166,
+      "final_score": 0.5828,
       "price": 369.71,
       "change_pct": 2.47,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Up As Taiwan Semi Clears Buy Point; These Brazil Plays Offer Entries (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-          "score": 0.3182
+          "title": "Stock Market Today: Dow Gains, Nasdaq Hits New High; Shopify, Brazil Plays Offer Entries",
+          "url": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow.html?.tsrc=rss",
+          "score": 0.5267
         },
         {
           "title": "Visa is Betting on Stablecoins and AI: Why Should Investors Care?",
@@ -249,8 +249,8 @@
       "ticker": "AMZN",
       "rank": 10,
       "prob_up": 0.472,
-      "sentiment_norm": 0.6835,
-      "final_score": 0.5354,
+      "sentiment_norm": 0.6573,
+      "final_score": 0.5276,
       "price": 251.4,
       "change_pct": 0.01,
       "sparkline": [],
@@ -266,9 +266,9 @@
           "score": 0.6808
         },
         {
-          "title": "1 Stat That Makes Amazon Hard to Ignore Right Now",
-          "url": "https://www.fool.com/investing/2026/10/05/1-stat-that-makes-amazon-hard-to-ignore-right-now/?.tsrc=rss",
-          "score": -0.0276
+          "title": "Amazon\u2019s answer to data center backlash: $1 billion for community college and home energy upgrades",
+          "url": "https://finance.yahoo.com/technology/articles/amazon-answer-data-center-backlash-174616376.html?.tsrc=rss",
+          "score": 0.1779
         }
       ]
     },
@@ -381,35 +381,8 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "rank": 15,
-      "prob_up": 0.3568,
-      "sentiment_norm": 0.7054,
-      "final_score": 0.4614,
-      "price": 525.18,
-      "change_pct": 1.54,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Microsoft Seen As 'Adults In Charge' Of AI. Stock Upgraded To Buy.",
-          "url": "https://finance.yahoo.com/m/cbf2462a-5fbc-3bfa-8c74-ebeb9560d5c4/microsoft-seen-as-%27adults-in.html?.tsrc=rss",
-          "score": 0.7096
-        },
-        {
-          "title": "Microsoft Nears $4 Trillion as AI Safety Fears Become a Selling Point",
-          "url": "https://finance.yahoo.com/m/ff4a9680-d1cb-30b3-8e76-84c7de6ef6e0/microsoft-nears-%244-trillion.html?.tsrc=rss",
-          "score": 0.5423
-        },
-        {
-          "title": "Meta and Microsoft scale back internal use of Anthropic\u2019s Claude, report says",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-microsoft-scale-back-internal-185842649.html?.tsrc=rss",
-          "score": 0.6597
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
-      "rank": 16,
+      "rank": 15,
       "prob_up": 0.439,
       "sentiment_norm": 0.5057,
       "final_score": 0.459,
@@ -431,6 +404,33 @@
           "title": "49% Gains Haven\u2019t Stopped Wall Street From Calling Energy Stocks \u2018Behind\u2019",
           "url": "https://247wallst.com/investing/2026/10/05/49-gains-havent-stopped-wall-street-from-calling-energy-stocks-behind/?.tsrc=rss",
           "score": 0.0285
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "rank": 16,
+      "prob_up": 0.3568,
+      "sentiment_norm": 0.6895,
+      "final_score": 0.4566,
+      "price": 525.18,
+      "change_pct": 1.54,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "What Anthropic and Microsoft are saying about 'AI consciousness'",
+          "url": "https://finance.yahoo.com/video/anthropic-microsoft-saying-ai-consciousness-205547406.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Microsoft Seen As 'Adults In Charge' Of AI. Stock Upgraded To Buy.",
+          "url": "https://finance.yahoo.com/m/cbf2462a-5fbc-3bfa-8c74-ebeb9560d5c4/microsoft-seen-as-%27adults-in.html?.tsrc=rss",
+          "score": 0.7096
+        },
+        {
+          "title": "Microsoft Nears $4 Trillion as AI Safety Fears Become a Selling Point",
+          "url": "https://finance.yahoo.com/m/ff4a9680-d1cb-30b3-8e76-84c7de6ef6e0/microsoft-nears-%244-trillion.html?.tsrc=rss",
+          "score": 0.5423
         }
       ]
     },
@@ -462,8 +462,35 @@
       ]
     },
     {
-      "ticker": "NVDA",
+      "ticker": "META",
       "rank": 18,
+      "prob_up": 0.3679,
+      "sentiment_norm": 0.6142,
+      "final_score": 0.4418,
+      "price": 741.9,
+      "change_pct": 1.98,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Jim Cramer Believes META Muse Will \u201cHave Much More Market Share Than OpenAI\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-meta-muse-202506581.html?.tsrc=rss",
+          "score": 0.0932
+        },
+        {
+          "title": "The Simple Reason Meta and Google Will Win AI: Only \u201c2% of US Households\u201d Pay for It.",
+          "url": "https://www.tikr.com/blog/the-simple-reason-meta-and-google-will-win-ai-only-2-of-us-households-pay-for-it?ref=yahoofinance&.tsrc=rss",
+          "score": 0.4588
+        },
+        {
+          "title": "\u201cZuck Is the Winner\u201d of the White House AI Accord, and Meta\u2019s Open-Source Risk Just Shrank",
+          "url": "https://www.tikr.com/blog/zuck-is-the-winner-of-the-white-house-ai-accord-and-metas-open-source-risk-just-shrank?ref=yahoofinance&.tsrc=rss",
+          "score": 0.0258
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "rank": 19,
       "prob_up": 0.3908,
       "sentiment_norm": 0.5154,
       "final_score": 0.4282,
@@ -485,33 +512,6 @@
           "title": "Nasdaq Jumps 1% to New Record. Rising Rates Can't Derail Tech's Win Streak.",
           "url": "https://finance.yahoo.com/m/864b06dd-56c8-3961-91a4-77e34602721c/nasdaq-jumps-1%25-to-new.html?.tsrc=rss",
           "score": 0.1321
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "rank": 19,
-      "prob_up": 0.3679,
-      "sentiment_norm": 0.5538,
-      "final_score": 0.4237,
-      "price": 741.9,
-      "change_pct": 1.98,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Jim Cramer Believes META Muse Will \u201cHave Much More Market Share Than OpenAI\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-meta-muse-202506581.html?.tsrc=rss",
-          "score": 0.0932
-        },
-        {
-          "title": "The Simple Reason Meta and Google Will Win AI: Only \u201c2% of US Households\u201d Pay for It.",
-          "url": "https://www.tikr.com/blog/the-simple-reason-meta-and-google-will-win-ai-only-2-of-us-households-pay-for-it?ref=yahoofinance&.tsrc=rss",
-          "score": 0.4588
-        },
-        {
-          "title": "\u201cZuck Is the Winner\u201d of the White House AI Accord, and Meta\u2019s Open-Source Risk Just Shrank",
-          "url": "https://www.tikr.com/blog/zuck-is-the-winner-of-the-white-house-ai-accord-and-metas-open-source-risk-just-shrank?ref=yahoofinance&.tsrc=rss",
-          "score": 0.0258
         }
       ]
     },
