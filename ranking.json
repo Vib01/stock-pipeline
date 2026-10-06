@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-10-06T18:53:23Z",
-  "market_status": "open",
+  "last_updated": "2026-10-06T22:59:03Z",
+  "market_status": "closed",
   "rankings": [
     {
       "ticker": "HD",
       "rank": 1,
-      "prob_up": 0.8317,
-      "sentiment_norm": 0.5652,
-      "final_score": 0.7518,
-      "price": 285.25,
-      "change_pct": 1.25,
+      "prob_up": 0.8206,
+      "sentiment_norm": 0.6255,
+      "final_score": 0.762,
+      "price": 286.69,
+      "change_pct": 1.76,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Higher rates are pummeling consumer discretionary stocks \u2014 here's the damage: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/higher-rates-are-pummeling-consumer-discretionary-stocks--heres-the-damage-chart-of-the-day-161008955.html?.tsrc=rss",
-          "score": -0.4939
+          "title": "Jim Cramer Sees Little Relief for Home Depot (HD) Until Rates Fall",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sees-little-relief-214604529.html?.tsrc=rss",
+          "score": 0.8692
         },
         {
-          "title": "Is Home Depot Still a Defensive Play in a Weak Housing Cycle?",
-          "url": "https://finance.yahoo.com/real-estate/articles/home-depot-still-defensive-play-141700122.html?.tsrc=rss",
-          "score": 0.8179
+          "title": "Home Depot (HD) Beats Stock Market Upswing: What Investors Need to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-beats-stock-204505766.html?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "Home Depot Stock is Trading Below its Historical Valuation. Should You Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-stock-trading-below-230107455.html?.tsrc=rss",
-          "score": 0.7703
+          "title": "Why Is Everyone Ignoring Home Depot Stock's High Cash Yield?",
+          "url": "https://www.trefis.com/articles/617691/why-is-everyone-ignoring-home-depot-stocks-high-cash-yield/2026-10-06?.tsrc=rss",
+          "score": 0.1531
         }
       ]
     },
     {
       "ticker": "UNH",
       "rank": 2,
-      "prob_up": 0.6044,
+      "prob_up": 0.6136,
       "sentiment_norm": 0.7175,
-      "final_score": 0.6383,
-      "price": 376.7,
-      "change_pct": -0.34,
+      "final_score": 0.6448,
+      "price": 376.32,
+      "change_pct": -0.44,
       "sparkline": [],
       "headlines": [
         {
@@ -59,11 +59,11 @@
     {
       "ticker": "MA",
       "rank": 3,
-      "prob_up": 0.5722,
+      "prob_up": 0.5712,
       "sentiment_norm": 0.7229,
-      "final_score": 0.6174,
-      "price": 565.22,
-      "change_pct": -0.06,
+      "final_score": 0.6167,
+      "price": 566.58,
+      "change_pct": 0.18,
       "sparkline": [],
       "headlines": [
         {
@@ -86,11 +86,11 @@
     {
       "ticker": "V",
       "rank": 4,
-      "prob_up": 0.5255,
+      "prob_up": 0.5156,
       "sentiment_norm": 0.7271,
-      "final_score": 0.586,
-      "price": 369.65,
-      "change_pct": 0.16,
+      "final_score": 0.579,
+      "price": 370.64,
+      "change_pct": 0.43,
       "sparkline": [],
       "headlines": [
         {
@@ -111,94 +111,40 @@
       ]
     },
     {
-      "ticker": "AAPL",
+      "ticker": "AVGO",
       "rank": 5,
-      "prob_up": 0.5177,
-      "sentiment_norm": 0.7015,
-      "final_score": 0.5728,
-      "price": 333.24,
-      "change_pct": 0.12,
+      "prob_up": 0.5001,
+      "sentiment_norm": 0.714,
+      "final_score": 0.5642,
+      "price": 375.81,
+      "change_pct": 3.53,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Nvidia, Apple, and Microsoft are keeping the stock market afloat",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-apple-and-microsoft-are-keeping-the-stock-market-afloat-140845362.html?.tsrc=rss",
+          "title": "Markets climb as a handful of tech stocks power the rally",
+          "url": "https://finance.yahoo.com/video/markets-climb-handful-tech-stocks-201800223.html?.tsrc=rss",
+          "score": 0.296
+        },
+        {
+          "title": "Marvell stock surges after company raises 2028 revenue outlook to $20 billion",
+          "url": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-after-company-raises-2028-revenue-outlook-to-20-billion-155038471.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Scott Galloway: \u201cApple Wins by Showing Up Late\u201d in AI, and Its New Home Hub Is the Test",
-          "url": "https://www.tikr.com/blog/scott-galloway-apple-wins-by-showing-up-late-in-ai-and-its-new-home-hub-is-the-test?ref=yahoofinance&.tsrc=rss",
-          "score": 0.872
-        },
-        {
-          "title": "Apple's Market Value Grew From $350 Billion to $4.75 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Betting on Apple's Next Chapter Under John Ternus.",
-          "url": "https://www.fool.com/investing/2026/10/06/apples-market-value-grew-from-350-billion-to-475-t/?.tsrc=rss",
-          "score": 0.7096
-        }
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "rank": 6,
-      "prob_up": 0.4657,
-      "sentiment_norm": 0.7928,
-      "final_score": 0.5638,
-      "price": 107.25,
-      "change_pct": 2.09,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Which Retailers Do AI Agents Cite the Most? Yeah, you guessed it, Walmart and Costco.",
-          "url": "https://finance.yahoo.com/m/52a030b2-e081-33e3-8656-e0e62c0a19ca/which-retailers-do-ai-agents.html?.tsrc=rss",
-          "score": 0.5494
-        },
-        {
-          "title": "Walmart defends pricing practices, again",
-          "url": "https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/?.tsrc=rss",
-          "score": 0.0
-        },
-        {
-          "title": "Walmart Connect Expands Audiences, CTV Measurement",
-          "url": "https://www.mediapost.com/publications/article/418530/walmart-connect-expands-audiences-ctv-measurement.html?.tsrc=rss",
-          "score": 0.6597
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "rank": 7,
-      "prob_up": 0.4889,
-      "sentiment_norm": 0.7173,
-      "final_score": 0.5575,
-      "price": 934.64,
-      "change_pct": 1.35,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Which Retailers Do AI Agents Cite the Most? Yeah, you guessed it, Walmart and Costco.",
-          "url": "https://finance.yahoo.com/m/52a030b2-e081-33e3-8656-e0e62c0a19ca/which-retailers-do-ai-agents.html?.tsrc=rss",
-          "score": 0.5494
-        },
-        {
-          "title": "Costco's Cash Pile Keeps Building. Could a Special Dividend Come in the Final 3 Months of the Year?",
-          "url": "https://www.fool.com/investing/2026/10/06/costcos-cash-pile-keeps-building-could-a-special-d/?.tsrc=rss",
-          "score": 0.4215
-        },
-        {
-          "title": "Should You Invest $1,000 in Costco Stock in October?",
-          "url": "https://www.fool.com/investing/2026/10/06/should-you-invest-1000-in-costco-stock-in-october/?.tsrc=rss",
-          "score": 0.1531
+          "title": "Top 3 Cash Flow Stocks To Watch In October 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-cash-flow-stocks-170921778.html?.tsrc=rss",
+          "score": 0.8074
         }
       ]
     },
     {
       "ticker": "JNJ",
-      "rank": 8,
-      "prob_up": 0.4763,
+      "rank": 6,
+      "prob_up": 0.4888,
       "sentiment_norm": 0.7373,
-      "final_score": 0.5546,
-      "price": 255.28,
-      "change_pct": 0.88,
+      "final_score": 0.5633,
+      "price": 254.78,
+      "change_pct": 0.68,
       "sparkline": [],
       "headlines": [
         {
@@ -219,40 +165,148 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "rank": 9,
-      "prob_up": 0.4802,
-      "sentiment_norm": 0.6767,
-      "final_score": 0.5392,
-      "price": 378.5,
-      "change_pct": 4.27,
+      "ticker": "WMT",
+      "rank": 7,
+      "prob_up": 0.4657,
+      "sentiment_norm": 0.7748,
+      "final_score": 0.5584,
+      "price": 107.2,
+      "change_pct": 2.05,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Marvell stock surges after company raises 2028 revenue outlook to $20 billion",
-          "url": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-after-company-raises-2028-revenue-outlook-to-20-billion-155038471.html?.tsrc=rss",
+          "title": "Walmart (WMT) Exceeds Market Returns: Some Facts to Consider",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-exceeds-market-returns-204503829.html?.tsrc=rss",
           "score": 0.0
         },
         {
-          "title": "Top 3 Cash Flow Stocks To Watch In October 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-cash-flow-stocks-170921778.html?.tsrc=rss",
-          "score": 0.8074
+          "title": "Which Retailers Do AI Agents Cite the Most? Yeah, you guessed it, Walmart and Costco.",
+          "url": "https://finance.yahoo.com/m/52a030b2-e081-33e3-8656-e0e62c0a19ca/which-retailers-do-ai-agents.html?.tsrc=rss",
+          "score": 0.5494
         },
         {
-          "title": "Here\u2019s Why I\u2019m Buying Broadcom Even As Concerns About Circular Financing With Anthropic Mount",
-          "url": "https://247wallst.com/investing/2026/10/06/heres-why-im-buying-broadcom-even-as-concerns-about-circular-financing-with-anthropic-mount/?.tsrc=rss",
-          "score": 0.1181
+          "title": "Walmart defends pricing practices, again",
+          "url": "https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/?.tsrc=rss",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "rank": 8,
+      "prob_up": 0.4881,
+      "sentiment_norm": 0.7184,
+      "final_score": 0.5572,
+      "price": 333.63,
+      "change_pct": 0.23,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
+          "url": "https://247wallst.com/investing/etf/2026/10/06/xlk-does-not-own-alphabet-amazon-meta-netflix-or-tesla-three-stocks-are-35-87-of-it/?.tsrc=rss",
+          "score": 0.338
+        },
+        {
+          "title": "Scott Galloway: \u201cApple Wins by Showing Up Late\u201d in AI, and Its New Home Hub Is the Test",
+          "url": "https://www.tikr.com/blog/scott-galloway-apple-wins-by-showing-up-late-in-ai-and-its-new-home-hub-is-the-test?ref=yahoofinance&.tsrc=rss",
+          "score": 0.872
+        },
+        {
+          "title": "Apple's Market Value Grew From $350 Billion to $4.75 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Betting on Apple's Next Chapter Under John Ternus.",
+          "url": "https://www.fool.com/investing/2026/10/06/apples-market-value-grew-from-350-billion-to-475-t/?.tsrc=rss",
+          "score": 0.7096
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "rank": 9,
+      "prob_up": 0.4968,
+      "sentiment_norm": 0.6039,
+      "final_score": 0.529,
+      "price": 1157.49,
+      "change_pct": 0.93,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Eli Lilly (LLY) Outpaces Stock Market Gains: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-outpaces-stock-204502425.html?.tsrc=rss",
+          "score": 0.34
+        },
+        {
+          "title": "Prediction: LLY Has Another Massive Growth Opportunity Beyond Weight Loss",
+          "url": "https://247wallst.com/investing/2026/10/06/prediction-lly-has-another-massive-growth-opportunity-beyond-weight-loss/?.tsrc=rss",
+          "score": 0.5423
+        },
+        {
+          "title": "General Medicine Raises $120 Million to Build the Healthcare Store",
+          "url": "https://finance.yahoo.com/healthcare/articles/general-medicine-raises-120-million-152000785.html?.tsrc=rss",
+          "score": 0.3612
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "rank": 10,
+      "prob_up": 0.4482,
+      "sentiment_norm": 0.7173,
+      "final_score": 0.5289,
+      "price": 935.68,
+      "change_pct": 1.46,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Which Retailers Do AI Agents Cite the Most? Yeah, you guessed it, Walmart and Costco.",
+          "url": "https://finance.yahoo.com/m/52a030b2-e081-33e3-8656-e0e62c0a19ca/which-retailers-do-ai-agents.html?.tsrc=rss",
+          "score": 0.5494
+        },
+        {
+          "title": "Costco's Cash Pile Keeps Building. Could a Special Dividend Come in the Final 3 Months of the Year?",
+          "url": "https://www.fool.com/investing/2026/10/06/costcos-cash-pile-keeps-building-could-a-special-d/?.tsrc=rss",
+          "score": 0.4215
+        },
+        {
+          "title": "Should You Invest $1,000 in Costco Stock in October?",
+          "url": "https://www.fool.com/investing/2026/10/06/should-you-invest-1000-in-costco-stock-in-october/?.tsrc=rss",
+          "score": 0.1531
+        }
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "rank": 11,
+      "prob_up": 0.5307,
+      "sentiment_norm": 0.5137,
+      "final_score": 0.5256,
+      "price": 505.54,
+      "change_pct": 0.22,
+      "sparkline": [],
+      "headlines": [
+        {
+          "title": "Berkshire ups Lennar stake amid homebuilder rout",
+          "url": "https://finance.yahoo.com/video/berkshire-ups-lennar-stake-amid-135342775.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Berkshire Buys More Lennar Stock As Mortgage Rates Rise",
+          "url": "https://finance.yahoo.com/m/101a530b-8c64-375a-8df8-e3a93ec46b56/berkshire-buys-more-lennar.html?.tsrc=rss",
+          "score": 0.0
+        },
+        {
+          "title": "Berkshire Bought $193 Million More Lennar. Abel Doesn\u2019t \u201cEnvision a Quick Recovery\u201d",
+          "url": "https://247wallst.com/investing/2026/10/06/berkshire-bought-193-million-more-lennar-abel-doesnt-envision-a-quick-recovery/?.tsrc=rss",
+          "score": 0.4767
         }
       ]
     },
     {
       "ticker": "PG",
-      "rank": 10,
-      "prob_up": 0.5225,
-      "sentiment_norm": 0.5251,
-      "final_score": 0.5233,
-      "price": 148.79,
-      "change_pct": 1.97,
+      "rank": 12,
+      "prob_up": 0.5153,
+      "sentiment_norm": 0.491,
+      "final_score": 0.508,
+      "price": 148.41,
+      "change_pct": 1.71,
       "sparkline": [],
       "headlines": [
         {
@@ -273,94 +327,40 @@
       ]
     },
     {
-      "ticker": "LLY",
-      "rank": 11,
-      "prob_up": 0.507,
-      "sentiment_norm": 0.551,
-      "final_score": 0.5202,
-      "price": 1158.99,
-      "change_pct": 1.06,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "Prediction: LLY Has Another Massive Growth Opportunity Beyond Weight Loss",
-          "url": "https://247wallst.com/investing/2026/10/06/prediction-lly-has-another-massive-growth-opportunity-beyond-weight-loss/?.tsrc=rss",
-          "score": 0.5423
-        },
-        {
-          "title": "General Medicine Raises $120 Million to Build the Healthcare Store",
-          "url": "https://finance.yahoo.com/healthcare/articles/general-medicine-raises-120-million-152000785.html?.tsrc=rss",
-          "score": 0.3612
-        },
-        {
-          "title": "Eli Lilly and vs. Novo Nordisk A/S: Which Healthcare Stock Is a Better Buy in 2026?",
-          "url": "https://www.fool.com/coverage/better-buy/2026/10/06/eli-lilly-and-vs-novo-nordisk-as-which-healthcare-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-          "score": 0.2382
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "rank": 12,
-      "prob_up": 0.4495,
-      "sentiment_norm": 0.6466,
-      "final_score": 0.5087,
-      "price": 331.46,
-      "change_pct": -0.58,
-      "sparkline": [],
-      "headlines": [
-        {
-          "title": "JPMorgan CEO Jamie Dimon sharpens warning about a corporate credit squeeze: 'The market will ask for more'",
-          "url": "https://finance.yahoo.com/markets/article/jpmorgan-ceo-jamie-dimon-sharpens-warning-about-a-corporate-credit-squeeze-the-market-will-ask-for-more-151359247.html?.tsrc=rss",
-          "score": -0.5106
-        },
-        {
-          "title": "JPMorgan tops Evident AI banking index for fifth straight year",
-          "url": "https://qz.com/jpmorgan-evident-ai-banking-index-fifth-year-100626?.tsrc=rss",
-          "score": 0.6908
-        },
-        {
-          "title": "JPMorgan Stock Is Up Just 3% This Year as Its Multiple Shrank. Here\u2019s What Doug Petno\u2019s Q3 Guidance Says About the Gap",
-          "url": "https://www.tikr.com/blog/jpmorgan-stock-is-up-just-3-this-year-as-its-multiple-shrank-heres-what-doug-petnos-q3-guidance-says-about-the-gap?ref=yahoofinance&.tsrc=rss",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "ticker": "BRK-B",
+      "ticker": "AMZN",
       "rank": 13,
-      "prob_up": 0.501,
-      "sentiment_norm": 0.5067,
-      "final_score": 0.5027,
-      "price": 506.66,
-      "change_pct": 0.45,
+      "prob_up": 0.4503,
+      "sentiment_norm": 0.6376,
+      "final_score": 0.5065,
+      "price": 256.29,
+      "change_pct": 1.72,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Berkshire ups Lennar stake amid homebuilder rout",
-          "url": "https://finance.yahoo.com/video/berkshire-ups-lennar-stake-amid-135342775.html?.tsrc=rss",
-          "score": 0.0
+          "title": "\u2018$1 or $2 a day\u2019: How broke Stallone was before \u2018Rocky\u2019",
+          "url": "https://www.thestreet.com/entertainment/amazon-mgm-aquisition-sylvester-stallone-rocky?.tsrc=rss",
+          "score": -0.128
         },
         {
-          "title": "Berkshire Bought $193 Million More Lennar. Abel Doesn\u2019t \u201cEnvision a Quick Recovery\u201d",
-          "url": "https://247wallst.com/investing/2026/10/06/berkshire-bought-193-million-more-lennar-abel-doesnt-envision-a-quick-recovery/?.tsrc=rss",
-          "score": 0.4767
+          "title": "Amazon (AMZN) Surpasses Market Returns: Some Facts Worth Knowing",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-surpasses-market-returns-204504946.html?.tsrc=rss",
+          "score": 0.5106
         },
         {
-          "title": "Berkshire Buys More Lennar Stock As Mortgage Rates Rise",
-          "url": "https://finance.yahoo.com/m/101a530b-8c64-375a-8df8-e3a93ec46b56/berkshire-buys-more-lennar.html?.tsrc=rss",
-          "score": 0.0
+          "title": "Pinterest swipes Amazon exec for CFO",
+          "url": "https://www.cfodive.com/news/pinterest-swipes-amazon-exec-cfo/832313/?.tsrc=rss",
+          "score": 0.1779
         }
       ]
     },
     {
       "ticker": "XOM",
       "rank": 14,
-      "prob_up": 0.4375,
-      "sentiment_norm": 0.6364,
-      "final_score": 0.4972,
-      "price": 165.36,
-      "change_pct": 0.82,
+      "prob_up": 0.439,
+      "sentiment_norm": 0.6351,
+      "final_score": 0.4979,
+      "price": 164.48,
+      "change_pct": 0.29,
       "sparkline": [],
       "headlines": [
         {
@@ -381,29 +381,29 @@
       ]
     },
     {
-      "ticker": "AMZN",
+      "ticker": "JPM",
       "rank": 15,
-      "prob_up": 0.4399,
-      "sentiment_norm": 0.6199,
-      "final_score": 0.4939,
-      "price": 255.97,
-      "change_pct": 1.59,
+      "prob_up": 0.4495,
+      "sentiment_norm": 0.579,
+      "final_score": 0.4884,
+      "price": 331.28,
+      "change_pct": -0.64,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Rises But Seagate Dives On This; Zebra, AI Stock Clear Entries (Live Coverage)",
-          "url": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-          "score": 0.5267
+          "title": "JPMorgan CEO Jamie Dimon sharpens warning about a corporate credit squeeze: 'The market will ask for more'",
+          "url": "https://finance.yahoo.com/markets/article/jpmorgan-ceo-jamie-dimon-sharpens-warning-about-a-corporate-credit-squeeze-the-market-will-ask-for-more-151359247.html?.tsrc=rss",
+          "score": -0.5106
         },
         {
-          "title": "3 of the Best Growth Stocks to Buy in October 2026",
-          "url": "https://www.fool.com/investing/2026/10/06/3-of-the-best-growth-stocks-to-buy-in-october-2026/?.tsrc=rss",
-          "score": 0.6605
+          "title": "Jamie Dimon Warns AI Cyber Risks Are \u2018Real\u2019 As JPMorgan Banks Anthropic And The AI Boom",
+          "url": "https://www.benzinga.com/markets/private-markets/26/10/62204786/jamie-dimon-anthropic-mythos-cyber-risk-ai-boom?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+          "score": -0.3818
         },
         {
-          "title": "Amazon at $250: $1 billion \u201cBuilt Together\u201d Data Center Push Is Already Backfiring",
-          "url": "https://247wallst.com/investing/2026/10/06/amazon-at-250-1-billion-built-together-data-center-push-is-already-backfiring/?.tsrc=rss",
-          "score": -0.5267
+          "title": "JPMorgan reveals stocks worth buying in October 2026",
+          "url": "https://www.thestreet.com/investing/jpmorgan-overweight-stocks-american-express-axp-thermo-fisher-tmo-liberty-energy-lbrt?.tsrc=rss",
+          "score": 0.2263
         }
       ]
     },
@@ -411,10 +411,10 @@
       "ticker": "MSFT",
       "rank": 16,
       "prob_up": 0.3568,
-      "sentiment_norm": 0.747,
-      "final_score": 0.4739,
-      "price": 530.53,
-      "change_pct": 0.98,
+      "sentiment_norm": 0.7718,
+      "final_score": 0.4813,
+      "price": 529.3,
+      "change_pct": 0.74,
       "sparkline": [],
       "headlines": [
         {
@@ -423,14 +423,14 @@
           "score": 0.0
         },
         {
-          "title": "Jim Cramer: Microsoft\u2019s \u201cMonster\u201d Data Center Play Is Starting to Pay Off",
-          "url": "https://www.tikr.com/blog/jim-cramer-microsofts-monster-data-center-play-is-starting-to-pay-off?ref=yahoofinance&.tsrc=rss",
-          "score": 0.7003
+          "title": "Google Joins Microsoft, Amazon, and Meta on Constellation\u2019s Energy Roster",
+          "url": "https://app.moby.co/home/news/news-google-joins-microsoft-amazon-meta-on-constellations-energy-roster?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+          "score": 0.6124
         },
         {
-          "title": "Not Microsoft. Not Google. Analysts Call This $2.7 Trillion Tech Titan the Most Undervalued AI Play.",
-          "url": "https://www.fool.com/investing/2026/10/06/not-microsoft-not-google-the-2-trillion-tech-titan/?.tsrc=rss",
-          "score": 0.8
+          "title": "A $1,000 Bet on Microsoft a Decade Ago Crushed the Market by Over 3x",
+          "url": "https://247wallst.com/investing/2026/10/06/a-1000-bet-on-microsoft-a-decade-ago-crushed-the-market-by-over-3x/?.tsrc=rss",
+          "score": 0.5927
         }
       ]
     },
@@ -438,26 +438,26 @@
       "ticker": "META",
       "rank": 17,
       "prob_up": 0.3679,
-      "sentiment_norm": 0.7204,
-      "final_score": 0.4737,
-      "price": 742.66,
-      "change_pct": 0.01,
+      "sentiment_norm": 0.709,
+      "final_score": 0.4703,
+      "price": 738.88,
+      "change_pct": -0.49,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Why I Don't Think Meta's AI Strategy Will Be Successful",
-          "url": "https://www.fool.com/investing/2026/10/06/why-i-don-t-think-meta-s-ai-strategy-will-be-successful/?.tsrc=rss",
-          "score": -0.2598
+          "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
+          "url": "https://247wallst.com/investing/etf/2026/10/06/xlk-does-not-own-alphabet-amazon-meta-netflix-or-tesla-three-stocks-are-35-87-of-it/?.tsrc=rss",
+          "score": 0.338
         },
         {
-          "title": "AMD Stock Hit a Fresh High. Meta\u2019s Muse Is a Win for the Chipmaker, Says Citi",
-          "url": "https://www.investopedia.com/market-update-amd-stock-hit-a-fresh-high-meta-muse-ai-agent-is-a-win-for-the-chipmaker-says-citi-12161248?.tsrc=rss",
-          "score": 0.936
+          "title": "Mark Cuban says Facebook knowingly runs AI deepfake scam ads as Meta docs reveal $16 billion in fraud-linked revenue",
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html?.tsrc=rss",
+          "score": -0.5719
         },
         {
-          "title": "Ofcom investigates Meta amid High Court showdown",
-          "url": "https://uk.finance.yahoo.com/news/ofcom-investigates-meta-amid-high-161046533.html?.tsrc=rss",
-          "score": 0.5574
+          "title": "MN ETF Seeks to Give Investors Access to OpenAI and Anthropic",
+          "url": "https://finance.yahoo.com/technology/ai/articles/mn-etf-seeks-investors-access-204000081.html?.tsrc=rss",
+          "score": 0.6597
         }
       ]
     },
@@ -465,64 +465,64 @@
       "ticker": "NVDA",
       "rank": 18,
       "prob_up": 0.3908,
-      "sentiment_norm": 0.5514,
-      "final_score": 0.439,
-      "price": 240.56,
-      "change_pct": 0.15,
+      "sentiment_norm": 0.5876,
+      "final_score": 0.4498,
+      "price": 239.24,
+      "change_pct": -0.4,
       "sparkline": [],
       "headlines": [
         {
-          "title": "Digger Digs the Ellisons into Another Hole",
-          "url": "https://app.moby.co/home/news/news-digger-digs-the-ellisons-into-another-hole?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-          "score": -0.34
+          "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
+          "url": "https://247wallst.com/investing/etf/2026/10/06/xlk-does-not-own-alphabet-amazon-meta-netflix-or-tesla-three-stocks-are-35-87-of-it/?.tsrc=rss",
+          "score": 0.338
         },
         {
-          "title": "The World\u2019s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow.",
-          "url": "https://finance.yahoo.com/m/6bc60917-b03e-3b32-867f-280f61f427c5/the-world%E2%80%99s-largest-stock-has.html?.tsrc=rss",
-          "score": 0.3612
+          "title": "Nvidia stock flashes massive signal as Wall Street leans in",
+          "url": "https://www.thestreet.com/investing/stocks/nvidia-6-trillion-options-bets?.tsrc=rss",
+          "score": 0.0
         },
         {
-          "title": "3 of the Best Growth Stocks to Buy in October 2026",
-          "url": "https://www.fool.com/investing/2026/10/06/3-of-the-best-growth-stocks-to-buy-in-october-2026/?.tsrc=rss",
-          "score": 0.6605
+          "title": "Lamb Weston Holdings, Inc. Q1 2027 Earnings Call Summary",
+          "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-lamb-weston-holdings-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+          "score": 0.0
         }
       ]
     },
     {
       "ticker": "GOOGL",
       "rank": 19,
-      "prob_up": 0.3009,
-      "sentiment_norm": 0.6773,
-      "final_score": 0.4138,
-      "price": 348.35,
-      "change_pct": 0.66,
+      "prob_up": 0.2989,
+      "sentiment_norm": 0.7556,
+      "final_score": 0.436,
+      "price": 347.68,
+      "change_pct": 0.47,
       "sparkline": [],
       "headlines": [
         {
-          "title": "CEG, VST, TLN Jump: Google\u2019s Power Deal Sparks A Nuclear Rally",
-          "url": "https://stocktwits.com/news-articles/markets/equity/ceg-vst-tln-jump-google-s-power-deal-sparks-a-nuclear-rally/cZDtQh2RBlL?.tsrc=rss",
-          "score": 0.2732
+          "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
+          "url": "https://247wallst.com/investing/etf/2026/10/06/xlk-does-not-own-alphabet-amazon-meta-netflix-or-tesla-three-stocks-are-35-87-of-it/?.tsrc=rss",
+          "score": 0.338
         },
         {
-          "title": "Only Four Trillion-Dollar Stocks Are Beating the S&P 500. What\u2019s Next for the Megacaps?",
-          "url": "https://finance.yahoo.com/m/7003431f-36c8-336f-bf14-80d032b6a728/only-four-trillion-dollar.html?.tsrc=rss",
-          "score": -0.4404
+          "title": "The Overlooked Winner From Google\u2019s Free AI Video Move: Micron",
+          "url": "https://finance.yahoo.com/technology/ai/articles/overlooked-winner-google-free-ai-220805290.html?.tsrc=rss",
+          "score": 0.7845
         },
         {
-          "title": "Google\u2019s $4.3 Billion Bet on Nuclear Comes Just Days After Amazon\u2019s",
-          "url": "https://www.tikr.com/blog/googles-4-3-billion-bet-on-nuclear-comes-just-days-after-amazons?ref=yahoofinance&.tsrc=rss",
-          "score": 0.6597
+          "title": "Cipher Mining Sees AI Demand Holding Strong as Power Scarcity Drives Data Center Leases",
+          "url": "https://www.marketbeat.com/instant-alerts/event-cipher-mining-sees-ai-demand-holding-strong-as-power-scarcity-drives-data-center-leases-2026-10-06/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+          "score": 0.0516
         }
       ]
     },
     {
       "ticker": "TSLA",
       "rank": 20,
-      "prob_up": 0.2601,
-      "sentiment_norm": 0.6142,
-      "final_score": 0.3663,
-      "price": 379.97,
-      "change_pct": 0.06,
+      "prob_up": 0.2322,
+      "sentiment_norm": 0.6072,
+      "final_score": 0.3447,
+      "price": 380.68,
+      "change_pct": 0.24,
       "sparkline": [],
       "headlines": [
         {
